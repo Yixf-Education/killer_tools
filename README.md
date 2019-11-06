@@ -17,4 +17,5 @@
 * [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
+* [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 
