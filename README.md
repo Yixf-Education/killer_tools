@@ -20,4 +20,5 @@
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
 * [patchwork](https://github.com/thomasp85/patchwork): The Composer of ggplots
+* [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
 
