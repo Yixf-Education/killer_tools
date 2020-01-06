@@ -21,4 +21,5 @@
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
 * [patchwork](https://github.com/thomasp85/patchwork): The Composer of ggplots
 * [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
+* [export](https://cran.r-project.org/web/packages/export/index.html): Streamlined Export of Graphs and Data Tables
 
