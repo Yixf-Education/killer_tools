@@ -13,9 +13,9 @@
 * [esquisse](https://cran.r-project.org/web/packages/esquisse/index.html): Explore and Visualize Your Data Interactively
 * [export](https://cran.r-project.org/web/packages/export/index.html): Streamlined Export of Graphs and Data Tables
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
-
 * [ggalluvial](https://cran.r-project.org/web/packages/ggalluvial/index.html): Alluvial Plots in 'ggplot2'
 * [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html): Visualization tools for genomic data
+* [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
 * [ggpol](https://cran.r-project.org/web/packages/ggpol/index.html): Visualizing Social Science Data with 'ggplot2'
@@ -39,4 +39,5 @@
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
+* [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 
