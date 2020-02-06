@@ -9,6 +9,7 @@
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
+* [easyPubMed](https://cran.r-project.org/web/packages/easyPubMed/index.html): Search and Retrieve Scientific Publication Records from PubMed
 * [enrichplot](https://bioconductor.org/packages/release/bioc/html/enrichplot.html): Visualization of Functional Enrichment Result
 * [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html): Publication-ready volcano plots with enhanced colouring and labeling
 * [esquisse](https://cran.r-project.org/web/packages/esquisse/index.html): Explore and Visualize Your Data Interactively
