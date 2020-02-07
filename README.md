@@ -32,6 +32,7 @@
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
 * [latex2exp](https://cran.r-project.org/web/packages/latex2exp/index.html): Use LaTeX Expressions in Plots
+* [magick](https://cran.r-project.org/web/packages/magick/index.html): Advanced Graphics and Image-Processing in R
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
