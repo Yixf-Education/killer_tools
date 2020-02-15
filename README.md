@@ -2,6 +2,7 @@
 
 ## R
 
+* [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [circlize](https://github.com/jokergoo/circlize): circular visualization in R
 * [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html): statistical analysis and visualization of functional profiles for genes and gene clusters
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
@@ -33,14 +34,17 @@
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
 * [latex2exp](https://cran.r-project.org/web/packages/latex2exp/index.html): Use LaTeX Expressions in Plots
 * [magick](https://cran.r-project.org/web/packages/magick/index.html): Advanced Graphics and Image-Processing in R
+* [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
+* [rvest](https://cran.r-project.org/web/packages/rvest/index.html): Easily Harvest (Scrape) Web Pages
 * [sankeywheel](https://cran.r-project.org/web/packages/sankeywheel/index.html): Create Dependency Wheels and Sankey Diagrams
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
+* [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
