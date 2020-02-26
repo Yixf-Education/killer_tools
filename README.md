@@ -20,6 +20,7 @@
 * [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html): Visualization tools for genomic data
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
+* [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html)
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
 * [ggplotify](https://cran.r-project.org/web/packages/ggplotify/index.html): Convert Plot to 'grob' or 'ggplot' Object
 * [ggpol](https://cran.r-project.org/web/packages/ggpol/index.html): Visualizing Social Science Data with 'ggplot2'
