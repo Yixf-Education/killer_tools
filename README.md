@@ -16,6 +16,9 @@
 * [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html): Publication-ready volcano plots with enhanced colouring and labeling
 * [esquisse](https://cran.r-project.org/web/packages/esquisse/index.html): Explore and Visualize Your Data Interactively
 * [export](https://cran.r-project.org/web/packages/export/index.html): Streamlined Export of Graphs and Data Tables
+* [ExPosition](https://cran.r-project.org/web/packages/ExPosition/index.html): Exploratory Analysis with the Singular Value Decomposition
+* [factoextra](https://cran.r-project.org/web/packages/factoextra/index.html): Extract and Visualize the Results of Multivariate Data Analyses
+* [FactoMineR](https://cran.r-project.org/web/packages/FactoMineR/index.html): Multivariate Exploratory Data Analysis and Data Mining
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
 * [ggalluvial](https://cran.r-project.org/web/packages/ggalluvial/index.html): Alluvial Plots in 'ggplot2'
@@ -47,6 +50,7 @@
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
+* [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
 * [rvest](https://cran.r-project.org/web/packages/rvest/index.html): Easily Harvest (Scrape) Web Pages
 * [sankeywheel](https://cran.r-project.org/web/packages/sankeywheel/index.html): Create Dependency Wheels and Sankey Diagrams
