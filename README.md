@@ -62,3 +62,8 @@
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 
+
+
+## Tools
+
+* [GraPhlAn](https://bitbucket.org/nsegata/graphlan/wiki/Home): a software tool for producing high-quality circular representations of taxonomic and phylogenetic trees
