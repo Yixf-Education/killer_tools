@@ -4,6 +4,7 @@
 
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [bbplot](https://github.com/bbc/bbplot): R package that helps create and export ggplot2 charts in the style used by the BBC News data team
+* [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
 * [circlize](https://github.com/jokergoo/circlize): circular visualization in R
 * [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html): statistical analysis and visualization of functional profiles for genes and gene clusters
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
@@ -47,7 +48,9 @@
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
+* [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
+* [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html): Breiman and Cutler's Random Forests for Classification and Regression
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
 * [rhub](https://github.com/r-hub/rhub): a multi-platform build and check service for R packages
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
