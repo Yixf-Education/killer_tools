@@ -24,6 +24,7 @@
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
 * [ggalluvial](https://cran.r-project.org/web/packages/ggalluvial/index.html): Alluvial Plots in 'ggplot2'
 * [ggalt](https://cran.r-project.org/web/packages/ggalt/index.html): Extra Coordinate Systems, 'Geoms', Statistical Transformations, Scales and Fonts for 'ggplot2'
+* [gganatogram](https://github.com/jespermaag/gganatogram): Create anatogram images for different organisms using ggplot2
 * [gganimate](https://cran.r-project.org/web/packages/gganimate/index.html): A Grammar of Animated Graphics
 * [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html): Visualization tools for genomic data
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
