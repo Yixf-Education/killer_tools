@@ -40,6 +40,7 @@
 * [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html): 'ggplot2' Based Plots with Statistical Details
 * [ggtree](https://www.bioconductor.org/packages/release/bioc/html/ggtree.html): an R package for visualization of tree and annotation data
 * [ggThemeAssist](https://cran.r-project.org/web/packages/ggThemeAssist/index.html): Add-in to Customize 'ggplot2' Themes
+* [ggthemes](https://cran.r-project.org/web/packages/ggthemes/index.html): Extra Themes, Scales and Geoms for 'ggplot2'
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
