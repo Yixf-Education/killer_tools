@@ -10,6 +10,7 @@
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
+* [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
 * [easyPubMed](https://cran.r-project.org/web/packages/easyPubMed/index.html): Search and Retrieve Scientific Publication Records from PubMed
@@ -30,6 +31,7 @@
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html): Draw Gene Arrow Maps in 'ggplot2'
+* [ggimage](https://cran.r-project.org/web/packages/ggimage/index.html): Use Image in 'ggplot2'
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
 * [ggplot.multistats](https://cran.r-project.org/web/packages/ggplot.multistats/index.html): Multiple Summary Statistics for Binned Stats/Geometries
 * [ggplotify](https://cran.r-project.org/web/packages/ggplotify/index.html): Convert Plot to 'grob' or 'ggplot' Object
@@ -54,6 +56,8 @@
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
 * [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html): Breiman and Cutler's Random Forests for Classification and Regression
+* [rayshader](https://cran.r-project.org/web/packages/rayshader/index.html): Create Maps and Visualize Data in 2D and 3D
+* [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
 * [rhub](https://github.com/r-hub/rhub): a multi-platform build and check service for R packages
 * [rio](https://cran.r-project.org/web/packages/rio/index.html): A Swiss-Army Knife for Data I/O
