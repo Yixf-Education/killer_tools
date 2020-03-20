@@ -46,6 +46,7 @@
 * [ggthemes](https://cran.r-project.org/web/packages/ggthemes/index.html): Extra Themes, Scales and Geoms for 'ggplot2'
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
+* [GOplot](http://wencke.github.io/): Visualization of Functional Analysis Data
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
@@ -81,5 +82,6 @@
 
 ## Tools
 
+* [bioawk](https://github.com/lh3/bioawk): BWK awk modified for biological data
 * [GraPhlAn](https://bitbucket.org/nsegata/graphlan/wiki/Home): a software tool for producing high-quality circular representations of taxonomic and phylogenetic trees
 * [IQ-TREE](http://www.iqtree.org/): Efficient software for phylogenomic inference
