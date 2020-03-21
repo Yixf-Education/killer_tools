@@ -78,6 +78,9 @@
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 
+## TeX
+* [texshade](https://ctan.org/pkg/texshade): Package for setting nucleotide and peptide alignments
+
 
 
 ## Tools
@@ -85,3 +88,4 @@
 * [bioawk](https://github.com/lh3/bioawk): BWK awk modified for biological data
 * [GraPhlAn](https://bitbucket.org/nsegata/graphlan/wiki/Home): a software tool for producing high-quality circular representations of taxonomic and phylogenetic trees
 * [IQ-TREE](http://www.iqtree.org/): Efficient software for phylogenomic inference
+* [Recharts](http://recharts.org/en-US/): A composable charting library built on React components
