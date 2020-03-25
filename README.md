@@ -90,3 +90,4 @@
 * [GraPhlAn](https://bitbucket.org/nsegata/graphlan/wiki/Home): a software tool for producing high-quality circular representations of taxonomic and phylogenetic trees
 * [IQ-TREE](http://www.iqtree.org/): Efficient software for phylogenomic inference
 * [Recharts](http://recharts.org/en-US/): A composable charting library built on React components
+* [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks): Standalone program and library to plot beautiful genome browser tracks
