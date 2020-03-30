@@ -4,6 +4,8 @@
 
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [bbplot](https://github.com/bbc/bbplot): R package that helps create and export ggplot2 charts in the style used by the BBC News data team
+* [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html): Create Blogs and Websites with R Markdown
+* [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
 * [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
 * [circlize](https://github.com/jokergoo/circlize): circular visualization in R
 * [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html): statistical analysis and visualization of functional profiles for genes and gene clusters
@@ -21,6 +23,7 @@
 * [ExPosition](https://cran.r-project.org/web/packages/ExPosition/index.html): Exploratory Analysis with the Singular Value Decomposition
 * [factoextra](https://cran.r-project.org/web/packages/factoextra/index.html): Extract and Visualize the Results of Multivariate Data Analyses
 * [FactoMineR](https://cran.r-project.org/web/packages/FactoMineR/index.html): Multivariate Exploratory Data Analysis and Data Mining
+* [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
 * [ggalluvial](https://cran.r-project.org/web/packages/ggalluvial/index.html): Alluvial Plots in 'ggplot2'
@@ -56,7 +59,9 @@
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
+* [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
+* [qvalue](http://www.bioconductor.org/packages/release/bioc/html/qvalue.html): Q-value estimation for false discovery rate control
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
 * [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html): Breiman and Cutler's Random Forests for Classification and Regression
 * [rayshader](https://cran.r-project.org/web/packages/rayshader/index.html): Create Maps and Visualize Data in 2D and 3D
@@ -70,6 +75,7 @@
 * [rvest](https://cran.r-project.org/web/packages/rvest/index.html): Easily Harvest (Scrape) Web Pages
 * [sankeywheel](https://cran.r-project.org/web/packages/sankeywheel/index.html): Create Dependency Wheels and Sankey Diagrams
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
+* [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
@@ -78,6 +84,7 @@
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
+* [xaringan](https://cran.r-project.org/web/packages/xaringan/index.html): Presentation Ninja
 
 ## TeX
 * [texshade](https://ctan.org/pkg/texshade): Package for setting nucleotide and peptide alignments
