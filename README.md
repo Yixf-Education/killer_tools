@@ -26,6 +26,8 @@
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
+* [gdata](https://cran.r-project.org/web/packages/gdata/index.html): Various R Programming Tools for Data Manipulation
+* [GetoptLong](https://cran.r-project.org/web/packages/GetoptLong/index.html): Parsing Command-Line Arguments and Variable Interpolation
 * [ggalluvial](https://cran.r-project.org/web/packages/ggalluvial/index.html): Alluvial Plots in 'ggplot2'
 * [ggalt](https://cran.r-project.org/web/packages/ggalt/index.html): Extra Coordinate Systems, 'Geoms', Statistical Transformations, Scales and Fonts for 'ggplot2'
 * [gganatogram](https://github.com/jespermaag/gganatogram): Create anatogram images for different organisms using ggplot2
@@ -34,6 +36,7 @@
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html): Draw Gene Arrow Maps in 'ggplot2'
+* [gghalves](https://cran.r-project.org/web/packages/gghalves/index.html): Compose Half-Half Plots Using Your Favourite Geoms
 * [ggimage](https://cran.r-project.org/web/packages/ggimage/index.html): Use Image in 'ggplot2'
 * [ggmsa](https://cran.r-project.org/web/packages/ggmsa/index.html): Plot Multiple Sequence Alignment using 'ggplot2'
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
@@ -60,6 +63,7 @@
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
+* [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
 * [qvalue](http://www.bioconductor.org/packages/release/bioc/html/qvalue.html): Q-value estimation for false discovery rate control
