@@ -106,3 +106,9 @@
 * [IQ-TREE](http://www.iqtree.org/): Efficient software for phylogenomic inference
 * [Recharts](http://recharts.org/en-US/): A composable charting library built on React components
 * [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks): Standalone program and library to plot beautiful genome browser tracks
+
+
+## scRNA
+* [scater](https://bioconductor.org/packages/release/bioc/html/scater.html): Single-Cell Analysis Toolkit for Gene Expression Data in R
+* [Seurat](https://cran.r-project.org/web/packages/Seurat/index.html): Tools for Single Cell Genomics
+* [monocle](https://www.bioconductor.org/packages/release/bioc/html/monocle.html): Clustering, differential expression, and trajectory analysis for single- cell RNA-Seq
