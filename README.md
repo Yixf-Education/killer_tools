@@ -11,12 +11,14 @@
 * [circlize](https://github.com/jokergoo/circlize): circular visualization in R
 * [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html): statistical analysis and visualization of functional profiles for genes and gene clusters
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
+* [colorfindr](https://github.com/zumbov2/colorfindr): Extracts colors from various image types, plots treemaps and 3D scatterplots of color compositions, create color palettes
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
 * [easyPubMed](https://cran.r-project.org/web/packages/easyPubMed/index.html): Search and Retrieve Scientific Publication Records from PubMed
+* [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html): Image processing and analysis toolbox for R
 * [enrichplot](https://bioconductor.org/packages/release/bioc/html/enrichplot.html): Visualization of Functional Enrichment Result
 * [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html): Publication-ready volcano plots with enhanced colouring and labeling
 * [esquisse](https://cran.r-project.org/web/packages/esquisse/index.html): Explore and Visualize Your Data Interactively
