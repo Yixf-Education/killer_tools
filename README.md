@@ -64,6 +64,7 @@
 * [latex2exp](https://cran.r-project.org/web/packages/latex2exp/index.html): Use LaTeX Expressions in Plots
 * [magick](https://cran.r-project.org/web/packages/magick/index.html): Advanced Graphics and Image-Processing in R
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
+* [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
