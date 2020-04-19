@@ -120,3 +120,26 @@
 * [scater](https://bioconductor.org/packages/release/bioc/html/scater.html): Single-Cell Analysis Toolkit for Gene Expression Data in R
 * [Seurat](https://cran.r-project.org/web/packages/Seurat/index.html): Tools for Single Cell Genomics
 * [monocle](https://www.bioconductor.org/packages/release/bioc/html/monocle.html): Clustering, differential expression, and trajectory analysis for single- cell RNA-Seq
+
+## [Cancer/Survival-related, 生存分析在线工具 2020 年 4 月吐血整理！](https://mp.weixin.qq.com/s?__biz=Mzg4NjA5Mzg2Mw==&mid=2247488689&idx=2&sn=92818d38ffba4f97fd295dcf51f05857&chksm=cf9fb5f9f8e83cefc35b6a980c125fe8be1b5860f66211594cb27d7419be02f5adcb95588c56&mpshare=1&scene=1&srcid=&sharer_sharetime=1587258755943&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=7024fc3958d21a49f38d5962a504384cb7aa02cfec7d99b587fbbaad39d6f014de6891e0d0d0a1c51311259cc5116c5fda4311d0c4a8bf171a88b52cae8649f6495594a0becdfce753717e6f209ed145&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=Af7QoGlOZcxdXwTntJ6mQfA%3D&pass_ticket=egSQZf3ZmjmNSBYxFfxeMhxks6Fcdfesee2EK45qb6wqbW1FRDSL1ND6vhbrpF2H)
+* [Kaplan Meier-plotter](http://kmplot.com/analysis/index.php)
+* [PROGgene](http://genomics.jefferson.edu/proggene/)
+* [SurvExpress](http://bioinformatica.mty.itesm.mx:8080/Biomatec/SurvivaX.jsp)
+* [KM-express](http://ec2-52-201-246-161.compute-1.amazonaws.com/kmexpress/index.php)
+* [PrognoScan](http://dna00.bio.kyutech.ac.jp/PrognoScan/index.html)
+* [lnCAR: lncRNA Explorer](https://lncar.renlab.org/)
+* [UALCAN](http://ualcan.path.uab.edu/analysis.html)
+* [OncoLnc](http://www.oncolnc.org/)
+* [OncomiR](http://www.oncomir.org)
+* [MethSurv](https://biit.cs.ut.ee/methsurv/)
+* [BloodSpot](http://servers.binf.ku.dk/bloodspot/)
+* [GEPIA 2](http://gepia2.cancer-pku.cn/#survival)
+* [GenomicScape](http://www.genomicscape.com/microarray/survival.php)
+* [ExSurv](https://exsurv.soic.iupui.edu/)
+* [LOGpc](http://bioinfo.henu.edu.cn/DatabaseList.jsp)
+* [CBioportal](https://www.cbioportal.org/)
+* [UCSC Xena](https://xena.ucsc.edu/)
+* [GDC portal](https://portal.gdc.cancer.gov/)
+* [SurvMicro](http://bioinformatica.mty.itesm.mx:8080/Biomatec/Survmicro.jsp)
+* [DriverDBv3](http://driverdb.tms.cmu.edu.tw/)
+* [LncACTdb 2.0](http://www.bio-bigdata.net/LncACTdb/)
