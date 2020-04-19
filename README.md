@@ -67,6 +67,7 @@
 * [magick](https://cran.r-project.org/web/packages/magick/index.html): Advanced Graphics and Image-Processing in R
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
+* [multiMiR](https://bioconductor.org/packages/release/bioc/html/multiMiR.html): Integration of multiple microRNA-target databases with their disease and drug associations
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
@@ -111,6 +112,8 @@
 * [IQ-TREE](http://www.iqtree.org/): Efficient software for phylogenomic inference
 * [Recharts](http://recharts.org/en-US/): A composable charting library built on React components
 * [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks): Standalone program and library to plot beautiful genome browser tracks
+* [miRWalk](http://mirwalk.umm.uni-heidelberg.de/)
+* [miRSystem](http://mirsystem.cgm.ntu.edu.tw/): miRNA integration system for Target gene prediction
 
 
 ## scRNA
