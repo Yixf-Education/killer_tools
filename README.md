@@ -51,6 +51,7 @@
 * [ggpol](https://cran.r-project.org/web/packages/ggpol/index.html): Visualizing Social Science Data with 'ggplot2'
 * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html): 'ggplot2' Based Publication Ready Plots
 * [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
+* [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html): Ridgeline Plots in 'ggplot2'
 * [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
 * [ggseqlogo](https://cran.r-project.org/web/packages/ggseqlogo/index.html): A 'ggplot2' Extension for Drawing Publication-Ready Sequence Logos
 * [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html): 'ggplot2' Based Plots with Statistical Details
