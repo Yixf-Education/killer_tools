@@ -34,23 +34,30 @@
 * [gdata](https://cran.r-project.org/web/packages/gdata/index.html): Various R Programming Tools for Data Manipulation
 * [GetoptLong](https://cran.r-project.org/web/packages/GetoptLong/index.html): Parsing Command-Line Arguments and Variable Interpolation
 * [ggalluvial](https://cran.r-project.org/web/packages/ggalluvial/index.html): Alluvial Plots in 'ggplot2'
+* [GGally](https://cran.r-project.org/web/packages/GGally/index.html): Extension to 'ggplot2'
 * [ggalt](https://cran.r-project.org/web/packages/ggalt/index.html): Extra Coordinate Systems, 'Geoms', Statistical Transformations, Scales and Fonts for 'ggplot2'
 * [gganatogram](https://github.com/jespermaag/gganatogram): Create anatogram images for different organisms using ggplot2
 * [gganimate](https://cran.r-project.org/web/packages/gganimate/index.html): A Grammar of Animated Graphics
 * [ggannotate](https://github.com/MattCowgill/ggannotate): Interactively annotate ggplots
 * [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html): Visualization tools for genomic data
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
+* [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/index.html): Visualization of a Correlation Matrix using 'ggplot2'
+* [ggdendro](https://cran.r-project.org/web/packages/ggdendro/index.html): Create Dendrograms and Tree Diagrams Using 'ggplot2'
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html): Draw Gene Arrow Maps in 'ggplot2'
 * [gghalves](https://cran.r-project.org/web/packages/gghalves/index.html): Compose Half-Half Plots Using Your Favourite Geoms
+* [ggiraph](https://cran.r-project.org/web/packages/ggiraph/index.html): Make 'ggplot2' Graphics Interactive
 * [ggimage](https://cran.r-project.org/web/packages/ggimage/index.html): Use Image in 'ggplot2'
+* [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html): Spatial Visualization with ggplot2
 * [ggmsa](https://cran.r-project.org/web/packages/ggmsa/index.html): Plot Multiple Sequence Alignment using 'ggplot2'
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
 * [ggplot.multistats](https://cran.r-project.org/web/packages/ggplot.multistats/index.html): Multiple Summary Statistics for Binned Stats/Geometries
 * [ggplotify](https://cran.r-project.org/web/packages/ggplotify/index.html): Convert Plot to 'grob' or 'ggplot' Object
 * [ggpol](https://cran.r-project.org/web/packages/ggpol/index.html): Visualizing Social Science Data with 'ggplot2'
 * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html): 'ggplot2' Based Publication Ready Plots
+* [ggradar](https://github.com/ricardo-bion/ggradar): radar charts with ggplot2
 * [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
+* [ggrepel](https://cran.r-project.org/web/packages/ggrepel/index.html): Automatically Position Non-Overlapping Text Labels with 'ggplot2'
 * [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html): Ridgeline Plots in 'ggplot2'
 * [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
 * [ggseqlogo](https://cran.r-project.org/web/packages/ggseqlogo/index.html): A 'ggplot2' Extension for Drawing Publication-Ready Sequence Logos
