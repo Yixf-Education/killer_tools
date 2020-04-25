@@ -169,3 +169,6 @@
 * [Open-i](https://openi.nlm.nih.gov): 美国国立卫生研究院开发的科研图片数据库，生物和医学类首推的图片搜索网站
 * [Viziometrics](http://viziometrics.org/search/): The First Visual Search Engine for Scientific Diagrams
 * [CNKI 学术图片库](http://image.cnki.net/)
+
+# Chrome
+* [谷粒 - Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes): 为优秀的 Chrome 插件写一本中文说明书，让 Chrome 插件英雄们造福人类
