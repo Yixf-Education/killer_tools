@@ -163,3 +163,9 @@
 
 # Long read sequencing
 * [LRS-DB](https://long-read-tools.org/): A catalogue of long read sequencing data analysis tools
+
+# Scholar search
+* [虫部落搜索](https://scholar.chongbuluo.com/): 集合了市面上最为常见的学术搜索引擎，让你一站式搜到底
+* [Open-i](https://openi.nlm.nih.gov): 美国国立卫生研究院开发的科研图片数据库，生物和医学类首推的图片搜索网站
+* [Viziometrics](http://viziometrics.org/search/): The First Visual Search Engine for Scientific Diagrams
+* [CNKI 学术图片库](http://image.cnki.net/)
