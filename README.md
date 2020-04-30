@@ -6,6 +6,7 @@
 * [bbplot](https://github.com/bbc/bbplot): R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 * [beepr](https://cran.r-project.org/web/packages/beepr/index.html): Easily Play Notification Sounds on any Platform
 * [bestglm](https://cran.r-project.org/web/packages/bestglm/index.html): Best Subset GLM and Regression Utilities:w
+* [BioInstaller](https://cran.r-project.org/web/packages/BioInstaller/index.html): Integrator of Bioinformatics Resources
 * [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html): Create Blogs and Websites with R Markdown
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
 * [car](https://cran.r-project.org/web/packages/car/index.html): Companion to Applied Regression
@@ -13,6 +14,7 @@
 * [circlize](https://github.com/jokergoo/circlize): circular visualization in R
 * [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html): statistical analysis and visualization of functional profiles for genes and gene clusters
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
+* [chromoMap](https://cran.r-project.org/web/packages/chromoMap/index.html): Interactive Visualization and Mapping of Chromosomes
 * [colorfindr](https://github.com/zumbov2/colorfindr): Extracts colors from various image types, plots treemaps and 3D scatterplots of color compositions, create color palettes
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
@@ -75,6 +77,7 @@
 * [latex2exp](https://cran.r-project.org/web/packages/latex2exp/index.html): Use LaTeX Expressions in Plots
 * [legendMap](https://github.com/3wen/legendMap): Provides functions to add a North arrow and/or a scale bar to maps done using ggplot2
 * [magick](https://cran.r-project.org/web/packages/magick/index.html): Advanced Graphics and Image-Processing in R
+* [Map2NCBI](https://cran.r-project.org/web/packages/Map2NCBI/index.html): Mapping Markers to the Nearest Genomic Feature
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
 * [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
@@ -108,6 +111,7 @@
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
+* [UCSCXenaTools](https://cran.r-project.org/web/packages/UCSCXenaTools/index.html): Download and Explore Datasets from UCSC Xena Data Hubs
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
@@ -142,6 +146,7 @@
 * [DPT](https://bioinformaticshome.com/tools/rna-seq/descriptions/DPT.html): estimate the temporal order of differentiating cell in single-cell RNA-seq (scRNA-seq) data
 * [diffusionMap](https://github.com/rcannood/diffusionMap)
 * [destiny](http://www.bioconductor.org/packages/release/bioc/html/destiny.html): Creates diffusion maps
+* [iCellR](https://cran.r-project.org/web/packages/iCellR/index.html): Analyzing High-Throughput Single Cell Sequencing Data
 
 ## [Cancer/Survival-related, 生存分析在线工具 2020 年 4 月吐血整理！](https://mp.weixin.qq.com/s?__biz=Mzg4NjA5Mzg2Mw==&mid=2247488689&idx=2&sn=92818d38ffba4f97fd295dcf51f05857&chksm=cf9fb5f9f8e83cefc35b6a980c125fe8be1b5860f66211594cb27d7419be02f5adcb95588c56&mpshare=1&scene=1&srcid=&sharer_sharetime=1587258755943&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=7024fc3958d21a49f38d5962a504384cb7aa02cfec7d99b587fbbaad39d6f014de6891e0d0d0a1c51311259cc5116c5fda4311d0c4a8bf171a88b52cae8649f6495594a0becdfce753717e6f209ed145&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=Af7QoGlOZcxdXwTntJ6mQfA%3D&pass_ticket=egSQZf3ZmjmNSBYxFfxeMhxks6Fcdfesee2EK45qb6wqbW1FRDSL1ND6vhbrpF2H)
 * [Kaplan Meier-plotter](http://kmplot.com/analysis/index.php)
