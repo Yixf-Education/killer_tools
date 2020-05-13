@@ -75,6 +75,7 @@
 * [GOplot](http://wencke.github.io/): Visualization of Functional Analysis Data
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
+* [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
 * [latex2exp](https://cran.r-project.org/web/packages/latex2exp/index.html): Use LaTeX Expressions in Plots
 * [legendMap](https://github.com/3wen/legendMap): Provides functions to add a North arrow and/or a scale bar to maps done using ggplot2
