@@ -7,6 +7,7 @@
 * [beepr](https://cran.r-project.org/web/packages/beepr/index.html): Easily Play Notification Sounds on any Platform
 * [bestglm](https://cran.r-project.org/web/packages/bestglm/index.html): Best Subset GLM and Regression Utilities:w
 * [BioInstaller](https://cran.r-project.org/web/packages/BioInstaller/index.html): Integrator of Bioinformatics Resources
+* [Biostrings](https://bioconductor.org/packages/release/bioc/html/Biostrings.html): Efficient manipulation of biological strings
 * [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html): Create Blogs and Websites with R Markdown
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
 * [car](https://cran.r-project.org/web/packages/car/index.html): Companion to Applied Regression
@@ -85,6 +86,7 @@
 * [Map2NCBI](https://cran.r-project.org/web/packages/Map2NCBI/index.html): Mapping Markers to the Nearest Genomic Feature
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
+* [msa](https://bioconductor.org/packages/release/bioc/html/msa.html): Multiple Sequence Alignment
 * [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
 * [multiMiR](https://bioconductor.org/packages/release/bioc/html/multiMiR.html): Integration of multiple microRNA-target databases with their disease and drug associations
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
