@@ -69,6 +69,7 @@
 * [ggseqlogo](https://cran.r-project.org/web/packages/ggseqlogo/index.html): A 'ggplot2' Extension for Drawing Publication-Ready Sequence Logos
 * [ggsn](https://cran.r-project.org/web/packages/ggsn/index.html): North Symbols and Scale Bars for Maps Created with 'ggplot2' or 'ggmap'
 * [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html): 'ggplot2' Based Plots with Statistical Details
+* [ggsymbol](https://github.com/xiangpin/ggsymbol): symbols layer based on ggplot2 and ggstar
 * [ggtree](https://www.bioconductor.org/packages/release/bioc/html/ggtree.html): an R package for visualization of tree and annotation data
 * [ggThemeAssist](https://cran.r-project.org/web/packages/ggThemeAssist/index.html): Add-in to Customize 'ggplot2' Themes
 * [ggthemes](https://cran.r-project.org/web/packages/ggthemes/index.html): Extra Themes, Scales and Geoms for 'ggplot2'
