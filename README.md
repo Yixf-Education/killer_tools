@@ -120,9 +120,10 @@
 * [sankeywheel](https://cran.r-project.org/web/packages/sankeywheel/index.html): Create Dependency Wheels and Sankey Diagrams
 * [scatterpie](https://cran.r-project.org/web/packages/scatterpie/index.html): Scatter Pie Plot
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
-* [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
+* [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
+* [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
