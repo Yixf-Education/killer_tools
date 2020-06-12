@@ -135,6 +135,7 @@
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
+* [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
 * [xaringan](https://cran.r-project.org/web/packages/xaringan/index.html): Presentation Ninja
 
 ## TeX
