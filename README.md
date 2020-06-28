@@ -25,6 +25,7 @@
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
 * [easyPubMed](https://cran.r-project.org/web/packages/easyPubMed/index.html): Search and Retrieve Scientific Publication Records from PubMed
+* [EasyStat](https://github.com/taowenmicro/EasyStat): 差异分析完整解决方案
 * [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html): Image processing and analysis toolbox for R
 * [enrichplot](https://bioconductor.org/packages/release/bioc/html/enrichplot.html): Visualization of Functional Enrichment Result
 * [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html): Publication-ready volcano plots with enhanced colouring and labeling
@@ -53,6 +54,7 @@
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [ggfortify](https://cran.r-project.org/web/packages/ggfortify/index.html): Data Visualization Tools for Statistical Analysis Results
 * [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html): Draw Gene Arrow Maps in 'ggplot2'
+* [gggibbous](https://cran.r-project.org/web/packages/gggibbous/index.html): Moon Charts, a Pie Chart Alternative
 * [gghalves](https://cran.r-project.org/web/packages/gghalves/index.html): Compose Half-Half Plots Using Your Favourite Geoms
 * [ggiraph](https://cran.r-project.org/web/packages/ggiraph/index.html): Make 'ggplot2' Graphics Interactive
 * [ggimage](https://cran.r-project.org/web/packages/ggimage/index.html): Use Image in 'ggplot2'
