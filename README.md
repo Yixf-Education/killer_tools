@@ -146,6 +146,19 @@
 ## TeX
 * [texshade](https://ctan.org/pkg/texshade): Package for setting nucleotide and peptide alignments
 
+## Perl
+* [Data::Dumper](https://metacpan.org/pod/Data::Dumper): stringified perl data structures, suitable for both printing and eval
+* [Data::Printer](https://metacpan.org/pod/Data::Printer): colored pretty-print of Perl data structures and objects
+* [Getopt::Long](https://metacpan.org/pod/Getopt::Long): Extended processing of command line options
+* [List::AllUtils](https://metacpan.org/pod/List::AllUtils): Combines List::Util, List::SomeUtils and List::UtilsBy in one bite-sized package
+* [List::MoreUtils](https://metacpan.org/pod/List::MoreUtils): Provide the stuff missing in List::Util 
+* [List::Util](https://metacpan.org/pod/List::Util): A selection of general-utility list subroutines
+* [List::UtilsBy](https://metacpan.org/pod/List::UtilsBy): higher-order list utility functions 
+* [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager): A simple parallel processing fork manager
+* [Path::Tiny](https://metacpan.org/pod/Path::Tiny): File path utility
+* [Try::Tiny](https://metacpan.org/pod/Try::Tiny): Minimal try/catch with proper preservation of $@
+
+
 
 
 ## Tools
