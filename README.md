@@ -105,6 +105,7 @@
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
+* [patternplot](https://cran.r-project.org/web/packages/patternplot/index.html): Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
