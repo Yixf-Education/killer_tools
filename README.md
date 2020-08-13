@@ -76,6 +76,7 @@
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
 * [ggplot.multistats](https://cran.r-project.org/web/packages/ggplot.multistats/index.html): Multiple Summary Statistics for Binned Stats/Geometries
 * [ggplotify](https://cran.r-project.org/web/packages/ggplotify/index.html): Convert Plot to 'grob' or 'ggplot' Object
+* [ggpmisc](https://cran.r-project.org/web/packages/ggpmisc/index.html): Miscellaneous Extensions to 'ggplot2'
 * [ggpol](https://cran.r-project.org/web/packages/ggpol/index.html): Visualizing Social Science Data with 'ggplot2'
 * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html): 'ggplot2' Based Publication Ready Plots
 * [ggradar](https://github.com/ricardo-bion/ggradar): radar charts with ggplot2
