@@ -27,6 +27,7 @@
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
 * [concaveman](https://cran.r-project.org/web/packages/concaveman/index.html): A Very Fast 2D Concave Hull Algorithm
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
+* [crayon](https://cran.r-project.org/web/packages/crayon/index.html): Colored Terminal Output
 * [CrossICC](https://www.bioconductor.org/packages/release/bioc/html/CrossICC.html): An Interactive Consensus Clustering Framework for Multi-platform Data Analysis
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
