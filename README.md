@@ -120,6 +120,7 @@
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
+* [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
 * [patternplot](https://cran.r-project.org/web/packages/patternplot/index.html): Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
