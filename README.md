@@ -153,11 +153,13 @@
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
+* [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html): Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
 * [splines2](https://cran.r-project.org/web/packages/splines2/index.html): Regression Spline Functions and Classes
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
+* [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
 * [UCSCXenaTools](https://cran.r-project.org/web/packages/UCSCXenaTools/index.html): Download and Explore Datasets from UCSC Xena Data Hubs
@@ -167,6 +169,7 @@
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
+* [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html): Word Clouds
 * [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
 * [xaringan](https://cran.r-project.org/web/packages/xaringan/index.html): Presentation Ninja
 * []()
