@@ -61,6 +61,7 @@
 * [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html): Visualization tools for genomic data
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/index.html): Visualization of a Correlation Matrix using 'ggplot2'
+* [ggDCA](https://cran.r-project.org/web/packages/ggDCA/index.html): Calculate and Plot Decision Curve
 * [ggdendro](https://cran.r-project.org/web/packages/ggdendro/index.html): Create Dendrograms and Tree Diagrams Using 'ggplot2'
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [ggfortify](https://cran.r-project.org/web/packages/ggfortify/index.html): Data Visualization Tools for Statistical Analysis Results
