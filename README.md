@@ -40,6 +40,7 @@
 * [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html): Publication-ready volcano plots with enhanced colouring and labeling
 * [eoffice](https://cran.r-project.org/web/packages/eoffice/index.html): Export or Graph and Tables to 'Microsoft' Office and Import Figures and Tables
 * [esquisse](https://cran.r-project.org/web/packages/esquisse/index.html): Explore and Visualize Your Data Interactively
+* [export](https://github.com/tomwenseleers/export): easily export active R graphs and statistical output in publication quality to Microsoft Office (Word, PowerPoint and Excel), HTML and Latex
 * [ExPosition](https://cran.r-project.org/web/packages/ExPosition/index.html): Exploratory Analysis with the Singular Value Decomposition
 * [factoextra](https://cran.r-project.org/web/packages/factoextra/index.html): Extract and Visualize the Results of Multivariate Data Analyses
 * [FactoMineR](https://cran.r-project.org/web/packages/FactoMineR/index.html): Multivariate Exploratory Data Analysis and Data Mining
