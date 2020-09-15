@@ -160,6 +160,7 @@
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
 * [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html): Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
 * [splines2](https://cran.r-project.org/web/packages/splines2/index.html): Regression Spline Functions and Classes
+* [STRINGdb](https://www.bioconductor.org/packages/release/bioc/html/STRINGdb.html): Search Tool for the Retrieval of Interacting proteins database
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
 * [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
