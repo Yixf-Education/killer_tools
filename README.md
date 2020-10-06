@@ -166,6 +166,7 @@
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
 * [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
+* [Sushi](https://bioconductor.org/packages/release/bioc/html/Sushi.html): Tools for visualizing genomics data
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
