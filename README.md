@@ -30,6 +30,7 @@
 * [crayon](https://cran.r-project.org/web/packages/crayon/index.html): Colored Terminal Output
 * [CrossICC](https://www.bioconductor.org/packages/release/bioc/html/CrossICC.html): An Interactive Consensus Clustering Framework for Multi-platform Data Analysis
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
+* [DNAshapeR](https://www.bioconductor.org/packages/release/bioc/html/DNAshapeR.html): High-throughput prediction of DNA shape features
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [dynamicTreeCut](https://cran.r-project.org/web/packages/dynamicTreeCut/index.html): Methods for Detection of Clusters in Hierarchical Clustering Dendrograms
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
@@ -122,6 +123,7 @@
 * [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
 * [multiMiR](https://bioconductor.org/packages/release/bioc/html/multiMiR.html): Integration of multiple microRNA-target databases with their disease and drug associations
 * [network](https://cran.r-project.org/web/packages/network/index.html): Classes for Relational Data
+* [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html): Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
@@ -167,6 +169,7 @@
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
 * [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
+* [survRM2](https://cran.r-project.org/web/packages/survRM2/index.html): Comparing Restricted Mean Survival Time
 * [Sushi](https://bioconductor.org/packages/release/bioc/html/Sushi.html): Tools for visualizing genomics data
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
