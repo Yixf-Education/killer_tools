@@ -184,6 +184,7 @@
 * [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
+* [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR): Mendelian randomization with GWAS summary data
 * [UCSCXenaTools](https://cran.r-project.org/web/packages/UCSCXenaTools/index.html): Download and Explore Datasets from UCSC Xena Data Hubs
 * [UpSetR](https://cran.r-project.org/web/packages/UpSetR/index.html): A More Scalable Alternative to Venn and Euler Diagrams for Visualizing Intersecting Sets
 * [VennDiagram](https://cran.r-project.org/web/packages/VennDiagram/index.html): Generate High-Resolution Venn and Euler Plots
