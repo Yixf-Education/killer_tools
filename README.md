@@ -103,6 +103,7 @@
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
 * [GOplot](http://wencke.github.io/): Visualization of Functional Analysis Data
 * [gplots](https://cran.r-project.org/web/packages/gplots/index.html): Various R Programming Tools for Plotting Data
+* [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
 * [gtools](https://cran.r-project.org/web/packages/gtools/index.html): Various R Programming Tools
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
 * [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html): Harrell Miscellaneous
@@ -147,6 +148,7 @@
 * [rattle](https://cran.r-project.org/web/packages/rattle/index.html): Graphical User Interface for Data Science in R
 * [rayshader](https://cran.r-project.org/web/packages/rayshader/index.html): Create Maps and Visualize Data in 2D and 3D
 * [RCircos](https://cran.r-project.org/web/packages/RCircos/index.html): Circos 2D Track Plot
+* [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html): ColorBrewer Palettes
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
 * [rgl](https://cran.r-project.org/web/packages/rgl/index.html): 3D Visualization Using OpenGL
@@ -159,6 +161,7 @@
 * [rvcheck](https://cran.rstudio.com/web/packages/rvcheck/index.html): R/Package Version Check, Check latest release version of R and R package (both in 'CRAN', 'Bioconductor' or 'Github')
 * [rvest](https://cran.r-project.org/web/packages/rvest/index.html): Easily Harvest (Scrape) Web Pages
 * [sankeywheel](https://cran.r-project.org/web/packages/sankeywheel/index.html): Create Dependency Wheels and Sankey Diagrams
+* [scales](https://cran.r-project.org/web/packages/scales/index.html): Scale Functions for Visualization
 * [scatterpie](https://cran.r-project.org/web/packages/scatterpie/index.html): Scatter Pie Plot
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
