@@ -103,6 +103,7 @@
 * [ggVennDiagram](https://cran.r-project.org/web/packages/ggVennDiagram/index.html): A 'ggplot2' Implement of Venn Diagram
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
+* [glmSparseNet](https://www.bioconductor.org/packages/release/bioc/html/glmSparseNet.html): Network Centrality Metrics for Elastic-Net Regularized Models
 * [GOplot](http://wencke.github.io/): Visualization of Functional Analysis Data
 * [gplots](https://cran.r-project.org/web/packages/gplots/index.html): Various R Programming Tools for Plotting Data
 * [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
@@ -183,6 +184,7 @@
 * [Sushi](https://bioconductor.org/packages/release/bioc/html/Sushi.html): Tools for visualizing genomics data
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
+* [TCGAutils](https://bioconductor.org/packages/release/bioc/html/TCGAutils.html): A suite of helper functions for checking and manipulating TCGA data including data obtained from the curatedTCGAData experiment package. These functions aim to simplify and make working with TCGA data more manageable.
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
 * [tidytidbits](https://cran.r-project.org/web/packages/tidytidbits/index.html): A Collection of Tools and Helpers Extending the Tidyverse
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
