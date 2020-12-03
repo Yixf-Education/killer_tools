@@ -313,3 +313,7 @@
 
 # Chrome
 * [谷粒 - Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes): 为优秀的 Chrome 插件写一本中文说明书，让 Chrome 插件英雄们造福人类
+
+# Shell
+
+* [starship](https://starship.rs/): The minimal, blazing-fast, and infinitely customizable prompt for any shell!
