@@ -65,6 +65,7 @@
 * [ggannotate](https://github.com/MattCowgill/ggannotate): Interactively annotate ggplots
 * [ggbeeswarm](https://github.com/eclarke/ggbeeswarm): Beeswarm-style plots with ggplot2
 * [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html): Visualization tools for genomic data
+* [ggchicklet](https://github.com/hrbrmstr/ggchicklet): Create Chicklet (Rounded Segmented Column) Charts
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/index.html): Visualization of a Correlation Matrix using 'ggplot2'
 * [ggDCA](https://cran.r-project.org/web/packages/ggDCA/index.html): Calculate and Plot Decision Curve
