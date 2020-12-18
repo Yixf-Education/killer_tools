@@ -33,6 +33,7 @@
 * [curatedTCGAData](https://bioconductor.org/packages/release/data/experiment/html/curatedTCGAData.html): Curated Data From The Cancer Genome Atlas (TCGA) as MultiAssayExperiment Objects
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
 * [data.table](https://cran.r-project.org/web/packages/data.table/index.html): Extension of 'data.frame'
+* [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
 * [DNAshapeR](https://www.bioconductor.org/packages/release/bioc/html/DNAshapeR.html): High-throughput prediction of DNA shape features
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [dynamicTreeCut](https://cran.r-project.org/web/packages/dynamicTreeCut/index.html): Methods for Detection of Clusters in Hierarchical Clustering Dendrograms
