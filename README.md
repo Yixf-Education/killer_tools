@@ -182,6 +182,7 @@
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
+* [simplifyEnrichment](https://bioconductor.org/packages/release/bioc/html/simplifyEnrichment.html): Simplify Functional Enrichment Results
 * [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html): Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
 * [splines2](https://cran.r-project.org/web/packages/splines2/index.html): Regression Spline Functions and Classes
 * [STRINGdb](https://www.bioconductor.org/packages/release/bioc/html/STRINGdb.html): Search Tool for the Retrieval of Interacting proteins database
