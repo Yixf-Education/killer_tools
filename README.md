@@ -205,6 +205,7 @@
 * [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR): Mendelian randomization with GWAS summary data
 * [UCSCXenaTools](https://cran.r-project.org/web/packages/UCSCXenaTools/index.html): Download and Explore Datasets from UCSC Xena Data Hubs
 * [UpSetR](https://cran.r-project.org/web/packages/UpSetR/index.html): A More Scalable Alternative to Venn and Euler Diagrams for Visualizing Intersecting Sets
+* [venn](https://cran.r-project.org/web/packages/venn/index.html): Draw Venn Diagrams
 * [VennDiagram](https://cran.r-project.org/web/packages/VennDiagram/index.html): Generate High-Resolution Venn and Euler Plots
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [visNetwork](https://cran.r-project.org/web/packages/visNetwork/index.html): Network Visualization using 'vis.js' Library
