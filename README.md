@@ -52,6 +52,7 @@
 * [factoextra](https://cran.r-project.org/web/packages/factoextra/index.html): Extract and Visualize the Results of Multivariate Data Analyses
 * [FactoMineR](https://cran.r-project.org/web/packages/FactoMineR/index.html): Multivariate Exploratory Data Analysis and Data Mining
 * [fgsea](https://bioconductor.org/packages/release/bioc/html/fgsea.html): Fast Gene Set Enrichment Analysis
+* [filehash](https://cran.r-project.org/web/packages/filehash/index.html): Simple Key-Value Database
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
