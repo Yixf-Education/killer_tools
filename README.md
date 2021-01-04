@@ -334,3 +334,9 @@
 # Shell
 
 * [starship](https://starship.rs/): The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+
+
+# Others
+
+* [E Venn](http://www.ehbio.com/test/venn/#/)
