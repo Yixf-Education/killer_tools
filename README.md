@@ -135,6 +135,7 @@
 * [Mfuzz](https://www.bioconductor.org/packages/release/bioc/html/Mfuzz.html): Soft clustering of time series gene expression data
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
 * [mixOmics](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html): Omics Data Integration Project
+* [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
 * [moderndive](https://cran.r-project.org/web/packages/moderndive/index.html): Tidyverse-Friendly Introductory Linear Regression
 * [msa](https://bioconductor.org/packages/release/bioc/html/msa.html): Multiple Sequence Alignment
 * [msigdbr](https://cran.r-project.org/web/packages/msigdbr/index.html): MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format
