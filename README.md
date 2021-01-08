@@ -37,6 +37,7 @@
 * [data.table](https://cran.r-project.org/web/packages/data.table/index.html): Extension of 'data.frame'
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
 * [DNAshapeR](https://www.bioconductor.org/packages/release/bioc/html/DNAshapeR.html): High-throughput prediction of DNA shape features
+* [distill](https://cran.r-project.org/web/packages/distill/index.html): 'R Markdown' Format for Scientific and Technical Writing
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [dynamicTreeCut](https://cran.r-project.org/web/packages/dynamicTreeCut/index.html): Methods for Detection of Clusters in Hierarchical Clustering Dendrograms
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
@@ -176,6 +177,7 @@
 * [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
 * [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html): R Bindings for 'Selenium WebDriver'
+* [rticles](https://cran.r-project.org/web/packages/rticles/index.html): Article Formats for R Markdown
 * [rtracklayer](https://bioconductor.org/packages/release/bioc/html/rtracklayer.html): R interface to genome annotation files and the UCSC genome browser
 * [rvcheck](https://cran.rstudio.com/web/packages/rvcheck/index.html): R/Package Version Check, Check latest release version of R and R package (both in 'CRAN', 'Bioconductor' or 'Github')
 * [rvest](https://cran.r-project.org/web/packages/rvest/index.html): Easily Harvest (Scrape) Web Pages
