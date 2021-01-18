@@ -134,6 +134,7 @@
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
 * [Mfuzz](https://www.bioconductor.org/packages/release/bioc/html/Mfuzz.html): Soft clustering of time series gene expression data
+* [mice](https://cran.r-project.org/web/packages/mice/index.html): Multivariate Imputation by Chained Equations
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
 * [mixOmics](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html): Omics Data Integration Project
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
@@ -218,6 +219,7 @@
 * [UpSetR](https://cran.r-project.org/web/packages/UpSetR/index.html): A More Scalable Alternative to Venn and Euler Diagrams for Visualizing Intersecting Sets
 * [venn](https://cran.r-project.org/web/packages/venn/index.html): Draw Venn Diagrams
 * [VennDiagram](https://cran.r-project.org/web/packages/VennDiagram/index.html): Generate High-Resolution Venn and Euler Plots
+* [VIM](https://cran.r-project.org/web/packages/VIM/index.html): Visualization and Imputation of Missing Values
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [visNetwork](https://cran.r-project.org/web/packages/visNetwork/index.html): Network Visualization using 'vis.js' Library
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
