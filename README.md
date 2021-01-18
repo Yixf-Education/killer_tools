@@ -108,6 +108,7 @@
 * [ggthemes](https://cran.r-project.org/web/packages/ggthemes/index.html): Extra Themes, Scales and Geoms for 'ggplot2'
 * [ggTimeSeries](https://cran.r-project.org/web/packages/ggTimeSeries/index.html): Time Series Visualisations Using the Grammar of Graphics
 * [ggtree](https://www.bioconductor.org/packages/release/bioc/html/ggtree.html): an R package for visualization of tree and annotation data
+* [ggvenn](https://cran.r-project.org/web/packages/ggvenn/index.html): Draw Venn Diagram by 'ggplot2'
 * [ggVennDiagram](https://cran.r-project.org/web/packages/ggVennDiagram/index.html): A 'ggplot2' Implement of Venn Diagram
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
