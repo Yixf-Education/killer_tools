@@ -44,6 +44,7 @@
 * [easyPubMed](https://cran.r-project.org/web/packages/easyPubMed/index.html): Search and Retrieve Scientific Publication Records from PubMed
 * [EasyStat](https://github.com/taowenmicro/EasyStat): 差异分析完整解决方案
 * [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html): Image processing and analysis toolbox for R
+* [emojifont](https://cran.r-project.org/web/packages/emojifont/index.html): Emoji and Font Awesome in Graphics
 * [enrichplot](https://bioconductor.org/packages/release/bioc/html/enrichplot.html): Visualization of Functional Enrichment Result
 * [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html): Publication-ready volcano plots with enhanced colouring and labeling
 * [eoffice](https://cran.r-project.org/web/packages/eoffice/index.html): Export or Graph and Tables to 'Microsoft' Office and Import Figures and Tables
