@@ -161,6 +161,7 @@
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
 * [Pi](https://www.bioconductor.org/packages/release/bioc/html/Pi.html): Leveraging Genetic Evidence to Prioritise Drug Targets at the Gene and Pathway Level
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
+* [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
 * [prettydoc](https://cran.r-project.org/web/packages/prettydoc/index.html): Creating Pretty Documents from R Markdown
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
 * [qgraph](https://cran.r-project.org/web/packages/qgraph/index.html): Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
@@ -179,7 +180,10 @@
 * [rgl](https://cran.r-project.org/web/packages/rgl/index.html): 3D Visualization Using OpenGL
 * [rhub](https://github.com/r-hub/rhub): a multi-platform build and check service for R packages
 * [rio](https://cran.r-project.org/web/packages/rio/index.html): A Swiss-Army Knife for Data I/O
+* [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
+* [ROCit](https://cran.r-project.org/web/packages/ROCit/index.html): Performance Assessment of Binary Classifier with Visualization
+* [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html): Visualizing the Performance of Scoring Classifiers
 * [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
 * [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html): R Bindings for 'Selenium WebDriver'
