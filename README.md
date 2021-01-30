@@ -365,3 +365,12 @@
 # Others
 
 * [E Venn](http://www.ehbio.com/test/venn/#/)
+
+# Reproducibility
+
+* [构建可重复的单细胞数据分析流程](https://www.jianshu.com/p/675335f3fe4a)
+* [Reproducibility in Science](http://ropensci.github.io/reproducibility-guide/): A Guide to enhancing reproducibility in scientific results and writing
+* [Top ten reasons to not share your code (and why you should anyway)](https://www.software.ac.uk/blog/2016-10-07-top-ten-reasons-not-share-your-code-and-why-you-should-anyway)
+* [Does your code stand up to scrutiny?](https://www.nature.com/articles/d41586-018-02741-4)
+* [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/)
+* [[As a reviewer, can I justify requesting data and code be made available even if the journal does not?](https://stats.stackexchange.com/questions/14416/as-a-reviewer-can-i-justify-requesting-data-and-code-be-made-available-even-if)]
