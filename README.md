@@ -5,7 +5,6 @@
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
-
 * [AnnotationHub](https://bioconductor.org/packages/release/bioc/html/AnnotationHub.html): Client to access AnnotationHub resources
 * [aplot](https://cran.r-project.org/web/packages/aplot/index.html): Decorate a 'ggplot' with Associated Information
 * [arules](https://cran.r-project.org/web/packages/arules/index.html): Mining Association Rules and Frequent Itemsets
@@ -20,6 +19,7 @@
 * [blastula](https://cran.r-project.org/web/packages/blastula/index.html): Easily Send HTML Email Messages
 * [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html): Create Blogs and Websites with R Markdown
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
+* [calendR](https://cran.r-project.org/web/packages/calendR/index.html): Ready to Print Monthly and Yearly Calendars Made with 'ggplot2'
 * [canvasXpress](https://cran.r-project.org/web/packages/canvasXpress/index.html): Visualization Package for CanvasXpress in R
 * [car](https://cran.r-project.org/web/packages/car/index.html): Companion to Applied Regression
 * [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
