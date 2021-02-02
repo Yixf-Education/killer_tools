@@ -4,6 +4,8 @@
 
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
+* [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
+
 * [AnnotationHub](https://bioconductor.org/packages/release/bioc/html/AnnotationHub.html): Client to access AnnotationHub resources
 * [aplot](https://cran.r-project.org/web/packages/aplot/index.html): Decorate a 'ggplot' with Associated Information
 * [arules](https://cran.r-project.org/web/packages/arules/index.html): Mining Association Rules and Frequent Itemsets
@@ -124,6 +126,7 @@
 * [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
 * [gtools](https://cran.r-project.org/web/packages/gtools/index.html): Various R Programming Tools
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
+* [here](https://cran.r-project.org/web/packages/here/index.html): A Simpler Way to Find Your Files
 * [HilbertCurve](https://www.bioconductor.org/packages/release/bioc/html/HilbertCurve.html): Making 2D Hilbert Curve
 * [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html): Harrell Miscellaneous
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
