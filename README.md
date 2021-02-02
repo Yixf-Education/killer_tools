@@ -347,6 +347,7 @@
 * [DriverDBv3](http://driverdb.tms.cmu.edu.tw/)
 * [LncACTdb 2.0](http://www.bio-bigdata.net/LncACTdb/)
 * [TCGAportal](http://tumorsurvival.org/index.html)
+* [Cancer RNA-Seq Nexus](http://syslab4.nchu.edu.tw/)
 
 # Long read sequencing
 * [LRS-DB](https://long-read-tools.org/): A catalogue of long read sequencing data analysis tools
