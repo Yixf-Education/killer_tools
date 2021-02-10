@@ -129,6 +129,7 @@
 * [gplots](https://cran.r-project.org/web/packages/gplots/index.html): Various R Programming Tools for Plotting Data
 * [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
 * [gtools](https://cran.r-project.org/web/packages/gtools/index.html): Various R Programming Tools
+* [Gviz](https://bioconductor.org/packages/release/bioc/html/Gviz.html): Plotting data and annotation information along genomic coordinates
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
 * [here](https://cran.r-project.org/web/packages/here/index.html): A Simpler Way to Find Your Files
 * [HilbertCurve](https://www.bioconductor.org/packages/release/bioc/html/HilbertCurve.html): Making 2D Hilbert Curve
