@@ -27,6 +27,7 @@
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
 * [chromoMap](https://cran.r-project.org/web/packages/chromoMap/index.html): Interactive Visualization and Mapping of Chromosomes
 * [circlize](https://github.com/jokergoo/circlize): circular visualization in R
+* [cluster](https://cran.r-project.org/web/packages/cluster/index.html): "Finding Groups in Data": Cluster Analysis Extended Rousseeuw et al.
 * [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html): statistical analysis and visualization of functional profiles for genes and gene clusters
 * [cola](https://www.bioconductor.org/packages/release/bioc/html/cola.html): A Framework for Consensus Partitioning
 * [colorfindr](https://github.com/zumbov2/colorfindr): Extracts colors from various image types, plots treemaps and 3D scatterplots of color compositions, create color palettes
