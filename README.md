@@ -66,6 +66,7 @@
 * [fields](https://mran.microsoft.com/snapshot/2017-02-04/web/packages/fields/index.html): Tools for Spatial Data
 * [filehash](https://cran.r-project.org/web/packages/filehash/index.html): Simple Key-Value Database
 * [flextable](https://cran.r-project.org/web/packages/flextable/index.html): Functions for Tabular Reporting
+* [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
@@ -87,6 +88,7 @@
 * [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/index.html): Visualization of a Correlation Matrix using 'ggplot2'
 * [ggDCA](https://cran.r-project.org/web/packages/ggDCA/index.html): Calculate and Plot Decision Curve
 * [ggdendro](https://cran.r-project.org/web/packages/ggdendro/index.html): Create Dendrograms and Tree Diagrams Using 'ggplot2'
+* [ggExtra](https://cran.r-project.org/web/packages/ggExtra/index.html): Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [ggfortify](https://cran.r-project.org/web/packages/ggfortify/index.html): Data Visualization Tools for Statistical Analysis Results
 * [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html): Draw Gene Arrow Maps in 'ggplot2'
@@ -181,6 +183,7 @@
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
 * [qgraph](https://cran.r-project.org/web/packages/qgraph/index.html): Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
 * [qqman](https://cran.r-project.org/web/packages/qqman/index.html): Q-Q and Manhattan Plots for GWAS Data
+* [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html): Quantitative Financial Modelling Framework
 * [qvalue](http://www.bioconductor.org/packages/release/bioc/html/qvalue.html): Q-value estimation for false discovery rate control
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
 * [randomcoloR](https://cran.r-project.org/web/packages/randomcoloR/index.html): Generate Attractive Random Colors
