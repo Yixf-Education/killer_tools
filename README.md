@@ -152,6 +152,7 @@
 * [legendMap](https://github.com/3wen/legendMap): Provides functions to add a North arrow and/or a scale bar to maps done using ggplot2
 * [magick](https://cran.r-project.org/web/packages/magick/index.html): Advanced Graphics and Image-Processing in R
 * [Map2NCBI](https://cran.r-project.org/web/packages/Map2NCBI/index.html): Mapping Markers to the Nearest Genomic Feature
+* [mapdeck](https://cran.r-project.org/web/packages/mapdeck/index.html): Interactive Maps Using 'Mapbox GL JS' and 'Deck.gl'
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
 * [Mfuzz](https://www.bioconductor.org/packages/release/bioc/html/Mfuzz.html): Soft clustering of time series gene expression data
