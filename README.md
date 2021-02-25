@@ -16,6 +16,7 @@
 * [BiocFileCache](https://bioconductor.org/packages/release/bioc/html/BiocFileCache.html): Manage Files Across Sessions
 * [BioInstaller](https://cran.r-project.org/web/packages/BioInstaller/index.html): Integrator of Bioinformatics Resources
 * [Biostrings](https://bioconductor.org/packages/release/bioc/html/Biostrings.html): Efficient manipulation of biological strings
+* [biscale](https://cran.r-project.org/web/packages/biscale/index.html): Tools and Palettes for Bivariate Thematic Mapping
 * [blastula](https://cran.r-project.org/web/packages/blastula/index.html): Easily Send HTML Email Messages
 * [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html): Create Blogs and Websites with R Markdown
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
