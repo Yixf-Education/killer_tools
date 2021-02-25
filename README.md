@@ -174,6 +174,7 @@
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
+* [pak](https://cran.r-project.org/web/packages/pak/index.html): Another Approach to Package Installation
 * [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
 * [pathview](https://www.bioconductor.org/packages/release/bioc/html/pathview.html): a tool set for pathway based data integration and visualization
