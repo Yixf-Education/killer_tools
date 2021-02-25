@@ -139,6 +139,7 @@
 * [Gviz](https://bioconductor.org/packages/release/bioc/html/Gviz.html): Plotting data and annotation information along genomic coordinates
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
 * [here](https://cran.r-project.org/web/packages/here/index.html): A Simpler Way to Find Your Files
+* [highcharter](https://cran.r-project.org/web/packages/highcharter/index.html): A Wrapper for the 'Highcharts' Library
 * [HilbertCurve](https://www.bioconductor.org/packages/release/bioc/html/HilbertCurve.html): Making 2D Hilbert Curve
 * [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html): Harrell Miscellaneous
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
