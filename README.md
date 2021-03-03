@@ -68,6 +68,7 @@
 * [fields](https://mran.microsoft.com/snapshot/2017-02-04/web/packages/fields/index.html): Tools for Spatial Data
 * [filehash](https://cran.r-project.org/web/packages/filehash/index.html): Simple Key-Value Database
 * [flextable](https://cran.r-project.org/web/packages/flextable/index.html): Functions for Tabular Reporting
+* [forcats](https://cran.r-project.org/web/packages/forcats/index.html): Tools for Working with Categorical Variables (Factors)
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
