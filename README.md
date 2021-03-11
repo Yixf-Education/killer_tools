@@ -15,6 +15,7 @@
 * [bibliometrix](https://cran.r-project.org/web/packages/bibliometrix/index.html): Comprehensive Science Mapping Analysis
 * [BiocFileCache](https://bioconductor.org/packages/release/bioc/html/BiocFileCache.html): Manage Files Across Sessions
 * [BioInstaller](https://cran.r-project.org/web/packages/BioInstaller/index.html): Integrator of Bioinformatics Resources
+* [BiocParallel](https://bioconductor.org/packages/release/bioc/html/BiocParallel.html): Bioconductor facilities for parallel evaluation
 * [Biostrings](https://bioconductor.org/packages/release/bioc/html/Biostrings.html): Efficient manipulation of biological strings
 * [biscale](https://cran.r-project.org/web/packages/biscale/index.html): Tools and Palettes for Bivariate Thematic Mapping
 * [blastula](https://cran.r-project.org/web/packages/blastula/index.html): Easily Send HTML Email Messages
