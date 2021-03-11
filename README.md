@@ -161,6 +161,7 @@
 * [mapdeck](https://cran.r-project.org/web/packages/mapdeck/index.html): Interactive Maps Using 'Mapbox GL JS' and 'Deck.gl'
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
+* [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
 * [Mfuzz](https://www.bioconductor.org/packages/release/bioc/html/Mfuzz.html): Soft clustering of time series gene expression data
 * [mice](https://cran.r-project.org/web/packages/mice/index.html): Multivariate Imputation by Chained Equations
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
