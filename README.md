@@ -48,6 +48,9 @@
 * [DescrTab2](https://cran.r-project.org/web/packages/DescrTab2/index.html): Publication Quality Descriptive Statistics Tables
 * [DNAshapeR](https://www.bioconductor.org/packages/release/bioc/html/DNAshapeR.html): High-throughput prediction of DNA shape features
 * [distill](https://cran.r-project.org/web/packages/distill/index.html): 'R Markdown' Format for Scientific and Technical Writing
+* [doMC](https://cran.r-project.org/web/packages/doMC/index.html): Foreach Parallel Adaptor for 'parallel'
+* [doParallel](https://cran.r-project.org/web/packages/doParallel/index.html): Foreach Parallel Adaptor for the 'parallel' Package
+* [doSNOW](https://cran.r-project.org/web/packages/doSNOW/index.html): Foreach Parallel Adaptor for the 'snow' Package
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [dynamicTreeCut](https://cran.r-project.org/web/packages/dynamicTreeCut/index.html): Methods for Detection of Clusters in Hierarchical Clustering Dendrograms
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
@@ -70,6 +73,7 @@
 * [filehash](https://cran.r-project.org/web/packages/filehash/index.html): Simple Key-Value Database
 * [flextable](https://cran.r-project.org/web/packages/flextable/index.html): Functions for Tabular Reporting
 * [forcats](https://cran.r-project.org/web/packages/forcats/index.html): Tools for Working with Categorical Variables (Factors)
+* [foreach](https://cran.r-project.org/web/packages/foreach/index.html): Provides Foreach Looping Construct
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
@@ -152,6 +156,7 @@
 * [igraph](https://cran.r-project.org/web/packages/igraph/index.html): Network Analysis and Visualization
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
+* [iterators](https://cran.r-project.org/web/packages/iterators/index.html): Provides Iterator Construct
 * [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html): Construct Complex Table with 'kable' and Pipe Syntax
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
 * [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html): Client-side REST access to the Kyoto Encyclopedia of Genes and Genomes (KEGG)
