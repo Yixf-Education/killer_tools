@@ -220,6 +220,7 @@
 * [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
 * [riverplot](https://cran.r-project.org/web/packages/riverplot/index.html): Sankey or Ribbon Plots
+* [rmdformats](https://cran.r-project.org/web/packages/rmdformats/index.html): HTML Output Formats and Templates for 'rmarkdown' Documents
 * [ROCit](https://cran.r-project.org/web/packages/ROCit/index.html): Performance Assessment of Binary Classifier with Visualization
 * [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html): Visualizing the Performance of Scoring Classifiers
 * [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
@@ -238,6 +239,7 @@
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
+* [shinythemes](https://cran.r-project.org/web/packages/shinythemes/index.html): Themes for Shiny
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
 * [simplifyEnrichment](https://bioconductor.org/packages/release/bioc/html/simplifyEnrichment.html): Simplify Functional Enrichment Results
 * [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html): Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
@@ -265,6 +267,7 @@
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
 * [TSstudio](https://cran.r-project.org/web/packages/TSstudio/index.html): Functions for Time Series Analysis and Forecasting
+* [tufte](https://cran.r-project.org/web/packages/tufte/index.html): Tufte's Styles for R Markdown Documents
 * [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR): Mendelian randomization with GWAS summary data
 * [UCSCXenaTools](https://cran.r-project.org/web/packages/UCSCXenaTools/index.html): Download and Explore Datasets from UCSC Xena Data Hubs
 * [UpSetR](https://cran.r-project.org/web/packages/UpSetR/index.html): A More Scalable Alternative to Venn and Euler Diagrams for Visualizing Intersecting Sets
