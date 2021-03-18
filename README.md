@@ -25,6 +25,7 @@
 * [canvasXpress](https://cran.r-project.org/web/packages/canvasXpress/index.html): Visualization Package for CanvasXpress in R
 * [car](https://cran.r-project.org/web/packages/car/index.html): Companion to Applied Regression
 * [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
+* [caTools](https://cran.r-project.org/web/packages/caTools/index.html): Tools: Moving Window Statistics, GIF, Base64, ROC AUC, etc
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
 * [chromoMap](https://cran.r-project.org/web/packages/chromoMap/index.html): Interactive Visualization and Mapping of Chromosomes
