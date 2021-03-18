@@ -148,6 +148,7 @@
 * [GSVA](https://www.bioconductor.org/packages/release/bioc/html/GSVA.html): Gene Set Variation Analysis for microarray and RNA-seq data
 * [gtools](https://cran.r-project.org/web/packages/gtools/index.html): Various R Programming Tools
 * [Gviz](https://bioconductor.org/packages/release/bioc/html/Gviz.html): Plotting data and annotation information along genomic coordinates
+* [h2o](https://cran.r-project.org/web/packages/h2o/index.html): R Interface for the 'H2O' Scalable Machine Learning Platform
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
 * [here](https://cran.r-project.org/web/packages/here/index.html): A Simpler Way to Find Your Files
 * [HGNChelper](https://cran.r-project.org/web/packages/HGNChelper/index.html): Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols
@@ -177,6 +178,9 @@
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
 * [mixOmics](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html): Omics Data Integration Project
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
+* [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html): Machine Learning in R - Next Generation
+* [mlr3verse](https://cran.rstudio.com/web/packages/mlr3verse/index.html): Easily Install and Load the 'mlr3' Package Family
+* [modeltime](https://cran.r-project.org/web/packages/modeltime/index.html): The Tidymodels Extension for Time Series Modeling
 * [moderndive](https://cran.r-project.org/web/packages/moderndive/index.html): Tidyverse-Friendly Introductory Linear Regression
 * [msa](https://bioconductor.org/packages/release/bioc/html/msa.html): Multiple Sequence Alignment
 * [msigdbr](https://cran.r-project.org/web/packages/msigdbr/index.html): MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format
@@ -213,6 +217,7 @@
 * [rayshader](https://cran.r-project.org/web/packages/rayshader/index.html): Create Maps and Visualize Data in 2D and 3D
 * [RCircos](https://cran.r-project.org/web/packages/RCircos/index.html): Circos 2D Track Plot
 * [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html): ColorBrewer Palettes
+* [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html): Bindings for the 'Geospatial' Data Abstraction Library
@@ -261,10 +266,12 @@
 * [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis
 * [tidybulk](https://www.bioconductor.org/packages/release/bioc/html/tidybulk.html): Brings transcriptomics to the tidyverse
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
+* [tidygraph](https://cran.r-project.org/web/packages/tidygraph/index.html): A Tidy API for Graph Manipulation
 * [tidymodels](https://cran.r-project.org/web/packages/tidymodels/index.html): Easily Install and Load the 'Tidymodels' Packages
 * [tidytext](https://cran.r-project.org/web/packages/tidytext/index.html): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
 * [tidytidbits](https://cran.r-project.org/web/packages/tidytidbits/index.html): A Collection of Tools and Helpers Extending the Tidyverse
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
+* [timetk](https://cran.r-project.org/web/packages/timetk/index.html): A Tool Kit for Working with Time Series in R
 * [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
