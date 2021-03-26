@@ -126,6 +126,7 @@
 * [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html): Ridgeline Plots in 'ggplot2'
 * [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
 * [ggseqlogo](https://cran.r-project.org/web/packages/ggseqlogo/index.html): A 'ggplot2' Extension for Drawing Publication-Ready Sequence Logos
+* [ggsignif](https://cran.r-project.org/web/packages/ggsignif/index.html): Significance Brackets for 'ggplot2'
 * [ggsn](https://cran.r-project.org/web/packages/ggsn/index.html): North Symbols and Scale Bars for Maps Created with 'ggplot2' or 'ggmap'
 * [ggstance](https://cran.r-project.org/web/packages/ggstance/index.html): Horizontal 'ggplot2' Components
 * [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html): 'ggplot2' Based Plots with Statistical Details
