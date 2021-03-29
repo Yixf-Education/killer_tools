@@ -141,6 +141,7 @@
 * [ggVennDiagram](https://cran.r-project.org/web/packages/ggVennDiagram/index.html): A 'ggplot2' Implement of Venn Diagram
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
+* [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html): Lasso and Elastic-Net Regularized Generalized Linear Models
 * [glmSparseNet](https://www.bioconductor.org/packages/release/bioc/html/glmSparseNet.html): Network Centrality Metrics for Elastic-Net Regularized Models
 * [glue](https://cran.r-project.org/web/packages/glue/index.html): Interpreted String Literals
 * [GOplot](http://wencke.github.io/): Visualization of Functional Analysis Data
