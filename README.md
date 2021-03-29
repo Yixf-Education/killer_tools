@@ -131,6 +131,7 @@
 * [ggsn](https://cran.r-project.org/web/packages/ggsn/index.html): North Symbols and Scale Bars for Maps Created with 'ggplot2' or 'ggmap'
 * [ggstance](https://cran.r-project.org/web/packages/ggstance/index.html): Horizontal 'ggplot2' Components
 * [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html): 'ggplot2' Based Plots with Statistical Details
+* [ggstream](https://github.com/davidsjoberg/ggstream): create a simple but powerful implementation of streamplot/streamgraph in `ggplot2`
 * [ggsymbol](https://github.com/xiangpin/ggsymbol): symbols layer based on ggplot2 and ggstar
 * [ggtext](https://cran.r-project.org/web/packages/ggtext/index.html): Improved Text Rendering Support for 'ggplot2'
 * [ggThemeAssist](https://cran.r-project.org/web/packages/ggThemeAssist/index.html): Add-in to Customize 'ggplot2' Themes
