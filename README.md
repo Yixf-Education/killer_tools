@@ -21,6 +21,7 @@
 * [blastula](https://cran.r-project.org/web/packages/blastula/index.html): Easily Send HTML Email Messages
 * [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html): Create Blogs and Websites with R Markdown
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
+* [Boruta](https://cran.r-project.org/web/packages/Boruta/index.html): Wrapper Algorithm for All Relevant Feature Selection
 * [calendR](https://cran.r-project.org/web/packages/calendR/index.html): Ready to Print Monthly and Yearly Calendars Made with 'ggplot2'
 * [canvasXpress](https://cran.r-project.org/web/packages/canvasXpress/index.html): Visualization Package for CanvasXpress in R
 * [car](https://cran.r-project.org/web/packages/car/index.html): Companion to Applied Regression
@@ -293,6 +294,7 @@
 * [visNetwork](https://cran.r-project.org/web/packages/visNetwork/index.html): Network Visualization using 'vis.js' Library
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
+* [VSURF](https://cran.r-project.org/web/packages/VSURF/index.html): Variable Selection Using Random Forests
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html): Word Clouds
 * [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
