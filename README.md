@@ -47,6 +47,7 @@
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
 * [data.table](https://cran.r-project.org/web/packages/data.table/index.html): Extension of 'data.frame'
 * [DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/index.html): Automate Data Exploration and Treatment
+* [datapasta](https://github.com/MilesMcBain/datapasta): is about reducing resistance associated with copying and pasting data to and from R
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
 * [DescrTab2](https://cran.r-project.org/web/packages/DescrTab2/index.html): Publication Quality Descriptive Statistics Tables
 * [dlookr](https://cran.r-project.org/web/packages/dlookr/index.html): Tools for Data Diagnosis, Exploration, Transformation
