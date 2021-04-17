@@ -2,6 +2,7 @@
 
 ## R
 
+* [**Awesome R**](https://github.com/qinwf/awesome-R): **A curated list of awesome R packages and tools.**
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
