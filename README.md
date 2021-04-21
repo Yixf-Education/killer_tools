@@ -265,6 +265,7 @@
 * [splines2](https://cran.r-project.org/web/packages/splines2/index.html): Regression Spline Functions and Classes
 * [stm](https://cran.r-project.org/web/packages/stm/index.html): Estimation of the Structural Topic Model
 * [STRINGdb](https://www.bioconductor.org/packages/release/bioc/html/STRINGdb.html): Search Tool for the Retrieval of Interacting proteins database
+* [stringdist](https://cran.r-project.org/web/packages/stringdist/index.html): Approximate String Matching, Fuzzy Text Search, and String Distance Functions
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
 * [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
