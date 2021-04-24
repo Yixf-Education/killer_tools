@@ -115,6 +115,7 @@
 * [ggmcmc](https://cran.r-project.org/web/packages/ggmcmc/index.html): Tools for Analyzing MCMC Simulations from Bayesian Inference
 * [ggmsa](https://cran.r-project.org/web/packages/ggmsa/index.html): Plot Multiple Sequence Alignment using 'ggplot2'
 * [ggnetwork](https://cran.r-project.org/web/packages/ggnetwork/index.html): Geometries to Plot Networks with 'ggplot2'
+* [ggnewscale](https://cran.r-project.org/web/packages/ggnewscale/index.html): Multiple Fill and Colour Scales in 'ggplot2'
 * [ggord](https://github.com/fawda123/ggord): a take on ordination plots using ggplot2
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
 * [ggplot.multistats](https://cran.r-project.org/web/packages/ggplot.multistats/index.html): Multiple Summary Statistics for Binned Stats/Geometries
