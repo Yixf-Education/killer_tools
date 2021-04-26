@@ -37,6 +37,7 @@
 * [cola](https://www.bioconductor.org/packages/release/bioc/html/cola.html): A Framework for Consensus Partitioning
 * [colorfindr](https://github.com/zumbov2/colorfindr): Extracts colors from various image types, plots treemaps and 3D scatterplots of color compositions, create color palettes
 * [colorfulVennPlot](https://cran.r-project.org/web/packages/colorfulVennPlot/index.html): Plot and add custom coloring to Venn diagrams for 2-dimensional, 3-dimensional and 4-dimensional data
+* [colourpicker](https://cran.r-project.org/web/packages/colourpicker/index.html): A Colour Picker Tool for Shiny and for Selecting Colours in Plots
 * [combinat](https://cran.r-project.org/web/packages/combinat/index.html): combinatorics utilities
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
 * [ComplexUpset](https://cran.r-project.org/web/packages/ComplexUpset/index.html): Create Complex UpSet Plots Using 'ggplot2' Components
