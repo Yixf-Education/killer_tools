@@ -233,6 +233,7 @@
 * [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html): ColorBrewer Palettes
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
+* [report](https://cran.r-project.org/web/packages/report/index.html): Automated Reporting of Results and Statistical Models
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html): Bindings for the 'Geospatial' Data Abstraction Library
 * [rgl](https://cran.r-project.org/web/packages/rgl/index.html): 3D Visualization Using OpenGL
