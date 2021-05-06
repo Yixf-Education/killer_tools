@@ -317,6 +317,52 @@
 * [XML](https://cran.r-project.org/web/packages/XML/index.html): Tools for Parsing and Generating XML Within R and S-Plus
 * []()
 
+---
+
+| R 包名称        | 主要功能                       |
+| --------------- | ------------------------------ |
+| devtools        | R 包安装                       |
+| BiocManager     | R 包安装                       |
+| tidyverse       | 数据整理及可视化工具包集合     |
+| future          | 支持并行计算的包               |
+| future.apply    | 支持并行计算的包               |
+| Seurat          | 单细胞分析基础工具包           |
+| SeuratData      | 单细胞数据                     |
+| SeuratWrappers  | 提供其他 R 包与 Seurat 的接口  |
+| SingleR         | 细胞鉴定                       |
+| batchelor       | 批次校正                       |
+| harmony         | 批次校正                       |
+| liger           | 批次校正，数据整合             |
+| limma           | 差异分析                       |
+| edgeR           | 差异分析                       |
+| DESeq2          | 差异分析                       |
+| MAST            | 差异分析                       |
+| GSVA            | 基因集变异分析                 |
+| msigdbr         | 提供非人物种的 MSigDB 基因集   |
+| clusterProfiler | 基因集富集分析                 |
+| scRepertoire    | 免疫组库分析                   |
+| survival        | 生存分析                       |
+| survminer       | 生存分析                       |
+| CellChat        | 细胞通讯                       |
+| monocle         | 拟时轨迹分析                   |
+| monocle3        | 拟时轨迹分析                   |
+| velocyto.R      | RNA 速率分析，类似拟时轨迹分析 |
+| infercnv        | 单细胞 CNV 分析                |
+| nichenetr       | 细胞通讯                       |
+| garnett         | 细胞分类                       |
+| DoubletFinder   | 识别 doublets                  |
+| WGCNA           | 共表达权重网络分析             |
+| Signac          | scATAC 分析                    |
+| biomaRt         | 基因 ID 及同源基因转换         |
+| CytoTRACE       | 轨迹分析                       |
+| slingshot       | 轨迹分析                       |
+| copykat         | 单细胞 CNV 分析                |
+| xCell           | bulkRNA 去卷积                 |
+| MuSiC           | bulkRNA 去卷积                 |
+| SCDC            | bulkRNA 去卷积                 |
+| SPOTlight       | 空间转录组分析                 |
+| ggpubr          | 画图                           |
+
 ## TeX
 * [texshade](https://ctan.org/pkg/texshade): Package for setting nucleotide and peptide alignments
 
