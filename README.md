@@ -3,6 +3,7 @@
 ## R
 
 * [**Awesome R**](https://github.com/qinwf/awesome-R): **A curated list of awesome R packages and tools.**
+* [**15 Essential packages in R for Data Science**](https://finnstats.com/index.php/2021/04/07/essential-packages-in-r/)
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
@@ -21,6 +22,7 @@
 * [biscale](https://cran.r-project.org/web/packages/biscale/index.html): Tools and Palettes for Bivariate Thematic Mapping
 * [blastula](https://cran.r-project.org/web/packages/blastula/index.html): Easily Send HTML Email Messages
 * [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html): Create Blogs and Websites with R Markdown
+* [bnlearn](https://cran.r-project.org/web/packages/bnlearn/index.html): Bayesian Network Structure Learning, Parameter Learning and Inference
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
 * [Boruta](https://cran.r-project.org/web/packages/Boruta/index.html): Wrapper Algorithm for All Relevant Feature Selection
 * [calendR](https://cran.r-project.org/web/packages/calendR/index.html): Ready to Print Monthly and Yearly Calendars Made with 'ggplot2'
@@ -249,6 +251,7 @@
 * [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
 * [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html): R Bindings for 'Selenium WebDriver'
+* [rstan](https://cran.r-project.org/web/packages/rstan/index.html): R Interface to Stan
 * [rticles](https://cran.r-project.org/web/packages/rticles/index.html): Article Formats for R Markdown
 * [rtracklayer](https://bioconductor.org/packages/release/bioc/html/rtracklayer.html): R interface to genome annotation files and the UCSC genome browser
 * [RVA](https://cran.r-project.org/web/packages/RVA/index.html): RNAseq Visualization Automation
@@ -310,6 +313,8 @@
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html): Word Clouds
 * [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
 * [xaringan](https://cran.r-project.org/web/packages/xaringan/index.html): Presentation Ninja
+* [xgboost](https://cran.r-project.org/web/packages/xgboost/index.html): Extreme Gradient Boosting
+* [XML](https://cran.r-project.org/web/packages/XML/index.html): Tools for Parsing and Generating XML Within R and S-Plus
 * []()
 
 ## TeX
