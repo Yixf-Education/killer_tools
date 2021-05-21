@@ -188,6 +188,7 @@
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
 * [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
+* [MetaboSignal](https://bioconductor.org/packages/release/bioc/html/MetaboSignal.html)
 * [MEGENA](https://cran.r-project.org/web/packages/MEGENA/index.html): Multiscale Clustering of Geometrical Network
 * [meshes](https://bioconductor.org/packages/release/bioc/html/meshes.html): MeSH Enrichment and Semantic analyses
 * [Mfuzz](https://www.bioconductor.org/packages/release/bioc/html/Mfuzz.html): Soft clustering of time series gene expression data
