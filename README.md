@@ -216,6 +216,7 @@
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
 * [pathview](https://www.bioconductor.org/packages/release/bioc/html/pathview.html): a tool set for pathway based data integration and visualization
 * [patternplot](https://cran.r-project.org/web/packages/patternplot/index.html): Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
+* [pdftables](https://cran.r-project.org/web/packages/pdftables/index.html)
 * [pdftools](https://cran.r-project.org/web/packages/pdftools/index.html): Text Extraction, Rendering and Converting of PDF Documents
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
 * [Pi](https://www.bioconductor.org/packages/release/bioc/html/Pi.html): Leveraging Genetic Evidence to Prioritise Drug Targets at the Gene and Pathway Level
@@ -283,6 +284,7 @@
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
 * [TCGAutils](https://bioconductor.org/packages/release/bioc/html/TCGAutils.html): A suite of helper functions for checking and manipulating TCGA data including data obtained from the curatedTCGAData experiment package. These functions aim to simplify and make working with TCGA data more manageable.
+* [tesseract](https://cran.r-project.org/web/packages/tesseract/index.html)
 * [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis
 * [tidybulk](https://www.bioconductor.org/packages/release/bioc/html/tidybulk.html): Brings transcriptomics to the tidyverse
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
