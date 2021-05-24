@@ -103,6 +103,7 @@
 * [ggannotate](https://github.com/MattCowgill/ggannotate): Interactively annotate ggplots
 * [ggbeeswarm](https://github.com/eclarke/ggbeeswarm): Beeswarm-style plots with ggplot2
 * [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html): Visualization tools for genomic data
+* [ggbreak](https://cran.r-project.org/web/packages/ggbreak/index.html): Set Axis Break for 'ggplot2'
 * [ggchicklet](https://github.com/hrbrmstr/ggchicklet): Create Chicklet (Rounded Segmented Column) Charts
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/index.html): Visualization of a Correlation Matrix using 'ggplot2'
