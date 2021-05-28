@@ -45,6 +45,7 @@
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
 * [ComplexUpset](https://cran.r-project.org/web/packages/ComplexUpset/index.html): Create Complex UpSet Plots Using 'ggplot2' Components
 * [concaveman](https://cran.r-project.org/web/packages/concaveman/index.html): A Very Fast 2D Concave Hull Algorithm
+* [corrplot](https://cran.r-project.org/web/packages/corrplot/index.html): Visualization of a Correlation Matrix
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
 * [crayon](https://cran.r-project.org/web/packages/crayon/index.html): Colored Terminal Output
 * [CrossICC](https://www.bioconductor.org/packages/release/bioc/html/CrossICC.html): An Interactive Consensus Clustering Framework for Multi-platform Data Analysis
@@ -320,6 +321,7 @@
 * [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
 * [xaringan](https://cran.r-project.org/web/packages/xaringan/index.html): Presentation Ninja
 * [xgboost](https://cran.r-project.org/web/packages/xgboost/index.html): Extreme Gradient Boosting
+* [xlsx](https://cran.r-project.org/web/packages/xlsx/index.html): Read, Write, Format Excel 2007 and Excel 97/2000/XP/2003 Files
 * [XML](https://cran.r-project.org/web/packages/XML/index.html): Tools for Parsing and Generating XML Within R and S-Plus
 * []()
 
