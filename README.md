@@ -521,3 +521,17 @@
 * [Does your code stand up to scrutiny?](https://www.nature.com/articles/d41586-018-02741-4)
 * [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/)
 * [[As a reviewer, can I justify requesting data and code be made available even if the journal does not?](https://stats.stackexchange.com/questions/14416/as-a-reviewer-can-i-justify-requesting-data-and-code-be-made-available-even-if)]
+
+# Single-cell databases
+
+| 数据库名称                   | 网址                                           |
+| ---------------------------- | ---------------------------------------------- |
+| CellMarker                   | http://biocc.hrbmu.edu.cn/CellMarker/index.jsp |
+| Mouse Cell Atlas(MCA）       | http://bis.zju.edu.cn/MCA/index.html           |
+| PanglaoDB                    | https://panglaodb.se/index.html                |
+| Single Cell Expression Atlas | https://www.ebi.ac.uk/gxa/sc/home              |
+| Single Cell PORTAL           | https://portals.broadinstitute.org/single_cell |
+| SCPortalen                   | http://single-cell.clst.riken.jp/              |
+| CancerSEA                    | http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp   |
+| SpatialDB                    | https://www.spatialomics.org/SpatialDB         |
+| Human Cell Landscape（HCL）  | http://bis.zju.edu.cn/HCL/                     |
