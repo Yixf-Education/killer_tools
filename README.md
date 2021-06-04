@@ -277,6 +277,7 @@
 * [shinythemes](https://cran.r-project.org/web/packages/shinythemes/index.html): Themes for Shiny
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
 * [simplifyEnrichment](https://bioconductor.org/packages/release/bioc/html/simplifyEnrichment.html): Simplify Functional Enrichment Results
+* [skimr](https://cran.r-project.org/web/packages/skimr/index.html): Compact and Flexible Summaries of Data
 * [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html): Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
 * [sp](https://cran.r-project.org/web/packages/sp/index.html): Classes and Methods for Spatial Data
 * [spatstat](https://cran.r-project.org/web/packages/spatstat/index.html): Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
