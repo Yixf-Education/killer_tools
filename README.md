@@ -16,6 +16,7 @@
 * [beepr](https://cran.r-project.org/web/packages/beepr/index.html): Easily Play Notification Sounds on any Platform
 * [bestglm](https://cran.r-project.org/web/packages/bestglm/index.html): Best Subset GLM and Regression Utilities
 * [bibliometrix](https://cran.r-project.org/web/packages/bibliometrix/index.html): Comprehensive Science Mapping Analysis
+* [bigstatsr](https://cran.r-project.org/web/packages/bigstatsr/index.html)
 * [BiocFileCache](https://bioconductor.org/packages/release/bioc/html/BiocFileCache.html): Manage Files Across Sessions
 * [BioInstaller](https://cran.r-project.org/web/packages/BioInstaller/index.html): Integrator of Bioinformatics Resources
 * [BiocParallel](https://bioconductor.org/packages/release/bioc/html/BiocParallel.html): Bioconductor facilities for parallel evaluation
