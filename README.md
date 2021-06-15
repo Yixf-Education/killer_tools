@@ -16,7 +16,7 @@
 * [beepr](https://cran.r-project.org/web/packages/beepr/index.html): Easily Play Notification Sounds on any Platform
 * [bestglm](https://cran.r-project.org/web/packages/bestglm/index.html): Best Subset GLM and Regression Utilities
 * [bibliometrix](https://cran.r-project.org/web/packages/bibliometrix/index.html): Comprehensive Science Mapping Analysis
-* [bigstatsr](https://cran.r-project.org/web/packages/bigstatsr/index.html)
+* [bigstatsr](https://cran.r-project.org/web/packages/bigstatsr/index.html): Statistical Tools for Filebacked Big Matrices
 * [BiocFileCache](https://bioconductor.org/packages/release/bioc/html/BiocFileCache.html): Manage Files Across Sessions
 * [BioInstaller](https://cran.r-project.org/web/packages/BioInstaller/index.html): Integrator of Bioinformatics Resources
 * [BiocParallel](https://bioconductor.org/packages/release/bioc/html/BiocParallel.html): Bioconductor facilities for parallel evaluation
@@ -117,7 +117,7 @@
 * [ggfortify](https://cran.r-project.org/web/packages/ggfortify/index.html): Data Visualization Tools for Statistical Analysis Results
 * [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html): Draw Gene Arrow Maps in 'ggplot2'
 * [gggibbous](https://cran.r-project.org/web/packages/gggibbous/index.html): Moon Charts, a Pie Chart Alternative
-* [ggh4x](https://cran.rstudio.com/web/packages/ggh4x/index.html)
+* [ggh4x](https://cran.rstudio.com/web/packages/ggh4x/index.html): Hacks for 'ggplot2'
 * [gghalves](https://cran.r-project.org/web/packages/gghalves/index.html): Compose Half-Half Plots Using Your Favourite Geoms
 * [ggheatmap](https://github.com/XiaoLuo-boy/ggheatmap): ggplot2 version of heatmap
 * [ggiraph](https://cran.r-project.org/web/packages/ggiraph/index.html): Make 'ggplot2' Graphics Interactive
@@ -181,6 +181,7 @@
 * [igraph](https://cran.r-project.org/web/packages/igraph/index.html): Network Analysis and Visualization
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
+* [ipred](https://cran.r-project.org/web/packages/ipred/index.html): Improved Predictors
 * [iterators](https://cran.r-project.org/web/packages/iterators/index.html): Provides Iterator Construct
 * [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html): Construct Complex Table with 'kable' and Pipe Syntax
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
@@ -211,7 +212,7 @@
 * [msigdbr](https://cran.r-project.org/web/packages/msigdbr/index.html): MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format
 * [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
 * [multiMiR](https://bioconductor.org/packages/release/bioc/html/multiMiR.html): Integration of multiple microRNA-target databases with their disease and drug associations
-* NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
+* [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
 * [network](https://cran.r-project.org/web/packages/network/index.html): Classes for Relational Data
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html): Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
@@ -260,10 +261,11 @@
 * [ROCit](https://cran.r-project.org/web/packages/ROCit/index.html): Performance Assessment of Binary Classifier with Visualization
 * [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html): Visualizing the Performance of Scoring Classifiers
 * [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
+* [rpart](https://cran.r-project.org/web/packages/rpart/index.html): Recursive Partitioning and Regression Trees
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
 * [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html): R Bindings for 'Selenium WebDriver'
 * [rstan](https://cran.r-project.org/web/packages/rstan/index.html): R Interface to Stan
-* [RTCGA](https://www.bioconductor.org/packages/release/bioc/html/RTCGA.html)
+* [RTCGA](https://www.bioconductor.org/packages/release/bioc/html/RTCGA.html): The Cancer Genome Atlas Data Integration
 * [rticles](https://cran.r-project.org/web/packages/rticles/index.html): Article Formats for R Markdown
 * [rtracklayer](https://bioconductor.org/packages/release/bioc/html/rtracklayer.html): R interface to genome annotation files and the UCSC genome browser
 * [RVA](https://cran.r-project.org/web/packages/RVA/index.html): RNAseq Visualization Automation
