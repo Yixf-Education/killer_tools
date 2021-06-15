@@ -117,6 +117,7 @@
 * [ggfortify](https://cran.r-project.org/web/packages/ggfortify/index.html): Data Visualization Tools for Statistical Analysis Results
 * [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html): Draw Gene Arrow Maps in 'ggplot2'
 * [gggibbous](https://cran.r-project.org/web/packages/gggibbous/index.html): Moon Charts, a Pie Chart Alternative
+* [ggh4x](https://cran.rstudio.com/web/packages/ggh4x/index.html)
 * [gghalves](https://cran.r-project.org/web/packages/gghalves/index.html): Compose Half-Half Plots Using Your Favourite Geoms
 * [ggheatmap](https://github.com/XiaoLuo-boy/ggheatmap): ggplot2 version of heatmap
 * [ggiraph](https://cran.r-project.org/web/packages/ggiraph/index.html): Make 'ggplot2' Graphics Interactive
