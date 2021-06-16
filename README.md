@@ -226,7 +226,7 @@
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
 * [pathview](https://www.bioconductor.org/packages/release/bioc/html/pathview.html): a tool set for pathway based data integration and visualization
 * [patternplot](https://cran.r-project.org/web/packages/patternplot/index.html): Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
-* [Bioconductor - PCAtools](https://bioconductor.org/packages/release/bioc/html/PCAtools.html): Everything Principal Components Analysis
+* [PCAtools](https://bioconductor.org/packages/release/bioc/html/PCAtools.html): Everything Principal Components Analysis
 * [pdftables](https://cran.r-project.org/web/packages/pdftables/index.html): Programmatic Conversion of PDF Tables
 * [pdftools](https://cran.r-project.org/web/packages/pdftools/index.html): Text Extraction, Rendering and Converting of PDF Documents
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
