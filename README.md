@@ -258,6 +258,7 @@
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
 * [riverplot](https://cran.r-project.org/web/packages/riverplot/index.html): Sankey or Ribbon Plots
 * [rmdformats](https://cran.r-project.org/web/packages/rmdformats/index.html): HTML Output Formats and Templates for 'rmarkdown' Documents
+* [rms](https://cran.r-project.org/web/packages/rms/index.html): Regression Modeling Strategies
 * [ROCit](https://cran.r-project.org/web/packages/ROCit/index.html): Performance Assessment of Binary Classifier with Visualization
 * [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html): Visualizing the Performance of Scoring Classifiers
 * [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
