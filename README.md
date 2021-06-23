@@ -288,6 +288,7 @@
 * [sp](https://cran.r-project.org/web/packages/sp/index.html): Classes and Methods for Spatial Data
 * [spatstat](https://cran.r-project.org/web/packages/spatstat/index.html): Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
 * [splines2](https://cran.r-project.org/web/packages/splines2/index.html): Regression Spline Functions and Classes
+* [statmod](https://cran.r-project.org/web/packages/statmod/index.html): Statistical Modeling
 * [stm](https://cran.r-project.org/web/packages/stm/index.html): Estimation of the Structural Topic Model
 * [STRINGdb](https://www.bioconductor.org/packages/release/bioc/html/STRINGdb.html): Search Tool for the Retrieval of Interacting proteins database
 * [stringdist](https://cran.r-project.org/web/packages/stringdist/index.html): Approximate String Matching, Fuzzy Text Search, and String Distance Functions
