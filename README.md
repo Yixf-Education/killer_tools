@@ -5,6 +5,7 @@
 * [**Awesome R**](https://github.com/qinwf/awesome-R): **A curated list of awesome R packages and tools.**
 * [**15 Essential packages in R for Data Science**](https://finnstats.com/index.php/2021/04/07/essential-packages-in-r/)
 * [**awesome-ggplot2**](https://github.com/erikgahner/awesome-ggplot2): **A curated list of awesome ggplot2 tutorials, packages etc.**
+* [**CRAN Task Views**](https://cran.r-project.org/web/views/)
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
@@ -52,6 +53,7 @@
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
 * [crayon](https://cran.r-project.org/web/packages/crayon/index.html): Colored Terminal Output
 * [CrossICC](https://www.bioconductor.org/packages/release/bioc/html/CrossICC.html): An Interactive Consensus Clustering Framework for Multi-platform Data Analysis
+* [ctv](https://cran.r-project.org/web/packages/ctv/index.html): CRAN Task Views
 * [curatedTCGAData](https://bioconductor.org/packages/release/data/experiment/html/curatedTCGAData.html): Curated Data From The Cancer Genome Atlas (TCGA) as MultiAssayExperiment Objects
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
 * [data.table](https://cran.r-project.org/web/packages/data.table/index.html): Extension of 'data.frame'
