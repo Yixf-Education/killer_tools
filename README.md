@@ -256,6 +256,7 @@
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html): Bindings for the 'Geospatial' Data Abstraction Library
 * [rgl](https://cran.r-project.org/web/packages/rgl/index.html): 3D Visualization Using OpenGL
 * [rhub](https://github.com/r-hub/rhub): a multi-platform build and check service for R packages
+* [RImagePalette](https://cran.r-project.org/web/packages/RImagePalette/index.html): Extract the Colors from Images
 * [rio](https://cran.r-project.org/web/packages/rio/index.html): A Swiss-Army Knife for Data I/O
 * [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
