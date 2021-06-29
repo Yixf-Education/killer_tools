@@ -306,6 +306,7 @@
 * [tagger](https://github.com/eliocamp/tagger): Adds tags to 'ggpot2' facets
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
 * [TCGAutils](https://bioconductor.org/packages/release/bioc/html/TCGAutils.html): A suite of helper functions for checking and manipulating TCGA data including data obtained from the curatedTCGAData experiment package. These functions aim to simplify and make working with TCGA data more manageable.
+* [TCseq](https://bioconductor.org/packages/release/bioc/html/TCseq.html): Time course sequencing data analysis
 * [tesseract](https://cran.r-project.org/web/packages/tesseract/index.html): Open Source OCR Engine
 * [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis
 * [tidybulk](https://www.bioconductor.org/packages/release/bioc/html/tidybulk.html): Brings transcriptomics to the tidyverse
