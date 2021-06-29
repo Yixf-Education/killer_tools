@@ -291,6 +291,7 @@
 * [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html): Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
 * [sp](https://cran.r-project.org/web/packages/sp/index.html): Classes and Methods for Spatial Data
 * [spatstat](https://cran.r-project.org/web/packages/spatstat/index.html): Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
+* [spiralize](https://github.com/jokergoo/spiralize): Visualize data on spirals
 * [splines2](https://cran.r-project.org/web/packages/splines2/index.html): Regression Spline Functions and Classes
 * [statmod](https://cran.r-project.org/web/packages/statmod/index.html): Statistical Modeling
 * [stm](https://cran.r-project.org/web/packages/stm/index.html): Estimation of the Structural Topic Model
