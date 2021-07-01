@@ -240,6 +240,7 @@
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
 * [qgraph](https://cran.r-project.org/web/packages/qgraph/index.html): Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
 * [qqman](https://cran.r-project.org/web/packages/qqman/index.html): Q-Q and Manhattan Plots for GWAS Data
+* [qqplotr](https://cran.r-project.org/web/packages/qqplotr/index.html): Quantile-Quantile Plot Extensions for 'ggplot2'
 * [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html): Quantitative Financial Modelling Framework
 * [qvalue](http://www.bioconductor.org/packages/release/bioc/html/qvalue.html): Q-value estimation for false discovery rate control
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
