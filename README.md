@@ -223,6 +223,7 @@
 * [openair](https://cran.r-project.org/web/packages/openair/index.html): Tools for the Analysis of Air Pollution Data
 * [openxlsx](https://cran.r-project.org/web/packages/openxlsx/index.html): Read, Write and Edit xlsx Files
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
+* [overviewR](https://cran.r-project.org/web/packages/overviewR/index.html): Easily Extracting Information About Your Data
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [pak](https://cran.r-project.org/web/packages/pak/index.html): Another Approach to Package Installation
 * [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
