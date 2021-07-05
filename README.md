@@ -113,6 +113,7 @@
 * [ggchicklet](https://github.com/hrbrmstr/ggchicklet): Create Chicklet (Rounded Segmented Column) Charts
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/index.html): Visualization of a Correlation Matrix using 'ggplot2'
+* [ggcyto](https://www.bioconductor.org/packages/release/bioc/html/ggcyto.html): Visualize Cytometry data with ggplot
 * [ggDCA](https://cran.r-project.org/web/packages/ggDCA/index.html): Calculate and Plot Decision Curve
 * [ggdendro](https://cran.r-project.org/web/packages/ggdendro/index.html): Create Dendrograms and Tree Diagrams Using 'ggplot2'
 * [ggExtra](https://cran.r-project.org/web/packages/ggExtra/index.html): Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
