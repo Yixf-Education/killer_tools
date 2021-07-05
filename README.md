@@ -330,6 +330,7 @@
 * [vegan](https://cran.r-project.org/web/packages/vegan/index.html): Community Ecology Package
 * [venn](https://cran.r-project.org/web/packages/venn/index.html): Draw Venn Diagrams
 * [VennDiagram](https://cran.r-project.org/web/packages/VennDiagram/index.html): Generate High-Resolution Venn and Euler Plots
+* [viewenhance](https://github.com/kieranjmartin/viewenhance): An add in for RStudio which allows the user to filter and select columns interactively
 * [VIM](https://cran.r-project.org/web/packages/VIM/index.html): Visualization and Imputation of Missing Values
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [visdat](https://cran.r-project.org/web/packages/visdat/index.html): Preliminary Visualisation of Data
