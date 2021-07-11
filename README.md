@@ -82,6 +82,7 @@
 * [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html): Publication-ready volcano plots with enhanced colouring and labeling
 * [eoffice](https://cran.r-project.org/web/packages/eoffice/index.html): Export or Graph and Tables to 'Microsoft' Office and Import Figures and Tables
 * [esquisse](https://cran.r-project.org/web/packages/esquisse/index.html): Explore and Visualize Your Data Interactively
+* [explore](https://cran.r-project.org/web/packages/explore/index.html): Simplifies Exploratory Data Analysis
 * [export](https://github.com/tomwenseleers/export): easily export active R graphs and statistical output in publication quality to Microsoft Office (Word, PowerPoint and Excel), HTML and Latex
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/index.html): Tools for using fonts
 * [ExPosition](https://cran.r-project.org/web/packages/ExPosition/index.html): Exploratory Analysis with the Singular Value Decomposition
