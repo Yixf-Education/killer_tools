@@ -211,6 +211,7 @@
 * [mice](https://cran.r-project.org/web/packages/mice/index.html): Multivariate Imputation by Chained Equations
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
 * [mixOmics](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html): Omics Data Integration Project
+* [MixSim](https://cran.r-project.org/web/packages/MixSim/index.html): Simulating Data to Study Performance of Clustering Algorithms
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
 * [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html): Machine Learning in R - Next Generation
 * [mlr3verse](https://cran.rstudio.com/web/packages/mlr3verse/index.html): Easily Install and Load the 'mlr3' Package Family
