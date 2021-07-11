@@ -51,9 +51,10 @@
 * [concaveman](https://cran.r-project.org/web/packages/concaveman/index.html): A Very Fast 2D Concave Hull Algorithm
 * [corrplot](https://cran.r-project.org/web/packages/corrplot/index.html): Visualization of a Correlation Matrix
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
+* [CRANsearcher](https://cran.r-project.org/web/packages/CRANsearcher/index.html): RStudio Addin for Searching Packages in CRAN Database Based on Keywords
 * [crayon](https://cran.r-project.org/web/packages/crayon/index.html): Colored Terminal Output
 * [CrossICC](https://www.bioconductor.org/packages/release/bioc/html/CrossICC.html): An Interactive Consensus Clustering Framework for Multi-platform Data Analysis
-* [zcrosslink](https://github.com/zzwch/crosslink): Network Visualization Tailed for Grouped Nodes
+* [crosslink](https://github.com/zzwch/crosslink): Network Visualization Tailed for Grouped Nodes
 * [ctv](https://cran.r-project.org/web/packages/ctv/index.html): CRAN Task Views
 * [curatedTCGAData](https://bioconductor.org/packages/release/data/experiment/html/curatedTCGAData.html): Curated Data From The Cancer Genome Atlas (TCGA) as MultiAssayExperiment Objects
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
