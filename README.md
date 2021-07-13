@@ -42,6 +42,7 @@
 * [clock](https://cran.r-project.org/web/packages/clock/index.html): Date-Time Types and Tools
 * [cluster](https://cran.r-project.org/web/packages/cluster/index.html): "Finding Groups in Data": Cluster Analysis Extended Rousseeuw et al.
 * [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html): statistical analysis and visualization of functional profiles for genes and gene clusters
+* [cmprsk](https://cran.r-project.org/web/packages/cmprsk/index.html): Subdistribution Analysis of Competing Risks
 * [cola](https://www.bioconductor.org/packages/release/bioc/html/cola.html): A Framework for Consensus Partitioning
 * [colorfindr](https://github.com/zumbov2/colorfindr): Extracts colors from various image types, plots treemaps and 3D scatterplots of color compositions, create color palettes
 * [colorfulVennPlot](https://cran.r-project.org/web/packages/colorfulVennPlot/index.html): Plot and add custom coloring to Venn diagrams for 2-dimensional, 3-dimensional and 4-dimensional data
