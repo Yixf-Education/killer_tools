@@ -33,6 +33,7 @@
 * [canvasXpress](https://cran.r-project.org/web/packages/canvasXpress/index.html): Visualization Package for CanvasXpress in R
 * [car](https://cran.r-project.org/web/packages/car/index.html): Companion to Applied Regression
 * [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
+* [cartography](https://cran.r-project.org/web/packages/cartography/index.html): Thematic Cartography
 * [caTools](https://cran.r-project.org/web/packages/caTools/index.html): Tools: Moving Window Statistics, GIF, Base64, ROC AUC, etc
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
@@ -204,6 +205,7 @@
 * [Map2NCBI](https://cran.r-project.org/web/packages/Map2NCBI/index.html): Mapping Markers to the Nearest Genomic Feature
 * [mapdeck](https://cran.r-project.org/web/packages/mapdeck/index.html): Interactive Maps Using 'Mapbox GL JS' and 'Deck.gl'
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
+* [mapsf](https://cran.r-project.org/web/packages/mapsf/index.html): Thematic Cartography
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
 * [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
 * [MetaboSignal](https://bioconductor.org/packages/release/bioc/html/MetaboSignal.html): a network-based approach to overlay and explore metabolic and signaling KEGG pathways
