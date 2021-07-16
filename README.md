@@ -443,6 +443,7 @@
 * [bioDBnet](https://biodbnet-abcc.ncifcrf.gov/): biological DataBase network
 * [iTOL](https://itol.embl.de/): Interactive Tree Of Life
 * [ETE](http://etetoolkit.org/treeview/): Phylogenetic tree (newick) viewer, 在线可视化进化树和多序列比对
+* [easyGEO](https://easygeo.cn/#/): 一站式 GEO 数据分析平台
 
 ## scRNA
 * [scRNA-tools](https://www.scrna-tools.org/table)
