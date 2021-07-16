@@ -6,6 +6,7 @@
 * [**15 Essential packages in R for Data Science**](https://finnstats.com/index.php/2021/04/07/essential-packages-in-r/)
 * [**awesome-ggplot2**](https://github.com/erikgahner/awesome-ggplot2): **A curated list of awesome ggplot2 tutorials, packages etc.**
 * [**CRAN Task Views**](https://cran.r-project.org/web/views/)
+* [**addinslist**](https://github.com/daattali/addinslist): **Discover and install useful RStudio addins**
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
