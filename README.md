@@ -100,6 +100,7 @@
 * [forcats](https://cran.r-project.org/web/packages/forcats/index.html): Tools for Working with Categorical Variables (Factors)
 * [foreach](https://cran.r-project.org/web/packages/foreach/index.html): Provides Foreach Looping Construct
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
+* [forestplot](https://cran.r-project.org/web/packages/forestplot/index.html): Advanced Forest Plot Using 'grid' Graphics
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
@@ -126,6 +127,7 @@
 * [ggdendro](https://cran.r-project.org/web/packages/ggdendro/index.html): Create Dendrograms and Tree Diagrams Using 'ggplot2'
 * [ggExtra](https://cran.r-project.org/web/packages/ggExtra/index.html): Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
+* [ggforestplot](https://github.com/NightingaleHealth/ggforestplot): An R package to create forestplots of measures of effects with their confidence intervals.
 * [ggfortify](https://cran.r-project.org/web/packages/ggfortify/index.html): Data Visualization Tools for Statistical Analysis Results
 * [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html): Draw Gene Arrow Maps in 'ggplot2'
 * [gggibbous](https://cran.r-project.org/web/packages/gggibbous/index.html): Moon Charts, a Pie Chart Alternative
