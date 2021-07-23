@@ -201,6 +201,7 @@
 * [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html): Construct Complex Table with 'kable' and Pipe Syntax
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
 * [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html): Client-side REST access to the Kyoto Encyclopedia of Genes and Genomes (KEGG)
+* [KMunicate](https://cran.r-project.org/web/packages/KMunicate/index.html): KMunicate-Style Kaplan–Meier Plots
 * [LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR): LaCroix Color Palettes for R
 * [latex2exp](https://cran.r-project.org/web/packages/latex2exp/index.html): Use LaTeX Expressions in Plots
 * [learnr](https://cran.r-project.org/web/packages/learnr/index.html): Interactive Tutorials for R
@@ -242,6 +243,7 @@
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [pak](https://cran.r-project.org/web/packages/pak/index.html): Another Approach to Package Installation
 * [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
+* [parttree](https://github.com/grantmcdermott/parttree): Simple package for plotting decision tree partitions in R
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
 * [pathview](https://www.bioconductor.org/packages/release/bioc/html/pathview.html): a tool set for pathway based data integration and visualization
 * [patternplot](https://cran.r-project.org/web/packages/patternplot/index.html): Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
@@ -255,6 +257,7 @@
 * [prettydoc](https://cran.r-project.org/web/packages/prettydoc/index.html): Creating Pretty Documents from R Markdown
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
 * [qgraph](https://cran.r-project.org/web/packages/qgraph/index.html): Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
+* [qqboxplot](https://cran.rstudio.com/web/packages/qqboxplot/index.html): Implementation of the Q-Q Boxplot
 * [qqman](https://cran.r-project.org/web/packages/qqman/index.html): Q-Q and Manhattan Plots for GWAS Data
 * [qqplotr](https://cran.r-project.org/web/packages/qqplotr/index.html): Quantile-Quantile Plot Extensions for 'ggplot2'
 * [quanteda](https://cran.r-project.org/web/packages/quanteda/index.html): Quantitative Analysis of Textual Data
@@ -449,6 +452,7 @@
 * [iTOL](https://itol.embl.de/): Interactive Tree Of Life
 * [ETE](http://etetoolkit.org/treeview/): Phylogenetic tree (newick) viewer, 在线可视化进化树和多序列比对
 * [easyGEO](https://easygeo.cn/#/): 一站式 GEO 数据分析平台
+* [Quickomics](http://quickomics.bxgenomics.com/): 表达数据分析工具
 
 ## scRNA
 * [scRNA-tools](https://www.scrna-tools.org/table)
