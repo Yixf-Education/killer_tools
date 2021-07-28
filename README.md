@@ -179,6 +179,7 @@
 * [glmSparseNet](https://www.bioconductor.org/packages/release/bioc/html/glmSparseNet.html): Network Centrality Metrics for Elastic-Net Regularized Models
 * [glue](https://cran.r-project.org/web/packages/glue/index.html): Interpreted String Literals
 * [GOplot](http://wencke.github.io/): Visualization of Functional Analysis Data
+* [GOSemSim](https://bioconductor.org/packages/release/bioc/html/GOSemSim.html): GO-terms Semantic Similarity Measures
 * [gplots](https://cran.r-project.org/web/packages/gplots/index.html): Various R Programming Tools for Plotting Data
 * [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
 * [GSEABase](https://bioconductor.org/packages/release/bioc/html/GSEABase.html): Gene set enrichment data structures and methods
