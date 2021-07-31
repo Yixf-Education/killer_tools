@@ -104,6 +104,7 @@
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/index.html): Advanced Forest Plot Using 'grid' Graphics
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
+* [ganttrify](https://github.com/giocomai/ganttrify): Create beautiful Gantt charts with ggplot2
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
 * [gdata](https://cran.r-project.org/web/packages/gdata/index.html): Various R Programming Tools for Data Manipulation
 * [GDCRNATools](https://bioconductor.org/packages/release/bioc/html/GDCRNATools.html): an R/Bioconductor package for integrative analysis of lncRNA, mRNA, and miRNA data in GDC
@@ -366,6 +367,7 @@
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
 * [VSURF](https://cran.r-project.org/web/packages/VSURF/index.html): Variable Selection Using Random Forests
+* [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html): A Wes Anderson Palette Generator
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html): Word Clouds
 * [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
