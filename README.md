@@ -139,6 +139,7 @@
 * [ggheatmap](https://cran.r-project.org/web/packages/ggheatmap/index.html): Plot Heatmap
 * [ggiraph](https://cran.r-project.org/web/packages/ggiraph/index.html): Make 'ggplot2' Graphics Interactive
 * [ggimage](https://cran.r-project.org/web/packages/ggimage/index.html): Use Image in 'ggplot2'
+* [ggimg](https://cran.r-project.org/web/packages/ggimg/index.html): Graphics Layers for Plotting Image Data with 'ggplot2'
 * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html): Spatial Visualization with ggplot2
 * [ggmcmc](https://cran.r-project.org/web/packages/ggmcmc/index.html): Tools for Analyzing MCMC Simulations from Bayesian Inference
 * [ggmsa](https://cran.r-project.org/web/packages/ggmsa/index.html): Plot Multiple Sequence Alignment using 'ggplot2'
