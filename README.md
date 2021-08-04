@@ -357,6 +357,7 @@
 * [TSstudio](https://cran.r-project.org/web/packages/TSstudio/index.html): Functions for Time Series Analysis and Forecasting
 * [tufte](https://cran.r-project.org/web/packages/tufte/index.html): Tufte's Styles for R Markdown Documents
 * [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR): Mendelian randomization with GWAS summary data
+* [UCSCXenaShiny](https://cran.r-project.org/web/packages/UCSCXenaShiny/index.html): Interactive Analysis of UCSC Xena Data
 * [UCSCXenaTools](https://cran.r-project.org/web/packages/UCSCXenaTools/index.html): Download and Explore Datasets from UCSC Xena Data Hubs
 * [UpSetR](https://cran.r-project.org/web/packages/UpSetR/index.html): A More Scalable Alternative to Venn and Euler Diagrams for Visualizing Intersecting Sets
 * [vegan](https://cran.r-project.org/web/packages/vegan/index.html): Community Ecology Package
