@@ -30,6 +30,7 @@
 * [bnlearn](https://cran.r-project.org/web/packages/bnlearn/index.html): Bayesian Network Structure Learning, Parameter Learning and Inference
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
 * [Boruta](https://cran.r-project.org/web/packages/Boruta/index.html): Wrapper Algorithm for All Relevant Feature Selection
+* [brranching](https://cran.r-project.org/web/packages/brranching/index.html): Fetch 'Phylogenies' from Many Sources
 * [calendR](https://cran.r-project.org/web/packages/calendR/index.html): Ready to Print Monthly and Yearly Calendars Made with 'ggplot2'
 * [canvasXpress](https://cran.r-project.org/web/packages/canvasXpress/index.html): Visualization Package for CanvasXpress in R
 * [car](https://cran.r-project.org/web/packages/car/index.html): Companion to Applied Regression
@@ -174,6 +175,7 @@
 * [ggthemes](https://cran.r-project.org/web/packages/ggthemes/index.html): Extra Themes, Scales and Geoms for 'ggplot2'
 * [ggTimeSeries](https://cran.r-project.org/web/packages/ggTimeSeries/index.html): Time Series Visualisations Using the Grammar of Graphics
 * [ggtree](https://www.bioconductor.org/packages/release/bioc/html/ggtree.html): an R package for visualization of tree and annotation data
+* [ggtreeExtra](https://bioconductor.org/packages/release/bioc/html/ggtreeExtra.html): An R Package To Add Geometric Layers On Circular Or Other Layout Tree Of "ggtree"
 * [ggupset](https://github.com/const-ae/ggupset): Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * [ggvenn](https://cran.r-project.org/web/packages/ggvenn/index.html): Draw Venn Diagram by 'ggplot2'
 * [ggVennDiagram](https://cran.r-project.org/web/packages/ggVennDiagram/index.html): A 'ggplot2' Implement of Venn Diagram
