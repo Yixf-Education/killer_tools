@@ -97,6 +97,7 @@
 * [FactoMineR](https://cran.r-project.org/web/packages/FactoMineR/index.html): Multivariate Exploratory Data Analysis and Data Mining
 * [fgsea](https://bioconductor.org/packages/release/bioc/html/fgsea.html): Fast Gene Set Enrichment Analysis
 * [fields](https://mran.microsoft.com/snapshot/2017-02-04/web/packages/fields/index.html): Tools for Spatial Data
+* [FindIT2](https://bioconductor.org/packages/devel/bioc/html/FindIT2.html): find influential TF and Target based on multi-omics data
 * [filehash](https://cran.r-project.org/web/packages/filehash/index.html): Simple Key-Value Database
 * [flextable](https://cran.r-project.org/web/packages/flextable/index.html): Functions for Tabular Reporting
 * [forcats](https://cran.r-project.org/web/packages/forcats/index.html): Tools for Working with Categorical Variables (Factors)
