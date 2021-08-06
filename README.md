@@ -467,6 +467,7 @@
 * [easyGEO](https://easygeo.cn/#/): 一站式 GEO 数据分析平台
 * [Quickomics](http://quickomics.bxgenomics.com/): 表达数据分析工具
 * [EvolView](https://www.evolgenius.info/evolview/#login): a webserver for visualization, annotation, and management of phylogenetic trees
+* [kingfisher-download](https://github.com/wwood/kingfisher-download): Easier download/extract of FASTA/Q read data from the ENA, NCBI, AWS or GCP.
 
 ## scRNA
 * [scRNA-tools](https://www.scrna-tools.org/table)
