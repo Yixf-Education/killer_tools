@@ -225,6 +225,7 @@
 * [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
 * [MetaboSignal](https://bioconductor.org/packages/release/bioc/html/MetaboSignal.html): a network-based approach to overlay and explore metabolic and signaling KEGG pathways
 * [MEGENA](https://cran.r-project.org/web/packages/MEGENA/index.html): Multiscale Clustering of Geometrical Network
+* [memes](https://www.bioconductor.org/packages/release/bioc/html/memes.html): motif matching, comparison, and de novo discovery using the MEME Suite
 * [meshes](https://bioconductor.org/packages/release/bioc/html/meshes.html): MeSH Enrichment and Semantic analyses
 * [Mfuzz](https://www.bioconductor.org/packages/release/bioc/html/Mfuzz.html): Soft clustering of time series gene expression data
 * [mice](https://cran.r-project.org/web/packages/mice/index.html): Multivariate Imputation by Chained Equations
