@@ -104,6 +104,7 @@
 * [foreach](https://cran.r-project.org/web/packages/foreach/index.html): Provides Foreach Looping Construct
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/index.html): Advanced Forest Plot Using 'grid' Graphics
+* [FunnelPlotR](https://cran.r-project.org/web/packages/FunnelPlotR/index.html): Funnel Plots for Comparing Institutional Performance
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
 * [ganttrify](https://github.com/giocomai/ganttrify): Create beautiful Gantt charts with ggplot2
@@ -227,6 +228,7 @@
 * [MEGENA](https://cran.r-project.org/web/packages/MEGENA/index.html): Multiscale Clustering of Geometrical Network
 * [memes](https://www.bioconductor.org/packages/release/bioc/html/memes.html): motif matching, comparison, and de novo discovery using the MEME Suite
 * [meshes](https://bioconductor.org/packages/release/bioc/html/meshes.html): MeSH Enrichment and Semantic analyses
+* [metafor](https://cran.r-project.org/web/packages/metafor/index.html): Meta-Analysis Package for R
 * [Mfuzz](https://www.bioconductor.org/packages/release/bioc/html/Mfuzz.html): Soft clustering of time series gene expression data
 * [mice](https://cran.r-project.org/web/packages/mice/index.html): Multivariate Imputation by Chained Equations
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
