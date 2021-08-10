@@ -280,6 +280,7 @@
 * [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html): Breiman and Cutler's Random Forests for Classification and Regression
 * [rattle](https://cran.r-project.org/web/packages/rattle/index.html): Graphical User Interface for Data Science in R
 * [rayshader](https://cran.r-project.org/web/packages/rayshader/index.html): Create Maps and Visualize Data in 2D and 3D
+* [rCharts](https://github.com/ramnathv/rCharts): Interactive JS Charts from R
 * [RCircos](https://cran.r-project.org/web/packages/RCircos/index.html): Circos 2D Track Plot
 * [RcisTarget](https://www.bioconductor.org/packages/release/bioc/html/RcisTarget.html): RcisTarget Identify transcription factor binding motifs enriched on a list of genes or genomic regions
 * [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html): ColorBrewer Palettes
