@@ -54,6 +54,7 @@
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
 * [ComplexUpset](https://cran.r-project.org/web/packages/ComplexUpset/index.html): Create Complex UpSet Plots Using 'ggplot2' Components
 * [concaveman](https://cran.r-project.org/web/packages/concaveman/index.html): A Very Fast 2D Concave Hull Algorithm
+* [conflicted](https://cran.r-project.org/web/packages/conflicted/index.html): An Alternative Conflict Resolution Strategy
 * [correlation](https://cran.r-project.org/web/packages/correlation/index.html): Methods for Correlation Analysis
 * [corrplot](https://cran.r-project.org/web/packages/corrplot/index.html): Visualization of a Correlation Matrix
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
