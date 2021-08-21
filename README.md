@@ -11,6 +11,7 @@
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
 * [AnnotationHub](https://bioconductor.org/packages/release/bioc/html/AnnotationHub.html): Client to access AnnotationHub resources
+* [apcluster](https://cran.r-project.org/web/packages/apcluster/index.html): Affinity Propagation Clustering
 * [aplot](https://cran.r-project.org/web/packages/aplot/index.html): Decorate a 'ggplot' with Associated Information
 * [arules](https://cran.r-project.org/web/packages/arules/index.html): Mining Association Rules and Frequent Itemsets
 * [arulesViz](https://cran.r-project.org/web/packages/arulesViz/index.html): Visualizing Association Rules and Frequent Itemsets
@@ -68,6 +69,7 @@
 * [data.table](https://cran.r-project.org/web/packages/data.table/index.html): Extension of 'data.frame'
 * [DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/index.html): Automate Data Exploration and Treatment
 * [datapasta](https://github.com/MilesMcBain/datapasta): is about reducing resistance associated with copying and pasting data to and from R
+* [datarium](https://cran.r-project.org/web/packages/datarium/index.html): Data Bank for Statistical Analysis and Visualization
 * [datasauRus](https://cran.r-project.org/web/packages/datasauRus/index.html): Datasets from the Datasaurus Dozen
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
 * [DescrTab2](https://cran.r-project.org/web/packages/DescrTab2/index.html): Publication Quality Descriptive Statistics Tables
@@ -85,9 +87,11 @@
 * [EasyStat](https://github.com/taowenmicro/EasyStat): 差异分析完整解决方案
 * [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html): Image processing and analysis toolbox for R
 * [egg](https://cran.r-project.org/web/packages/egg/index.html): Extensions for 'ggplot2': Custom Geom, Custom Themes, Plot Alignment, Labelled Panels, Symmetric Scales, and Fixed Panel Size
+* [emmeans](https://cran.r-project.org/web/packages/emmeans/index.html): Estimated Marginal Means, aka Least-Squares Means
 * [emojifont](https://cran.r-project.org/web/packages/emojifont/index.html): Emoji and Font Awesome in Graphics
 * [enrichplot](https://bioconductor.org/packages/release/bioc/html/enrichplot.html): Visualization of Functional Enrichment Result
 * [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html): Publication-ready volcano plots with enhanced colouring and labeling
+* [EnrichedHeatmap](https://bioconductor.org/packages/release/bioc/html/EnrichedHeatmap.html): Making Enriched Heatmaps
 * [eoffice](https://cran.r-project.org/web/packages/eoffice/index.html): Export or Graph and Tables to 'Microsoft' Office and Import Figures and Tables
 * [esquisse](https://cran.r-project.org/web/packages/esquisse/index.html): Explore and Visualize Your Data Interactively
 * [explore](https://cran.r-project.org/web/packages/explore/index.html): Simplifies Exploratory Data Analysis
@@ -105,6 +109,7 @@
 * [foreach](https://cran.r-project.org/web/packages/foreach/index.html): Provides Foreach Looping Construct
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/index.html): Advanced Forest Plot Using 'grid' Graphics
+* [fpc](https://cran.r-project.org/web/packages/fpc/index.html): Flexible Procedures for Clustering
 * [FunnelPlotR](https://cran.r-project.org/web/packages/FunnelPlotR/index.html): Funnel Plots for Comparing Institutional Performance
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
@@ -225,9 +230,11 @@
 * [mapsf](https://cran.r-project.org/web/packages/mapsf/index.html): Thematic Cartography
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
 * [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
+* [mclust](https://cran.r-project.org/web/packages/mclust/index.html): Gaussian Mixture Modelling for Model-Based Clustering, Classification, and Density Estimation
 * [MetaboSignal](https://bioconductor.org/packages/release/bioc/html/MetaboSignal.html): a network-based approach to overlay and explore metabolic and signaling KEGG pathways
 * [MEGENA](https://cran.r-project.org/web/packages/MEGENA/index.html): Multiscale Clustering of Geometrical Network
 * [memes](https://www.bioconductor.org/packages/release/bioc/html/memes.html): motif matching, comparison, and de novo discovery using the MEME Suite
+* [MeSHDbi](https://www.bioconductor.org/packages/release/bioc/html/MeSHDbi.html): DBI to construct MeSH-related package from sqlite file
 * [meshes](https://bioconductor.org/packages/release/bioc/html/meshes.html): MeSH Enrichment and Semantic analyses
 * [metafor](https://cran.r-project.org/web/packages/metafor/index.html): Meta-Analysis Package for R
 * [Mfuzz](https://www.bioconductor.org/packages/release/bioc/html/Mfuzz.html): Soft clustering of time series gene expression data
@@ -242,6 +249,7 @@
 * [moderndive](https://cran.r-project.org/web/packages/moderndive/index.html): Tidyverse-Friendly Introductory Linear Regression
 * [msa](https://bioconductor.org/packages/release/bioc/html/msa.html): Multiple Sequence Alignment
 * [msigdbr](https://cran.r-project.org/web/packages/msigdbr/index.html): MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format
+* [mstate](https://cran.r-project.org/web/packages/mstate/index.html): Data Preparation, Estimation and Prediction in Multi-State Models
 * [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
 * [multiMiR](https://bioconductor.org/packages/release/bioc/html/multiMiR.html): Integration of multiple microRNA-target databases with their disease and drug associations
 * [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
@@ -266,6 +274,7 @@
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
 * [Pi](https://www.bioconductor.org/packages/release/bioc/html/Pi.html): Leveraging Genetic Evidence to Prioritise Drug Targets at the Gene and Pathway Level
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
+* [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
 * [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
 * [prettydoc](https://cran.r-project.org/web/packages/prettydoc/index.html): Creating Pretty Documents from R Markdown
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
@@ -288,6 +297,7 @@
 * [RcisTarget](https://www.bioconductor.org/packages/release/bioc/html/RcisTarget.html): RcisTarget Identify transcription factor binding motifs enriched on a list of genes or genomic regions
 * [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html): ColorBrewer Palettes
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
+* [regplot](https://cran.r-project.org/web/packages/regplot/index.html): Enhanced Regression Nomogram Plot
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
 * [report](https://cran.r-project.org/web/packages/report/index.html): Automated Reporting of Results and Statistical Models
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
@@ -298,6 +308,7 @@
 * [rio](https://cran.r-project.org/web/packages/rio/index.html): A Swiss-Army Knife for Data I/O
 * [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
+* [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
 * [riverplot](https://cran.r-project.org/web/packages/riverplot/index.html): Sankey or Ribbon Plots
 * [rmdformats](https://cran.r-project.org/web/packages/rmdformats/index.html): HTML Output Formats and Templates for 'rmarkdown' Documents
 * [rms](https://cran.r-project.org/web/packages/rms/index.html): Regression Modeling Strategies
@@ -309,6 +320,7 @@
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
 * [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html): R Bindings for 'Selenium WebDriver'
 * [rstan](https://cran.r-project.org/web/packages/rstan/index.html): R Interface to Stan
+* [rstatix](https://cran.r-project.org/web/packages/rstatix/index.html): Pipe-Friendly Framework for Basic Statistical Tests
 * [RTCGA](https://www.bioconductor.org/packages/release/bioc/html/RTCGA.html): The Cancer Genome Atlas Data Integration
 * [rticles](https://cran.r-project.org/web/packages/rticles/index.html): Article Formats for R Markdown
 * [rtracklayer](https://bioconductor.org/packages/release/bioc/html/rtracklayer.html): R interface to genome annotation files and the UCSC genome browser
@@ -318,6 +330,7 @@
 * [sankeywheel](https://cran.r-project.org/web/packages/sankeywheel/index.html): Create Dependency Wheels and Sankey Diagrams
 * [scales](https://cran.r-project.org/web/packages/scales/index.html): Scale Functions for Visualization
 * [scatterpie](https://cran.r-project.org/web/packages/scatterpie/index.html): Scatter Pie Plot
+* [scatterplot3d](https://cran.r-project.org/web/packages/scatterplot3d/index.html): 3D Scatter Plot
 * [scholar](https://cran.r-project.org/web/packages/scholar/index.html): Analyse Citation Data from Google Scholar
 * [see](https://cran.r-project.org/web/packages/see/index.html): Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
@@ -356,6 +369,7 @@
 * [tidytext](https://cran.r-project.org/web/packages/tidytext/index.html): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
 * [tidytidbits](https://cran.r-project.org/web/packages/tidytidbits/index.html): A Collection of Tools and Helpers Extending the Tidyverse
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
+* [timeROC](https://cran.r-project.org/web/packages/timeROC/index.html): Time-Dependent ROC Curve and AUC for Censored Survival Data
 * [timetk](https://cran.r-project.org/web/packages/timetk/index.html): A Tool Kit for Working with Time Series in R
 * [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
@@ -473,6 +487,7 @@
 * [Quickomics](http://quickomics.bxgenomics.com/): 表达数据分析工具
 * [EvolView](https://www.evolgenius.info/evolview/#login): a webserver for visualization, annotation, and management of phylogenetic trees
 * [kingfisher-download](https://github.com/wwood/kingfisher-download): Easier download/extract of FASTA/Q read data from the ENA, NCBI, AWS or GCP.
+* [PathwayMapper](https://www.pathwaymapper.org/): a collaborative visual web editor for cancer pathways and genomic data
 
 ## scRNA
 * [**awesome-single-cell**](https://github.com/seandavi/awesome-single-cell)**: Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.**
@@ -524,6 +539,7 @@
 * [celldex](https://bioconductor.org/packages/release/data/experiment/html/celldex.html): Reference Index for Cell Types
 * [scCancer](https://github.com/wguo-research/scCancer): A package for automated processing of single cell RNA-seq data in cancer
 * [UCell](https://github.com/carmonalab/UCell): An R package for single-cell gene signature scoring
+* [metacell](https://github.com/tanaylab/metacell): Metacell - Single-cell mRNA Analysis
 
 ## [Cancer/Survival-related, 生存分析在线工具 2020 年 4 月吐血整理！](https://mp.weixin.qq.com/s?__biz=Mzg4NjA5Mzg2Mw==&mid=2247488689&idx=2&sn=92818d38ffba4f97fd295dcf51f05857&chksm=cf9fb5f9f8e83cefc35b6a980c125fe8be1b5860f66211594cb27d7419be02f5adcb95588c56&mpshare=1&scene=1&srcid=&sharer_sharetime=1587258755943&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=7024fc3958d21a49f38d5962a504384cb7aa02cfec7d99b587fbbaad39d6f014de6891e0d0d0a1c51311259cc5116c5fda4311d0c4a8bf171a88b52cae8649f6495594a0becdfce753717e6f209ed145&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=Af7QoGlOZcxdXwTntJ6mQfA%3D&pass_ticket=egSQZf3ZmjmNSBYxFfxeMhxks6Fcdfesee2EK45qb6wqbW1FRDSL1ND6vhbrpF2H)
 * [Kaplan Meier-plotter](http://kmplot.com/analysis/index.php)
