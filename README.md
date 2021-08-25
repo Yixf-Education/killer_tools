@@ -7,6 +7,7 @@
 * [**awesome-ggplot2**](https://github.com/erikgahner/awesome-ggplot2): **A curated list of awesome ggplot2 tutorials, packages etc.**
 * [**CRAN Task Views**](https://cran.r-project.org/web/views/)
 * [**addinslist**](https://github.com/daattali/addinslist): **Discover and install useful RStudio addins**
+* [A3](https://cran.r-project.org/web/packages/A3/index.html): Accurate, Adaptable, and Accessible Error Metrics for Predictive Models
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
@@ -308,6 +309,7 @@
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
 * [report](https://cran.r-project.org/web/packages/report/index.html): Automated Reporting of Results and Statistical Models
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
+* [rfPermute](https://cran.r-project.org/web/packages/rfPermute/index.html): Estimate Permutation p-Values for Random Forest Importance Metrics
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html): Bindings for the 'Geospatial' Data Abstraction Library
 * [rgl](https://cran.r-project.org/web/packages/rgl/index.html): 3D Visualization Using OpenGL
 * [rhub](https://github.com/r-hub/rhub): a multi-platform build and check service for R packages
