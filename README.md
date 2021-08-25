@@ -212,6 +212,7 @@
 * [igraph](https://cran.r-project.org/web/packages/igraph/index.html): Network Analysis and Visualization
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
+* [intansv](https://bioconductor.org/packages/release/bioc/html/intansv.html): Integrative analysis of structural variations
 * [ipred](https://cran.r-project.org/web/packages/ipred/index.html): Improved Predictors
 * [iterators](https://cran.r-project.org/web/packages/iterators/index.html): Provides Iterator Construct
 * [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html): Construct Complex Table with 'kable' and Pipe Syntax
