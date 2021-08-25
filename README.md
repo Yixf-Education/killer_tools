@@ -263,6 +263,7 @@
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html): Linear and Nonlinear Mixed Effects Models
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html): Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
+* [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html): High-quality circular visualization of omics data
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
 * [openair](https://cran.r-project.org/web/packages/openair/index.html): Tools for the Analysis of Air Pollution Data
 * [openxlsx](https://cran.r-project.org/web/packages/openxlsx/index.html): Read, Write and Edit xlsx Files
