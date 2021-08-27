@@ -199,6 +199,7 @@
 * [GOplot](http://wencke.github.io/): Visualization of Functional Analysis Data
 * [GOSemSim](https://bioconductor.org/packages/release/bioc/html/GOSemSim.html): GO-terms Semantic Similarity Measures
 * [gplots](https://cran.r-project.org/web/packages/gplots/index.html): Various R Programming Tools for Plotting Data
+* [grafify](https://github.com/ashenoy-cmbi/grafify): Easy grafs, ANOVAs and posthoc comparisons.
 * [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
 * [GSEABase](https://bioconductor.org/packages/release/bioc/html/GSEABase.html): Gene set enrichment data structures and methods
 * [GSVA](https://www.bioconductor.org/packages/release/bioc/html/GSVA.html): Gene Set Variation Analysis for microarray and RNA-seq data
