@@ -124,6 +124,7 @@
 * [GDCRNATools](https://bioconductor.org/packages/release/bioc/html/GDCRNATools.html): an R/Bioconductor package for integrative analysis of lncRNA, mRNA, and miRNA data in GDC
 * [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Representation and manipulation of genomic intervals
 * [geoR](https://cran.r-project.org/web/packages/geoR/index.html): Analysis of Geostatistical Data
+* [geoviz](https://cran.r-project.org/web/packages/geoviz/index.html): Elevation and GPS Data Visualisation
 * [GetoptLong](https://cran.r-project.org/web/packages/GetoptLong/index.html): Parsing Command-Line Arguments and Variable Interpolation
 * [gg.gap](https://cran.r-project.org/web/packages/gg.gap/index.html): Define Segments in y-Axis for 'ggplot2'
 * [ggalluvial](https://cran.r-project.org/web/packages/ggalluvial/index.html): Alluvial Plots in 'ggplot2'
@@ -179,6 +180,7 @@
 * [ggseqlogo](https://cran.r-project.org/web/packages/ggseqlogo/index.html): A 'ggplot2' Extension for Drawing Publication-Ready Sequence Logos
 * [ggsignif](https://cran.r-project.org/web/packages/ggsignif/index.html): Significance Brackets for 'ggplot2'
 * [ggsn](https://cran.r-project.org/web/packages/ggsn/index.html): North Symbols and Scale Bars for Maps Created with 'ggplot2' or 'ggmap'
+* [ggspatial](https://cran.r-project.org/web/packages/ggspatial/index.html): Spatial Data Framework for ggplot2
 * [ggstance](https://cran.r-project.org/web/packages/ggstance/index.html): Horizontal 'ggplot2' Components
 * [ggstar](https://cran.rstudio.com/web/packages/ggstar/index.html): Multiple Geometric Shape Point Layer for 'ggplot2'
 * [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html): 'ggplot2' Based Plots with Statistical Details
@@ -303,6 +305,8 @@
 * [rainette](https://cran.r-project.org/web/packages/rainette/index.html): The Reinert Method for Textual Data Clustering
 * [randomcoloR](https://cran.r-project.org/web/packages/randomcoloR/index.html): Generate Attractive Random Colors
 * [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html): Breiman and Cutler's Random Forests for Classification and Regression
+* [raster](https://cran.r-project.org/web/packages/raster/index.html): Geographic Data Analysis and Modeling
+* [rasterVis](https://cran.r-project.org/web/packages/rasterVis/index.html): Visualization Methods for Raster Data
 * [rattle](https://cran.r-project.org/web/packages/rattle/index.html): Graphical User Interface for Data Science in R
 * [rayshader](https://cran.r-project.org/web/packages/rayshader/index.html): Create Maps and Visualize Data in 2D and 3D
 * [rCharts](https://github.com/ramnathv/rCharts): Interactive JS Charts from R
@@ -378,6 +382,7 @@
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
 * [TCGAutils](https://bioconductor.org/packages/release/bioc/html/TCGAutils.html): A suite of helper functions for checking and manipulating TCGA data including data obtained from the curatedTCGAData experiment package. These functions aim to simplify and make working with TCGA data more manageable.
 * [TCseq](https://bioconductor.org/packages/release/bioc/html/TCseq.html): Time course sequencing data analysis
+* [terra](https://cran.r-project.org/web/packages/terra/index.html): Spatial Data Analysis
 * [tesseract](https://cran.r-project.org/web/packages/tesseract/index.html): Open Source OCR Engine
 * [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis
 * [tidybulk](https://www.bioconductor.org/packages/release/bioc/html/tidybulk.html): Brings transcriptomics to the tidyverse
