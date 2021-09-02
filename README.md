@@ -269,6 +269,7 @@
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html): Linear and Nonlinear Mixed Effects Models
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html): Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
+* [officedown](https://cran.r-project.org/web/packages/officedown/index.html): Enhanced 'R Markdown' Format for 'Word' and 'PowerPoint'
 * [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html): High-quality circular visualization of omics data
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
 * [openair](https://cran.r-project.org/web/packages/openair/index.html): Tools for the Analysis of Air Pollution Data
@@ -302,6 +303,7 @@
 * [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html): Quantile Regression
 * [qvalue](http://www.bioconductor.org/packages/release/bioc/html/qvalue.html): Q-value estimation for false discovery rate control
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
+* [RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots): Code and tutorials to visualise your data that is both beautiful *and* statistically valid
 * [rainette](https://cran.r-project.org/web/packages/rainette/index.html): The Reinert Method for Textual Data Clustering
 * [randomcoloR](https://cran.r-project.org/web/packages/randomcoloR/index.html): Generate Attractive Random Colors
 * [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html): Breiman and Cutler's Random Forests for Classification and Regression
