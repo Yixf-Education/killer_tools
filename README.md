@@ -32,6 +32,7 @@
 * [bnlearn](https://cran.r-project.org/web/packages/bnlearn/index.html): Bayesian Network Structure Learning, Parameter Learning and Inference
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
 * [Boruta](https://cran.r-project.org/web/packages/Boruta/index.html): Wrapper Algorithm for All Relevant Feature Selection
+* [brickr](https://cran.r-project.org/web/packages/brickr/index.html): Emulate LEGO Bricks in 2D and 3D
 * [broom](https://cran.r-project.org/web/packages/broom/index.html): Convert Statistical Objects into Tidy Tibbles
 * [broom.mixed](https://cran.r-project.org/web/packages/broom.mixed/index.html): Tidying Methods for Mixed Models
 * [brranching](https://cran.r-project.org/web/packages/brranching/index.html): Fetch 'Phylogenies' from Many Sources
