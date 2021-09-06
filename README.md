@@ -94,6 +94,7 @@
 * [EasyStat](https://github.com/taowenmicro/EasyStat): 差异分析完整解决方案
 * [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html): Image processing and analysis toolbox for R
 * [egg](https://cran.r-project.org/web/packages/egg/index.html): Extensions for 'ggplot2': Custom Geom, Custom Themes, Plot Alignment, Labelled Panels, Symmetric Scales, and Fixed Panel Size
+* [embed](https://cran.r-project.org/web/packages/embed/index.html): Extra Recipes for Encoding Categorical Predictors
 * [emmeans](https://cran.r-project.org/web/packages/emmeans/index.html): Estimated Marginal Means, aka Least-Squares Means
 * [emojifont](https://cran.r-project.org/web/packages/emojifont/index.html): Emoji and Font Awesome in Graphics
 * [enrichplot](https://bioconductor.org/packages/release/bioc/html/enrichplot.html): Visualization of Functional Enrichment Result
