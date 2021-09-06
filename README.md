@@ -193,6 +193,7 @@
 * [ggtext](https://cran.r-project.org/web/packages/ggtext/index.html): Improved Text Rendering Support for 'ggplot2'
 * [ggThemeAssist](https://cran.r-project.org/web/packages/ggThemeAssist/index.html): Add-in to Customize 'ggplot2' Themes
 * [ggthemes](https://cran.r-project.org/web/packages/ggthemes/index.html): Extra Themes, Scales and Geoms for 'ggplot2'
+* [ggthemr](https://github.com/Mikata-Project/ggthemr): Themes for ggplot2.
 * [ggTimeSeries](https://cran.r-project.org/web/packages/ggTimeSeries/index.html): Time Series Visualisations Using the Grammar of Graphics
 * [ggtree](https://www.bioconductor.org/packages/release/bioc/html/ggtree.html): an R package for visualization of tree and annotation data
 * [ggtreeExtra](https://bioconductor.org/packages/release/bioc/html/ggtreeExtra.html): An R Package To Add Geometric Layers On Circular Or Other Layout Tree Of "ggtree"
@@ -406,6 +407,7 @@
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
 * [TSstudio](https://cran.r-project.org/web/packages/TSstudio/index.html): Functions for Time Series Analysis and Forecasting
 * [tufte](https://cran.r-project.org/web/packages/tufte/index.html): Tufte's Styles for R Markdown Documents
+* [tvthemes](https://cran.r-project.org/web/packages/tvthemes/index.html): TV Show Themes and Color Palettes for 'ggplot2' Graphics
 * [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR): Mendelian randomization with GWAS summary data
 * [UCSCXenaShiny](https://cran.r-project.org/web/packages/UCSCXenaShiny/index.html): Interactive Analysis of UCSC Xena Data
 * [UCSCXenaTools](https://cran.r-project.org/web/packages/UCSCXenaTools/index.html): Download and Explore Datasets from UCSC Xena Data Hubs
