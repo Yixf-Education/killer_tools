@@ -86,6 +86,7 @@
 * [doParallel](https://cran.r-project.org/web/packages/doParallel/index.html): Foreach Parallel Adaptor for the 'parallel' Package
 * [doSNOW](https://cran.r-project.org/web/packages/doSNOW/index.html): Foreach Parallel Adaptor for the 'snow' Package
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
+* [drawProteins](https://bioconductor.org/packages/release/bioc/html/drawProteins.html): Package to Draw Protein Schematics from Uniprot API output
 * [DT](https://cran.r-project.org/web/packages/DT/index.html): A Wrapper of the JavaScript Library 'DataTables'
 * [dynamicTreeCut](https://cran.r-project.org/web/packages/dynamicTreeCut/index.html): Methods for Detection of Clusters in Hierarchical Clustering Dendrograms
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
@@ -150,6 +151,7 @@
 * [ggdendro](https://cran.r-project.org/web/packages/ggdendro/index.html): Create Dendrograms and Tree Diagrams Using 'ggplot2'
 * [ggdist](https://cran.r-project.org/web/packages/ggdist/index.html): Visualizations of Distributions and Uncertainty
 * [ggExtra](https://cran.r-project.org/web/packages/ggExtra/index.html): Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
+* [ggfittext](https://cran.r-project.org/web/packages/ggfittext/index.html): Fit Text Inside a Box in 'ggplot2'
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [ggforestplot](https://github.com/NightingaleHealth/ggforestplot): An R package to create forestplots of measures of effects with their confidence intervals.
 * [ggfortify](https://cran.r-project.org/web/packages/ggfortify/index.html): Data Visualization Tools for Statistical Analysis Results
