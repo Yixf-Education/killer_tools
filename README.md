@@ -120,6 +120,7 @@
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/index.html): Advanced Forest Plot Using 'grid' Graphics
 * [fpc](https://cran.r-project.org/web/packages/fpc/index.html): Flexible Procedures for Clustering
+* [fpp3](https://cran.r-project.org/web/packages/fpp3/index.html): Data for "Forecasting: Principles and Practice" (3rd Edition)
 * [FunnelPlotR](https://cran.r-project.org/web/packages/FunnelPlotR/index.html): Funnel Plots for Comparing Institutional Performance
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
@@ -381,6 +382,7 @@
 * [statmod](https://cran.r-project.org/web/packages/statmod/index.html): Statistical Modeling
 * [stm](https://cran.r-project.org/web/packages/stm/index.html): Estimation of the Structural Topic Model
 * [STRINGdb](https://www.bioconductor.org/packages/release/bioc/html/STRINGdb.html): Search Tool for the Retrieval of Interacting proteins database
+* [sparklyr](https://spark.rstudio.com/): R interface for Apache Spark
 * [stringdist](https://cran.r-project.org/web/packages/stringdist/index.html): Approximate String Matching, Fuzzy Text Search, and String Distance Functions
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
 * [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
@@ -395,10 +397,12 @@
 * [terra](https://cran.r-project.org/web/packages/terra/index.html): Spatial Data Analysis
 * [tesseract](https://cran.r-project.org/web/packages/tesseract/index.html): Open Source OCR Engine
 * [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis
+* [tidybayes](https://cran.r-project.org/web/packages/tidybayes/index.html): Tidy Data and 'Geoms' for Bayesian Models
 * [tidybulk](https://www.bioconductor.org/packages/release/bioc/html/tidybulk.html): Brings transcriptomics to the tidyverse
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
 * [tidygraph](https://cran.r-project.org/web/packages/tidygraph/index.html): A Tidy API for Graph Manipulation
 * [tidymodels](https://cran.r-project.org/web/packages/tidymodels/index.html): Easily Install and Load the 'Tidymodels' Packages
+* [tidyquant](https://cran.r-project.org/web/packages/tidyquant/index.html): Tidy Quantitative Financial Analysis
 * [tidytext](https://cran.r-project.org/web/packages/tidytext/index.html): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
 * [tidytidbits](https://cran.r-project.org/web/packages/tidytidbits/index.html): A Collection of Tools and Helpers Extending the Tidyverse
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
