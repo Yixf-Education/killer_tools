@@ -84,6 +84,7 @@
 * [distill](https://cran.r-project.org/web/packages/distill/index.html): 'R Markdown' Format for Scientific and Technical Writing
 * [doMC](https://cran.r-project.org/web/packages/doMC/index.html): Foreach Parallel Adaptor for 'parallel'
 * [doParallel](https://cran.r-project.org/web/packages/doParallel/index.html): Foreach Parallel Adaptor for the 'parallel' Package
+* [dorothea](https://bioconductor.org/packages/release/data/experiment/html/dorothea.html): Collection Of Human And Mouse TF Regulons
 * [doSNOW](https://cran.r-project.org/web/packages/doSNOW/index.html): Foreach Parallel Adaptor for the 'snow' Package
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [drawProteins](https://bioconductor.org/packages/release/bioc/html/drawProteins.html): Package to Draw Protein Schematics from Uniprot API output
