@@ -426,6 +426,7 @@
 * [VennDiagram](https://cran.r-project.org/web/packages/VennDiagram/index.html): Generate High-Resolution Venn and Euler Plots
 * [viewenhance](https://github.com/kieranjmartin/viewenhance): An add in for RStudio which allows the user to filter and select columns interactively
 * [ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps): Create tabs of View() output for each chained pipe
+* [vidger](https://www.bioconductor.org/packages/release/bioc/html/vidger.html): Create rapid visualizations of RNAseq data in R
 * [VIM](https://cran.r-project.org/web/packages/VIM/index.html): Visualization and Imputation of Missing Values
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [visdat](https://cran.r-project.org/web/packages/visdat/index.html): Preliminary Visualisation of Data
