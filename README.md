@@ -81,6 +81,7 @@
 * [DescrTab2](https://cran.r-project.org/web/packages/DescrTab2/index.html): Publication Quality Descriptive Statistics Tables
 * [dlookr](https://cran.r-project.org/web/packages/dlookr/index.html): Tools for Data Diagnosis, Exploration, Transformation
 * [DNAshapeR](https://www.bioconductor.org/packages/release/bioc/html/DNAshapeR.html): High-throughput prediction of DNA shape features
+* [diffdf](https://cran.r-project.org/web/packages/diffdf/index.html): Dataframe Difference Tool
 * [distill](https://cran.r-project.org/web/packages/distill/index.html): 'R Markdown' Format for Scientific and Technical Writing
 * [doMC](https://cran.r-project.org/web/packages/doMC/index.html): Foreach Parallel Adaptor for 'parallel'
 * [doParallel](https://cran.r-project.org/web/packages/doParallel/index.html): Foreach Parallel Adaptor for the 'parallel' Package
@@ -431,6 +432,7 @@
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
 * [VSURF](https://cran.r-project.org/web/packages/VSURF/index.html): Variable Selection Using Random Forests
+* [waldo](https://cran.r-project.org/web/packages/waldo/index.html): Find Differences Between R Objects
 * [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html): A Wes Anderson Palette Generator
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html): Word Clouds
