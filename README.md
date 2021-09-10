@@ -281,6 +281,7 @@
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html): Linear and Nonlinear Mixed Effects Models
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html): Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
+* [nparcomp](https://cran.r-project.org/web/packages/nparcomp/index.html): Multiple Comparisons and Simultaneous Confidence Intervals
 * [officedown](https://cran.r-project.org/web/packages/officedown/index.html): Enhanced 'R Markdown' Format for 'Word' and 'PowerPoint'
 * [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html): High-quality circular visualization of omics data
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
@@ -302,6 +303,7 @@
 * [Pi](https://www.bioconductor.org/packages/release/bioc/html/Pi.html): Leveraging Genetic Evidence to Prioritise Drug Targets at the Gene and Pathway Level
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
 * [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
+* [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
 * [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
 * [prettydoc](https://cran.r-project.org/web/packages/prettydoc/index.html): Creating Pretty Documents from R Markdown
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
