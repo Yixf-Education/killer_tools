@@ -154,6 +154,7 @@
 * [ggDCA](https://cran.r-project.org/web/packages/ggDCA/index.html): Calculate and Plot Decision Curve
 * [ggdendro](https://cran.r-project.org/web/packages/ggdendro/index.html): Create Dendrograms and Tree Diagrams Using 'ggplot2'
 * [ggdist](https://cran.r-project.org/web/packages/ggdist/index.html): Visualizations of Distributions and Uncertainty
+* [ggeconodist](https://github.com/hrbrmstr/ggeconodist): Create Diminutive Distribution Charts
 * [ggExtra](https://cran.r-project.org/web/packages/ggExtra/index.html): Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
 * [ggfittext](https://cran.r-project.org/web/packages/ggfittext/index.html): Fit Text Inside a Box in 'ggplot2'
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
