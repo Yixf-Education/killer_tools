@@ -623,6 +623,27 @@
 * [iCoMut](http://firebrowse.org/iCoMut/): 癌症的somatic 突变信息全景图
 * [UALCAN](http://ualcan.path.uab.edu/index.html)
 
+## Shiny-related
+
+可以让网页看起来更专业的 R 包：
+
+* shinythemes
+* dashboardthemes
+* shinydashboard
+* shinydashboardPlus
+* shinyjs
+* shinyWidgets
+* shinycssloaders
+* shinyalert
+* shinydisconnect
+* shinybusy
+* DT
+* waiter
+* slickR
+* plotly
+* heatmaply
+* htmlwidgets
+
 # Long read sequencing
 * [LRS-DB](https://long-read-tools.org/): A catalogue of long read sequencing data analysis tools
 
