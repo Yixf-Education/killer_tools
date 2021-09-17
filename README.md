@@ -207,6 +207,7 @@
 * [ggupset](https://github.com/const-ae/ggupset): Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * [ggvenn](https://cran.r-project.org/web/packages/ggvenn/index.html): Draw Venn Diagram by 'ggplot2'
 * [ggVennDiagram](https://cran.r-project.org/web/packages/ggVennDiagram/index.html): A 'ggplot2' Implement of Venn Diagram
+* [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html): Interactive Grammar of Graphics
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html): Lasso and Elastic-Net Regularized Generalized Linear Models
