@@ -7,6 +7,7 @@
 * [**awesome-ggplot2**](https://github.com/erikgahner/awesome-ggplot2): **A curated list of awesome ggplot2 tutorials, packages etc.**
 * [**CRAN Task Views**](https://cran.r-project.org/web/views/)
 * [**addinslist**](https://github.com/daattali/addinslist): **Discover and install useful RStudio addins**
+* [**RStudio Package Manager**](https://packagemanager.rstudio.com/client/#/)
 * [A3](https://cran.r-project.org/web/packages/A3/index.html): Accurate, Adaptable, and Accessible Error Metrics for Predictive Models
 * [ActivePathways](https://cran.r-project.org/web/packages/ActivePathways/index.html): Integrative Pathway Enrichment Analysis of Multivariate Omics Data
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
