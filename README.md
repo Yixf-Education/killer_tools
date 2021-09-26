@@ -110,6 +110,7 @@
 * [exomePeak2](https://bioconductor.org/packages/release/bioc/html/exomePeak2.html): Bias-aware Peak Calling and Quantification for MeRIP-Seq
 * [explore](https://cran.r-project.org/web/packages/explore/index.html): Simplifies Exploratory Data Analysis
 * [export](https://github.com/tomwenseleers/export): easily export active R graphs and statistical output in publication quality to Microsoft Office (Word, PowerPoint and Excel), HTML and Latex
+* [expss](https://cran.r-project.org/web/packages/expss/index.html): Tables, Labels and Some Useful Functions from Spreadsheets and 'SPSS' Statistics
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/index.html): Tools for using fonts
 * [ExPosition](https://cran.r-project.org/web/packages/ExPosition/index.html): Exploratory Analysis with the Singular Value Decomposition
 * [factoextra](https://cran.r-project.org/web/packages/factoextra/index.html): Extract and Visualize the Results of Multivariate Data Analyses
@@ -118,6 +119,7 @@
 * [fields](https://mran.microsoft.com/snapshot/2017-02-04/web/packages/fields/index.html): Tools for Spatial Data
 * [FindIT2](https://bioconductor.org/packages/devel/bioc/html/FindIT2.html): find influential TF and Target based on multi-omics data
 * [filehash](https://cran.r-project.org/web/packages/filehash/index.html): Simple Key-Value Database
+* [finalfit](https://cran.r-project.org/web/packages/finalfit/index.html): Quickly Create Elegant Regression Results Tables and Plots when Modelling
 * [flextable](https://cran.r-project.org/web/packages/flextable/index.html): Functions for Tabular Reporting
 * [forcats](https://cran.r-project.org/web/packages/forcats/index.html): Tools for Working with Categorical Variables (Factors)
 * [foreach](https://cran.r-project.org/web/packages/foreach/index.html): Provides Foreach Looping Construct
@@ -304,6 +306,7 @@
 * [pdftools](https://cran.r-project.org/web/packages/pdftools/index.html): Text Extraction, Rendering and Converting of PDF Documents
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
 * [Pi](https://www.bioconductor.org/packages/release/bioc/html/Pi.html): Leveraging Genetic Evidence to Prioritise Drug Targets at the Gene and Pathway Level
+* [pivottabler](https://cran.r-project.org/web/packages/pivottabler/index.html): Create Pivot Tables
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
 * [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
 * [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
