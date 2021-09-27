@@ -236,6 +236,7 @@
 * [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html): Harrell Miscellaneous
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
 * [httr](https://cran.r-project.org/web/packages/httr/index.html): Tools for Working with URLs and HTTP
+* [huxtable](https://cran.r-project.org/web/packages/huxtable/index.html): Easily Create and Style Tables for LaTeX, HTML and Other Formats
 * [igraph](https://cran.r-project.org/web/packages/igraph/index.html): Network Analysis and Visualization
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
@@ -322,6 +323,7 @@
 * [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html): Quantitative Financial Modelling Framework
 * [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html): Quantile Regression
 * [qvalue](http://www.bioconductor.org/packages/release/bioc/html/qvalue.html): Q-value estimation for false discovery rate control
+* [r2rtf](https://cran.r-project.org/web/packages/r2rtf/index.html): Easily Create Production-Ready Rich Text Format (RTF) Table and Figure
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
 * [RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots): Code and tutorials to visualise your data that is both beautiful *and* statistically valid
 * [rainette](https://cran.r-project.org/web/packages/rainette/index.html): The Reinert Method for Textual Data Clustering
