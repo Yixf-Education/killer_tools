@@ -289,6 +289,7 @@
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html): Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
 * [nparcomp](https://cran.r-project.org/web/packages/nparcomp/index.html): Multiple Comparisons and Simultaneous Confidence Intervals
 * [officedown](https://cran.r-project.org/web/packages/officedown/index.html): Enhanced 'R Markdown' Format for 'Word' and 'PowerPoint'
+* [officer](https://cran.r-project.org/web/packages/officer/index.html): Manipulation of Microsoft Word and PowerPoint Documents
 * [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html): High-quality circular visualization of omics data
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
 * [openair](https://cran.r-project.org/web/packages/openair/index.html): Tools for the Analysis of Air Pollution Data
