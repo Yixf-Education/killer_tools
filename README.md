@@ -243,6 +243,7 @@
 * [intansv](https://bioconductor.org/packages/release/bioc/html/intansv.html): Integrative analysis of structural variations
 * [ipred](https://cran.r-project.org/web/packages/ipred/index.html): Improved Predictors
 * [iterators](https://cran.r-project.org/web/packages/iterators/index.html): Provides Iterator Construct
+* [janitor](https://cran.r-project.org/web/packages/janitor/index.html): Simple Tools for Examining and Cleaning Dirty Data
 * [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html): Construct Complex Table with 'kable' and Pipe Syntax
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
 * [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html): Client-side REST access to the Kyoto Encyclopedia of Genes and Genomes (KEGG)
