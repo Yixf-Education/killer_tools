@@ -456,6 +456,7 @@
 * [xlsx](https://cran.r-project.org/web/packages/xlsx/index.html): Read, Write, Format Excel 2007 and Excel 97/2000/XP/2003 Files
 * [XML](https://cran.r-project.org/web/packages/XML/index.html): Tools for Parsing and Generating XML Within R and S-Plus
 * [xts](https://cran.r-project.org/web/packages/xts/index.html): eXtensible Time Series
+* [ymlthis](https://cran.r-project.org/web/packages/ymlthis/index.html): Write 'YAML' for 'R Markdown', 'bookdown', 'blogdown', and More
 
 ---
 
