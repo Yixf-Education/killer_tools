@@ -39,6 +39,7 @@
 * [broom](https://cran.r-project.org/web/packages/broom/index.html): Convert Statistical Objects into Tidy Tibbles
 * [broom.mixed](https://cran.r-project.org/web/packages/broom.mixed/index.html): Tidying Methods for Mixed Models
 * [brranching](https://cran.r-project.org/web/packages/brranching/index.html): Fetch 'Phylogenies' from Many Sources
+* [bslib](https://cran.r-project.org/web/packages/bslib/index.html): Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'
 * [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr): This package builds bullet charts suitable for tracking KPIs, and used by ACDI/VOCA to track progress against indicators
 * [Cairo](https://cran.r-project.org/web/packages/Cairo/index.html): R Graphics Device using Cairo Graphics Library for Creating High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display (X11 and Win32) Output
 * [calendR](https://cran.r-project.org/web/packages/calendR/index.html): Ready to Print Monthly and Yearly Calendars Made with 'ggplot2'
@@ -637,6 +638,8 @@
 * [UALCAN](http://ualcan.path.uab.edu/index.html)
 
 ## Shiny-related
+
+* [nanxstats/awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions): 🐝 Awesome R packages that offer extended UI or server components for the R web framework Shiny
 
 可以让网页看起来更专业的 R 包：
 
