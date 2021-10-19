@@ -10,6 +10,7 @@
 * [**RStudio Package Manager**](https://packagemanager.rstudio.com/client/#/)
 * [A3](https://cran.r-project.org/web/packages/A3/index.html): Accurate, Adaptable, and Accessible Error Metrics for Predictive Models
 * [ActivePathways](https://cran.r-project.org/web/packages/ActivePathways/index.html): Integrative Pathway Enrichment Analysis of Multivariate Omics Data
+* [adegenet](https://cran.r-project.org/web/packages/adegenet/index.html): Exploratory Analysis of Genetic and Genomic Data
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
@@ -313,6 +314,7 @@
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
 * [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
 * [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
+* [poppr](https://cran.r-project.org/web/packages/poppr/index.html): Genetic Analysis of Populations with Mixed Reproduction
 * [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
 * [prettydoc](https://cran.r-project.org/web/packages/prettydoc/index.html): Creating Pretty Documents from R Markdown
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
@@ -433,6 +435,7 @@
 * [UCSCXenaShiny](https://cran.r-project.org/web/packages/UCSCXenaShiny/index.html): Interactive Analysis of UCSC Xena Data
 * [UCSCXenaTools](https://cran.r-project.org/web/packages/UCSCXenaTools/index.html): Download and Explore Datasets from UCSC Xena Data Hubs
 * [UpSetR](https://cran.r-project.org/web/packages/UpSetR/index.html): A More Scalable Alternative to Venn and Euler Diagrams for Visualizing Intersecting Sets
+* [vcfR](https://cran.r-project.org/web/packages/vcfR/index.html): Manipulate and Visualize VCF Data
 * [vegan](https://cran.r-project.org/web/packages/vegan/index.html): Community Ecology Package
 * [venn](https://cran.r-project.org/web/packages/venn/index.html): Draw Venn Diagrams
 * [VennDiagram](https://cran.r-project.org/web/packages/VennDiagram/index.html): Generate High-Resolution Venn and Euler Plots
