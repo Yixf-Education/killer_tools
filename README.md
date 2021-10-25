@@ -448,6 +448,7 @@
 * [visdat](https://cran.r-project.org/web/packages/visdat/index.html): Preliminary Visualisation of Data
 * [visNetwork](https://cran.r-project.org/web/packages/visNetwork/index.html): Network Visualization using 'vis.js' Library
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
+* [vissE](https://bioconductor.org/packages/release/bioc/html/vissE.html): Visualising Set Enrichment Analysis Results
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
 * [VSURF](https://cran.r-project.org/web/packages/VSURF/index.html): Variable Selection Using Random Forests
 * [waldo](https://cran.r-project.org/web/packages/waldo/index.html): Find Differences Between R Objects
