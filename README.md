@@ -170,6 +170,7 @@
 * [ggh4x](https://cran.rstudio.com/web/packages/ggh4x/index.html): Hacks for 'ggplot2'
 * [gghalves](https://cran.r-project.org/web/packages/gghalves/index.html): Compose Half-Half Plots Using Your Favourite Geoms
 * [ggheatmap](https://cran.r-project.org/web/packages/ggheatmap/index.html): Plot Heatmap
+* [ggHoriPlot](https://cran.r-project.org/web/packages/ggHoriPlot/index.html): Horizon Plots for 'ggplot2'
 * [ggiraph](https://cran.r-project.org/web/packages/ggiraph/index.html): Make 'ggplot2' Graphics Interactive
 * [ggimage](https://cran.r-project.org/web/packages/ggimage/index.html): Use Image in 'ggplot2'
 * [ggimg](https://cran.r-project.org/web/packages/ggimg/index.html): Graphics Layers for Plotting Image Data with 'ggplot2'
