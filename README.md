@@ -67,6 +67,7 @@
 * [concaveman](https://cran.r-project.org/web/packages/concaveman/index.html): A Very Fast 2D Concave Hull Algorithm
 * [conflicted](https://cran.r-project.org/web/packages/conflicted/index.html): An Alternative Conflict Resolution Strategy
 * [correlation](https://cran.r-project.org/web/packages/correlation/index.html): Methods for Correlation Analysis
+* [corrgram](https://cran.r-project.org/web/packages/corrgram/index.html): Plot a Correlogram
 * [corrplot](https://cran.r-project.org/web/packages/corrplot/index.html): Visualization of a Correlation Matrix
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
 * [CRANsearcher](https://cran.r-project.org/web/packages/CRANsearcher/index.html): RStudio Addin for Searching Packages in CRAN Database Based on Keywords
