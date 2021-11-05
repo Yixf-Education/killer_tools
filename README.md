@@ -48,6 +48,7 @@
 * [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
 * [cartography](https://cran.r-project.org/web/packages/cartography/index.html): Thematic Cartography
 * [caTools](https://cran.r-project.org/web/packages/caTools/index.html): Tools: Moving Window Statistics, GIF, Base64, ROC AUC, etc
+* [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
 * [chromoMap](https://cran.r-project.org/web/packages/chromoMap/index.html): Interactive Visualization and Mapping of Chromosomes
@@ -438,6 +439,7 @@
 * [UCSCXenaShiny](https://cran.r-project.org/web/packages/UCSCXenaShiny/index.html): Interactive Analysis of UCSC Xena Data
 * [UCSCXenaTools](https://cran.r-project.org/web/packages/UCSCXenaTools/index.html): Download and Explore Datasets from UCSC Xena Data Hubs
 * [UpSetR](https://cran.r-project.org/web/packages/UpSetR/index.html): A More Scalable Alternative to Venn and Euler Diagrams for Visualizing Intersecting Sets
+* [VariantAnnotation](https://bioconductor.org/packages/release/bioc/html/VariantAnnotation.html): Annotation of Genetic Variants
 * [vcfR](https://cran.r-project.org/web/packages/vcfR/index.html): Manipulate and Visualize VCF Data
 * [vegan](https://cran.r-project.org/web/packages/vegan/index.html): Community Ecology Package
 * [venn](https://cran.r-project.org/web/packages/venn/index.html): Draw Venn Diagrams
