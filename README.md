@@ -390,6 +390,7 @@
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
 * [shinythemes](https://cran.r-project.org/web/packages/shinythemes/index.html): Themes for Shiny
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
+* [sigminer](https://cran.r-project.org/web/packages/sigminer/index.html): Extract, Analyze and Visualize Mutational Signatures for Genomic Variations
 * [simplifyEnrichment](https://bioconductor.org/packages/release/bioc/html/simplifyEnrichment.html): Simplify Functional Enrichment Results
 * [sjlabelled](https://cran.r-project.org/web/packages/sjlabelled/index.html): Labelled Data Utility Functions
 * [sjmisc](https://cran.r-project.org/web/packages/sjmisc/index.html): Data and Variable Transformation Functions
