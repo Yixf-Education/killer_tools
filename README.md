@@ -183,6 +183,7 @@
 * [ggnewscale](https://cran.r-project.org/web/packages/ggnewscale/index.html): Multiple Fill and Colour Scales in 'ggplot2'
 * [ggord](https://github.com/fawda123/ggord): a take on ordination plots using ggplot2
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
+* [ggpattern](https://github.com/coolbutuseless/ggpattern): ggplot geoms with pattern fills
 * [ggplot.multistats](https://cran.r-project.org/web/packages/ggplot.multistats/index.html): Multiple Summary Statistics for Binned Stats/Geometries
 * [ggplotgui](https://cran.r-project.org/web/packages/ggplotgui/index.html): Create Ggplots via a Graphical User Interface
 * [ggplotify](https://cran.r-project.org/web/packages/ggplotify/index.html): Convert Plot to 'grob' or 'ggplot' Object
