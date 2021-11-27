@@ -324,6 +324,7 @@
 * [poppr](https://cran.r-project.org/web/packages/poppr/index.html): Genetic Analysis of Populations with Mixed Reproduction
 * [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
 * [prettydoc](https://cran.r-project.org/web/packages/prettydoc/index.html): Creating Pretty Documents from R Markdown
+* [prismatic](https://cran.r-project.org/web/packages/prismatic/index.html): Color Manipulation Tools
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
 * [psych](https://cran.r-project.org/web/packages/psych/index.html): Procedures for Psychological, Psychometric, and Personality Research
 * [qgraph](https://cran.r-project.org/web/packages/qgraph/index.html): Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
