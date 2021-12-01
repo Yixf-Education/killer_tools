@@ -39,6 +39,7 @@
 * [broom](https://cran.r-project.org/web/packages/broom/index.html): Convert Statistical Objects into Tidy Tibbles
 * [broom.mixed](https://cran.r-project.org/web/packages/broom.mixed/index.html): Tidying Methods for Mixed Models
 * [brranching](https://cran.r-project.org/web/packages/brranching/index.html): Fetch 'Phylogenies' from Many Sources
+* [bruceR](https://cran.r-project.org/web/packages/bruceR/index.html): Broadly Useful Convenient and Efficient R Functions
 * [bslib](https://cran.r-project.org/web/packages/bslib/index.html): Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'
 * [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr): This package builds bullet charts suitable for tracking KPIs, and used by ACDI/VOCA to track progress against indicators
 * [Cairo](https://cran.r-project.org/web/packages/Cairo/index.html): R Graphics Device using Cairo Graphics Library for Creating High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display (X11 and Win32) Output
