@@ -341,6 +341,7 @@
 * [rainette](https://cran.r-project.org/web/packages/rainette/index.html): The Reinert Method for Textual Data Clustering
 * [randomcoloR](https://cran.r-project.org/web/packages/randomcoloR/index.html): Generate Attractive Random Colors
 * [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html): Breiman and Cutler's Random Forests for Classification and Regression
+* [randtoolbox](https://mirrors.sjtug.sjtu.edu.cn/cran/web/packages/randtoolbox/index.html): Toolbox for Pseudo and Quasi Random Number Generation and Random Generator Tests
 * [raster](https://cran.r-project.org/web/packages/raster/index.html): Geographic Data Analysis and Modeling
 * [rasterVis](https://cran.r-project.org/web/packages/rasterVis/index.html): Visualization Methods for Raster Data
 * [rattle](https://cran.r-project.org/web/packages/rattle/index.html): Graphical User Interface for Data Science in R
