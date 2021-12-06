@@ -334,7 +334,7 @@
 * [qgraph](https://cran.r-project.org/web/packages/qgraph/index.html): Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
 * [qqboxplot](https://cran.rstudio.com/web/packages/qqboxplot/index.html): Implementation of the Q-Q Boxplot
 * [qqman](https://cran.r-project.org/web/packages/qqman/index.html): Q-Q and Manhattan Plots for GWAS Data
-* [qqplotr](https://cran.r-project.org/web/packages/qqplotr/index.html): Quantile-Quantile Plot Extensions for 'ggplot2'
+* [qqplotr](https://cran.r-project.org/web/packages/qqplotr/index.html): Quantile-Quantile Plot Extensions for 'ggplot2'[CRAN - Package xkcd](https://cran.r-project.org/web/packages/xkcd/index.html)
 * [quanteda](https://cran.r-project.org/web/packages/quanteda/index.html): Quantitative Analysis of Textual Data
 * [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html): Quantitative Financial Modelling Framework
 * [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html): Quantile Regression
@@ -474,6 +474,7 @@
 * [xaringan](https://cran.r-project.org/web/packages/xaringan/index.html): Presentation Ninja
 * [xgboost](https://cran.r-project.org/web/packages/xgboost/index.html): Extreme Gradient Boosting
 * [xlsx](https://cran.r-project.org/web/packages/xlsx/index.html): Read, Write, Format Excel 2007 and Excel 97/2000/XP/2003 Files
+* [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html): Plotting ggplot2 Graphics in an XKCD Style
 * [XML](https://cran.r-project.org/web/packages/XML/index.html): Tools for Parsing and Generating XML Within R and S-Plus
 * [xts](https://cran.r-project.org/web/packages/xts/index.html): eXtensible Time Series
 * [ymlthis](https://cran.r-project.org/web/packages/ymlthis/index.html): Write 'YAML' for 'R Markdown', 'bookdown', 'blogdown', and More
