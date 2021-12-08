@@ -201,6 +201,7 @@
 * [ggsankey](https://github.com/davidsjoberg/ggsankey): The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
 * [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
 * [ggseqlogo](https://cran.r-project.org/web/packages/ggseqlogo/index.html): A 'ggplot2' Extension for Drawing Publication-Ready Sequence Logos
+* [ggside](https://cran.r-project.org/web/packages/ggside/index.html): Side Grammar Graphics
 * [ggsignif](https://cran.r-project.org/web/packages/ggsignif/index.html): Significance Brackets for 'ggplot2'
 * [ggsn](https://cran.r-project.org/web/packages/ggsn/index.html): North Symbols and Scale Bars for Maps Created with 'ggplot2' or 'ggmap'
 * [ggspatial](https://cran.r-project.org/web/packages/ggspatial/index.html): Spatial Data Framework for ggplot2
