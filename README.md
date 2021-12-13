@@ -447,6 +447,7 @@
 * [timetk](https://cran.r-project.org/web/packages/timetk/index.html): A Tool Kit for Working with Time Series in R
 * [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
+* [TreeAndLeaf](https://bioconductor.org/packages/release/bioc/html/TreeAndLeaf.html): Displaying binary trees with focus on dendrogram leaves
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
 * [TSstudio](https://cran.r-project.org/web/packages/TSstudio/index.html): Functions for Time Series Analysis and Forecasting
 * [tufte](https://cran.r-project.org/web/packages/tufte/index.html): Tufte's Styles for R Markdown Documents
