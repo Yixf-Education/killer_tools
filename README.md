@@ -132,6 +132,7 @@
 * [foreach](https://cran.r-project.org/web/packages/foreach/index.html): Provides Foreach Looping Construct
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/index.html): Advanced Forest Plot Using 'grid' Graphics
+* [formattable](https://cran.r-project.org/web/packages/formattable/index.html): Create 'Formattable' Data Structures
 * [fpc](https://cran.r-project.org/web/packages/fpc/index.html): Flexible Procedures for Clustering
 * [fpp3](https://cran.r-project.org/web/packages/fpp3/index.html): Data for "Forecasting: Principles and Practice" (3rd Edition)
 * [framecleaner](https://cran.r-project.org/web/packages/framecleaner/index.html): Clean Data Frames
@@ -356,6 +357,7 @@
 * [RCircos](https://cran.r-project.org/web/packages/RCircos/index.html): Circos 2D Track Plot
 * [RcisTarget](https://www.bioconductor.org/packages/release/bioc/html/RcisTarget.html): RcisTarget Identify transcription factor binding motifs enriched on a list of genes or genomic regions
 * [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html): ColorBrewer Palettes
+* [reactable](https://cran.r-project.org/web/packages/reactable/index.html): Interactive Data Tables Based on 'React Table'
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
 * [regplot](https://cran.r-project.org/web/packages/regplot/index.html): Enhanced Regression Nomogram Plot
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
@@ -412,6 +414,7 @@
 * [spatstat](https://cran.r-project.org/web/packages/spatstat/index.html): Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
 * [spiralize](https://github.com/jokergoo/spiralize): Visualize data on spirals
 * [splines2](https://cran.r-project.org/web/packages/splines2/index.html): Regression Spline Functions and Classes
+* [stargazer](https://cran.r-project.org/web/packages/stargazer/index.html): Well-Formatted Regression and Summary Statistics Tables
 * [statmod](https://cran.r-project.org/web/packages/statmod/index.html): Statistical Modeling
 * [stm](https://cran.r-project.org/web/packages/stm/index.html): Estimation of the Structural Topic Model
 * [STRINGdb](https://www.bioconductor.org/packages/release/bioc/html/STRINGdb.html): Search Tool for the Retrieval of Interacting proteins database
