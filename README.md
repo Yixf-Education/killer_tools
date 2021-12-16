@@ -396,6 +396,7 @@
 * [scales](https://cran.r-project.org/web/packages/scales/index.html): Scale Functions for Visualization
 * [scatterpie](https://cran.r-project.org/web/packages/scatterpie/index.html): Scatter Pie Plot
 * [scatterplot3d](https://cran.r-project.org/web/packages/scatterplot3d/index.html): 3D Scatter Plot
+* [scatterPlotMatrix](https://cran.r-project.org/web/packages/scatterPlotMatrix/index.html): 'Htmlwidget' for a Scatter Plot Matrix & Multiple Scatter Plot
 * [scholar](https://cran.r-project.org/web/packages/scholar/index.html): Analyse Citation Data from Google Scholar
 * [see](https://cran.r-project.org/web/packages/see/index.html): Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
