@@ -85,6 +85,7 @@
 * [datarium](https://cran.r-project.org/web/packages/datarium/index.html): Data Bank for Statistical Analysis and Visualization
 * [datasauRus](https://cran.r-project.org/web/packages/datasauRus/index.html): Datasets from the Datasaurus Dozen
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
+* [dendsort](https://cran.rstudio.com/web/packages/dendsort/index.html): Modular Leaf Ordering Methods for Dendrogram Nodes
 * [DescrTab2](https://cran.r-project.org/web/packages/DescrTab2/index.html): Publication Quality Descriptive Statistics Tables
 * [dlookr](https://cran.r-project.org/web/packages/dlookr/index.html): Tools for Data Diagnosis, Exploration, Transformation
 * [DNAshapeR](https://www.bioconductor.org/packages/release/bioc/html/DNAshapeR.html): High-throughput prediction of DNA shape features
@@ -299,6 +300,7 @@
 * [mstate](https://cran.r-project.org/web/packages/mstate/index.html): Data Preparation, Estimation and Prediction in Multi-State Models
 * [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
 * [multiMiR](https://bioconductor.org/packages/release/bioc/html/multiMiR.html): Integration of multiple microRNA-target databases with their disease and drug associations
+* [musicatk](https://bioconductor.org/packages/release/bioc/html/musicatk.html): Mutational Signature Comprehensive Analysis Toolkit
 * [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
 * [network](https://cran.r-project.org/web/packages/network/index.html): Classes for Relational Data
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
