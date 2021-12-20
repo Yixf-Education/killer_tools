@@ -114,6 +114,7 @@
 * [EnrichedHeatmap](https://bioconductor.org/packages/release/bioc/html/EnrichedHeatmap.html): Making Enriched Heatmaps
 * [eoffice](https://cran.r-project.org/web/packages/eoffice/index.html): Export or Graph and Tables to 'Microsoft' Office and Import Figures and Tables
 * [esquisse](https://cran.r-project.org/web/packages/esquisse/index.html): Explore and Visualize Your Data Interactively
+* [eulerr](https://cran.r-project.org/web/packages/eulerr/index.html): Area-Proportional Euler and Venn Diagrams with Ellipses
 * [exomePeak2](https://bioconductor.org/packages/release/bioc/html/exomePeak2.html): Bias-aware Peak Calling and Quantification for MeRIP-Seq
 * [explore](https://cran.r-project.org/web/packages/explore/index.html): Simplifies Exploratory Data Analysis
 * [export](https://github.com/tomwenseleers/export): easily export active R graphs and statistical output in publication quality to Microsoft Office (Word, PowerPoint and Excel), HTML and Latex
