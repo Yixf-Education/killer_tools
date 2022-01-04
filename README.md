@@ -370,6 +370,7 @@
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
 * [report](https://cran.r-project.org/web/packages/report/index.html): Automated Reporting of Results and Statistical Models
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
+* [Rfast](https://cran.r-project.org/web/packages/Rfast/index.html): A Collection of Efficient and Extremely Fast R Functions
 * [rfPermute](https://cran.r-project.org/web/packages/rfPermute/index.html): Estimate Permutation p-Values for Random Forest Importance Metrics
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html): Bindings for the 'Geospatial' Data Abstraction Library
 * [rgl](https://cran.r-project.org/web/packages/rgl/index.html): 3D Visualization Using OpenGL
