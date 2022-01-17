@@ -87,6 +87,7 @@
 * [datasauRus](https://cran.r-project.org/web/packages/datasauRus/index.html): Datasets from the Datasaurus Dozen
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
 * [dendsort](https://cran.rstudio.com/web/packages/dendsort/index.html): Modular Leaf Ordering Methods for Dendrogram Nodes
+* [descriptr](https://cran.r-project.org/web/packages/descriptr/index.html): Generate Descriptive Statistics
 * [DescrTab2](https://cran.r-project.org/web/packages/DescrTab2/index.html): Publication Quality Descriptive Statistics Tables
 * [DescTools](https://cran.r-project.org/web/packages/DescTools/index.html): Tools for Descriptive Statistics
 * [dlookr](https://cran.r-project.org/web/packages/dlookr/index.html): Tools for Data Diagnosis, Exploration, Transformation
@@ -171,6 +172,7 @@
 * [ggDCA](https://cran.r-project.org/web/packages/ggDCA/index.html): Calculate and Plot Decision Curve
 * [ggdendro](https://cran.r-project.org/web/packages/ggdendro/index.html): Create Dendrograms and Tree Diagrams Using 'ggplot2'
 * [ggdist](https://cran.r-project.org/web/packages/ggdist/index.html): Visualizations of Distributions and Uncertainty
+* [ggeasy](https://cran.r-project.org/web/packages/ggeasy/index.html): Easy Access to 'ggplot2' Commands
 * [ggeconodist](https://github.com/hrbrmstr/ggeconodist): Create Diminutive Distribution Charts
 * [ggExtra](https://cran.r-project.org/web/packages/ggExtra/index.html): Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
 * [ggfittext](https://cran.r-project.org/web/packages/ggfittext/index.html): Fit Text Inside a Box in 'ggplot2'
@@ -188,6 +190,7 @@
 * [ggimg](https://cran.r-project.org/web/packages/ggimg/index.html): Graphics Layers for Plotting Image Data with 'ggplot2'
 * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html): Spatial Visualization with ggplot2
 * [ggmcmc](https://cran.r-project.org/web/packages/ggmcmc/index.html): Tools for Analyzing MCMC Simulations from Bayesian Inference
+* [ggmosaic](https://cran.r-project.org/web/packages/ggmosaic/index.html): Mosaic Plots in the 'ggplot2' Framework
 * [ggmsa](https://cran.r-project.org/web/packages/ggmsa/index.html): Plot Multiple Sequence Alignment using 'ggplot2'
 * [ggnetwork](https://cran.r-project.org/web/packages/ggnetwork/index.html): Geometries to Plot Networks with 'ggplot2'
 * [ggnewscale](https://cran.r-project.org/web/packages/ggnewscale/index.html): Multiple Fill and Colour Scales in 'ggplot2'
@@ -335,6 +338,7 @@
 * [pivottabler](https://cran.r-project.org/web/packages/pivottabler/index.html): Create Pivot Tables
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
 * [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
+* [plotrix](https://cran.r-project.org/web/packages/plotrix/index.html): Various Plotting Functions
 * [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
 * [poppr](https://cran.r-project.org/web/packages/poppr/index.html): Genetic Analysis of Populations with Mixed Reproduction
 * [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
