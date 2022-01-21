@@ -165,6 +165,7 @@
 * [ggbreak](https://cran.r-project.org/web/packages/ggbreak/index.html): Set Axis Break for 'ggplot2'
 * [ggbump](https://cran.r-project.org/web/packages/ggbump/index.html): Bump Chart and Sigmoid Curves
 * [ggchicklet](https://github.com/hrbrmstr/ggchicklet): Create Chicklet (Rounded Segmented Column) Charts
+* [ggchromatic](https://github.com/teunbrand/ggchromatic): Colour and fill scales for 'ggplot2' using colour spaces.
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/index.html): Visualization of a Correlation Matrix using 'ggplot2'
 * [ggCyberPunk](https://github.com/delabj/ggCyberPunk): A "Geom" for creating charts with a cyberpunk aesthetic
