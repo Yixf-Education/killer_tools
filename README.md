@@ -109,6 +109,7 @@
 * [easyPubMed](https://cran.r-project.org/web/packages/easyPubMed/index.html): Search and Retrieve Scientific Publication Records from PubMed
 * [EasyStat](https://github.com/taowenmicro/EasyStat): 差异分析完整解决方案
 * [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html): Image processing and analysis toolbox for R
+* [echarts4r](https://cran.r-project.org/web/packages/echarts4r/index.html): Create Interactive Graphs with 'Echarts JavaScript' Version 5
 * [egg](https://cran.r-project.org/web/packages/egg/index.html): Extensions for 'ggplot2': Custom Geom, Custom Themes, Plot Alignment, Labelled Panels, Symmetric Scales, and Fixed Panel Size
 * [embed](https://cran.r-project.org/web/packages/embed/index.html): Extra Recipes for Encoding Categorical Predictors
 * [emmeans](https://cran.r-project.org/web/packages/emmeans/index.html): Estimated Marginal Means, aka Least-Squares Means
