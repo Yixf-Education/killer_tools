@@ -305,6 +305,7 @@
 * [mlr3verse](https://cran.rstudio.com/web/packages/mlr3verse/index.html): Easily Install and Load the 'mlr3' Package Family
 * [modeltime](https://cran.r-project.org/web/packages/modeltime/index.html): The Tidymodels Extension for Time Series Modeling
 * [moderndive](https://cran.r-project.org/web/packages/moderndive/index.html): Tidyverse-Friendly Introductory Linear Regression
+* [motifStack](https://bioconductor.org/packages/release/bioc/html/motifStack.html): Plot stacked logos for single or multiple DNA, RNA and amino acid sequence
 * [msa](https://bioconductor.org/packages/release/bioc/html/msa.html): Multiple Sequence Alignment
 * [msigdbr](https://cran.r-project.org/web/packages/msigdbr/index.html): MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format
 * [mstate](https://cran.r-project.org/web/packages/mstate/index.html): Data Preparation, Estimation and Prediction in Multi-State Models
