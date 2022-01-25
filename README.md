@@ -343,6 +343,7 @@
 * [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
 * [plotrix](https://cran.r-project.org/web/packages/plotrix/index.html): Various Plotting Functions
 * [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
+* [PNWColors](https://cran.r-project.org/web/packages/PNWColors/index.html): Color Palettes Inspired by Nature in the US Pacific Northwest
 * [poppr](https://cran.r-project.org/web/packages/poppr/index.html): Genetic Analysis of Populations with Mixed Reproduction
 * [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
 * [presenter](https://cran.r-project.org/web/packages/presenter/index.html): Present Data with Style
