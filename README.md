@@ -593,6 +593,8 @@
 * [EvolView](https://www.evolgenius.info/evolview/#login): a webserver for visualization, annotation, and management of phylogenetic trees
 * [kingfisher-download](https://github.com/wwood/kingfisher-download): Easier download/extract of FASTA/Q read data from the ENA, NCBI, AWS or GCP.
 * [PathwayMapper](https://www.pathwaymapper.org/): a collaborative visual web editor for cancer pathways and genomic data
+* [kingfisher-download](https://github.com/wwood/kingfisher-download): Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
+* [parallel-fastq-dump](https://github.com/rvalieris/parallel-fastq-dump): parallel fastq-dump wrapper
 
 ## scRNA
 * [**awesome-single-cell**](https://github.com/seandavi/awesome-single-cell)**: Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.**
