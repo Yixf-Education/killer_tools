@@ -151,6 +151,7 @@
 * [gdata](https://cran.r-project.org/web/packages/gdata/index.html): Various R Programming Tools for Data Manipulation
 * [GDCRNATools](https://bioconductor.org/packages/release/bioc/html/GDCRNATools.html): an R/Bioconductor package for integrative analysis of lncRNA, mRNA, and miRNA data in GDC
 * [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Representation and manipulation of genomic intervals
+* [geomtextpath](https://cran.r-project.org/web/packages/geomtextpath/index.html): Curved Text in 'ggplot2'
 * [geoR](https://cran.r-project.org/web/packages/geoR/index.html): Analysis of Geostatistical Data
 * [geoviz](https://cran.r-project.org/web/packages/geoviz/index.html): Elevation and GPS Data Visualisation
 * [GetoptLong](https://cran.r-project.org/web/packages/GetoptLong/index.html): Parsing Command-Line Arguments and Variable Interpolation
