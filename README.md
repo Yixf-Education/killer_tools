@@ -276,6 +276,8 @@
 * [KMunicate](https://cran.r-project.org/web/packages/KMunicate/index.html): KMunicate-Style Kaplan–Meier Plots
 * [LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR): LaCroix Color Palettes for R
 * [latex2exp](https://cran.r-project.org/web/packages/latex2exp/index.html): Use LaTeX Expressions in Plots
+* [leaflet](https://cran.r-project.org/web/packages/leaflet/index.html): Create Interactive Web Maps with the JavaScript 'Leaflet' Library
+* [leafletCN](https://cran.r-project.org/web/packages/leafletCN/index.html): An R Gallery for China and Other Geojson Choropleth Map in Leaflet
 * [learnr](https://cran.r-project.org/web/packages/learnr/index.html): Interactive Tutorials for R
 * [legendMap](https://github.com/3wen/legendMap): Provides functions to add a North arrow and/or a scale bar to maps done using ggplot2
 * [lime](https://cran.r-project.org/web/packages/lime/index.html): Local Interpretable Model-Agnostic Explanations
