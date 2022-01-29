@@ -490,6 +490,7 @@
 * [ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps): Create tabs of View() output for each chained pipe
 * [vidger](https://www.bioconductor.org/packages/release/bioc/html/vidger.html): Create rapid visualizations of RNAseq data in R
 * [VIM](https://cran.r-project.org/web/packages/VIM/index.html): Visualization and Imputation of Missing Values
+* [viper](https://bioconductor.org/packages/release/bioc/html/viper.html): Virtual Inference of Protein-activity by Enriched Regulon analysis
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [visdat](https://cran.r-project.org/web/packages/visdat/index.html): Preliminary Visualisation of Data
 * [visNetwork](https://cran.r-project.org/web/packages/visNetwork/index.html): Network Visualization using 'vis.js' Library
