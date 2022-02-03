@@ -600,6 +600,7 @@
 * [PathwayMapper](https://www.pathwaymapper.org/): a collaborative visual web editor for cancer pathways and genomic data
 * [kingfisher-download](https://github.com/wwood/kingfisher-download): Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 * [parallel-fastq-dump](https://github.com/rvalieris/parallel-fastq-dump): parallel fastq-dump wrapper
+* [Refgenie](http://refgenie.databio.org/en/latest/): Refgenie manages storage, access, and transfer of reference genome resources. It provides command-line and Python interfaces to *download* pre-built reference genome "assets", like indexes used by bioinformatics tools. It can also *build* assets for custom genome assemblies. Refgenie provides programmatic access to a standard genome folder structure, so software can swap from one genome to another.
 
 ## scRNA
 * [**awesome-single-cell**](https://github.com/seandavi/awesome-single-cell)**: Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.**
