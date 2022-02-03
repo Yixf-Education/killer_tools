@@ -420,6 +420,7 @@
 * [scatterplot3d](https://cran.r-project.org/web/packages/scatterplot3d/index.html): 3D Scatter Plot
 * [scatterPlotMatrix](https://cran.r-project.org/web/packages/scatterPlotMatrix/index.html): 'Htmlwidget' for a Scatter Plot Matrix & Multiple Scatter Plot
 * [scholar](https://cran.r-project.org/web/packages/scholar/index.html): Analyse Citation Data from Google Scholar
+* [SCORPIUS](https://cran.rstudio.com/web/packages/SCORPIUS/index.html): Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
 * [see](https://cran.r-project.org/web/packages/see/index.html): Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
