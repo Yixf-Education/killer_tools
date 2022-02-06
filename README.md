@@ -402,6 +402,7 @@
 * [ROCit](https://cran.r-project.org/web/packages/ROCit/index.html): Performance Assessment of Binary Classifier with Visualization
 * [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html): Visualizing the Performance of Scoring Classifiers
 * [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
+* [RobustRankAggreg](https://cran.r-project.org/web/packages/RobustRankAggreg/index.html): Methods for robust rank aggregation
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): Recursive Partitioning and Regression Trees
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
 * [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html): R Bindings for 'Selenium WebDriver'
