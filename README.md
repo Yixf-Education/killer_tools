@@ -285,6 +285,7 @@
 * [lindia](https://cran.r-project.org/web/packages/lindia/index.html): Automated Linear Regression Diagnostic
 * [LinkageMapView](https://cran.r-project.org/web/packages/LinkageMapView/index.html): Plot Linkage Group Maps with Quantitative Trait Loci
 * [magick](https://cran.r-project.org/web/packages/magick/index.html): Advanced Graphics and Image-Processing in R
+* [manhattanly](https://cran.r-project.org/web/packages/manhattanly/index.html): Interactive Q-Q and Manhattan Plots Using 'plotly.js'
 * [Map2NCBI](https://cran.r-project.org/web/packages/Map2NCBI/index.html): Mapping Markers to the Nearest Genomic Feature
 * [mapdeck](https://cran.r-project.org/web/packages/mapdeck/index.html): Interactive Maps Using 'Mapbox GL JS' and 'Deck.gl'
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
@@ -307,6 +308,7 @@
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
 * [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html): Machine Learning in R - Next Generation
 * [mlr3verse](https://cran.rstudio.com/web/packages/mlr3verse/index.html): Easily Install and Load the 'mlr3' Package Family
+* [modelROC](https://cran.r-project.org/web/packages/modelROC/index.html): Model Based ROC Analysis
 * [modeltime](https://cran.r-project.org/web/packages/modeltime/index.html): The Tidymodels Extension for Time Series Modeling
 * [moderndive](https://cran.r-project.org/web/packages/moderndive/index.html): Tidyverse-Friendly Introductory Linear Regression
 * [motifStack](https://bioconductor.org/packages/release/bioc/html/motifStack.html): Plot stacked logos for single or multiple DNA, RNA and amino acid sequence
@@ -366,6 +368,7 @@
 * [r2rtf](https://cran.r-project.org/web/packages/r2rtf/index.html): Easily Create Production-Ready Rich Text Format (RTF) Table and Figure
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
 * [RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots): Code and tutorials to visualise your data that is both beautiful *and* statistically valid
+* [raincloudplots](https://github.com/jorvlan/raincloudplots): The easy way to create raincloud plots
 * [rainette](https://cran.r-project.org/web/packages/rainette/index.html): The Reinert Method for Textual Data Clustering
 * [randomcoloR](https://cran.r-project.org/web/packages/randomcoloR/index.html): Generate Attractive Random Colors
 * [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html): Breiman and Cutler's Random Forests for Classification and Regression
