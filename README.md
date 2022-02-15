@@ -465,6 +465,7 @@
 * [terra](https://cran.r-project.org/web/packages/terra/index.html): Spatial Data Analysis
 * [tesseract](https://cran.r-project.org/web/packages/tesseract/index.html): Open Source OCR Engine
 * [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis
+* [textplot](https://cran.r-project.org/web/packages/textplot/index.html): Text Plots
 * [tidybayes](https://cran.r-project.org/web/packages/tidybayes/index.html): Tidy Data and 'Geoms' for Bayesian Models
 * [tidybulk](https://www.bioconductor.org/packages/release/bioc/html/tidybulk.html): Brings transcriptomics to the tidyverse
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
