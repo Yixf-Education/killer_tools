@@ -255,6 +255,7 @@
 * [Gviz](https://bioconductor.org/packages/release/bioc/html/Gviz.html): Plotting data and annotation information along genomic coordinates
 * [h2o](https://cran.r-project.org/web/packages/h2o/index.html): R Interface for the 'H2O' Scalable Machine Learning Platform
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
+* [heatmaply](https://cran.r-project.org/web/packages/heatmaply/index.html): Interactive Cluster Heat Maps Using 'plotly' and 'ggplot2'
 * [here](https://cran.r-project.org/web/packages/here/index.html): A Simpler Way to Find Your Files
 * [HGNChelper](https://cran.r-project.org/web/packages/HGNChelper/index.html): Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols
 * [highcharter](https://cran.r-project.org/web/packages/highcharter/index.html): A Wrapper for the 'Highcharts' Library
