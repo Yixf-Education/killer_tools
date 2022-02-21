@@ -164,6 +164,8 @@
 * [ggannotate](https://github.com/MattCowgill/ggannotate): Interactively annotate ggplots
 * [ggbeeswarm](https://github.com/eclarke/ggbeeswarm): Beeswarm-style plots with ggplot2
 * [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html): Visualization tools for genomic data
+* [ggblur](https://github.com/coolbutuseless/ggblur): Blurry Point Geom for ggplot2
+* [ggborderline](https://cran.r-project.org/web/packages/ggborderline/index.html): Line Plots that Pop
 * [ggbreak](https://cran.r-project.org/web/packages/ggbreak/index.html): Set Axis Break for 'ggplot2'
 * [ggbump](https://cran.r-project.org/web/packages/ggbump/index.html): Bump Chart and Sigmoid Curves
 * [ggchicklet](https://github.com/hrbrmstr/ggchicklet): Create Chicklet (Rounded Segmented Column) Charts
@@ -182,6 +184,7 @@
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [ggforestplot](https://github.com/NightingaleHealth/ggforestplot): An R package to create forestplots of measures of effects with their confidence intervals.
 * [ggfortify](https://cran.r-project.org/web/packages/ggfortify/index.html): Data Visualization Tools for Statistical Analysis Results
+* [ggfocus](https://cran.r-project.org/web/packages/ggfocus/index.html): Scales that Focus Specific Levels in your ggplot()
 * [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html): Draw Gene Arrow Maps in 'ggplot2'
 * [gggibbous](https://cran.r-project.org/web/packages/gggibbous/index.html): Moon Charts, a Pie Chart Alternative
 * [ggh4x](https://cran.rstudio.com/web/packages/ggh4x/index.html): Hacks for 'ggplot2'
