@@ -1,5 +1,22 @@
 # Killer Tools
 
+## Color in R
+
+* [**R Color Palettes** [497 continuous and discrete palettes] | R CHARTS](https://r-charts.com/color-palettes/)
+* [cartography](https://cran.r-project.org/web/packages/cartography/index.html): Thematic Cartography
+* [colorBlindness](https://cran.r-project.org/web/packages/colorBlindness/index.html): Safe Color Set for Color Blindness
+* [dichromat](https://cran.r-project.org/web/packages/dichromat/index.html): Color Schemes for Dichromats
+* [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
+* [ggthemes](https://cran.r-project.org/web/packages/ggthemes/index.html): Extra Themes, Scales and Geoms for 'ggplot2'
+* [grDevices-package](https://rdrr.io/r/grDevices/grDevices-package.html): The R Graphics Devices and Support for Colours and Fonts
+* [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html): ColorBrewer Palettes
+* [tidyquant](https://cran.r-project.org/web/packages/tidyquant/index.html): Tidy Quantitative Financial Analysis
+* [tvthemes](https://cran.r-project.org/web/packages/tvthemes/index.html): TV Show Themes and Color Palettes for 'ggplot2' Graphics
+* [vapoRwave: ](https://github.com/moldach/vapoRwave)📼👾🕹Vaporwave themes and color palettes for ggplot2💾👨‍🎤📺
+* [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Colorblind-Friendly Color Maps for R
+* [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html): A Wes Anderson Palette Generator
+
+
 ## R
 
 * [**Awesome R**](https://github.com/qinwf/awesome-R): **A curated list of awesome R packages and tools.**
