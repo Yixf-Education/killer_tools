@@ -472,6 +472,7 @@
 * [STRINGdb](https://www.bioconductor.org/packages/release/bioc/html/STRINGdb.html): Search Tool for the Retrieval of Interacting proteins database
 * [sparklyr](https://spark.rstudio.com/): R interface for Apache Spark
 * [stringdist](https://cran.r-project.org/web/packages/stringdist/index.html): Approximate String Matching, Fuzzy Text Search, and String Distance Functions
+* [summarytools](https://cran.r-project.org/web/packages/summarytools/index.html): Tools to Quickly and Neatly Summarize Data
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
 * [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
