@@ -102,6 +102,7 @@
 * [datapasta](https://github.com/MilesMcBain/datapasta): is about reducing resistance associated with copying and pasting data to and from R
 * [datarium](https://cran.r-project.org/web/packages/datarium/index.html): Data Bank for Statistical Analysis and Visualization
 * [datasauRus](https://cran.r-project.org/web/packages/datasauRus/index.html): Datasets from the Datasaurus Dozen
+* [deconstructSigs](https://cran.r-project.org/web/packages/deconstructSigs/index.html): Identifies Signatures Present in a Tumor Sample
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
 * [dendsort](https://cran.rstudio.com/web/packages/dendsort/index.html): Modular Leaf Ordering Methods for Dendrogram Nodes
 * [descriptr](https://cran.r-project.org/web/packages/descriptr/index.html): Generate Descriptive Statistics
@@ -482,6 +483,7 @@
 * [systemPipeTools](https://bioconductor.org/packages/release/bioc/html/systemPipeTools.html): Tools for data visualization
 * [tagger](https://github.com/eliocamp/tagger): Adds tags to 'ggpot2' facets
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
+* [TCGAmutations](https://github.com/PoisonAlien/TCGAmutations): R data package for pre-compiled somatic mutations from TCGA cohorts (from Broad Firehose and TCGA MC3 Project)
 * [TCGAutils](https://bioconductor.org/packages/release/bioc/html/TCGAutils.html): A suite of helper functions for checking and manipulating TCGA data including data obtained from the curatedTCGAData experiment package. These functions aim to simplify and make working with TCGA data more manageable.
 * [TCseq](https://bioconductor.org/packages/release/bioc/html/TCseq.html): Time course sequencing data analysis
 * [terra](https://cran.r-project.org/web/packages/terra/index.html): Spatial Data Analysis
@@ -540,6 +542,7 @@
 * [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html): Plotting ggplot2 Graphics in an XKCD Style
 * [XML](https://cran.r-project.org/web/packages/XML/index.html): Tools for Parsing and Generating XML Within R and S-Plus
 * [xts](https://cran.r-project.org/web/packages/xts/index.html): eXtensible Time Series
+* [YAPSA](https://www.bioconductor.org/packages/release/bioc/html/YAPSA.html): Yet Another Package for Signature Analysis
 * [ymlthis](https://cran.r-project.org/web/packages/ymlthis/index.html): Write 'YAML' for 'R Markdown', 'bookdown', 'blogdown', and More
 
 ---
