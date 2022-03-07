@@ -316,6 +316,7 @@
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
 * [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
 * [mclust](https://cran.r-project.org/web/packages/mclust/index.html): Gaussian Mixture Modelling for Model-Based Clustering, Classification, and Density Estimation
+* [MEGENA](https://cran.r-project.org/web/packages/MEGENA/index.html): Multiscale Clustering of Geometrical Network
 * [MetaboSignal](https://bioconductor.org/packages/release/bioc/html/MetaboSignal.html): a network-based approach to overlay and explore metabolic and signaling KEGG pathways
 * [MEGENA](https://cran.r-project.org/web/packages/MEGENA/index.html): Multiscale Clustering of Geometrical Network
 * [memes](https://www.bioconductor.org/packages/release/bioc/html/memes.html): motif matching, comparison, and de novo discovery using the MEME Suite
@@ -442,6 +443,7 @@
 * [RVA](https://cran.r-project.org/web/packages/RVA/index.html): RNAseq Visualization Automation
 * [rvcheck](https://cran.rstudio.com/web/packages/rvcheck/index.html): R/Package Version Check, Check latest release version of R and R package (both in 'CRAN', 'Bioconductor' or 'Github')
 * [rvest](https://cran.r-project.org/web/packages/rvest/index.html): Easily Harvest (Scrape) Web Pages
+* [Rwordseg](https://cran.r-project.org/web/packages/Rwordseg/index.html): Chinese Word Segmentation
 * [sankeywheel](https://cran.r-project.org/web/packages/sankeywheel/index.html): Create Dependency Wheels and Sankey Diagrams
 * [scales](https://cran.r-project.org/web/packages/scales/index.html): Scale Functions for Visualization
 * [scatterpie](https://cran.r-project.org/web/packages/scatterpie/index.html): Scatter Pie Plot
