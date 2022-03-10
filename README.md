@@ -709,6 +709,7 @@
 * [dynplot](https://github.com/dynverse/dynplot): Visualising single-cell trajectories, including comparisons between two models 📈
 * [dorothea](https://bioconductor.org/packages/release/data/experiment/html/dorothea.html): Collection Of Human And Mouse TF Regulons
 * [metacell](https://github.com/tanaylab/metacell): Metacell - Single-cell mRNA Analysis
+* [ShinyCell](https://github.com/SGDDNB/ShinyCell#installation): Shiny Interactive Web Apps for Single-Cell Data
 
 ### 数据整合
 
