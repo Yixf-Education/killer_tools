@@ -200,6 +200,7 @@
 * [ggeasy](https://cran.r-project.org/web/packages/ggeasy/index.html): Easy Access to 'ggplot2' Commands
 * [ggeconodist](https://github.com/hrbrmstr/ggeconodist): Create Diminutive Distribution Charts
 * [ggExtra](https://cran.r-project.org/web/packages/ggExtra/index.html): Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
+* [ggfan](https://cran.r-project.org/web/packages/ggfan/index.html): Summarise a Distribution Through Coloured Intervals
 * [ggfittext](https://cran.r-project.org/web/packages/ggfittext/index.html): Fit Text Inside a Box in 'ggplot2'
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [ggforestplot](https://github.com/NightingaleHealth/ggforestplot): An R package to create forestplots of measures of effects with their confidence intervals.
