@@ -157,7 +157,9 @@
 * [foreach](https://cran.r-project.org/web/packages/foreach/index.html): Provides Foreach Looping Construct
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/index.html): Advanced Forest Plot Using 'grid' Graphics
+* [forestploter](https://cran.r-project.org/web/packages/forestploter/index.html): Create Flexible Forest Plot
 * [formattable](https://cran.r-project.org/web/packages/formattable/index.html): Create 'Formattable' Data Structures
+* [forplo](https://cran.r-project.org/web/packages/forplo/index.html): Flexible Forest Plots
 * [fpc](https://cran.r-project.org/web/packages/fpc/index.html): Flexible Procedures for Clustering
 * [fpp3](https://cran.r-project.org/web/packages/fpp3/index.html): Data for "Forecasting: Principles and Practice" (3rd Edition)
 * [framecleaner](https://cran.r-project.org/web/packages/framecleaner/index.html): Clean Data Frames
@@ -314,6 +316,7 @@
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [mapsf](https://cran.r-project.org/web/packages/mapsf/index.html): Thematic Cartography
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
+* [metaviz](https://cran.r-project.org/web/packages/metaviz/index.html): Forest Plots, Funnel Plots, and Visual Funnel Plot Inference for Meta-Analysis
 * [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
 * [mclust](https://cran.r-project.org/web/packages/mclust/index.html): Gaussian Mixture Modelling for Model-Based Clustering, Classification, and Density Estimation
 * [MEGENA](https://cran.r-project.org/web/packages/MEGENA/index.html): Multiscale Clustering of Geometrical Network
