@@ -15,6 +15,7 @@
 * [vapoRwave: ](https://github.com/moldach/vapoRwave)📼👾🕹Vaporwave themes and color palettes for ggplot2💾👨‍🎤📺
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Colorblind-Friendly Color Maps for R
 * [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html): A Wes Anderson Palette Generator
+* [Colorblind checks for qualitative palettes](https://emitanaka.org/posts/2022-02-20-color-considerations/)
 
 
 ## R
