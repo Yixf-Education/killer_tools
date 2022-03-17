@@ -251,6 +251,7 @@
 * [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html): 'ggplot2' Based Plots with Statistical Details
 * [ggstream](https://github.com/davidsjoberg/ggstream): create a simple but powerful implementation of streamplot/streamgraph in `ggplot2`
 * [ggsymbol](https://github.com/xiangpin/ggsymbol): symbols layer based on ggplot2 and ggstar
+* [ggtern](https://cran.r-project.org/web/packages/ggtern/index.html): An Extension to 'ggplot2', for the Creation of Ternary Diagrams
 * [ggtext](https://cran.r-project.org/web/packages/ggtext/index.html): Improved Text Rendering Support for 'ggplot2'
 * [ggThemeAssist](https://cran.r-project.org/web/packages/ggThemeAssist/index.html): Add-in to Customize 'ggplot2' Themes
 * [ggthemes](https://cran.r-project.org/web/packages/ggthemes/index.html): Extra Themes, Scales and Geoms for 'ggplot2'
