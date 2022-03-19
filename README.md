@@ -99,6 +99,7 @@
 * [ctv](https://cran.r-project.org/web/packages/ctv/index.html): CRAN Task Views
 * [curatedTCGAData](https://bioconductor.org/packages/release/data/experiment/html/curatedTCGAData.html): Curated Data From The Cancer Genome Atlas (TCGA) as MultiAssayExperiment Objects
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
+* [DALEX](https://cran.r-project.org/web/packages/DALEX/index.html): moDel Agnostic Language for Exploration and eXplanation
 * [data.table](https://cran.r-project.org/web/packages/data.table/index.html): Extension of 'data.frame'
 * [DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/index.html): Automate Data Exploration and Treatment
 * [datapasta](https://github.com/MilesMcBain/datapasta): is about reducing resistance associated with copying and pasting data to and from R
@@ -340,6 +341,7 @@
 * [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html): Machine Learning in R - Next Generation
 * [mlr3verse](https://cran.rstudio.com/web/packages/mlr3verse/index.html): Easily Install and Load the 'mlr3' Package Family
 * [modelROC](https://cran.r-project.org/web/packages/modelROC/index.html): Model Based ROC Analysis
+* [modelStudio](https://cran.r-project.org/web/packages/modelStudio/index.html): Interactive Studio for Explanatory Model Analysis
 * [modeltime](https://cran.r-project.org/web/packages/modeltime/index.html): The Tidymodels Extension for Time Series Modeling
 * [moderndive](https://cran.r-project.org/web/packages/moderndive/index.html): Tidyverse-Friendly Introductory Linear Regression
 * [MOFA2](https://www.bioconductor.org/packages/release/bioc/html/MOFA2.html): Multi-Omics Factor Analysis v2
