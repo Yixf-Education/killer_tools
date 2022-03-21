@@ -473,6 +473,7 @@
 * [sjmisc](https://cran.r-project.org/web/packages/sjmisc/index.html): Data and Variable Transformation Functions
 * [sjPlot](https://cran.r-project.org/web/packages/sjPlot/index.html): Data Visualization for Statistics in Social Science
 * [skimr](https://cran.r-project.org/web/packages/skimr/index.html): Compact and Flexible Summaries of Data
+* [smplot](https://github.com/smin95/smplot): R package for statistical data visualization that complements ggplot2
 * [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html): Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
 * [sp](https://cran.r-project.org/web/packages/sp/index.html): Classes and Methods for Spatial Data
 * [spatstat](https://cran.r-project.org/web/packages/spatstat/index.html): Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
