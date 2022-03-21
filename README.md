@@ -847,3 +847,7 @@
 | CancerSEA                    | http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp   |
 | SpatialDB                    | https://www.spatialomics.org/SpatialDB         |
 | Human Cell Landscape（HCL）  | http://bis.zju.edu.cn/HCL/                     |
+
+# Pipeline
+
+* [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html): The Snakemake workflow management system is a tool to create **reproducible and scalable** data analyses.
