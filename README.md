@@ -490,6 +490,7 @@
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
 * [survRM2](https://cran.r-project.org/web/packages/survRM2/index.html): Comparing Restricted Mean Survival Time
 * [Sushi](https://bioconductor.org/packages/release/bioc/html/Sushi.html): Tools for visualizing genomics data
+* [sysfonts](https://cran.r-project.org/web/packages/sysfonts/index.html): Loading Fonts into R
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
 * [systemPipeTools](https://bioconductor.org/packages/release/bioc/html/systemPipeTools.html): Tools for data visualization
 * [tagger](https://github.com/eliocamp/tagger): Adds tags to 'ggpot2' facets
