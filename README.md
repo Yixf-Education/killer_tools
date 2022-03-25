@@ -38,6 +38,7 @@
 * [arules](https://cran.r-project.org/web/packages/arules/index.html): Mining Association Rules and Frequent Itemsets
 * [arulesViz](https://cran.r-project.org/web/packages/arulesViz/index.html): Visualizing Association Rules and Frequent Itemsets
 * [autoplotly](https://cran.r-project.org/web/packages/autoplotly/index.html): Automatic Generation of Interactive Visualizations for Statistical Results
+* [bayestestR](https://cran.r-project.org/web/packages/bayestestR/index.html): Understand and Describe Bayesian Models and Posterior Distributions
 * [bbplot](https://github.com/bbc/bbplot): R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 * [beepr](https://cran.r-project.org/web/packages/beepr/index.html): Easily Play Notification Sounds on any Platform
 * [bestglm](https://cran.r-project.org/web/packages/bestglm/index.html): Best Subset GLM and Regression Utilities
@@ -131,6 +132,7 @@
 * [EasyStat](https://github.com/taowenmicro/EasyStat): 差异分析完整解决方案
 * [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html): Image processing and analysis toolbox for R
 * [echarts4r](https://cran.r-project.org/web/packages/echarts4r/index.html): Create Interactive Graphs with 'Echarts JavaScript' Version 5
+* [effectsize](https://cran.r-project.org/web/packages/effectsize/index.html): Indices of Effect Size and Standardized Parameters
 * [egg](https://cran.r-project.org/web/packages/egg/index.html): Extensions for 'ggplot2': Custom Geom, Custom Themes, Plot Alignment, Labelled Panels, Symmetric Scales, and Fixed Panel Size
 * [embed](https://cran.r-project.org/web/packages/embed/index.html): Extra Recipes for Encoding Categorical Predictors
 * [emmeans](https://cran.r-project.org/web/packages/emmeans/index.html): Estimated Marginal Means, aka Least-Squares Means
@@ -340,6 +342,7 @@
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
 * [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html): Machine Learning in R - Next Generation
 * [mlr3verse](https://cran.rstudio.com/web/packages/mlr3verse/index.html): Easily Install and Load the 'mlr3' Package Family
+* [modelbased](https://cran.r-project.org/web/packages/modelbased/index.html): Estimation of Model-Based Predictions, Contrasts and Means
 * [modelROC](https://cran.r-project.org/web/packages/modelROC/index.html): Model Based ROC Analysis
 * [modelStudio](https://cran.r-project.org/web/packages/modelStudio/index.html): Interactive Studio for Explanatory Model Analysis
 * [modeltime](https://cran.r-project.org/web/packages/modeltime/index.html): The Tidymodels Extension for Time Series Modeling
@@ -369,6 +372,7 @@
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [pak](https://cran.r-project.org/web/packages/pak/index.html): Another Approach to Package Installation
 * [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
+* [parameters](https://cran.r-project.org/web/packages/parameters/index.html): Processing of Model Parameters
 * [parttree](https://github.com/grantmcdermott/parttree): Simple package for plotting decision tree partitions in R
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
 * [pathview](https://www.bioconductor.org/packages/release/bioc/html/pathview.html): a tool set for pathway based data integration and visualization
@@ -376,6 +380,7 @@
 * [PCAtools](https://bioconductor.org/packages/release/bioc/html/PCAtools.html): Everything Principal Components Analysis
 * [pdftables](https://cran.r-project.org/web/packages/pdftables/index.html): Programmatic Conversion of PDF Tables
 * [pdftools](https://cran.r-project.org/web/packages/pdftools/index.html): Text Extraction, Rendering and Converting of PDF Documents
+* [performance](https://cran.r-project.org/web/packages/performance/index.html): Assessment of Regression Models Performance
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
 * [Pi](https://www.bioconductor.org/packages/release/bioc/html/Pi.html): Leveraging Genetic Evidence to Prioritise Drug Targets at the Gene and Pathway Level
 * [pivottabler](https://cran.r-project.org/web/packages/pivottabler/index.html): Create Pivot Tables
