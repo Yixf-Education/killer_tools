@@ -70,6 +70,7 @@
 * [cartography](https://cran.r-project.org/web/packages/cartography/index.html): Thematic Cartography
 * [caTools](https://cran.r-project.org/web/packages/caTools/index.html): Tools: Moving Window Statistics, GIF, Base64, ROC AUC, etc
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
+* [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html): R-Based API for Accessing the MSKCC Cancer Genomics Data Server (CGDS)
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
 * [chromoMap](https://cran.r-project.org/web/packages/chromoMap/index.html): Interactive Visualization and Mapping of Chromosomes
@@ -770,6 +771,14 @@
 * [Cancer RNA-Seq Nexus](http://syslab4.nchu.edu.tw/)
 * [iCoMut](http://firebrowse.org/iCoMut/): 癌症的somatic 突变信息全景图
 * [UALCAN](http://ualcan.path.uab.edu/index.html)
+
+## 知名的肿瘤研究机构都有着自己的 TCGA 数据库探索工具
+
+* Broad Institute FireBrowse portal, The Broad Institute
+* cBioPortal for Cancer Genomics, Memorial Sloan-Kettering Cancer Center
+* TCGA Batch Effects, MD Anderson Cancer Center
+* Regulome Explorer, Institute for Systems Biology
+* Next-Generation Clustered Heat Maps, MD Anderson Cancer Center
 
 ## Shiny-related
 
