@@ -18,7 +18,7 @@
 * [Colorblind checks for qualitative palettes](https://emitanaka.org/posts/2022-02-20-color-considerations/)
 
 
-## R
+## R packages
 
 * [**Awesome R**](https://github.com/qinwf/awesome-R): **A curated list of awesome R packages and tools.**
 * [**15 Essential packages in R for Data Science**](https://finnstats.com/index.php/2021/04/07/essential-packages-in-r/)
@@ -26,6 +26,9 @@
 * [**CRAN Task Views**](https://cran.r-project.org/web/views/)
 * [**addinslist**](https://github.com/daattali/addinslist): **Discover and install useful RStudio addins**
 * [**RStudio Package Manager**](https://packagemanager.rstudio.com/client/#/)
+
+### A
+
 * [A3](https://cran.r-project.org/web/packages/A3/index.html): Accurate, Adaptable, and Accessible Error Metrics for Predictive Models
 * [ActivePathways](https://cran.r-project.org/web/packages/ActivePathways/index.html): Integrative Pathway Enrichment Analysis of Multivariate Omics Data
 * [adegenet](https://cran.r-project.org/web/packages/adegenet/index.html): Exploratory Analysis of Genetic and Genomic Data
@@ -38,6 +41,9 @@
 * [arules](https://cran.r-project.org/web/packages/arules/index.html): Mining Association Rules and Frequent Itemsets
 * [arulesViz](https://cran.r-project.org/web/packages/arulesViz/index.html): Visualizing Association Rules and Frequent Itemsets
 * [autoplotly](https://cran.r-project.org/web/packages/autoplotly/index.html): Automatic Generation of Interactive Visualizations for Statistical Results
+
+### B
+
 * [bayestestR](https://cran.r-project.org/web/packages/bayestestR/index.html): Understand and Describe Bayesian Models and Posterior Distributions
 * [bbplot](https://github.com/bbc/bbplot): R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 * [beepr](https://cran.r-project.org/web/packages/beepr/index.html): Easily Play Notification Sounds on any Platform
@@ -62,6 +68,9 @@
 * [bruceR](https://cran.r-project.org/web/packages/bruceR/index.html): Broadly Useful Convenient and Efficient R Functions
 * [bslib](https://cran.r-project.org/web/packages/bslib/index.html): Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'
 * [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr): This package builds bullet charts suitable for tracking KPIs, and used by ACDI/VOCA to track progress against indicators
+
+### C
+
 * [Cairo](https://cran.r-project.org/web/packages/Cairo/index.html): R Graphics Device using Cairo Graphics Library for Creating High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display (X11 and Win32) Output
 * [calendR](https://cran.r-project.org/web/packages/calendR/index.html): Ready to Print Monthly and Yearly Calendars Made with 'ggplot2'
 * [canvasXpress](https://cran.r-project.org/web/packages/canvasXpress/index.html): Visualization Package for CanvasXpress in R
@@ -101,6 +110,9 @@
 * [ctv](https://cran.r-project.org/web/packages/ctv/index.html): CRAN Task Views
 * [curatedTCGAData](https://bioconductor.org/packages/release/data/experiment/html/curatedTCGAData.html): Curated Data From The Cancer Genome Atlas (TCGA) as MultiAssayExperiment Objects
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
+
+### D
+
 * [DALEX](https://cran.r-project.org/web/packages/DALEX/index.html): moDel Agnostic Language for Exploration and eXplanation
 * [data.table](https://cran.r-project.org/web/packages/data.table/index.html): Extension of 'data.frame'
 * [DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/index.html): Automate Data Exploration and Treatment
@@ -126,6 +138,9 @@
 * [dslabs](https://cran.r-project.org/web/packages/dslabs/index.html): Data Science Labs
 * [DT](https://cran.r-project.org/web/packages/DT/index.html): A Wrapper of the JavaScript Library 'DataTables'
 * [dynamicTreeCut](https://cran.r-project.org/web/packages/dynamicTreeCut/index.html): Methods for Detection of Clusters in Hierarchical Clustering Dendrograms
+
+### E
+
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
 * [easyalluvial](https://cran.r-project.org/web/packages/easyalluvial/index.html): Generate Alluvial Plots with a Single Line of Code
 * [easylabel](https://cran.r-project.org/web/packages/easylabel/index.html): Interactive Scatter Plot and Volcano Plot Labels
@@ -150,6 +165,9 @@
 * [expss](https://cran.r-project.org/web/packages/expss/index.html): Tables, Labels and Some Useful Functions from Spreadsheets and 'SPSS' Statistics
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/index.html): Tools for using fonts
 * [ExPosition](https://cran.r-project.org/web/packages/ExPosition/index.html): Exploratory Analysis with the Singular Value Decomposition
+
+### F
+
 * [factoextra](https://cran.r-project.org/web/packages/factoextra/index.html): Extract and Visualize the Results of Multivariate Data Analyses
 * [FactoInvestigate](https://cran.r-project.org/web/packages/FactoInvestigate/index.html): Automatic Description of Factorial Analysis
 * [FactoMineR](https://cran.r-project.org/web/packages/FactoMineR/index.html): Multivariate Exploratory Data Analysis and Data Mining
@@ -172,6 +190,9 @@
 * [FunnelPlotR](https://cran.r-project.org/web/packages/FunnelPlotR/index.html): Funnel Plots for Comparing Institutional Performance
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
+
+### G
+
 * [ganttrify](https://github.com/giocomai/ganttrify): Create beautiful Gantt charts with ggplot2
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
 * [gdata](https://cran.r-project.org/web/packages/gdata/index.html): Various R Programming Tools for Data Manipulation
@@ -284,6 +305,9 @@
 * [gtools](https://cran.r-project.org/web/packages/gtools/index.html): Various R Programming Tools
 * [Guitar](https://www.bioconductor.org/packages/release/bioc/html/Guitar.html): The package is designed for visualization of RNA-related genomic features with respect to the landmarks of RNA transcripts, i.e., transcription starting site, start codon, stop codon and transcription ending site.
 * [Gviz](https://bioconductor.org/packages/release/bioc/html/Gviz.html): Plotting data and annotation information along genomic coordinates
+
+### H
+
 * [h2o](https://cran.r-project.org/web/packages/h2o/index.html): R Interface for the 'H2O' Scalable Machine Learning Platform
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
 * [heatmaply](https://cran.r-project.org/web/packages/heatmaply/index.html): Interactive Cluster Heat Maps Using 'plotly' and 'ggplot2'
@@ -295,19 +319,31 @@
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
 * [httr](https://cran.r-project.org/web/packages/httr/index.html): Tools for Working with URLs and HTTP
 * [huxtable](https://cran.r-project.org/web/packages/huxtable/index.html): Easily Create and Style Tables for LaTeX, HTML and Other Formats
+
+### I
+
 * [igraph](https://cran.r-project.org/web/packages/igraph/index.html): Network Analysis and Visualization
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
 * [intansv](https://bioconductor.org/packages/release/bioc/html/intansv.html): Integrative analysis of structural variations
 * [ipred](https://cran.r-project.org/web/packages/ipred/index.html): Improved Predictors
 * [iterators](https://cran.r-project.org/web/packages/iterators/index.html): Provides Iterator Construct
+
+### J
+
 * [janitor](https://cran.r-project.org/web/packages/janitor/index.html): Simple Tools for Examining and Cleaning Dirty Data
 * [jiebaR](https://cran.r-project.org/web/packages/jiebaR/index.html): Chinese Text Segmentation
 * [jiebaRD](https://cran.r-project.org/web/packages/jiebaRD/index.html): Chinese Text Segmentation Data for jiebaR Package
+
+### K
+
 * [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html): Construct Complex Table with 'kable' and Pipe Syntax
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
 * [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html): Client-side REST access to the Kyoto Encyclopedia of Genes and Genomes (KEGG)
 * [KMunicate](https://cran.r-project.org/web/packages/KMunicate/index.html): KMunicate-Style Kaplan–Meier Plots
+
+### L
+
 * [LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR): LaCroix Color Palettes for R
 * [latex2exp](https://cran.r-project.org/web/packages/latex2exp/index.html): Use LaTeX Expressions in Plots
 * [leaflet](https://cran.r-project.org/web/packages/leaflet/index.html): Create Interactive Web Maps with the JavaScript 'Leaflet' Library
@@ -317,6 +353,9 @@
 * [lime](https://cran.r-project.org/web/packages/lime/index.html): Local Interpretable Model-Agnostic Explanations
 * [lindia](https://cran.r-project.org/web/packages/lindia/index.html): Automated Linear Regression Diagnostic
 * [LinkageMapView](https://cran.r-project.org/web/packages/LinkageMapView/index.html): Plot Linkage Group Maps with Quantitative Trait Loci
+
+### M
+
 * [magick](https://cran.r-project.org/web/packages/magick/index.html): Advanced Graphics and Image-Processing in R
 * [manhattanly](https://cran.r-project.org/web/packages/manhattanly/index.html): Interactive Q-Q and Manhattan Plots Using 'plotly.js'
 * [Map2NCBI](https://cran.r-project.org/web/packages/Map2NCBI/index.html): Mapping Markers to the Nearest Genomic Feature
@@ -356,12 +395,18 @@
 * [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
 * [multiMiR](https://bioconductor.org/packages/release/bioc/html/multiMiR.html): Integration of multiple microRNA-target databases with their disease and drug associations
 * [musicatk](https://bioconductor.org/packages/release/bioc/html/musicatk.html): Mutational Signature Comprehensive Analysis Toolkit
+
+### N
+
 * [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
 * [network](https://cran.r-project.org/web/packages/network/index.html): Classes for Relational Data
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html): Linear and Nonlinear Mixed Effects Models
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html): Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
 * [nparcomp](https://cran.r-project.org/web/packages/nparcomp/index.html): Multiple Comparisons and Simultaneous Confidence Intervals
+
+### O
+
 * [officedown](https://cran.r-project.org/web/packages/officedown/index.html): Enhanced 'R Markdown' Format for 'Word' and 'PowerPoint'
 * [officer](https://cran.r-project.org/web/packages/officer/index.html): Manipulation of Microsoft Word and PowerPoint Documents
 * [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html): High-quality circular visualization of omics data
@@ -370,6 +415,9 @@
 * [openxlsx](https://cran.r-project.org/web/packages/openxlsx/index.html): Read, Write and Edit xlsx Files
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
 * [overviewR](https://cran.r-project.org/web/packages/overviewR/index.html): Easily Extracting Information About Your Data
+
+### P
+
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [pak](https://cran.r-project.org/web/packages/pak/index.html): Another Approach to Package Installation
 * [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
@@ -397,6 +445,9 @@
 * [prismatic](https://cran.r-project.org/web/packages/prismatic/index.html): Color Manipulation Tools
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
 * [psych](https://cran.r-project.org/web/packages/psych/index.html): Procedures for Psychological, Psychometric, and Personality Research
+
+### Q
+
 * [qgraph](https://cran.r-project.org/web/packages/qgraph/index.html): Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
 * [qqboxplot](https://cran.rstudio.com/web/packages/qqboxplot/index.html): Implementation of the Q-Q Boxplot
 * [qqman](https://cran.r-project.org/web/packages/qqman/index.html): Q-Q and Manhattan Plots for GWAS Data
@@ -405,6 +456,9 @@
 * [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html): Quantitative Financial Modelling Framework
 * [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html): Quantile Regression
 * [qvalue](http://www.bioconductor.org/packages/release/bioc/html/qvalue.html): Q-value estimation for false discovery rate control
+
+### R
+
 * [r2rtf](https://cran.r-project.org/web/packages/r2rtf/index.html): Easily Create Production-Ready Rich Text Format (RTF) Table and Figure
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
 * [RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots): Code and tutorials to visualise your data that is both beautiful *and* statistically valid
@@ -459,6 +513,9 @@
 * [rvcheck](https://cran.rstudio.com/web/packages/rvcheck/index.html): R/Package Version Check, Check latest release version of R and R package (both in 'CRAN', 'Bioconductor' or 'Github')
 * [rvest](https://cran.r-project.org/web/packages/rvest/index.html): Easily Harvest (Scrape) Web Pages
 * [Rwordseg](https://cran.r-project.org/web/packages/Rwordseg/index.html): Chinese Word Segmentation
+
+### S
+
 * [sankeywheel](https://cran.r-project.org/web/packages/sankeywheel/index.html): Create Dependency Wheels and Sankey Diagrams
 * [scales](https://cran.r-project.org/web/packages/scales/index.html): Scale Functions for Visualization
 * [scatterpie](https://cran.r-project.org/web/packages/scatterpie/index.html): Scatter Pie Plot
@@ -500,6 +557,9 @@
 * [sysfonts](https://cran.r-project.org/web/packages/sysfonts/index.html): Loading Fonts into R
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
 * [systemPipeTools](https://bioconductor.org/packages/release/bioc/html/systemPipeTools.html): Tools for data visualization
+
+### T
+
 * [tagger](https://github.com/eliocamp/tagger): Adds tags to 'ggpot2' facets
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
 * [TCGAmutations](https://github.com/PoisonAlien/TCGAmutations): R data package for pre-compiled somatic mutations from TCGA cohorts (from Broad Firehose and TCGA MC3 Project)
@@ -529,9 +589,15 @@
 * [tufte](https://cran.r-project.org/web/packages/tufte/index.html): Tufte's Styles for R Markdown Documents
 * [tvthemes](https://cran.r-project.org/web/packages/tvthemes/index.html): TV Show Themes and Color Palettes for 'ggplot2' Graphics
 * [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR): Mendelian randomization with GWAS summary data
+
+### U
+
 * [UCSCXenaShiny](https://cran.r-project.org/web/packages/UCSCXenaShiny/index.html): Interactive Analysis of UCSC Xena Data
 * [UCSCXenaTools](https://cran.r-project.org/web/packages/UCSCXenaTools/index.html): Download and Explore Datasets from UCSC Xena Data Hubs
 * [UpSetR](https://cran.r-project.org/web/packages/UpSetR/index.html): A More Scalable Alternative to Venn and Euler Diagrams for Visualizing Intersecting Sets
+
+### V
+
 * [VariantAnnotation](https://bioconductor.org/packages/release/bioc/html/VariantAnnotation.html): Annotation of Genetic Variants
 * [vcfR](https://cran.r-project.org/web/packages/vcfR/index.html): Manipulate and Visualize VCF Data
 * [vegan](https://cran.r-project.org/web/packages/vegan/index.html): Community Ecology Package
@@ -550,17 +616,26 @@
 * [vissE](https://bioconductor.org/packages/release/bioc/html/vissE.html): Visualising Set Enrichment Analysis Results
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
 * [VSURF](https://cran.r-project.org/web/packages/VSURF/index.html): Variable Selection Using Random Forests
+
+### W
+
 * [waldo](https://cran.r-project.org/web/packages/waldo/index.html): Find Differences Between R Objects
 * [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html): A Wes Anderson Palette Generator
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html): Word Clouds
 * [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
+
+### X
+
 * [xaringan](https://cran.r-project.org/web/packages/xaringan/index.html): Presentation Ninja
 * [xgboost](https://cran.r-project.org/web/packages/xgboost/index.html): Extreme Gradient Boosting
 * [xlsx](https://cran.r-project.org/web/packages/xlsx/index.html): Read, Write, Format Excel 2007 and Excel 97/2000/XP/2003 Files
 * [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html): Plotting ggplot2 Graphics in an XKCD Style
 * [XML](https://cran.r-project.org/web/packages/XML/index.html): Tools for Parsing and Generating XML Within R and S-Plus
 * [xts](https://cran.r-project.org/web/packages/xts/index.html): eXtensible Time Series
+
+### Y
+
 * [YAPSA](https://www.bioconductor.org/packages/release/bioc/html/YAPSA.html): Yet Another Package for Signature Analysis
 * [ymlthis](https://cran.r-project.org/web/packages/ymlthis/index.html): Write 'YAML' for 'R Markdown', 'bookdown', 'blogdown', and More
 
