@@ -290,6 +290,7 @@
 * [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html): Interactive Grammar of Graphics
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
+* [ghactions](https://www.maxheld.de/ghactions/): GitHub actions for R
 * [ghibli](https://cran.r-project.org/web/packages/ghibli/index.html): Studio Ghibli Colour Palettes
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html): Lasso and Elastic-Net Regularized Generalized Linear Models
 * [glmSparseNet](https://www.bioconductor.org/packages/release/bioc/html/glmSparseNet.html): Network Centrality Metrics for Elastic-Net Regularized Models
@@ -549,6 +550,7 @@
 * [STRINGdb](https://www.bioconductor.org/packages/release/bioc/html/STRINGdb.html): Search Tool for the Retrieval of Interacting proteins database
 * [sparklyr](https://spark.rstudio.com/): R interface for Apache Spark
 * [stringdist](https://cran.r-project.org/web/packages/stringdist/index.html): Approximate String Matching, Fuzzy Text Search, and String Distance Functions
+* [styler](https://styler.r-lib.org/): Non-Invasive Pretty Printing of R Code
 * [summarytools](https://cran.r-project.org/web/packages/summarytools/index.html): Tools to Quickly and Neatly Summarize Data
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
 * [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
