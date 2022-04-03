@@ -850,6 +850,7 @@
 * [Cancer RNA-Seq Nexus](http://syslab4.nchu.edu.tw/)
 * [iCoMut](http://firebrowse.org/iCoMut/): 癌症的somatic 突变信息全景图
 * [UALCAN](http://ualcan.path.uab.edu/index.html)
+* [CAMOIP](https://www.camoip.net/)
 
 ## 知名的肿瘤研究机构都有着自己的 TCGA 数据库探索工具
 
