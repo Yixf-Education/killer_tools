@@ -945,3 +945,9 @@
 # Pipeline
 
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html): The Snakemake workflow management system is a tool to create **reproducible and scalable** data analyses.
+
+# Genome visualization
+
+* [346 个基因组可视化工具一网打进！](https://mp.weixin.qq.com/s/kL21Oo4v6si6nde1EOOWYg)
+* [cmdcolin/awesome-genome-visualization: A list of interesting genome browser or genome-browser-like implementations](https://github.com/cmdcolin/awesome-genome-visualization)
+* [awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true)
