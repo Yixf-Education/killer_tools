@@ -441,6 +441,7 @@
 * [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
 * [PNWColors](https://cran.r-project.org/web/packages/PNWColors/index.html): Color Palettes Inspired by Nature in the US Pacific Northwest
 * [poppr](https://cran.r-project.org/web/packages/poppr/index.html): Genetic Analysis of Populations with Mixed Reproduction
+* [popsicleR](https://github.com/bicciatolab/PoPsicleR): a flexible R package aimed at providing most of the necessary quality controls and preliminary information for complete and detailed analysis of single cell RNA-seq data.
 * [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
 * [presenter](https://cran.r-project.org/web/packages/presenter/index.html): Present Data with Style
 * [prettydoc](https://cran.r-project.org/web/packages/prettydoc/index.html): Creating Pretty Documents from R Markdown
