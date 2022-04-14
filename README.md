@@ -629,6 +629,7 @@
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html): Word Clouds
 * [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
+* [wzRfun(https://github.com/walmes/wzRfun): Auxiliary functions for courses, analysis and data visualization.]
 
 ### X
 
