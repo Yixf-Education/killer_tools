@@ -215,6 +215,7 @@
 * [ggblur](https://github.com/coolbutuseless/ggblur): Blurry Point Geom for ggplot2
 * [ggborderline](https://cran.r-project.org/web/packages/ggborderline/index.html): Line Plots that Pop
 * [ggbreak](https://cran.r-project.org/web/packages/ggbreak/index.html): Set Axis Break for 'ggplot2'
+* [ggBubbles](https://cran.r-project.org/web/packages/ggBubbles/index.html): Mini Bubble Plots for Comparison of Discrete Data with 'ggplot2'
 * [ggbump](https://cran.r-project.org/web/packages/ggbump/index.html): Bump Chart and Sigmoid Curves
 * [ggchicklet](https://github.com/hrbrmstr/ggchicklet): Create Chicklet (Rounded Segmented Column) Charts
 * [ggchromatic](https://github.com/teunbrand/ggchromatic): Colour and fill scales for 'ggplot2' using colour spaces.
