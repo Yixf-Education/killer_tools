@@ -910,6 +910,8 @@
 * [技术 | 新式 Linux 命令行工具大全](https://linux.cn/article-14488-1.html)
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 * [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k): A Zsh theme
+* [Zsh](https://www.zsh.org/)
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 
 
