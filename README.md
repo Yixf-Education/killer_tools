@@ -507,6 +507,7 @@
 * [RobustRankAggreg](https://cran.r-project.org/web/packages/RobustRankAggreg/index.html): Methods for robust rank aggregation
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): Recursive Partitioning and Regression Trees
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
+* [Rsamtools](https://bioconductor.org/packages/release/bioc/html/Rsamtools.html): Binary alignment (BAM), FASTA, variant call (BCF), and tabix file import
 * [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html): R Bindings for 'Selenium WebDriver'
 * [rstan](https://cran.r-project.org/web/packages/rstan/index.html): R Interface to Stan
 * [rstatix](https://cran.r-project.org/web/packages/rstatix/index.html): Pipe-Friendly Framework for Basic Statistical Tests
@@ -536,6 +537,7 @@
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
 * [shinythemes](https://cran.r-project.org/web/packages/shinythemes/index.html): Themes for Shiny
+* [ShortRead](https://www.bioconductor.org/packages/release/bioc/html/ShortRead.html): FASTQ input and manipulation
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
 * [sigminer](https://cran.r-project.org/web/packages/sigminer/index.html): Extract, Analyze and Visualize Mutational Signatures for Genomic Variations
 * [simplifyEnrichment](https://bioconductor.org/packages/release/bioc/html/simplifyEnrichment.html): Simplify Functional Enrichment Results
