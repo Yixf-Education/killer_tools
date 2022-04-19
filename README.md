@@ -907,6 +907,9 @@
 # Shell
 
 * [starship](https://starship.rs/): The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* [技术 | 新式 Linux 命令行工具大全](https://linux.cn/article-14488-1.html)
+* [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
+* [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k): A Zsh theme
 
 
 
