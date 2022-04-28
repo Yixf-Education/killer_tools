@@ -99,6 +99,7 @@
 * [ComplexUpset](https://cran.r-project.org/web/packages/ComplexUpset/index.html): Create Complex UpSet Plots Using 'ggplot2' Components
 * [concaveman](https://cran.r-project.org/web/packages/concaveman/index.html): A Very Fast 2D Concave Hull Algorithm
 * [conflicted](https://cran.r-project.org/web/packages/conflicted/index.html): An Alternative Conflict Resolution Strategy
+* [ConsensusClusterPlus](https://bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html): algorithm for determining cluster count and membership by stability evidence in unsupervised analysis
 * [correlation](https://cran.r-project.org/web/packages/correlation/index.html): Methods for Correlation Analysis
 * [corrgram](https://cran.r-project.org/web/packages/corrgram/index.html): Plot a Correlogram
 * [corrplot](https://cran.r-project.org/web/packages/corrplot/index.html): Visualization of a Correlation Matrix
