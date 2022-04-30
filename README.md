@@ -330,6 +330,7 @@
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
 * [intansv](https://bioconductor.org/packages/release/bioc/html/intansv.html): Integrative analysis of structural variations
+* [introdataviz](https://github.com/PsyTeachR/introdataviz):  two functions (`geom_split_violin()` and `geom_flat_violin()`) used to make split-violin and raincloud plots
 * [ipred](https://cran.r-project.org/web/packages/ipred/index.html): Improved Predictors
 * [iterators](https://cran.r-project.org/web/packages/iterators/index.html): Provides Iterator Construct
 
