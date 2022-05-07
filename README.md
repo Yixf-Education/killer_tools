@@ -84,6 +84,7 @@
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
 * [chromoMap](https://cran.r-project.org/web/packages/chromoMap/index.html): Interactive Visualization and Mapping of Chromosomes
 * [circlize](https://github.com/jokergoo/circlize): circular visualization in R
+* [cli](https://cran.r-project.org/web/packages/cli/index.html): Helpers for Developing Command Line Interfaces
 * [clipr](https://cran.r-project.org/web/packages/clipr/index.html): Read and Write from the System Clipboard
 * [clock](https://cran.r-project.org/web/packages/clock/index.html): Date-Time Types and Tools
 * [cluster](https://cran.r-project.org/web/packages/cluster/index.html): "Finding Groups in Data": Cluster Analysis Extended Rousseeuw et al.
