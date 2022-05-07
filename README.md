@@ -89,6 +89,7 @@
 * [cluster](https://cran.r-project.org/web/packages/cluster/index.html): "Finding Groups in Data": Cluster Analysis Extended Rousseeuw et al.
 * [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html): statistical analysis and visualization of functional profiles for genes and gene clusters
 * [cmprsk](https://cran.r-project.org/web/packages/cmprsk/index.html): Subdistribution Analysis of Competing Risks
+* [coefplot](https://cran.r-project.org/web/packages/coefplot/index.html): Plots Coefficients from Fitted Models
 * [cola](https://www.bioconductor.org/packages/release/bioc/html/cola.html): A Framework for Consensus Partitioning
 * [coloc](https://cran.r-project.org/web/packages/coloc/index.html): Colocalisation Tests of Two Genetic Traits
 * [colorfindr](https://github.com/zumbov2/colorfindr): Extracts colors from various image types, plots treemaps and 3D scatterplots of color compositions, create color palettes
@@ -200,6 +201,7 @@
 * [gdata](https://cran.r-project.org/web/packages/gdata/index.html): Various R Programming Tools for Data Manipulation
 * [GDCRNATools](https://bioconductor.org/packages/release/bioc/html/GDCRNATools.html): an R/Bioconductor package for integrative analysis of lncRNA, mRNA, and miRNA data in GDC
 * [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Representation and manipulation of genomic intervals
+* [geomnet](http://cran.nexr.com/web/packages/geomnet/index.html): Network Visualization in the 'ggplot2' Framework
 * [geomtextpath](https://cran.r-project.org/web/packages/geomtextpath/index.html): Curved Text in 'ggplot2'
 * [geoR](https://cran.r-project.org/web/packages/geoR/index.html): Analysis of Geostatistical Data
 * [geoviz](https://cran.r-project.org/web/packages/geoviz/index.html): Elevation and GPS Data Visualisation
@@ -631,6 +633,7 @@
 * [vissE](https://bioconductor.org/packages/release/bioc/html/vissE.html): Visualising Set Enrichment Analysis Results
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
 * [VSURF](https://cran.r-project.org/web/packages/VSURF/index.html): Variable Selection Using Random Forests
+* [vtreat](https://cran.r-project.org/web/packages/vtreat/index.html): A Statistically Sound 'data.frame' Processor/Conditioner
 
 ### W
 
