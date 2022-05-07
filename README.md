@@ -541,6 +541,7 @@
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
+* [ShinyCell](https://github.com/SGDDNB/ShinyCell): Shiny Interactive Web Apps for Single-Cell Data
 * [shinythemes](https://cran.r-project.org/web/packages/shinythemes/index.html): Themes for Shiny
 * [ShortRead](https://www.bioconductor.org/packages/release/bioc/html/ShortRead.html): FASTQ input and manipulation
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
