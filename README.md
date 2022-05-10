@@ -383,6 +383,7 @@
 * [metafor](https://cran.r-project.org/web/packages/metafor/index.html): Meta-Analysis Package for R
 * [MetBrewer](https://github.com/BlakeRMills/MetBrewer/tree/main): Color palette package in R inspired by works at the Metropolitan Museum of Art in New York
 * [Mfuzz](https://www.bioconductor.org/packages/release/bioc/html/Mfuzz.html): Soft clustering of time series gene expression data
+* [mgcv](https://cran.r-project.org/web/packages/mgcv/index.html): Mixed GAM Computation Vehicle with Automatic Smoothness Estimation
 * [mice](https://cran.r-project.org/web/packages/mice/index.html): Multivariate Imputation by Chained Equations
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
 * [mixOmics](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html): Omics Data Integration Project
