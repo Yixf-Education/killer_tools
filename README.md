@@ -410,6 +410,7 @@
 * [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
 * [network](https://cran.r-project.org/web/packages/network/index.html): Classes for Relational Data
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
+* [ngsReports](https://bioconductor.org/packages/release/bioc/html/ngsReports.html): Load FastqQC reports and other NGS related files
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html): Linear and Nonlinear Mixed Effects Models
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html): Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
 * [nparcomp](https://cran.r-project.org/web/packages/nparcomp/index.html): Multiple Comparisons and Simultaneous Confidence Intervals
