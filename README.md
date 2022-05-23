@@ -36,7 +36,8 @@
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
 * [AnnotationHub](https://bioconductor.org/packages/release/bioc/html/AnnotationHub.html): Client to access AnnotationHub resources
-* [apcluster](https://cran.r-project.org/web/packages/apcluster/index.html): Affinity Propagation Clustering
+* [apcluster](https://cran.r-project.org/web/packages/apcluster/index.html): Affinity Propagation Clusterin
+* [aPCoA](https://cran.r-project.org/web/packages/aPCoA/index.html): Covariate Adjusted PCoA Plot
 * [aplot](https://cran.r-project.org/web/packages/aplot/index.html): Decorate a 'ggplot' with Associated Information
 * [arules](https://cran.r-project.org/web/packages/arules/index.html): Mining Association Rules and Frequent Itemsets
 * [arulesViz](https://cran.r-project.org/web/packages/arulesViz/index.html): Visualizing Association Rules and Frequent Itemsets
@@ -60,6 +61,7 @@
 * [bluster](https://www.bioconductor.org/packages/release/bioc/html/bluster.html): Clustering Algorithms for Bioconductor
 * [bnlearn](https://cran.r-project.org/web/packages/bnlearn/index.html): Bayesian Network Structure Learning, Parameter Learning and Inference
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
+* [boot](https://cran.r-project.org/web/packages/boot/index.html): Bootstrap Functions (Originally by Angelo Canty for S)
 * [Boruta](https://cran.r-project.org/web/packages/Boruta/index.html): Wrapper Algorithm for All Relevant Feature Selection
 * [brickr](https://cran.r-project.org/web/packages/brickr/index.html): Emulate LEGO Bricks in 2D and 3D
 * [broom](https://cran.r-project.org/web/packages/broom/index.html): Convert Statistical Objects into Tidy Tibbles
@@ -317,6 +319,7 @@
 
 * [h2o](https://cran.r-project.org/web/packages/h2o/index.html): R Interface for the 'H2O' Scalable Machine Learning Platform
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
+* [hdrcde](https://cran.r-project.org/web/packages/hdrcde/index.html): Highest Density Regions and Conditional Density Estimation
 * [heatmaply](https://cran.r-project.org/web/packages/heatmaply/index.html): Interactive Cluster Heat Maps Using 'plotly' and 'ggplot2'
 * [here](https://cran.r-project.org/web/packages/here/index.html): A Simpler Way to Find Your Files
 * [HGNChelper](https://cran.r-project.org/web/packages/HGNChelper/index.html): Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols
@@ -371,9 +374,11 @@
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [mapsf](https://cran.r-project.org/web/packages/mapsf/index.html): Thematic Cartography
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
+* [MASS](https://cran.r-project.org/web/packages/MASS/index.html): Support Functions and Datasets for Venables and Ripley's MASS
 * [metaviz](https://cran.r-project.org/web/packages/metaviz/index.html): Forest Plots, Funnel Plots, and Visual Funnel Plot Inference for Meta-Analysis
 * [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
 * [mclust](https://cran.r-project.org/web/packages/mclust/index.html): Gaussian Mixture Modelling for Model-Based Clustering, Classification, and Density Estimation
+* [mde](https://cran.r-project.org/web/packages/mde/index.html): Missing Data Explorer
 * [MEGENA](https://cran.r-project.org/web/packages/MEGENA/index.html): Multiscale Clustering of Geometrical Network
 * [MetaboSignal](https://bioconductor.org/packages/release/bioc/html/MetaboSignal.html): a network-based approach to overlay and explore metabolic and signaling KEGG pathways
 * [MEGENA](https://cran.r-project.org/web/packages/MEGENA/index.html): Multiscale Clustering of Geometrical Network
@@ -504,6 +509,7 @@
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
 * [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
 * [riverplot](https://cran.r-project.org/web/packages/riverplot/index.html): Sankey or Ribbon Plots
+* [rlist](https://cran.r-project.org/web/packages/rlist/index.html): A Toolbox for Non-Tabular Data Manipulation
 * [rmdformats](https://cran.r-project.org/web/packages/rmdformats/index.html): HTML Output Formats and Templates for 'rmarkdown' Documents
 * [rms](https://cran.r-project.org/web/packages/rms/index.html): Regression Modeling Strategies
 * [RNASeqR](https://bioconductor.org/packages/release/bioc/html/RNASeqR.html): an R package for automated two-group RNA-Seq analysis workflow
