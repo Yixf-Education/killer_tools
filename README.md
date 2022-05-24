@@ -75,6 +75,7 @@
 
 * [Cairo](https://cran.r-project.org/web/packages/Cairo/index.html): R Graphics Device using Cairo Graphics Library for Creating High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display (X11 and Win32) Output
 * [calendR](https://cran.r-project.org/web/packages/calendR/index.html): Ready to Print Monthly and Yearly Calendars Made with 'ggplot2'
+* [camcorder](https://github.com/thebioengineer/camcorder): Record plots generated during an R session and replay as a gif!
 * [canvasXpress](https://cran.r-project.org/web/packages/canvasXpress/index.html): Visualization Package for CanvasXpress in R
 * [car](https://cran.r-project.org/web/packages/car/index.html): Companion to Applied Regression
 * [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
