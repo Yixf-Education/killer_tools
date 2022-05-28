@@ -413,6 +413,7 @@
 
 ### N
 
+* [namedropR](https://cran.rstudio.com/web/packages/namedropR/index.html): Create Visual Citations for Presentation Slides
 * [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
 * [network](https://cran.r-project.org/web/packages/network/index.html): Classes for Relational Data
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
@@ -577,6 +578,7 @@
 * [stringdist](https://cran.r-project.org/web/packages/stringdist/index.html): Approximate String Matching, Fuzzy Text Search, and String Distance Functions
 * [styler](https://styler.r-lib.org/): Non-Invasive Pretty Printing of R Code
 * [summarytools](https://cran.r-project.org/web/packages/summarytools/index.html): Tools to Quickly and Neatly Summarize Data
+* [superb](https://cran.r-project.org/web/packages/superb/index.html): Summary Plots with Adjusted Error Bars
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
 * [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
