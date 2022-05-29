@@ -82,6 +82,7 @@
 * [cartography](https://cran.r-project.org/web/packages/cartography/index.html): Thematic Cartography
 * [caTools](https://cran.r-project.org/web/packages/caTools/index.html): Tools: Moving Window Statistics, GIF, Base64, ROC AUC, etc
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
+* [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type annotation
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html): R-Based API for Accessing the MSKCC Cancer Genomics Data Server (CGDS)
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
@@ -291,6 +292,7 @@
 * [ggthemes](https://cran.r-project.org/web/packages/ggthemes/index.html): Extra Themes, Scales and Geoms for 'ggplot2'
 * [ggthemr](https://github.com/Mikata-Project/ggthemr): Themes for ggplot2.
 * [ggTimeSeries](https://cran.r-project.org/web/packages/ggTimeSeries/index.html): Time Series Visualisations Using the Grammar of Graphics
+* [ggtranscript](https://github.com/dzhang32/ggtranscript): Visualizing transcript structure and annotation using ggplot2
 * [ggtree](https://www.bioconductor.org/packages/release/bioc/html/ggtree.html): an R package for visualization of tree and annotation data
 * [ggtreeExtra](https://bioconductor.org/packages/release/bioc/html/ggtreeExtra.html): An R Package To Add Geometric Layers On Circular Or Other Layout Tree Of "ggtree"
 * [ggupset](https://github.com/const-ae/ggupset): Combination matrix axis for 'ggplot2' to create 'UpSet' plots
@@ -377,6 +379,7 @@
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
 * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): Support Functions and Datasets for Venables and Ripley's MASS
 * [metaviz](https://cran.r-project.org/web/packages/metaviz/index.html): Forest Plots, Funnel Plots, and Visual Funnel Plot Inference for Meta-Analysis
+* [MetBrewer](https://cran.r-project.org/web/packages/MetBrewer/index.html): Color Palettes Inspired by Works at the Metropolitan Museum of Art
 * [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
 * [mclust](https://cran.r-project.org/web/packages/mclust/index.html): Gaussian Mixture Modelling for Model-Based Clustering, Classification, and Density Estimation
 * [mde](https://cran.r-project.org/web/packages/mde/index.html): Missing Data Explorer
@@ -544,6 +547,7 @@
 * [scatterplot3d](https://cran.r-project.org/web/packages/scatterplot3d/index.html): 3D Scatter Plot
 * [scatterPlotMatrix](https://cran.r-project.org/web/packages/scatterPlotMatrix/index.html): 'Htmlwidget' for a Scatter Plot Matrix & Multiple Scatter Plot
 * [scCancer](https://github.com/wguo-research/scCancer): A package for automated processing of single cell RNA-seq data in cancer
+* [schex](https://www.bioconductor.org/packages/release/bioc/html/schex.html): Hexbin plots for single cell omics data
 * [scholar](https://cran.r-project.org/web/packages/scholar/index.html): Analyse Citation Data from Google Scholar
 * [Scillus](https://github.com/xmc811/Scillus): R Package for Single-Cell Dataset Processing and Visualization
 * [SCORPIUS](https://cran.rstudio.com/web/packages/SCORPIUS/index.html): Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
