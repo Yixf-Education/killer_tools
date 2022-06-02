@@ -61,6 +61,7 @@
 * [bluster](https://www.bioconductor.org/packages/release/bioc/html/bluster.html): Clustering Algorithms for Bioconductor
 * [bnlearn](https://cran.r-project.org/web/packages/bnlearn/index.html): Bayesian Network Structure Learning, Parameter Learning and Inference
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
+* [bookdownplus](https://github.com/pzhaonet/bookdownplus): The easiest way to use R package bookdown for writing varied types of books and documents
 * [boot](https://cran.r-project.org/web/packages/boot/index.html): Bootstrap Functions (Originally by Angelo Canty for S)
 * [Boruta](https://cran.r-project.org/web/packages/Boruta/index.html): Wrapper Algorithm for All Relevant Feature Selection
 * [brickr](https://cran.r-project.org/web/packages/brickr/index.html): Emulate LEGO Bricks in 2D and 3D
