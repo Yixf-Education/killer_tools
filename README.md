@@ -672,6 +672,7 @@
 * [xlsx](https://cran.r-project.org/web/packages/xlsx/index.html): Read, Write, Format Excel 2007 and Excel 97/2000/XP/2003 Files
 * [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html): Plotting ggplot2 Graphics in an XKCD Style
 * [XML](https://cran.r-project.org/web/packages/XML/index.html): Tools for Parsing and Generating XML Within R and S-Plus
+* [xSelectCells](https://github.com/vikkki/xSelectCells): A light weight shiny app tool to enable manually selection of cells from seurat object.
 * [xts](https://cran.r-project.org/web/packages/xts/index.html): eXtensible Time Series
 
 ### Y
