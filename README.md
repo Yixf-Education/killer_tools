@@ -82,6 +82,7 @@
 * [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
 * [cartography](https://cran.r-project.org/web/packages/cartography/index.html): Thematic Cartography
 * [caTools](https://cran.r-project.org/web/packages/caTools/index.html): Tools: Moving Window Statistics, GIF, Base64, ROC AUC, etc
+* [CBNplot](https://github.com/noriakis/CBNplot): Bayesian network plot for the enrichment analysis results
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
 * [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type annotation
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html): R-Based API for Accessing the MSKCC Cancer Genomics Data Server (CGDS)
