@@ -86,6 +86,7 @@
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
 * [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type annotation
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html): R-Based API for Accessing the MSKCC Cancer Genomics Data Server (CGDS)
+* [checkmate](https://cran.r-project.org/web/packages/checkmate/index.html): Fast and Versatile Argument Checks
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
 * [chromoMap](https://cran.r-project.org/web/packages/chromoMap/index.html): Interactive Visualization and Mapping of Chromosomes
@@ -207,6 +208,7 @@
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
 * [gdata](https://cran.r-project.org/web/packages/gdata/index.html): Various R Programming Tools for Data Manipulation
 * [GDCRNATools](https://bioconductor.org/packages/release/bioc/html/GDCRNATools.html): an R/Bioconductor package for integrative analysis of lncRNA, mRNA, and miRNA data in GDC
+* [genomicInstability](https://www.bioconductor.org/packages/release/bioc/html/genomicInstability.html): Genomic Instability estimation for scRNA-Seq
 * [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Representation and manipulation of genomic intervals
 * [geomnet](http://cran.nexr.com/web/packages/geomnet/index.html): Network Visualization in the 'ggplot2' Framework
 * [geomtextpath](https://cran.r-project.org/web/packages/geomtextpath/index.html): Curved Text in 'ggplot2'
@@ -399,6 +401,7 @@
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
 * [mixOmics](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html): Omics Data Integration Project
 * [MixSim](https://cran.r-project.org/web/packages/MixSim/index.html): Simulating Data to Study Performance of Clustering Algorithms
+* [mixtools](https://cran.r-project.org/web/packages/mixtools/index.html): Tools for Analyzing Finite Mixture Models
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
 * [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html): Machine Learning in R - Next Generation
 * [mlr3verse](https://cran.rstudio.com/web/packages/mlr3verse/index.html): Easily Install and Load the 'mlr3' Package Family
