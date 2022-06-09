@@ -610,6 +610,7 @@
 * [tesseract](https://cran.r-project.org/web/packages/tesseract/index.html): Open Source OCR Engine
 * [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis
 * [textplot](https://cran.r-project.org/web/packages/textplot/index.html): Text Plots
+* [thematic](https://cran.r-project.org/web/packages/thematic/index.html): Unified and Automatic 'Theming' of 'ggplot2', 'lattice', and 'base' R Graphics
 * [tidybayes](https://cran.r-project.org/web/packages/tidybayes/index.html): Tidy Data and 'Geoms' for Bayesian Models
 * [tidybulk](https://www.bioconductor.org/packages/release/bioc/html/tidybulk.html): Brings transcriptomics to the tidyverse
 * [tidydr](https://cran.r-project.org/web/packages/tidydr/index.html): Unify Dimensionality Reduction Results
