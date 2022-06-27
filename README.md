@@ -102,6 +102,7 @@
 * [coloc](https://cran.r-project.org/web/packages/coloc/index.html): Colocalisation Tests of Two Genetic Traits
 * [colorfindr](https://github.com/zumbov2/colorfindr): Extracts colors from various image types, plots treemaps and 3D scatterplots of color compositions, create color palettes
 * [colorfulVennPlot](https://cran.r-project.org/web/packages/colorfulVennPlot/index.html): Plot and add custom coloring to Venn diagrams for 2-dimensional, 3-dimensional and 4-dimensional data
+* [colorspace](https://cran.r-project.org/web/packages/colorspace/index.html): A Toolbox for Manipulating and Assessing Colors and Palettes
 * [colourpicker](https://cran.r-project.org/web/packages/colourpicker/index.html): A Colour Picker Tool for Shiny and for Selecting Colours in Plots
 * [combinat](https://cran.r-project.org/web/packages/combinat/index.html): combinatorics utilities
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
@@ -501,6 +502,7 @@
 * [rasterVis](https://cran.r-project.org/web/packages/rasterVis/index.html): Visualization Methods for Raster Data
 * [rattle](https://cran.r-project.org/web/packages/rattle/index.html): Graphical User Interface for Data Science in R
 * [rayshader](https://cran.r-project.org/web/packages/rayshader/index.html): Create Maps and Visualize Data in 2D and 3D
+* [rcartocolor](https://cran.r-project.org/web/packages/rcartocolor/index.html): 'CARTOColors' Palettes
 * [rCharts](https://github.com/ramnathv/rCharts): Interactive JS Charts from R
 * [RCircos](https://cran.r-project.org/web/packages/RCircos/index.html): Circos 2D Track Plot
 * [RcisTarget](https://www.bioconductor.org/packages/release/bioc/html/RcisTarget.html): RcisTarget Identify transcription factor binding motifs enriched on a list of genes or genomic regions
@@ -598,6 +600,7 @@
 * [Sushi](https://bioconductor.org/packages/release/bioc/html/Sushi.html): Tools for visualizing genomics data
 * [sva](https://bioconductor.org/packages/release/bioc/html/sva.html): Surrogate Variable Analysis
 * [sysfonts](https://cran.r-project.org/web/packages/sysfonts/index.html): Loading Fonts into R
+* [systemfonts](https://cran.r-project.org/web/packages/systemfonts/index.html): System Native Font Finding
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
 * [systemPipeTools](https://bioconductor.org/packages/release/bioc/html/systemPipeTools.html): Tools for data visualization
 
