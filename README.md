@@ -463,6 +463,7 @@
 * [Pi](https://www.bioconductor.org/packages/release/bioc/html/Pi.html): Leveraging Genetic Evidence to Prioritise Drug Targets at the Gene and Pathway Level
 * [pivottabler](https://cran.r-project.org/web/packages/pivottabler/index.html): Create Pivot Tables
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
+* [pkgndep](https://cran.r-project.org/web/packages/pkgndep/index.html): Analyze Dependency Heaviness of R Packages
 * [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
 * [plotrix](https://cran.r-project.org/web/packages/plotrix/index.html): Various Plotting Functions
 * [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
