@@ -908,6 +908,8 @@
 * TCGA Batch Effects, MD Anderson Cancer Center
 * Regulome Explorer, Institute for Systems Biology
 * Next-Generation Clustered Heat Maps, MD Anderson Cancer Center
+* [Network of Cancer Genes Home](http://ncg.kcl.ac.uk/index.php)
+* [Tumor suppressor gene database (TSGene) Home](https://bioinfo.uth.edu/TSGene/)
 
 ## Shiny-related
 
