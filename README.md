@@ -662,6 +662,7 @@
 * [visNetwork](https://cran.r-project.org/web/packages/visNetwork/index.html): Network Visualization using 'vis.js' Library
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 * [vissE](https://bioconductor.org/packages/release/bioc/html/vissE.html): Visualising Set Enrichment Analysis Results
+* [vitae](https://cran.r-project.org/web/packages/vitae/index.html): Curriculum Vitae for R Markdown
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
 * [VSURF](https://cran.r-project.org/web/packages/VSURF/index.html): Variable Selection Using Random Forests
 * [vtreat](https://cran.r-project.org/web/packages/vtreat/index.html): A Statistically Sound 'data.frame' Processor/Conditioner
