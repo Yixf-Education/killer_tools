@@ -190,6 +190,7 @@
 * [filehash](https://cran.r-project.org/web/packages/filehash/index.html): Simple Key-Value Database
 * [finalfit](https://cran.r-project.org/web/packages/finalfit/index.html): Quickly Create Elegant Regression Results Tables and Plots when Modelling
 * [flextable](https://cran.r-project.org/web/packages/flextable/index.html): Functions for Tabular Reporting
+* [fmsb](https://cran.r-project.org/web/packages/fmsb/index.html): Functions for Medical Statistics Book with some Demographic Data
 * [forcats](https://cran.r-project.org/web/packages/forcats/index.html): Tools for Working with Categorical Variables (Factors)
 * [foreach](https://cran.r-project.org/web/packages/foreach/index.html): Provides Foreach Looping Construct
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
@@ -494,6 +495,7 @@
 
 * [r2rtf](https://cran.r-project.org/web/packages/r2rtf/index.html): Easily Create Production-Ready Rich Text Format (RTF) Table and Figure
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
+* [radarchart](https://cran.r-project.org/web/packages/radarchart/index.html): Radar Chart from 'Chart.js'
 * [RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots): Code and tutorials to visualise your data that is both beautiful *and* statistically valid
 * [raincloudplots](https://github.com/jorvlan/raincloudplots): The easy way to create raincloud plots
 * [rainette](https://cran.r-project.org/web/packages/rainette/index.html): The Reinert Method for Textual Data Clustering
