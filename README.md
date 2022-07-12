@@ -114,6 +114,7 @@
 * [correlation](https://cran.r-project.org/web/packages/correlation/index.html): Methods for Correlation Analysis
 * [corrgram](https://cran.r-project.org/web/packages/corrgram/index.html): Plot a Correlogram
 * [corrplot](https://cran.r-project.org/web/packages/corrplot/index.html): Visualization of a Correlation Matrix
+* [countdown: ](https://github.com/gadenbuie/countdown)⏲ countdown timer for R Markdown slides and HTML docs
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
 * [CRANsearcher](https://cran.r-project.org/web/packages/CRANsearcher/index.html): RStudio Addin for Searching Packages in CRAN Database Based on Keywords
 * [crayon](https://cran.r-project.org/web/packages/crayon/index.html): Colored Terminal Output
@@ -172,6 +173,7 @@
 * [esquisse](https://cran.r-project.org/web/packages/esquisse/index.html): Explore and Visualize Your Data Interactively
 * [eulerr](https://cran.r-project.org/web/packages/eulerr/index.html): Area-Proportional Euler and Venn Diagrams with Ellipses
 * [europepmc](https://cran.r-project.org/web/packages/europepmc/index.html): R Interface to the Europe PubMed Central RESTful Web Service
+* [exams](https://cran.r-project.org/web/packages/exams/index.html): Automatic Generation of Exams in R
 * [exomePeak2](https://bioconductor.org/packages/release/bioc/html/exomePeak2.html): Bias-aware Peak Calling and Quantification for MeRIP-Seq
 * [explore](https://cran.r-project.org/web/packages/explore/index.html): Simplifies Exploratory Data Analysis
 * [export](https://github.com/tomwenseleers/export): easily export active R graphs and statistical output in publication quality to Microsoft Office (Word, PowerPoint and Excel), HTML and Latex
