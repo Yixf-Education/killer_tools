@@ -228,6 +228,7 @@
 * [gganatogram](https://github.com/jespermaag/gganatogram): Create anatogram images for different organisms using ggplot2
 * [gganimate](https://cran.r-project.org/web/packages/gganimate/index.html): A Grammar of Animated Graphics
 * [ggannotate](https://github.com/MattCowgill/ggannotate): Interactively annotate ggplots
+* [ggarchery](https://cran.r-project.org/web/packages/ggarchery/index.html): Flexible Segment Geoms with Arrows for 'ggplot2'
 * [ggbeeswarm](https://github.com/eclarke/ggbeeswarm): Beeswarm-style plots with ggplot2
 * [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html): Visualization tools for genomic data
 * [ggblur](https://github.com/coolbutuseless/ggblur): Blurry Point Geom for ggplot2
