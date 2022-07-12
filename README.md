@@ -421,6 +421,7 @@
 * [msigdbr](https://cran.r-project.org/web/packages/msigdbr/index.html): MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format
 * [mstate](https://cran.r-project.org/web/packages/mstate/index.html): Data Preparation, Estimation and Prediction in Multi-State Models
 * [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
+* [multcompView](https://cran.r-project.org/web/packages/multcompView/index.html): Visualizations of Paired Comparisons
 * [multiMiR](https://bioconductor.org/packages/release/bioc/html/multiMiR.html): Integration of multiple microRNA-target databases with their disease and drug associations
 * [musicatk](https://bioconductor.org/packages/release/bioc/html/musicatk.html): Mutational Signature Comprehensive Analysis Toolkit
 
