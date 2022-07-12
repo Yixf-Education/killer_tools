@@ -303,6 +303,7 @@
 * [ggtranscript](https://github.com/dzhang32/ggtranscript): Visualizing transcript structure and annotation using ggplot2
 * [ggtree](https://www.bioconductor.org/packages/release/bioc/html/ggtree.html): an R package for visualization of tree and annotation data
 * [ggtreeExtra](https://bioconductor.org/packages/release/bioc/html/ggtreeExtra.html): An R Package To Add Geometric Layers On Circular Or Other Layout Tree Of "ggtree"
+* [ggtrendline](https://cran.r-project.org/web/packages/ggtrendline/index.html): Add Trendline and Confidence Interval to 'ggplot'
 * [ggupset](https://github.com/const-ae/ggupset): Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * [ggvenn](https://cran.r-project.org/web/packages/ggvenn/index.html): Draw Venn Diagram by 'ggplot2'
 * [ggVennDiagram](https://cran.r-project.org/web/packages/ggVennDiagram/index.html): A 'ggplot2' Implement of Venn Diagram
