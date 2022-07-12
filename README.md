@@ -614,6 +614,7 @@
 
 ### T
 
+* [tackPlotR](https://github.com/junjunlab/tackPlotR): A R package to visualize bigwigs.
 * [tagger](https://github.com/eliocamp/tagger): Adds tags to 'ggpot2' facets
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
 * [TCGAmutations](https://github.com/PoisonAlien/TCGAmutations): R data package for pre-compiled somatic mutations from TCGA cohorts (from Broad Firehose and TCGA MC3 Project)
