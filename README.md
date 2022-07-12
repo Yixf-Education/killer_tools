@@ -280,6 +280,7 @@
 * [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
 * [ggrepel](https://cran.r-project.org/web/packages/ggrepel/index.html): Automatically Position Non-Overlapping Text Labels with 'ggplot2'
 * [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html): Ridgeline Plots in 'ggplot2'
+* [ggrisk](https://cran.r-project.org/web/packages/ggrisk/index.html): Risk Score Plot for Cox Regression
 * [ggsankey](https://github.com/davidsjoberg/ggsankey): The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
 * [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
 * [ggseqlogo](https://cran.r-project.org/web/packages/ggseqlogo/index.html): A 'ggplot2' Extension for Drawing Publication-Ready Sequence Logos
