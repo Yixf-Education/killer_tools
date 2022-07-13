@@ -524,6 +524,7 @@
 * [regplot](https://cran.r-project.org/web/packages/regplot/index.html): Enhanced Regression Nomogram Plot
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
 * [report](https://cran.r-project.org/web/packages/report/index.html): Automated Reporting of Results and Statistical Models
+* [reportROC](https://cran.r-project.org/web/packages/reportROC/index.html): An Easy Way to Report ROC Analysis
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
 * [Rfast](https://cran.r-project.org/web/packages/Rfast/index.html): A Collection of Efficient and Extremely Fast R Functions
 * [rfPermute](https://cran.r-project.org/web/packages/rfPermute/index.html): Estimate Permutation p-Values for Random Forest Importance Metrics
