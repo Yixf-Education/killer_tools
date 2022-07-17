@@ -574,6 +574,7 @@
 * [scholar](https://cran.r-project.org/web/packages/scholar/index.html): Analyse Citation Data from Google Scholar
 * [Scillus](https://github.com/xmc811/Scillus): R Package for Single-Cell Dataset Processing and Visualization
 * [SCORPIUS](https://cran.rstudio.com/web/packages/SCORPIUS/index.html): Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
+* [scRNAtoolVis](https://github.com/junjunlab/scRNAtoolVis): Useful functions to make your scRNA-seq plot more cool!
 * [see](https://cran.r-project.org/web/packages/see/index.html): Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
 * [seriation](https://cran.r-project.org/web/packages/seriation/index.html): Infrastructure for Ordering Objects Using Seriation
