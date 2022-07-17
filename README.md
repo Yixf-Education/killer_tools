@@ -83,6 +83,7 @@
 * [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
 * [cartography](https://cran.r-project.org/web/packages/cartography/index.html): Thematic Cartography
 * [caTools](https://cran.r-project.org/web/packages/caTools/index.html): Tools: Moving Window Statistics, GIF, Base64, ROC AUC, etc
+* [CBCgrps](https://cran.r-project.org/web/packages/CBCgrps/index.html): Compare Baseline Characteristics Between Groups
 * [CBNplot](https://github.com/noriakis/CBNplot): Bayesian network plot for the enrichment analysis results
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
 * [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type annotation
@@ -106,6 +107,7 @@
 * [colorspace](https://cran.r-project.org/web/packages/colorspace/index.html): A Toolbox for Manipulating and Assessing Colors and Palettes
 * [colourpicker](https://cran.r-project.org/web/packages/colourpicker/index.html): A Colour Picker Tool for Shiny and for Selecting Colours in Plots
 * [combinat](https://cran.r-project.org/web/packages/combinat/index.html): combinatorics utilities
+* [compareGroups](https://cran.r-project.org/web/packages/compareGroups/index.html): Descriptive Analysis by Groups
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
 * [ComplexUpset](https://cran.r-project.org/web/packages/ComplexUpset/index.html): Create Complex UpSet Plots Using 'ggplot2' Components
 * [concaveman](https://cran.r-project.org/web/packages/concaveman/index.html): A Very Fast 2D Concave Hull Algorithm
@@ -133,6 +135,7 @@
 * [datarium](https://cran.r-project.org/web/packages/datarium/index.html): Data Bank for Statistical Analysis and Visualization
 * [datasauRus](https://cran.r-project.org/web/packages/datasauRus/index.html): Datasets from the Datasaurus Dozen
 * [deconstructSigs](https://cran.r-project.org/web/packages/deconstructSigs/index.html): Identifies Signatures Present in a Tumor Sample
+* [DemographicTable](https://cran.r-project.org/web/packages/DemographicTable/index.html): Creating Demographic Table
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
 * [dendsort](https://cran.rstudio.com/web/packages/dendsort/index.html): Modular Leaf Ordering Methods for Dendrogram Nodes
 * [descriptr](https://cran.r-project.org/web/packages/descriptr/index.html): Generate Descriptive Statistics
@@ -621,6 +624,7 @@
 
 ### T
 
+* [tableone](https://cran.r-project.org/web/packages/tableone/index.html): Create 'Table 1' to Describe Baseline Characteristics with or without Propensity Score Weights
 * [tackPlotR](https://github.com/junjunlab/tackPlotR): A R package to visualize bigwigs.
 * [tagger](https://github.com/eliocamp/tagger): Adds tags to 'ggpot2' facets
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
