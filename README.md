@@ -652,6 +652,7 @@
 * [timetk](https://cran.r-project.org/web/packages/timetk/index.html): A Tool Kit for Working with Time Series in R
 * [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
+* [transPlotR](https://github.com/junjunlab/transPlotR): An elegant package to visualize gene structures
 * [TreeAndLeaf](https://bioconductor.org/packages/release/bioc/html/TreeAndLeaf.html): Displaying binary trees with focus on dendrogram leaves
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
 * [trend](https://cran.r-project.org/web/packages/trend/index.html): Non-Parametric Trend Tests and Change-Point Detection
@@ -694,6 +695,7 @@
 * [waldo](https://cran.r-project.org/web/packages/waldo/index.html): Find Differences Between R Objects
 * [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html): A Wes Anderson Palette Generator
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
+* [wiggleplotr](https://bioconductor.org/packages/release/bioc/html/wiggleplotr.html): Make read coverage plots from BigWig files
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html): Word Clouds
 * [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
 * [wzRfun(https://github.com/walmes/wzRfun): Auxiliary functions for courses, analysis and data visualization.]
