@@ -200,6 +200,7 @@
 * [forcats](https://cran.r-project.org/web/packages/forcats/index.html): Tools for Working with Categorical Variables (Factors)
 * [foreach](https://cran.r-project.org/web/packages/foreach/index.html): Provides Foreach Looping Construct
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html): Forecasting Functions for Time Series and Linear Models
+* [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html): Forest Plots from Regression Models
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/index.html): Advanced Forest Plot Using 'grid' Graphics
 * [forestploter](https://cran.r-project.org/web/packages/forestploter/index.html): Create Flexible Forest Plot
 * [formattable](https://cran.r-project.org/web/packages/formattable/index.html): Create 'Formattable' Data Structures
