@@ -368,6 +368,7 @@
 * [janitor](https://cran.r-project.org/web/packages/janitor/index.html): Simple Tools for Examining and Cleaning Dirty Data
 * [jiebaR](https://cran.r-project.org/web/packages/jiebaR/index.html): Chinese Text Segmentation
 * [jiebaRD](https://cran.r-project.org/web/packages/jiebaRD/index.html): Chinese Text Segmentation Data for jiebaR Package
+* [jjAnno](https://github.com/junjunlab/jjAnno): An annotation package for ggplot plot
 
 ### K
 
