@@ -98,6 +98,7 @@
 * [clock](https://cran.r-project.org/web/packages/clock/index.html): Date-Time Types and Tools
 * [cluster](https://cran.r-project.org/web/packages/cluster/index.html): "Finding Groups in Data": Cluster Analysis Extended Rousseeuw et al.
 * [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html): statistical analysis and visualization of functional profiles for genes and gene clusters
+* [CMplot](https://cran.r-project.org/web/packages/CMplot/index.html): Circle Manhattan Plot
 * [cmprsk](https://cran.r-project.org/web/packages/cmprsk/index.html): Subdistribution Analysis of Competing Risks
 * [coefplot](https://cran.r-project.org/web/packages/coefplot/index.html): Plots Coefficients from Fitted Models
 * [cola](https://www.bioconductor.org/packages/release/bioc/html/cola.html): A Framework for Consensus Partitioning
