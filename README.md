@@ -646,6 +646,7 @@
 * [tidydr](https://cran.r-project.org/web/packages/tidydr/index.html): Unify Dimensionality Reduction Results
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
 * [tidygraph](https://cran.r-project.org/web/packages/tidygraph/index.html): A Tidy API for Graph Manipulation
+* [TidyMass](https://www.tidymass.org/): a comprehensive computational framework that can process the whole workflow of data processing and analysis for LC-MS-based untargeted metabolomics using [tidyverse](https://www.tidyverse.org/) principles
 * [tidymodels](https://cran.r-project.org/web/packages/tidymodels/index.html): Easily Install and Load the 'Tidymodels' Packages
 * [tidyquant](https://cran.r-project.org/web/packages/tidyquant/index.html): Tidy Quantitative Financial Analysis
 * [tidytext](https://cran.r-project.org/web/packages/tidytext/index.html): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
