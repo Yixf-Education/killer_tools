@@ -323,6 +323,7 @@
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
 * [ghactions](https://www.maxheld.de/ghactions/): GitHub actions for R
 * [ghibli](https://cran.r-project.org/web/packages/ghibli/index.html): Studio Ghibli Colour Palettes
+* [gifski](https://cran.r-project.org/web/packages/gifski/index.html): Highest Quality GIF Encoder
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html): Lasso and Elastic-Net Regularized Generalized Linear Models
 * [glmSparseNet](https://www.bioconductor.org/packages/release/bioc/html/glmSparseNet.html): Network Centrality Metrics for Elastic-Net Regularized Models
 * [glue](https://cran.r-project.org/web/packages/glue/index.html): Interpreted String Literals
@@ -398,6 +399,7 @@
 * [manhattanly](https://cran.r-project.org/web/packages/manhattanly/index.html): Interactive Q-Q and Manhattan Plots Using 'plotly.js'
 * [Map2NCBI](https://cran.r-project.org/web/packages/Map2NCBI/index.html): Mapping Markers to the Nearest Genomic Feature
 * [mapdeck](https://cran.r-project.org/web/packages/mapdeck/index.html): Interactive Maps Using 'Mapbox GL JS' and 'Deck.gl'
+* [mapproj](https://cran.r-project.org/web/packages/mapproj/index.html): Map Projections
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [mapsf](https://cran.r-project.org/web/packages/mapsf/index.html): Thematic Cartography
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
@@ -513,6 +515,7 @@
 * [r2rtf](https://cran.r-project.org/web/packages/r2rtf/index.html): Easily Create Production-Ready Rich Text Format (RTF) Table and Figure
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
 * [radarchart](https://cran.r-project.org/web/packages/radarchart/index.html): Radar Chart from 'Chart.js'
+* [ragg](https://cran.r-project.org/web/packages/ragg/index.html): Graphic Devices Based on AGG
 * [RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots): Code and tutorials to visualise your data that is both beautiful *and* statistically valid
 * [raincloudplots](https://github.com/jorvlan/raincloudplots): The easy way to create raincloud plots
 * [rainette](https://cran.r-project.org/web/packages/rainette/index.html): The Reinert Method for Textual Data Clustering
