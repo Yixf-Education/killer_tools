@@ -265,6 +265,7 @@
 * [ggh4x](https://cran.rstudio.com/web/packages/ggh4x/index.html): Hacks for 'ggplot2'
 * [gghalves](https://cran.r-project.org/web/packages/gghalves/index.html): Compose Half-Half Plots Using Your Favourite Geoms
 * [ggheatmap](https://cran.r-project.org/web/packages/ggheatmap/index.html): Plot Heatmap
+* [gghighlight](https://cran.r-project.org/web/packages/gghighlight/index.html): Highlight Lines and Points in 'ggplot2'
 * [ggHoriPlot](https://cran.r-project.org/web/packages/ggHoriPlot/index.html): Horizon Plots for 'ggplot2'
 * [ggiraph](https://cran.r-project.org/web/packages/ggiraph/index.html): Make 'ggplot2' Graphics Interactive
 * [ggimage](https://cran.r-project.org/web/packages/ggimage/index.html): Use Image in 'ggplot2'
@@ -647,6 +648,7 @@
 * [thematic](https://cran.r-project.org/web/packages/thematic/index.html): Unified and Automatic 'Theming' of 'ggplot2', 'lattice', and 'base' R Graphics
 * [tidybayes](https://cran.r-project.org/web/packages/tidybayes/index.html): Tidy Data and 'Geoms' for Bayesian Models
 * [tidybulk](https://www.bioconductor.org/packages/release/bioc/html/tidybulk.html): Brings transcriptomics to the tidyverse
+* [tidycmprsk](https://cran.r-project.org/web/packages/tidycmprsk/index.html): Competing Risks Estimation
 * [tidydr](https://cran.r-project.org/web/packages/tidydr/index.html): Unify Dimensionality Reduction Results
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
 * [tidygraph](https://cran.r-project.org/web/packages/tidygraph/index.html): A Tidy API for Graph Manipulation
