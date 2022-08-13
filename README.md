@@ -107,6 +107,7 @@
 * [colorfulVennPlot](https://cran.r-project.org/web/packages/colorfulVennPlot/index.html): Plot and add custom coloring to Venn diagrams for 2-dimensional, 3-dimensional and 4-dimensional data
 * [colorspace](https://cran.r-project.org/web/packages/colorspace/index.html): A Toolbox for Manipulating and Assessing Colors and Palettes
 * [colourpicker](https://cran.r-project.org/web/packages/colourpicker/index.html): A Colour Picker Tool for Shiny and for Selecting Colours in Plots
+* [cols4all](https://github.com/mtennekes/cols4all): Colors for all (R package)
 * [combinat](https://cran.r-project.org/web/packages/combinat/index.html): combinatorics utilities
 * [compareGroups](https://cran.r-project.org/web/packages/compareGroups/index.html): Descriptive Analysis by Groups
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
