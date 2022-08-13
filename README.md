@@ -394,6 +394,7 @@
 * [lime](https://cran.r-project.org/web/packages/lime/index.html): Local Interpretable Model-Agnostic Explanations
 * [lindia](https://cran.r-project.org/web/packages/lindia/index.html): Automated Linear Regression Diagnostic
 * [LinkageMapView](https://cran.r-project.org/web/packages/LinkageMapView/index.html): Plot Linkage Group Maps with Quantitative Trait Loci
+* [linkET](https://github.com/Hy4m/linkET): visualize simply and directly a matrix heatmap based on ‘ggplot2’
 
 ### M
 
