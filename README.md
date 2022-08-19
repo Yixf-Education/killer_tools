@@ -85,6 +85,7 @@
 * [caTools](https://cran.r-project.org/web/packages/caTools/index.html): Tools: Moving Window Statistics, GIF, Base64, ROC AUC, etc
 * [CBCgrps](https://cran.r-project.org/web/packages/CBCgrps/index.html): Compare Baseline Characteristics Between Groups
 * [CBNplot](https://github.com/noriakis/CBNplot): Bayesian network plot for the enrichment analysis results
+* [ccgraph](https://github.com/gaospecial/ccgraph): 在 R 环境下绘制 “圆环套圆环” 的 “图”
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
 * [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type annotation
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html): R-Based API for Accessing the MSKCC Cancer Genomics Data Server (CGDS)
@@ -666,6 +667,7 @@
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
 * [transPlotR](https://github.com/junjunlab/transPlotR): An elegant package to visualize gene structures
 * [TreeAndLeaf](https://bioconductor.org/packages/release/bioc/html/TreeAndLeaf.html): Displaying binary trees with focus on dendrogram leaves
+* [treemap](https://cran.r-project.org/web/packages/treemap/index.html): Treemap Visualization
 * [treemapify](https://cran.r-project.org/web/packages/treemapify/index.html): Draw Treemaps in 'ggplot2'
 * [trend](https://cran.r-project.org/web/packages/trend/index.html): Non-Parametric Trend Tests and Change-Point Detection
 * [TSstudio](https://cran.r-project.org/web/packages/TSstudio/index.html): Functions for Time Series Analysis and Forecasting
