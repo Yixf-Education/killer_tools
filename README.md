@@ -474,6 +474,7 @@
 
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [pak](https://cran.r-project.org/web/packages/pak/index.html): Another Approach to Package Installation
+* [pals](https://cran.r-project.org/web/packages/pals/index.html): Color Palettes, Colormaps, and Tools to Evaluate Them
 * [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
 * [parameters](https://cran.r-project.org/web/packages/parameters/index.html): Processing of Model Parameters
 * [parttree](https://github.com/grantmcdermott/parttree): Simple package for plotting decision tree partitions in R
