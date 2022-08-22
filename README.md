@@ -118,6 +118,7 @@
 * [ConsensusClusterPlus](https://bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html): algorithm for determining cluster count and membership by stability evidence in unsupervised analysis
 * [correlation](https://cran.r-project.org/web/packages/correlation/index.html): Methods for Correlation Analysis
 * [corrgram](https://cran.r-project.org/web/packages/corrgram/index.html): Plot a Correlogram
+* [corrmorant](https://github.com/r-link/corrmorant): R package for flexible correlation matrices based on ggplot2
 * [corrplot](https://cran.r-project.org/web/packages/corrplot/index.html): Visualization of a Correlation Matrix
 * [countdown: ](https://github.com/gadenbuie/countdown)⏲ countdown timer for R Markdown slides and HTML docs
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
@@ -259,6 +260,7 @@
 * [ggExtra](https://cran.r-project.org/web/packages/ggExtra/index.html): Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
 * [ggfan](https://cran.r-project.org/web/packages/ggfan/index.html): Summarise a Distribution Through Coloured Intervals
 * [ggfittext](https://cran.r-project.org/web/packages/ggfittext/index.html): Fit Text Inside a Box in 'ggplot2'
+* [ggfx](https://cran.r-project.org/web/packages/ggfx/index.html): Pixel Filters for 'ggplot2' and 'grid'
 * [ggforce](https://cran.r-project.org/web/packages/ggforce/index.html): Accelerating 'ggplot2'
 * [ggforestplot](https://github.com/NightingaleHealth/ggforestplot): An R package to create forestplots of measures of effects with their confidence intervals.
 * [ggfortify](https://cran.r-project.org/web/packages/ggfortify/index.html): Data Visualization Tools for Statistical Analysis Results
