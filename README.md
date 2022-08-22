@@ -293,6 +293,7 @@
 * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html): 'ggplot2' Based Publication Ready Plots
 * [ggradar](https://github.com/ricardo-bion/ggradar): radar charts with ggplot2
 * [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
+* [ggrcs](https://github.com/liuqiang070488/ggrcs): A function to draw histograms and restricted cubic splines (RCS).
 * [ggrepel](https://cran.r-project.org/web/packages/ggrepel/index.html): Automatically Position Non-Overlapping Text Labels with 'ggplot2'
 * [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html): Ridgeline Plots in 'ggplot2'
 * [ggrisk](https://cran.r-project.org/web/packages/ggrisk/index.html): Risk Score Plot for Cox Regression
@@ -376,6 +377,7 @@
 * [jiebaR](https://cran.r-project.org/web/packages/jiebaR/index.html): Chinese Text Segmentation
 * [jiebaRD](https://cran.r-project.org/web/packages/jiebaRD/index.html): Chinese Text Segmentation Data for jiebaR Package
 * [jjAnno](https://github.com/junjunlab/jjAnno): An annotation package for ggplot plot
+* [jjPlot](https://github.com/junjunlab/jjPlot): some geom/stat functions to produce funny graphs
 
 ### K
 
