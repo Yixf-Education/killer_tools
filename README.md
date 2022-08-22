@@ -1070,3 +1070,5 @@
 
 * [The Human Protein Atlas](https://www.proteinatlas.org/)
 * [TIMER2.0](http://timer.cistrome.org/): a comprehensive resource for systematical analysis of immune infiltrates across diverse cancer types
+* [GEPIA 2](http://gepia2.cancer-pku.cn/#index)
+* [BioGRID | Database of Protein, Chemical, and Genetic Interactions](https://thebiogrid.org/)
