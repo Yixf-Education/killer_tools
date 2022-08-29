@@ -326,6 +326,7 @@
 * [ggvenn](https://cran.r-project.org/web/packages/ggvenn/index.html): Draw Venn Diagram by 'ggplot2'
 * [ggVennDiagram](https://cran.r-project.org/web/packages/ggVennDiagram/index.html): A 'ggplot2' Implement of Venn Diagram
 * [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html): Interactive Grammar of Graphics
+* [BioSenior/ggVolcano](https://github.com/BioSenior/ggVolcano): The goal of `ggVolcano` is to help users make a beautiful volcano map more easily, including general volcano plot(`ggvolcano`), gradient color volcano plot(`gradual_volcano`) and GO term volcano plot(`term_volcano`).
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
 * [ghactions](https://www.maxheld.de/ghactions/): GitHub actions for R
