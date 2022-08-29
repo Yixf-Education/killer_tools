@@ -290,6 +290,7 @@
 * [ggplotgui](https://cran.r-project.org/web/packages/ggplotgui/index.html): Create Ggplots via a Graphical User Interface
 * [ggplotify](https://cran.r-project.org/web/packages/ggplotify/index.html): Convert Plot to 'grob' or 'ggplot' Object
 * [ggpmisc](https://cran.r-project.org/web/packages/ggpmisc/index.html): Miscellaneous Extensions to 'ggplot2'
+* [ggpointdensity](https://cran.r-project.org/web/packages/ggpointdensity/index.html): A Cross Between a 2D Density Plot and a Scatter Plot
 * [ggpol](https://cran.r-project.org/web/packages/ggpol/index.html): Visualizing Social Science Data with 'ggplot2'
 * [ggprism](https://github.com/csdaw/ggprism): The `ggprism` package provides various themes, palettes, and other useful functions to customise ggplots and give them the *‘GraphPad Prism’* look.
 * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html): 'ggplot2' Based Publication Ready Plots
