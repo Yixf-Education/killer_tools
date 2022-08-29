@@ -1072,3 +1072,7 @@
 * [TIMER2.0](http://timer.cistrome.org/): a comprehensive resource for systematical analysis of immune infiltrates across diverse cancer types
 * [GEPIA 2](http://gepia2.cancer-pku.cn/#index)
 * [BioGRID | Database of Protein, Chemical, and Genetic Interactions](https://thebiogrid.org/)
+* [GeneCards - Human Genes | Gene Database | Gene Search](https://www.genecards.org/)
+* [MalaCards - human disease database](https://www.malacards.org/)
+* [GeneCaRNA - The Human ncRNA Database](https://www.genecards.org/genecarna)
+* [PathCards :: Pathways integration](https://pathcards.genecards.org/)
