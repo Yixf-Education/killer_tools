@@ -457,6 +457,7 @@
 ### N
 
 * [namedropR](https://cran.rstudio.com/web/packages/namedropR/index.html): Create Visual Citations for Presentation Slides
+* [naniar](https://cran.r-project.org/web/packages/naniar/index.html): Data Structures, Summaries, and Visualisations for Missing Data
 * [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
 * [network](https://cran.r-project.org/web/packages/network/index.html): Classes for Relational Data
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
