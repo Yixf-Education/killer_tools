@@ -104,8 +104,11 @@
 * [coefplot](https://cran.r-project.org/web/packages/coefplot/index.html): Plots Coefficients from Fitted Models
 * [cola](https://www.bioconductor.org/packages/release/bioc/html/cola.html): A Framework for Consensus Partitioning
 * [coloc](https://cran.r-project.org/web/packages/coloc/index.html): Colocalisation Tests of Two Genetic Traits
+* [colorblindcheck](https://cran.r-project.org/web/packages/colorblindcheck/index.html): Check Color Palettes for Problems with Color Vision Deficiency
 * [colorfindr](https://github.com/zumbov2/colorfindr): Extracts colors from various image types, plots treemaps and 3D scatterplots of color compositions, create color palettes
 * [colorfulVennPlot](https://cran.r-project.org/web/packages/colorfulVennPlot/index.html): Plot and add custom coloring to Venn diagrams for 2-dimensional, 3-dimensional and 4-dimensional data
+* [colorist](https://cran.r-project.org/web/packages/colorist/index.html): Coloring Wildlife Distributions in Space-Time
+* [colorplaner](http://cran.nexr.com/web/packages/colorplaner/index.html): A 'ggplot2' Extension to Visualize Two Variables per Color Aesthetic Through Color Space Projections
 * [colorspace](https://cran.r-project.org/web/packages/colorspace/index.html): A Toolbox for Manipulating and Assessing Colors and Palettes
 * [colourpicker](https://cran.r-project.org/web/packages/colourpicker/index.html): A Colour Picker Tool for Shiny and for Selecting Colours in Plots
 * [cols4all](https://github.com/mtennekes/cols4all): Colors for all (R package)
