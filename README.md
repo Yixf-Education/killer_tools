@@ -89,6 +89,7 @@
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
 * [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type annotation
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html): R-Based API for Accessing the MSKCC Cancer Genomics Data Server (CGDS)
+* [CGPfunctions](https://cran.r-project.org/web/packages/CGPfunctions/index.html): Powell Miscellaneous Functions for Teaching and Learning Statistics
 * [checkmate](https://cran.r-project.org/web/packages/checkmate/index.html): Fast and Versatile Argument Checks
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
