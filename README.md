@@ -902,6 +902,7 @@
 * [dorothea](https://bioconductor.org/packages/release/data/experiment/html/dorothea.html): Collection Of Human And Mouse TF Regulons
 * [metacell](https://github.com/tanaylab/metacell): Metacell - Single-cell mRNA Analysis
 * [ShinyCell](https://github.com/SGDDNB/ShinyCell#installation): Shiny Interactive Web Apps for Single-Cell Data
+* [SCEVAN](https://github.com/AntonioDeFalco/SCEVAN): R package that automatically classifies the cells in the scRNA data by segregating non-malignant cells of tumor microenviroment from the malignant cells. It also infers the copy number profile of malignant cells, identifies subclonal structures and analyses the specific and shared alterations of each subpopulation.
 
 ### 数据整合
 
