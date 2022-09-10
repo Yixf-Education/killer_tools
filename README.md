@@ -637,6 +637,7 @@
 * [styler](https://styler.r-lib.org/): Non-Invasive Pretty Printing of R Code
 * [summarytools](https://cran.r-project.org/web/packages/summarytools/index.html): Tools to Quickly and Neatly Summarize Data
 * [superb](https://cran.r-project.org/web/packages/superb/index.html): Summary Plots with Adjusted Error Bars
+* [Surrogate](https://cran.r-project.org/web/packages/Surrogate/index.html): Evaluation of Surrogate Endpoints in Clinical Trials
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
 * [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
