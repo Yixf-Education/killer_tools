@@ -912,6 +912,7 @@
 * [harmony](https://portals.broadinstitute.org/harmony/index.html): Fast, Sensitive, and Accurate Integration of Single Cell Data
 * [batchelor](https://www.bioconductor.org/packages/release/bioc/html/batchelor.html): Single-Cell Batch Correction Methods
 * [rliger](https://cran.r-project.org/web/packages/rliger/index.html): Linked Inference of Genomic Experimental Relationships
+* [simspec](https://github.com/quadbiolab/simspec): Calculation of Reference/Cluster Similarity Spectrum (RSS/CSS)
 
 ### Doublets 鉴定
 
