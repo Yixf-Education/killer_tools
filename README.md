@@ -270,6 +270,7 @@
 * [ggfortify](https://cran.r-project.org/web/packages/ggfortify/index.html): Data Visualization Tools for Statistical Analysis Results
 * [ggfocus](https://cran.r-project.org/web/packages/ggfocus/index.html): Scales that Focus Specific Levels in your ggplot()
 * [gggenes](https://cran.r-project.org/web/packages/gggenes/index.html): Draw Gene Arrow Maps in 'ggplot2'
+* [gggenomes](https://github.com/thackl/gggenomes): A grammar of graphics for comparative genomics
 * [gggibbous](https://cran.r-project.org/web/packages/gggibbous/index.html): Moon Charts, a Pie Chart Alternative
 * [ggh4x](https://cran.rstudio.com/web/packages/ggh4x/index.html): Hacks for 'ggplot2'
 * [gghalves](https://cran.r-project.org/web/packages/gghalves/index.html): Compose Half-Half Plots Using Your Favourite Geoms
