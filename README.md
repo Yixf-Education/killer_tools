@@ -1039,6 +1039,10 @@
 * [图说](https://tushuo.baidu.com/)
 * [RAWGraphs](https://www.rawgraphs.io/)
 * [IGV](https://igv.org/app/)
+* [https://bioscitools.github.io](https://bioscitools.github.io/)
+* [openbiox - Home Page](https://openbiox.org/#/)
+* [Hiplot | Emerging biomedical data visualization toolkit](https://hiplot-academic.com/)
+* [Bio-Nav](https://bio-nav.hiplot.com.cn/home)
 
 # Reproducibility
 
