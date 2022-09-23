@@ -192,6 +192,7 @@
 * [expss](https://cran.r-project.org/web/packages/expss/index.html): Tables, Labels and Some Useful Functions from Spreadsheets and 'SPSS' Statistics
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/index.html): Tools for using fonts
 * [ExPosition](https://cran.r-project.org/web/packages/ExPosition/index.html): Exploratory Analysis with the Singular Value Decomposition
+* [ezcox](https://cran.r-project.org/web/packages/ezcox/index.html): Easily Process a Batch of Cox Models
 
 ### F
 
