@@ -914,6 +914,7 @@
 * [batchelor](https://www.bioconductor.org/packages/release/bioc/html/batchelor.html): Single-Cell Batch Correction Methods
 * [rliger](https://cran.r-project.org/web/packages/rliger/index.html): Linked Inference of Genomic Experimental Relationships
 * [simspec](https://github.com/quadbiolab/simspec): Calculation of Reference/Cluster Similarity Spectrum (RSS/CSS)
+* [tanaylab/metacells: Metacells - Single-cell RNA Sequencing Analysis](https://github.com/tanaylab/metacells)
 
 ### Doublets 鉴定
 
@@ -927,6 +928,11 @@
 ### 细胞通讯
 
 * [CellphoneDB](https://github.com/ventolab/CellphoneDB): CellPhoneDB can be used to search for a particular ligand/receptor, or interrogate your own HUMAN single-cell transcriptomics data.
+
+## 代谢分析
+
+* [changwn/scFEA: single cell Flux Estimation Analysis (scFEA) Try the below web server!](https://github.com/changwn/scFEA)
+* [Yosef Lab | compass](https://yoseflab.github.io/software/compass/): Metabolic modeling using single-cell transcriptomes
 
 ## [Cancer/Survival-related, 生存分析在线工具 2020 年 4 月吐血整理！](https://mp.weixin.qq.com/s?__biz=Mzg4NjA5Mzg2Mw==&mid=2247488689&idx=2&sn=92818d38ffba4f97fd295dcf51f05857&chksm=cf9fb5f9f8e83cefc35b6a980c125fe8be1b5860f66211594cb27d7419be02f5adcb95588c56&mpshare=1&scene=1&srcid=&sharer_sharetime=1587258755943&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=7024fc3958d21a49f38d5962a504384cb7aa02cfec7d99b587fbbaad39d6f014de6891e0d0d0a1c51311259cc5116c5fda4311d0c4a8bf171a88b52cae8649f6495594a0becdfce753717e6f209ed145&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=Af7QoGlOZcxdXwTntJ6mQfA%3D&pass_ticket=egSQZf3ZmjmNSBYxFfxeMhxks6Fcdfesee2EK45qb6wqbW1FRDSL1ND6vhbrpF2H)
 
