@@ -336,6 +336,7 @@
 * [BioSenior/ggVolcano](https://github.com/BioSenior/ggVolcano): The goal of `ggVolcano` is to help users make a beautiful volcano map more easily, including general volcano plot(`ggvolcano`), gradient color volcano plot(`gradual_volcano`) and GO term volcano plot(`term_volcano`).
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
+* [ggx](https://github.com/brandmaier/ggx): A Natural Language Interface to ‘ggplot2’
 * [ghactions](https://www.maxheld.de/ghactions/): GitHub actions for R
 * [ghibli](https://cran.r-project.org/web/packages/ghibli/index.html): Studio Ghibli Colour Palettes
 * [gifski](https://cran.r-project.org/web/packages/gifski/index.html): Highest Quality GIF Encoder
