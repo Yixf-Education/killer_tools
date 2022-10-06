@@ -182,6 +182,7 @@
 * [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html): Publication-ready volcano plots with enhanced colouring and labeling
 * [EnrichedHeatmap](https://bioconductor.org/packages/release/bioc/html/EnrichedHeatmap.html): Making Enriched Heatmaps
 * [eoffice](https://cran.r-project.org/web/packages/eoffice/index.html): Export or Graph and Tables to 'Microsoft' Office and Import Figures and Tables
+* [epistack](https://www.bioconductor.org/packages/release/bioc/html/epistack.html): Heatmaps of Stack Profiles from Epigenetic Signals
 * [esquisse](https://cran.r-project.org/web/packages/esquisse/index.html): Explore and Visualize Your Data Interactively
 * [eulerr](https://cran.r-project.org/web/packages/eulerr/index.html): Area-Proportional Euler and Venn Diagrams with Ellipses
 * [europepmc](https://cran.r-project.org/web/packages/europepmc/index.html): R Interface to the Europe PubMed Central RESTful Web Service
@@ -506,6 +507,7 @@
 * [pivottabler](https://cran.r-project.org/web/packages/pivottabler/index.html): Create Pivot Tables
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
 * [pkgndep](https://cran.r-project.org/web/packages/pkgndep/index.html): Analyze Dependency Heaviness of R Packages
+* [pkgverse](https://cran.r-project.org/web/packages/pkgverse/index.html): Build a Meta-Package Universe
 * [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
 * [plotrix](https://cran.r-project.org/web/packages/plotrix/index.html): Various Plotting Functions
 * [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
@@ -647,6 +649,7 @@
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
 * [survRM2](https://cran.r-project.org/web/packages/survRM2/index.html): Comparing Restricted Mean Survival Time
 * [Sushi](https://bioconductor.org/packages/release/bioc/html/Sushi.html): Tools for visualizing genomics data
+* [susieR](https://cran.r-project.org/web/packages/susieR/index.html): Sum of Single Effects Linear Regression
 * [sva](https://bioconductor.org/packages/release/bioc/html/sva.html): Surrogate Variable Analysis
 * [sysfonts](https://cran.r-project.org/web/packages/sysfonts/index.html): Loading Fonts into R
 * [systemfonts](https://cran.r-project.org/web/packages/systemfonts/index.html): System Native Font Finding
@@ -684,6 +687,7 @@
 * [timetk](https://cran.r-project.org/web/packages/timetk/index.html): A Tool Kit for Working with Time Series in R
 * [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
+* [toastui](https://cran.r-project.org/web/packages/toastui/index.html): Interactive Tables, Calendars and Charts for the Web
 * [transPlotR](https://github.com/junjunlab/transPlotR): An elegant package to visualize gene structures
 * [TreeAndLeaf](https://bioconductor.org/packages/release/bioc/html/TreeAndLeaf.html): Displaying binary trees with focus on dendrogram leaves
 * [treemap](https://cran.r-project.org/web/packages/treemap/index.html): Treemap Visualization
