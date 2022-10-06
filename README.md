@@ -839,8 +839,14 @@
 * [Refgenie](http://refgenie.databio.org/en/latest/): Refgenie manages storage, access, and transfer of reference genome resources. It provides command-line and Python interfaces to *download* pre-built reference genome "assets", like indexes used by bioinformatics tools. It can also *build* assets for custom genome assemblies. Refgenie provides programmatic access to a standard genome folder structure, so software can swap from one genome to another.
 * [ImageGP](http://www.ehbio.com/ImageGP/): An easy-to-use data visualization web server for scientific researchers
 * [TISIDB](http://cis.hku.hk/TISIDB/): an integrated repository portal for tumor-immune system interactions
+* [查文献 - paperneed](https://www.paperneed.cn/articles/search)
+* [概普学术导航](https://gapscholar.com/)
+* [一站式 GEO 数据分析平台：全界面化操作，让 GEO 数据分析更容易 - easyGEO](https://easygeo.cn/)
+* [科图 SHOW | 快速从 PDF 中提取图片](https://ktshow.gaptools.cn/#/)
+* [易软著](https://erz.gaptools.cn/)
+* [医生进阶必看的十大科研网站](https://mp.weixin.qq.com/s/9a4kPrYxUF-zwfcaH2pAvA)
 
-## scRNA
+## [GAPTOOLS](https://www.gaptools.cn/#/)scRNA
 * [**awesome-single-cell**](https://github.com/seandavi/awesome-single-cell)**: Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.**
 * [**awesome-multi-omics**](https://github.com/mikelove/awesome-multi-omics)**: List of software packages for multi-omics analysis**
 * [**scRNA-tools**](https://www.scrna-tools.org/table): The scRNA-tools database is a catalogue of tools for analysing single-cell RNA sequencing data.
