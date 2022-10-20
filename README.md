@@ -247,6 +247,7 @@
 * [ggbeeswarm](https://github.com/eclarke/ggbeeswarm): Beeswarm-style plots with ggplot2
 * [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html): Visualization tools for genomic data
 * [ggblanket](https://cran.r-project.org/web/packages/ggblanket/index.html): Wrappers to Simplify 'ggplot2' Visualisation
+* [ggblanket](https://cran.r-project.org/web/packages/ggblanket/index.html): Simplify 'ggplot2' Visualisation
 * [ggblur](https://github.com/coolbutuseless/ggblur): Blurry Point Geom for ggplot2
 * [ggborderline](https://cran.r-project.org/web/packages/ggborderline/index.html): Line Plots that Pop
 * [ggbreak](https://cran.r-project.org/web/packages/ggbreak/index.html): Set Axis Break for 'ggplot2'
