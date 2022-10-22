@@ -355,6 +355,7 @@
 * [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
 * [GSEABase](https://bioconductor.org/packages/release/bioc/html/GSEABase.html): Gene set enrichment data structures and methods
 * [GseaVis](https://github.com/junjunlab/GseaVis): An implement R package to visualize GSEA results
+* [gson](https://cran.r-project.org/web/packages/gson/index.html): Base Class and Methods for 'gson' Format
 * [GSVA](https://www.bioconductor.org/packages/release/bioc/html/GSVA.html): Gene Set Variation Analysis for microarray and RNA-seq data
 * [gt](https://cran.r-project.org/web/packages/gt/index.html): Easily Create Presentation-Ready Display Tables
 * [gtsummary](https://cran.r-project.org/web/packages/gtsummary/index.html): Presentation-Ready Data Summary and Analytic Result Tables
