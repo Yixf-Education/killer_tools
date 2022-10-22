@@ -381,6 +381,7 @@
 
 * [igraph](https://cran.r-project.org/web/packages/igraph/index.html): Network Analysis and Visualization
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
+* [IMvigor210CoreBiologies](http://research-pub.gene.com/IMvigor210CoreBiologies/): TGF-b attenuates tumor response to PD-L1 blockade by contributing to exclusion of T cells
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
 * [intansv](https://bioconductor.org/packages/release/bioc/html/intansv.html): Integrative analysis of structural variations
 * [introdataviz](https://github.com/PsyTeachR/introdataviz):  two functions (`geom_split_violin()` and `geom_flat_violin()`) used to make split-violin and raincloud plots
