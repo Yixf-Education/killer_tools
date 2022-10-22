@@ -234,6 +234,7 @@
 * [GDCRNATools](https://bioconductor.org/packages/release/bioc/html/GDCRNATools.html): an R/Bioconductor package for integrative analysis of lncRNA, mRNA, and miRNA data in GDC
 * [genomicInstability](https://www.bioconductor.org/packages/release/bioc/html/genomicInstability.html): Genomic Instability estimation for scRNA-Seq
 * [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Representation and manipulation of genomic intervals
+* [geojsonsf](https://cran.r-project.org/web/packages/geojsonsf/index.html): GeoJSON to Simple Feature Converter
 * [geomnet](http://cran.nexr.com/web/packages/geomnet/index.html): Network Visualization in the 'ggplot2' Framework
 * [geomtextpath](https://cran.r-project.org/web/packages/geomtextpath/index.html): Curved Text in 'ggplot2'
 * [geoR](https://cran.r-project.org/web/packages/geoR/index.html): Analysis of Geostatistical Data
