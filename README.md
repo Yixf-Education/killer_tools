@@ -133,6 +133,7 @@
 * [ctv](https://cran.r-project.org/web/packages/ctv/index.html): CRAN Task Views
 * [curatedTCGAData](https://bioconductor.org/packages/release/data/experiment/html/curatedTCGAData.html): Curated Data From The Cancer Genome Atlas (TCGA) as MultiAssayExperiment Objects
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
+* [cutoff](https://cran.r-project.org/web/packages/cutoff/index.html): Seek the Significant Cutoff Value
 
 ### D
 
