@@ -1124,4 +1124,5 @@
 * [GeneCards - Human Genes | Gene Database | Gene Search](https://www.genecards.org/)
 * [MalaCards - human disease database](https://www.malacards.org/)
 * [GeneCaRNA - The Human ncRNA Database](https://www.genecards.org/genecarna)
-* [PathCards :: Pathways integration](https://pathcards.genecards.org/)
+* [PathCards: Pathways integration](https://pathcards.genecards.org/)
+* [TissGDB](https://bioinfo.uth.edu/TissGDB/): Tissue-specific Gene DataBase in cancer
