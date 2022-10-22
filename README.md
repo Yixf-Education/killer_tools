@@ -590,6 +590,7 @@
 * [RNAseqStat](https://gitmemory.cn/index.php/repo/jisnoalia/RNAseqStat): 一行代码完成转录组下游分析
 * [ROCit](https://cran.r-project.org/web/packages/ROCit/index.html): Performance Assessment of Binary Classifier with Visualization
 * [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html): Visualizing the Performance of Scoring Classifiers
+* [rOpenSci](https://ropensci.org/): open tools for open science
 * [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
 * [RobustRankAggreg](https://cran.r-project.org/web/packages/RobustRankAggreg/index.html): Methods for robust rank aggregation
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): Recursive Partitioning and Regression Trees
