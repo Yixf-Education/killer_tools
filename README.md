@@ -43,6 +43,7 @@
 * [arules](https://cran.r-project.org/web/packages/arules/index.html): Mining Association Rules and Frequent Itemsets
 * [arulesViz](https://cran.r-project.org/web/packages/arulesViz/index.html): Visualizing Association Rules and Frequent Itemsets
 * [autoplotly](https://cran.r-project.org/web/packages/autoplotly/index.html): Automatic Generation of Interactive Visualizations for Statistical Results
+* [autoReg](https://cran.r-project.org/web/packages/autoReg/index.html): Automatic Linear and Logistic Regression and Survival Analysis
 
 ### B
 
