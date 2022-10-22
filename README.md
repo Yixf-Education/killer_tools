@@ -208,6 +208,7 @@
 * [FindIT2](https://bioconductor.org/packages/devel/bioc/html/FindIT2.html): find influential TF and Target based on multi-omics data
 * [filehash](https://cran.r-project.org/web/packages/filehash/index.html): Simple Key-Value Database
 * [finalfit](https://cran.r-project.org/web/packages/finalfit/index.html): Quickly Create Elegant Regression Results Tables and Plots when Modelling
+* [Fletcher2013a](https://bioconductor.org/packages/release/data/experiment/html/Fletcher2013a.html): Gene expression data from breast cancer cells under FGFR2 signalling perturbation
 * [flextable](https://cran.r-project.org/web/packages/flextable/index.html): Functions for Tabular Reporting
 * [fmsb](https://cran.r-project.org/web/packages/fmsb/index.html): Functions for Medical Statistics Book with some Demographic Data
 * [forcats](https://cran.r-project.org/web/packages/forcats/index.html): Tools for Working with Categorical Variables (Factors)
