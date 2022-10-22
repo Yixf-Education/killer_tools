@@ -40,6 +40,7 @@
 * [apcluster](https://cran.r-project.org/web/packages/apcluster/index.html): Affinity Propagation Clusterin
 * [aPCoA](https://cran.r-project.org/web/packages/aPCoA/index.html): Covariate Adjusted PCoA Plot
 * [aplot](https://cran.r-project.org/web/packages/aplot/index.html): Decorate a 'ggplot' with Associated Information
+* [archive](https://cran.r-project.org/web/packages/archive/index.html): Multi-Format Archive and Compression Support
 * [arules](https://cran.r-project.org/web/packages/arules/index.html): Mining Association Rules and Frequent Itemsets
 * [arulesViz](https://cran.r-project.org/web/packages/arulesViz/index.html): Visualizing Association Rules and Frequent Itemsets
 * [autoplotly](https://cran.r-project.org/web/packages/autoplotly/index.html): Automatic Generation of Interactive Visualizations for Statistical Results
