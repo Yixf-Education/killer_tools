@@ -168,6 +168,7 @@
 ### E
 
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
+* [easierData](https://bioconductor.org/packages/release/data/experiment/html/easierData.html): easier internal data and exemplary dataset from IMvigor210CoreBiologies package
 * [easyalluvial](https://cran.r-project.org/web/packages/easyalluvial/index.html): Generate Alluvial Plots with a Single Line of Code
 * [easylabel](https://cran.r-project.org/web/packages/easylabel/index.html): Interactive Scatter Plot and Volcano Plot Labels
 * [easyPubMed](https://cran.r-project.org/web/packages/easyPubMed/index.html): Search and Retrieve Scientific Publication Records from PubMed
