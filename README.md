@@ -166,6 +166,7 @@
 * [dslabs](https://cran.r-project.org/web/packages/dslabs/index.html): Data Science Labs
 * [DT](https://cran.r-project.org/web/packages/DT/index.html): A Wrapper of the JavaScript Library 'DataTables'
 * [dynamicTreeCut](https://cran.r-project.org/web/packages/dynamicTreeCut/index.html): Methods for Detection of Clusters in Hierarchical Clustering Dendrograms
+* [DynNom](https://cran.r-project.org/web/packages/DynNom/index.html): Visualising Statistical Models using Dynamic Nomograms
 
 ### E
 
@@ -630,6 +631,7 @@
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
 * [ShinyCell](https://github.com/SGDDNB/ShinyCell): Shiny Interactive Web Apps for Single-Cell Data
+* [shinyPredict](https://cran.r-project.org/web/packages/shinyPredict/index.html): Predictions using Shiny
 * [shinythemes](https://cran.r-project.org/web/packages/shinythemes/index.html): Themes for Shiny
 * [ShortRead](https://www.bioconductor.org/packages/release/bioc/html/ShortRead.html): FASTQ input and manipulation
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
