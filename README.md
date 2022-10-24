@@ -194,6 +194,7 @@
 * [exams](https://cran.r-project.org/web/packages/exams/index.html): Automatic Generation of Exams in R
 * [exomePeak2](https://bioconductor.org/packages/release/bioc/html/exomePeak2.html): Bias-aware Peak Calling and Quantification for MeRIP-Seq
 * [explore](https://cran.r-project.org/web/packages/explore/index.html): Simplifies Exploratory Data Analysis
+* [exploreR](https://cran.r-project.org/web/packages/exploreR/index.html): Tools for Quickly Exploring Data
 * [export](https://github.com/tomwenseleers/export): easily export active R graphs and statistical output in publication quality to Microsoft Office (Word, PowerPoint and Excel), HTML and Latex
 * [expss](https://cran.r-project.org/web/packages/expss/index.html): Tables, Labels and Some Useful Functions from Spreadsheets and 'SPSS' Statistics
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/index.html): Tools for using fonts
@@ -642,6 +643,7 @@
 * [sjmisc](https://cran.r-project.org/web/packages/sjmisc/index.html): Data and Variable Transformation Functions
 * [sjPlot](https://cran.r-project.org/web/packages/sjPlot/index.html): Data Visualization for Statistics in Social Science
 * [skimr](https://cran.r-project.org/web/packages/skimr/index.html): Compact and Flexible Summaries of Data
+* [SmartEDA](https://cran.r-project.org/web/packages/SmartEDA/index.html): Summarize and Explore the Data
 * [smplot](https://github.com/smin95/smplot): R package for statistical data visualization that complements ggplot2
 * [SNFtool](https://cran.r-project.org/web/packages/SNFtool/index.html): Similarity Network Fusion
 * [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html): Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
