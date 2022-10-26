@@ -531,6 +531,7 @@
 * [prettydoc](https://cran.r-project.org/web/packages/prettydoc/index.html): Creating Pretty Documents from R Markdown
 * [prismatic](https://cran.r-project.org/web/packages/prismatic/index.html): Color Manipulation Tools
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
+* [ProjecTILs](https://github.com/carmonalab/ProjecTILs): Interpretation of T cell states using reference single-cell atlases
 * [psych](https://cran.r-project.org/web/packages/psych/index.html): Procedures for Psychological, Psychometric, and Personality Research
 
 ### Q
