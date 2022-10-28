@@ -956,6 +956,7 @@
 ### 注释细胞类型
 
 * [SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html): Reference-Based Single-Cell RNA-Seq Annotation
+* [scAnnotate](https://cran.r-project.org/web/packages/scAnnotate/index.html): An Automated Cell Type Annotation Tool for Single-Cell RNA-Sequencing Data
 
 ### 细胞通讯
 
