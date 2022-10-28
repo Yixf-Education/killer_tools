@@ -141,6 +141,7 @@
 
 * [DALEX](https://cran.r-project.org/web/packages/DALEX/index.html): moDel Agnostic Language for Exploration and eXplanation
 * [data.table](https://cran.r-project.org/web/packages/data.table/index.html): Extension of 'data.frame'
+* [datadictionary](https://cran.r-project.org/web/packages/datadictionary/index.html): Create a Data Dictionary
 * [DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/index.html): Automate Data Exploration and Treatment
 * [datapasta](https://github.com/MilesMcBain/datapasta): is about reducing resistance associated with copying and pasting data to and from R
 * [datarium](https://cran.r-project.org/web/packages/datarium/index.html): Data Bank for Statistical Analysis and Visualization
@@ -165,6 +166,7 @@
 * [DR.SC](https://cran.r-project.org/web/packages/DR.SC/index.html): Joint Dimension Reduction and Spatial Clustering
 * [dslabs](https://cran.r-project.org/web/packages/dslabs/index.html): Data Science Labs
 * [DT](https://cran.r-project.org/web/packages/DT/index.html): A Wrapper of the JavaScript Library 'DataTables'
+* [dtrackr](https://cran.r-project.org/web/packages/dtrackr/index.html): Track your Data Pipelines
 * [dynamicTreeCut](https://cran.r-project.org/web/packages/dynamicTreeCut/index.html): Methods for Detection of Clusters in Hierarchical Clustering Dendrograms
 * [DynNom](https://cran.r-project.org/web/packages/DynNom/index.html): Visualising Statistical Models using Dynamic Nomograms
 
@@ -236,6 +238,8 @@
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
 * [gdata](https://cran.r-project.org/web/packages/gdata/index.html): Various R Programming Tools for Data Manipulation
 * [GDCRNATools](https://bioconductor.org/packages/release/bioc/html/GDCRNATools.html): an R/Bioconductor package for integrative analysis of lncRNA, mRNA, and miRNA data in GDC
+* [geneHapR](https://cran.r-project.org/web/packages/geneHapR/index.html): Gene Haplotype Statistics, Phenotype Association and Visualization
+* [genieBPC](https://cran.r-project.org/web/packages/genieBPC/index.html): Project GENIE BioPharma Collaborative Data Processing Pipeline
 * [genomicInstability](https://www.bioconductor.org/packages/release/bioc/html/genomicInstability.html): Genomic Instability estimation for scRNA-Seq
 * [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Representation and manipulation of genomic intervals
 * [geojsonsf](https://cran.r-project.org/web/packages/geojsonsf/index.html): GeoJSON to Simple Feature Converter
@@ -299,6 +303,7 @@
 * [ggnetwork](https://cran.r-project.org/web/packages/ggnetwork/index.html): Geometries to Plot Networks with 'ggplot2'
 * [ggnewscale](https://cran.r-project.org/web/packages/ggnewscale/index.html): Multiple Fill and Colour Scales in 'ggplot2'
 * [ggord](https://github.com/fawda123/ggord): a take on ordination plots using ggplot2
+* [ggpackets](https://cran.r-project.org/web/packages/ggpackets/index.html): Package Plot Layers for Easier Portability and Modularization
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
 * [ggpattern](https://github.com/coolbutuseless/ggpattern): ggplot geoms with pattern fills
 * [ggpie](https://cran.r-project.org/web/packages/ggpie/index.html): Pie, Donut and Rose Pie Plots
@@ -328,6 +333,7 @@
 * [ggstar](https://cran.rstudio.com/web/packages/ggstar/index.html): Multiple Geometric Shape Point Layer for 'ggplot2'
 * [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html): 'ggplot2' Based Plots with Statistical Details
 * [ggstream](https://github.com/davidsjoberg/ggstream): create a simple but powerful implementation of streamplot/streamgraph in `ggplot2`
+* [ggsurvfit](https://cran.r-project.org/web/packages/ggsurvfit/index.html): Flexible Time-to-Event Figures
 * [ggsymbol](https://github.com/xiangpin/ggsymbol): symbols layer based on ggplot2 and ggstar
 * [ggtern](https://cran.r-project.org/web/packages/ggtern/index.html): An Extension to 'ggplot2', for the Creation of Ternary Diagrams
 * [ggtext](https://cran.r-project.org/web/packages/ggtext/index.html): Improved Text Rendering Support for 'ggplot2'
@@ -364,6 +370,7 @@
 * [gson](https://cran.r-project.org/web/packages/gson/index.html): Base Class and Methods for 'gson' Format
 * [GSVA](https://www.bioconductor.org/packages/release/bioc/html/GSVA.html): Gene Set Variation Analysis for microarray and RNA-seq data
 * [gt](https://cran.r-project.org/web/packages/gt/index.html): Easily Create Presentation-Ready Display Tables
+* [gtreg](https://cran.r-project.org/web/packages/gtreg/index.html): Regulatory Tables for Clinical Research
 * [gtsummary](https://cran.r-project.org/web/packages/gtsummary/index.html): Presentation-Ready Data Summary and Analytic Result Tables
 * [gtools](https://cran.r-project.org/web/packages/gtools/index.html): Various R Programming Tools
 * [Guitar](https://www.bioconductor.org/packages/release/bioc/html/Guitar.html): The package is designed for visualization of RNA-related genomic features with respect to the landmarks of RNA transcripts, i.e., transcription starting site, start codon, stop codon and transcription ending site.
@@ -456,6 +463,7 @@
 * [mixOmics](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html): Omics Data Integration Project
 * [MixSim](https://cran.r-project.org/web/packages/MixSim/index.html): Simulating Data to Study Performance of Clustering Algorithms
 * [mixtools](https://cran.r-project.org/web/packages/mixtools/index.html): Tools for Analyzing Finite Mixture Models
+* [mlim](https://cran.r-project.org/web/packages/mlim/index.html): Multiple Imputation with Automated Machine Learning
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
 * [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html): Machine Learning in R - Next Generation
 * [mlr3verse](https://cran.rstudio.com/web/packages/mlr3verse/index.html): Easily Install and Load the 'mlr3' Package Family
@@ -481,10 +489,12 @@
 * [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
 * [network](https://cran.r-project.org/web/packages/network/index.html): Classes for Relational Data
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
+* [nextGenShinyApps](https://cran.r-project.org/web/packages/nextGenShinyApps/index.html): Advanced Tools for Building the Next Generation of 'Shiny' Applications and Dashboards
 * [ngsReports](https://bioconductor.org/packages/release/bioc/html/ngsReports.html): Load FastqQC reports and other NGS related files
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html): Linear and Nonlinear Mixed Effects Models
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html): Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
 * [nparcomp](https://cran.r-project.org/web/packages/nparcomp/index.html): Multiple Comparisons and Simultaneous Confidence Intervals
+* [nplyr](https://cran.r-project.org/web/packages/nplyr/index.html): A Grammar of Nested Data Manipulation
 
 ### O
 
@@ -532,6 +542,7 @@
 * [prismatic](https://cran.r-project.org/web/packages/prismatic/index.html): Color Manipulation Tools
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
 * [ProjecTILs](https://github.com/carmonalab/ProjecTILs): Interpretation of T cell states using reference single-cell atlases
+* [promor](https://cran.r-project.org/web/packages/promor/index.html): Proteomics Data Analysis and Modeling Tools
 * [psych](https://cran.r-project.org/web/packages/psych/index.html): Procedures for Psychological, Psychometric, and Personality Research
 
 ### Q
@@ -572,6 +583,7 @@
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
 * [regplot](https://cran.r-project.org/web/packages/regplot/index.html): Enhanced Regression Nomogram Plot
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
+* [renderthis](https://cran.r-project.org/web/packages/renderthis/index.html): Render Slides to Different Formats
 * [report](https://cran.r-project.org/web/packages/report/index.html): Automated Reporting of Results and Statistical Models
 * [reportROC](https://cran.r-project.org/web/packages/reportROC/index.html): An Easy Way to Report ROC Analysis
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
@@ -691,6 +703,7 @@
 * [thematic](https://cran.r-project.org/web/packages/thematic/index.html): Unified and Automatic 'Theming' of 'ggplot2', 'lattice', and 'base' R Graphics
 * [tidybayes](https://cran.r-project.org/web/packages/tidybayes/index.html): Tidy Data and 'Geoms' for Bayesian Models
 * [tidybulk](https://www.bioconductor.org/packages/release/bioc/html/tidybulk.html): Brings transcriptomics to the tidyverse
+* [tidyCDISC](https://cran.r-project.org/web/packages/tidyCDISC/index.html): Quick Table Generation & Exploratory Analyses on ADaM-Ish Datasets
 * [tidycmprsk](https://cran.r-project.org/web/packages/tidycmprsk/index.html): Competing Risks Estimation
 * [tidydr](https://cran.r-project.org/web/packages/tidydr/index.html): Unify Dimensionality Reduction Results
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
