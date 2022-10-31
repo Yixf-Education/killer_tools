@@ -74,6 +74,7 @@
 * [bruceR](https://cran.r-project.org/web/packages/bruceR/index.html): Broadly Useful Convenient and Efficient R Functions
 * [bslib](https://cran.r-project.org/web/packages/bslib/index.html): Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'
 * [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr): This package builds bullet charts suitable for tracking KPIs, and used by ACDI/VOCA to track progress against indicators
+* [bundle](https://cran.r-project.org/web/packages/bundle/index.html): Serialize Model Objects with a Consistent Interface
 
 ### C
 
@@ -211,6 +212,7 @@
 * [familiar](https://cran.r-project.org/web/packages/familiar/index.html): End-to-End Automated Machine Learning and Model Evaluation
 * [fgsea](https://bioconductor.org/packages/release/bioc/html/fgsea.html): Fast Gene Set Enrichment Analysis
 * [fields](https://mran.microsoft.com/snapshot/2017-02-04/web/packages/fields/index.html): Tools for Spatial Data
+* [figuRes2](https://cran.r-project.org/web/packages/figuRes2/index.html): Support for a Variety of Figure Production Tasks
 * [FindIT2](https://bioconductor.org/packages/devel/bioc/html/FindIT2.html): find influential TF and Target based on multi-omics data
 * [filehash](https://cran.r-project.org/web/packages/filehash/index.html): Simple Key-Value Database
 * [finalfit](https://cran.r-project.org/web/packages/finalfit/index.html): Quickly Create Elegant Regression Results Tables and Plots when Modelling
@@ -274,6 +276,7 @@
 * [ggDCA](https://cran.r-project.org/web/packages/ggDCA/index.html): Calculate and Plot Decision Curve
 * [ggdendro](https://cran.r-project.org/web/packages/ggdendro/index.html): Create Dendrograms and Tree Diagrams Using 'ggplot2'
 * [ggdist](https://cran.r-project.org/web/packages/ggdist/index.html): Visualizations of Distributions and Uncertainty
+* [ggDoubleHeat](https://cran.rstudio.com/web/packages/ggDoubleHeat/index.html): A Heatmap-Like Visualization Tool
 * [ggeasy](https://cran.r-project.org/web/packages/ggeasy/index.html): Easy Access to 'ggplot2' Commands
 * [ggeconodist](https://github.com/hrbrmstr/ggeconodist): Create Diminutive Distribution Charts
 * [ggExtra](https://cran.r-project.org/web/packages/ggExtra/index.html): Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
@@ -558,6 +561,7 @@
 
 ### R
 
+* [r2resize](https://cran.r-project.org/web/packages/r2resize/index.html): In-Text Resizing for Containers, Images and Data Tables in 'Shiny', 'Markdown' and 'Quarto' Documents
 * [r2rtf](https://cran.r-project.org/web/packages/r2rtf/index.html): Easily Create Production-Ready Rich Text Format (RTF) Table and Figure
 * [R.utils](https://cran.r-project.org/web/packages/R.utils/index.html): Various Programming Utilities
 * [radarchart](https://cran.r-project.org/web/packages/radarchart/index.html): Radar Chart from 'Chart.js'
@@ -581,6 +585,7 @@
 * [rcssci](https://cran.r-project.org/web/packages/rcssci/index.html): Visualization of Restricted Cubic Splines
 * [reactable](https://cran.r-project.org/web/packages/reactable/index.html): Interactive Data Tables Based on 'React Table'
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
+* [refdb](https://cran.r-project.org/web/packages/refdb/index.html): A DNA Reference Library Manager
 * [regplot](https://cran.r-project.org/web/packages/regplot/index.html): Enhanced Regression Nomogram Plot
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
 * [renderthis](https://cran.r-project.org/web/packages/renderthis/index.html): Render Slides to Different Formats
@@ -681,6 +686,7 @@
 * [Sushi](https://bioconductor.org/packages/release/bioc/html/Sushi.html): Tools for visualizing genomics data
 * [susieR](https://cran.r-project.org/web/packages/susieR/index.html): Sum of Single Effects Linear Regression
 * [sva](https://bioconductor.org/packages/release/bioc/html/sva.html): Surrogate Variable Analysis
+* [survex](https://cran.r-project.org/web/packages/survex/index.html): Explainable Machine Learning in Survival Analysis
 * [sysfonts](https://cran.r-project.org/web/packages/sysfonts/index.html): Loading Fonts into R
 * [systemfonts](https://cran.r-project.org/web/packages/systemfonts/index.html): System Native Font Finding
 * [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html): NGS workflow and report generation environment
@@ -754,6 +760,7 @@
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 * [vissE](https://bioconductor.org/packages/release/bioc/html/vissE.html): Visualising Set Enrichment Analysis Results
 * [vitae](https://cran.r-project.org/web/packages/vitae/index.html): Curriculum Vitae for R Markdown
+* [voronoiTreemap](https://cran.rstudio.com/web/packages/voronoiTreemap/index.html): Voronoi Treemaps with Added Interactivity by Shiny
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
 * [VSURF](https://cran.r-project.org/web/packages/VSURF/index.html): Variable Selection Using Random Forests
 * [vtreat](https://cran.r-project.org/web/packages/vtreat/index.html): A Statistically Sound 'data.frame' Processor/Conditioner
