@@ -306,6 +306,7 @@
 * [ggmcmc](https://cran.r-project.org/web/packages/ggmcmc/index.html): Tools for Analyzing MCMC Simulations from Bayesian Inference
 * [ggmosaic](https://cran.r-project.org/web/packages/ggmosaic/index.html): Mosaic Plots in the 'ggplot2' Framework
 * [ggmsa](https://cran.r-project.org/web/packages/ggmsa/index.html): Plot Multiple Sequence Alignment using 'ggplot2'
+* [ggmuller](https://github.com/robjohnnoble/ggmuller): Create Muller Plots of Evolutionary Dynamics
 * [ggnetwork](https://cran.r-project.org/web/packages/ggnetwork/index.html): Geometries to Plot Networks with 'ggplot2'
 * [ggnewscale](https://cran.r-project.org/web/packages/ggnewscale/index.html): Multiple Fill and Colour Scales in 'ggplot2'
 * [ggord](https://github.com/fawda123/ggord): a take on ordination plots using ggplot2
