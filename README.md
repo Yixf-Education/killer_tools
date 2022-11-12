@@ -1156,3 +1156,4 @@
 * [PathCards: Pathways integration](https://pathcards.genecards.org/)
 * [TissGDB](https://bioinfo.uth.edu/TissGDB/): Tissue-specific Gene DataBase in cancer
 * [MIMIC](https://mimic.mit.edu/): Medical Information Mart for Intensive Care
+* [STOMICS DataBase](https://db.cngb.org/stomics/): Spatial Transcript Omics DataBase (STOmics DB) is a comprehensive repository of literature and data sets related to spatial transcriptomics topics, and provides convenient tools for data viewing, analysis, and visualization.
