@@ -1155,3 +1155,4 @@
 * [GeneCaRNA - The Human ncRNA Database](https://www.genecards.org/genecarna)
 * [PathCards: Pathways integration](https://pathcards.genecards.org/)
 * [TissGDB](https://bioinfo.uth.edu/TissGDB/): Tissue-specific Gene DataBase in cancer
+* [MIMIC](https://mimic.mit.edu/): Medical Information Mart for Intensive Care
