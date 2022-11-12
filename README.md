@@ -272,6 +272,7 @@
 * [ggchromatic](https://github.com/teunbrand/ggchromatic): Colour and fill scales for 'ggplot2' using colour spaces.
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/index.html): Visualization of a Correlation Matrix using 'ggplot2'
+* [ggcorrplot2](https://github.com/caijun/ggcorrplot2): Implementation of corrplot using ggplot2
 * [ggCyberPunk](https://github.com/delabj/ggCyberPunk): A "Geom" for creating charts with a cyberpunk aesthetic
 * [ggcyto](https://www.bioconductor.org/packages/release/bioc/html/ggcyto.html): Visualize Cytometry data with ggplot
 * [ggDCA](https://cran.r-project.org/web/packages/ggDCA/index.html): Calculate and Plot Decision Curve
@@ -294,6 +295,7 @@
 * [ggh4x](https://cran.rstudio.com/web/packages/ggh4x/index.html): Hacks for 'ggplot2'
 * [gghalves](https://cran.r-project.org/web/packages/gghalves/index.html): Compose Half-Half Plots Using Your Favourite Geoms
 * [ggheatmap](https://cran.r-project.org/web/packages/ggheatmap/index.html): Plot Heatmap
+* [ggheatmap](https://github.com/XiaoLuo-boy/ggheatmap): ggplot2 version of heatmap
 * [gghighlight](https://cran.r-project.org/web/packages/gghighlight/index.html): Highlight Lines and Points in 'ggplot2'
 * [ggHoriPlot](https://cran.r-project.org/web/packages/ggHoriPlot/index.html): Horizon Plots for 'ggplot2'
 * [ggiraph](https://cran.r-project.org/web/packages/ggiraph/index.html): Make 'ggplot2' Graphics Interactive
