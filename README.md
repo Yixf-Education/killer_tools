@@ -322,6 +322,7 @@
 * [ggpol](https://cran.r-project.org/web/packages/ggpol/index.html): Visualizing Social Science Data with 'ggplot2'
 * [ggprism](https://github.com/csdaw/ggprism): The `ggprism` package provides various themes, palettes, and other useful functions to customise ggplots and give them the *‘GraphPad Prism’* look.
 * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html): 'ggplot2' Based Publication Ready Plots
+* [ggpval](https://cran.r-project.org/web/packages/ggpval/index.html): Annotate Statistical Tests for 'ggplot2'
 * [ggradar](https://github.com/ricardo-bion/ggradar): radar charts with ggplot2
 * [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
 * [ggrcs](https://github.com/liuqiang070488/ggrcs): A function to draw histograms and restricted cubic splines (RCS).
