@@ -309,6 +309,7 @@
 * [ggmuller](https://github.com/robjohnnoble/ggmuller): Create Muller Plots of Evolutionary Dynamics
 * [ggnetwork](https://cran.r-project.org/web/packages/ggnetwork/index.html): Geometries to Plot Networks with 'ggplot2'
 * [ggnewscale](https://cran.r-project.org/web/packages/ggnewscale/index.html): Multiple Fill and Colour Scales in 'ggplot2'
+* [ggOceanMaps](https://cran.r-project.org/web/packages/ggOceanMaps/index.html): Plot Data on Oceanographic Maps using 'ggplot2'
 * [ggord](https://github.com/fawda123/ggord): a take on ordination plots using ggplot2
 * [ggpackets](https://cran.r-project.org/web/packages/ggpackets/index.html): Package Plot Layers for Easier Portability and Modularization
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
