@@ -48,6 +48,7 @@
 
 ### B
 
+* [babelgene](https://cran.rstudio.com/web/packages/babelgene/index.html): Gene Orthologs for Model Organisms in a Tidy Data Format
 * [barplot3d](https://cran.r-project.org/web/packages/barplot3d/index.html): Create 3D Barplots
 * [bayestestR](https://cran.r-project.org/web/packages/bayestestR/index.html): Understand and Describe Bayesian Models and Posterior Distributions
 * [bbplot](https://github.com/bbc/bbplot): R package that helps create and export ggplot2 charts in the style used by the BBC News data team
@@ -397,6 +398,7 @@
 * [highcharter](https://cran.r-project.org/web/packages/highcharter/index.html): A Wrapper for the 'Highcharts' Library
 * [HilbertCurve](https://www.bioconductor.org/packages/release/bioc/html/HilbertCurve.html): Making 2D Hilbert Curve
 * [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html): Harrell Miscellaneous
+* [homologene](https://cran.r-project.org/web/packages/homologene/index.html): Quick Access to Homologene and Gene Annotation Updates
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
 * [httr](https://cran.r-project.org/web/packages/httr/index.html): Tools for Working with URLs and HTTP
 * [huxtable](https://cran.r-project.org/web/packages/huxtable/index.html): Easily Create and Style Tables for LaTeX, HTML and Other Formats
