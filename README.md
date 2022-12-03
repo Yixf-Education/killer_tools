@@ -667,6 +667,7 @@
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
 * [sigminer](https://cran.r-project.org/web/packages/sigminer/index.html): Extract, Analyze and Visualize Mutational Signatures for Genomic Variations
 * [simplifyEnrichment](https://bioconductor.org/packages/release/bioc/html/simplifyEnrichment.html): Simplify Functional Enrichment Results
+* [simputation](https://cran.r-project.org/web/packages/simputation/index.html): Simple Imputation
 * [SingCellaR](https://supatt-lab.github.io/SingCellaR.Doc/index.html): an integrative analysis tool for analysing single-cell RNA sequencing data
 * [sjlabelled](https://cran.r-project.org/web/packages/sjlabelled/index.html): Labelled Data Utility Functions
 * [sjmisc](https://cran.r-project.org/web/packages/sjmisc/index.html): Data and Variable Transformation Functions
