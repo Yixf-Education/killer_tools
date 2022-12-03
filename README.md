@@ -332,6 +332,7 @@
 * [ggrisk](https://cran.r-project.org/web/packages/ggrisk/index.html): Risk Score Plot for Cox Regression
 * [ggsankey](https://github.com/davidsjoberg/ggsankey): The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
 * [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
+* [ggsector](https://cran.r-project.org/web/packages/ggsector/index.html): Draw Sectors
 * [ggseqlogo](https://cran.r-project.org/web/packages/ggseqlogo/index.html): A 'ggplot2' Extension for Drawing Publication-Ready Sequence Logos
 * [ggshadow](https://cran.rstudio.com/web/packages/ggshadow/index.html): Shadow and Glow Geoms for 'ggplot2'
 * [ggside](https://cran.r-project.org/web/packages/ggside/index.html): Side Grammar Graphics
@@ -467,6 +468,7 @@
 * [MetBrewer](https://github.com/BlakeRMills/MetBrewer/tree/main): Color palette package in R inspired by works at the Metropolitan Museum of Art in New York
 * [Mfuzz](https://www.bioconductor.org/packages/release/bioc/html/Mfuzz.html): Soft clustering of time series gene expression data
 * [mgcv](https://cran.r-project.org/web/packages/mgcv/index.html): Mixed GAM Computation Vehicle with Automatic Smoothness Estimation
+* [mi](https://cran.r-project.org/web/packages/mi/index.html): Missing Data Imputation and Model Checking
 * [mice](https://cran.r-project.org/web/packages/mice/index.html): Multivariate Imputation by Chained Equations
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
 * [mixOmics](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html): Omics Data Integration Project
@@ -672,6 +674,7 @@
 * [smplot](https://github.com/smin95/smplot): R package for statistical data visualization that complements ggplot2
 * [SNFtool](https://cran.r-project.org/web/packages/SNFtool/index.html): Similarity Network Fusion
 * [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html): Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
+* [sos](https://cran.r-project.org/web/packages/sos/index.html): Search Contributed R Packages, Sort by Package
 * [sp](https://cran.r-project.org/web/packages/sp/index.html): Classes and Methods for Spatial Data
 * [spatstat](https://cran.r-project.org/web/packages/spatstat/index.html): Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
 * [spiralize](https://github.com/jokergoo/spiralize): Visualize data on spirals
