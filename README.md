@@ -271,6 +271,7 @@
 * [ggbump](https://cran.r-project.org/web/packages/ggbump/index.html): Bump Chart and Sigmoid Curves
 * [ggchicklet](https://github.com/hrbrmstr/ggchicklet): Create Chicklet (Rounded Segmented Column) Charts
 * [ggchromatic](https://github.com/teunbrand/ggchromatic): Colour and fill scales for 'ggplot2' using colour spaces.
+* [ggClusterNet](https://github.com/taowenmicro/ggClusterNet): Microbial ecological network visualization clustering
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/index.html): Visualization of a Correlation Matrix using 'ggplot2'
 * [ggcorrplot2](https://github.com/caijun/ggcorrplot2): Implementation of corrplot using ggplot2
@@ -536,6 +537,7 @@
 * [pdftables](https://cran.r-project.org/web/packages/pdftables/index.html): Programmatic Conversion of PDF Tables
 * [pdftools](https://cran.r-project.org/web/packages/pdftools/index.html): Text Extraction, Rendering and Converting of PDF Documents
 * [performance](https://cran.r-project.org/web/packages/performance/index.html): Assessment of Regression Models Performance
+* [phyloseq](https://www.bioconductor.org/packages/release/bioc/html/phyloseq.html): Handling and analysis of high-throughput microbiome census data
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
 * [Pi](https://www.bioconductor.org/packages/release/bioc/html/Pi.html): Leveraging Genetic Evidence to Prioritise Drug Targets at the Gene and Pathway Level
 * [pivottabler](https://cran.r-project.org/web/packages/pivottabler/index.html): Create Pivot Tables
