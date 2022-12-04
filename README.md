@@ -68,6 +68,7 @@
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
 * [bookdownplus](https://github.com/pzhaonet/bookdownplus): The easiest way to use R package bookdown for writing varied types of books and documents
 * [boot](https://cran.r-project.org/web/packages/boot/index.html): Bootstrap Functions (Originally by Angelo Canty for S)
+* [Boov](https://cran.r-project.org/web/packages/Boov/index.html): Boolean Operations on Volumes
 * [Boruta](https://cran.r-project.org/web/packages/Boruta/index.html): Wrapper Algorithm for All Relevant Feature Selection
 * [brickr](https://cran.r-project.org/web/packages/brickr/index.html): Emulate LEGO Bricks in 2D and 3D
 * [broom](https://cran.r-project.org/web/packages/broom/index.html): Convert Statistical Objects into Tidy Tibbles
@@ -343,6 +344,7 @@
 * [ggspatial](https://cran.r-project.org/web/packages/ggspatial/index.html): Spatial Data Framework for ggplot2
 * [ggstance](https://cran.r-project.org/web/packages/ggstance/index.html): Horizontal 'ggplot2' Components
 * [ggstar](https://cran.rstudio.com/web/packages/ggstar/index.html): Multiple Geometric Shape Point Layer for 'ggplot2'
+* [ggstats](https://cran.r-project.org/web/packages/ggstats/index.html): Extension to 'ggplot2' for Plotting Stats
 * [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html): 'ggplot2' Based Plots with Statistical Details
 * [ggstream](https://github.com/davidsjoberg/ggstream): create a simple but powerful implementation of streamplot/streamgraph in `ggplot2`
 * [ggsurvfit](https://cran.r-project.org/web/packages/ggsurvfit/index.html): Flexible Time-to-Event Figures
@@ -456,6 +458,7 @@
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
 * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): Support Functions and Datasets for Venables and Ripley's MASS
 * [mdthemes](https://cran.r-project.org/web/packages/mdthemes/index.html): Markdown Themes for 'ggplot2'
+* [metevalue](https://cran.r-project.org/web/packages/metevalue/index.html): E-Value in the Omics Data Association Studies
 * [metaviz](https://cran.r-project.org/web/packages/metaviz/index.html): Forest Plots, Funnel Plots, and Visual Funnel Plot Inference for Meta-Analysis
 * [MetBrewer](https://cran.r-project.org/web/packages/MetBrewer/index.html): Color Palettes Inspired by Works at the Metropolitan Museum of Art
 * [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
@@ -625,6 +628,7 @@
 * [rOpenSci](https://ropensci.org/): open tools for open science
 * [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
 * [RobustRankAggreg](https://cran.r-project.org/web/packages/RobustRankAggreg/index.html): Methods for robust rank aggregation
+* [roughsf](https://cran.r-project.org/web/packages/roughsf/index.html): Visualize Spatial Data using 'roughjs'
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): Recursive Partitioning and Regression Trees
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
 * [Rsamtools](https://bioconductor.org/packages/release/bioc/html/Rsamtools.html): Binary alignment (BAM), FASTA, variant call (BCF), and tabix file import
@@ -651,6 +655,7 @@
 * [scCancer](https://github.com/wguo-research/scCancer): A package for automated processing of single cell RNA-seq data in cancer
 * [schex](https://www.bioconductor.org/packages/release/bioc/html/schex.html): Hexbin plots for single cell omics data
 * [scholar](https://cran.r-project.org/web/packages/scholar/index.html): Analyse Citation Data from Google Scholar
+* [scico](https://cran.r-project.org/web/packages/scico/index.html): Colour Palettes Based on the Scientific Colour-Maps
 * [Scillus](https://github.com/xmc811/Scillus): R Package for Single-Cell Dataset Processing and Visualization
 * [SCORPIUS](https://cran.rstudio.com/web/packages/SCORPIUS/index.html): Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
 * [SCpubr](https://cran.r-project.org/web/packages/SCpubr/index.html): Generate Publication Ready Visualizations of Single Cell Transcriptomics Data
@@ -727,6 +732,7 @@
 * [tidyCDISC](https://cran.r-project.org/web/packages/tidyCDISC/index.html): Quick Table Generation & Exploratory Analyses on ADaM-Ish Datasets
 * [tidycmprsk](https://cran.r-project.org/web/packages/tidycmprsk/index.html): Competing Risks Estimation
 * [tidydr](https://cran.r-project.org/web/packages/tidydr/index.html): Unify Dimensionality Reduction Results
+* [tidyfit](https://cran.r-project.org/web/packages/tidyfit/index.html): Regularized Linear Modeling with Tidy Data
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
 * [tidygraph](https://cran.r-project.org/web/packages/tidygraph/index.html): A Tidy API for Graph Manipulation
 * [TidyMass](https://www.tidymass.org/): a comprehensive computational framework that can process the whole workflow of data processing and analysis for LC-MS-based untargeted metabolomics using [tidyverse](https://www.tidyverse.org/) principles
