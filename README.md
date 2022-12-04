@@ -1189,3 +1189,4 @@
 * [MCA | Mouse Cell Atlas](http://bis.zju.edu.cn/MCA/)
 * [Cell-omics Data Coordinate Platform - CDCP - 单细胞组学平台](https://db.cngb.org/cdcp/)
 * [TEDD](https://tedd.obg.cuhk.edu.hk/frontend/dist/index.html#/): The Temporal Expression during Development Database
+* [Home | TFSyntax](https://tfsyntax.zhaopage.com/): a database of transcription factors binding syntax in mammalian genomes.
