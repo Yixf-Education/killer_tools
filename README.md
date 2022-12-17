@@ -177,6 +177,7 @@
 ### E
 
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html): Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier, ...
+* [easier](https://www.bioconductor.org/packages/release/bioc/html/easier.html): Estimate Systems Immune Response from RNA-seq data
 * [easierData](https://bioconductor.org/packages/release/data/experiment/html/easierData.html): easier internal data and exemplary dataset from IMvigor210CoreBiologies package
 * [easyalluvial](https://cran.r-project.org/web/packages/easyalluvial/index.html): Generate Alluvial Plots with a Single Line of Code
 * [easylabel](https://cran.r-project.org/web/packages/easylabel/index.html): Interactive Scatter Plot and Volcano Plot Labels
@@ -316,6 +317,7 @@
 * [ggord](https://github.com/fawda123/ggord): a take on ordination plots using ggplot2
 * [ggpackets](https://cran.r-project.org/web/packages/ggpackets/index.html): Package Plot Layers for Easier Portability and Modularization
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
+* [ggpathway](https://github.com/cxli233/ggpathway): : A tutorial for pathway visualization using tidyverse, igraph, and ggraph
 * [ggpattern](https://github.com/coolbutuseless/ggpattern): ggplot geoms with pattern fills
 * [ggpie](https://cran.r-project.org/web/packages/ggpie/index.html): Pie, Donut and Rose Pie Plots
 * [ggplot.multistats](https://cran.r-project.org/web/packages/ggplot.multistats/index.html): Multiple Summary Statistics for Binned Stats/Geometries
@@ -377,6 +379,7 @@
 * [GOSemSim](https://bioconductor.org/packages/release/bioc/html/GOSemSim.html): GO-terms Semantic Similarity Measures
 * [gplots](https://cran.r-project.org/web/packages/gplots/index.html): Various R Programming Tools for Plotting Data
 * [gprofiler2](https://cran.r-project.org/web/packages/gprofiler2/index.html): Interface to the 'g:Profiler' Toolset
+* [gptchatteR](https://github.com/isinaltinkaya/gptchatteR): An experimental and unofficial wrapper for interacting with ChatGPT in R.
 * [grafify](https://github.com/ashenoy-cmbi/grafify): Easy grafs, ANOVAs and posthoc comparisons.
 * [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
 * [GSEABase](https://bioconductor.org/packages/release/bioc/html/GSEABase.html): Gene set enrichment data structures and methods
@@ -552,6 +555,7 @@
 * [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
 * [png](https://cran.r-project.org/web/packages/png/index.html): Read and write PNG images
 * [PNWColors](https://cran.r-project.org/web/packages/PNWColors/index.html): Color Palettes Inspired by Nature in the US Pacific Northwest
+* [polyclid](https://polyclid.r-euclid.com/index.html): Polygon and polyline for euclid • polyclid
 * [poppr](https://cran.r-project.org/web/packages/poppr/index.html): Genetic Analysis of Populations with Mixed Reproduction
 * [popsicleR](https://github.com/bicciatolab/PoPsicleR): a flexible R package aimed at providing most of the necessary quality controls and preliminary information for complete and detailed analysis of single cell RNA-seq data.
 * [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
