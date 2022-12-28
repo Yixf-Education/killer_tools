@@ -150,6 +150,7 @@
 * [datapasta](https://github.com/MilesMcBain/datapasta): is about reducing resistance associated with copying and pasting data to and from R
 * [datarium](https://cran.r-project.org/web/packages/datarium/index.html): Data Bank for Statistical Analysis and Visualization
 * [datasauRus](https://cran.r-project.org/web/packages/datasauRus/index.html): Datasets from the Datasaurus Dozen
+* [ddqc_R](https://github.com/ayshwaryas/ddqc_R): Biology-centered data-driven quality control for single cell/nucleus RNA sequencing
 * [deconstructSigs](https://cran.r-project.org/web/packages/deconstructSigs/index.html): Identifies Signatures Present in a Tumor Sample
 * [DemographicTable](https://cran.r-project.org/web/packages/DemographicTable/index.html): Creating Demographic Table
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
