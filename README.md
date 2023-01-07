@@ -168,6 +168,7 @@
 * [doSNOW](https://cran.r-project.org/web/packages/doSNOW/index.html): Foreach Parallel Adaptor for the 'snow' Package
 * [drake](https://cran.r-project.org/web/packages/drake/index.html): A Pipeline Toolkit for Reproducible Computation at Scale
 * [drawProteins](https://bioconductor.org/packages/release/bioc/html/drawProteins.html): Package to Draw Protein Schematics from Uniprot API output
+* [DrugSim2DR](https://cran.r-project.org/web/packages/DrugSim2DR/index.html): Predict Drug Functional Similarity to Drug Repurposing
 * [DR.SC](https://cran.r-project.org/web/packages/DR.SC/index.html): Joint Dimension Reduction and Spatial Clustering
 * [dslabs](https://cran.r-project.org/web/packages/dslabs/index.html): Data Science Labs
 * [DT](https://cran.r-project.org/web/packages/DT/index.html): A Wrapper of the JavaScript Library 'DataTables'
@@ -230,11 +231,13 @@
 * [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html): Forest Plots from Regression Models
 * [forestplot](https://cran.r-project.org/web/packages/forestplot/index.html): Advanced Forest Plot Using 'grid' Graphics
 * [forestploter](https://cran.r-project.org/web/packages/forestploter/index.html): Create Flexible Forest Plot
+* [formatdown](https://cran.r-project.org/web/packages/formatdown/index.html): Formatting Tools for 'rmarkdown' Documents
 * [formattable](https://cran.r-project.org/web/packages/formattable/index.html): Create 'Formattable' Data Structures
 * [forplo](https://cran.r-project.org/web/packages/forplo/index.html): Flexible Forest Plots
 * [fpc](https://cran.r-project.org/web/packages/fpc/index.html): Flexible Procedures for Clustering
 * [fpp3](https://cran.r-project.org/web/packages/fpp3/index.html): Data for "Forecasting: Principles and Practice" (3rd Edition)
 * [framecleaner](https://cran.r-project.org/web/packages/framecleaner/index.html): Clean Data Frames
+* [unkyheatmap](https://cran.r-project.org/web/packages/funkyheatmap/index.html): Generating Funky Heatmaps for Data Frames
 * [FunnelPlotR](https://cran.r-project.org/web/packages/FunnelPlotR/index.html): Funnel Plots for Comparing Institutional Performance
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
@@ -320,6 +323,7 @@
 * [ggparliament](https://github.com/RobWHickman/ggparliament): Simple parliament plots using ggplot2
 * [ggpathway](https://github.com/cxli233/ggpathway): : A tutorial for pathway visualization using tidyverse, igraph, and ggraph
 * [ggpattern](https://github.com/coolbutuseless/ggpattern): ggplot geoms with pattern fills
+* [ggpcp](https://cran.r-project.org/web/packages/ggpcp/index.html): Parallel Coordinate Plots in the 'ggplot2' Framework
 * [ggpie](https://cran.r-project.org/web/packages/ggpie/index.html): Pie, Donut and Rose Pie Plots
 * [ggplot.multistats](https://cran.r-project.org/web/packages/ggplot.multistats/index.html): Multiple Summary Statistics for Binned Stats/Geometries
 * [ggplotgui](https://cran.r-project.org/web/packages/ggplotgui/index.html): Create Ggplots via a Graphical User Interface
@@ -337,6 +341,7 @@
 * [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html): Ridgeline Plots in 'ggplot2'
 * [ggrisk](https://cran.r-project.org/web/packages/ggrisk/index.html): Risk Score Plot for Cox Regression
 * [ggsankey](https://github.com/davidsjoberg/ggsankey): The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
+* [ggsector](https://cran.r-project.org/web/packages/ggsector/index.html): Draw Sectors
 * [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
 * [ggsector](https://cran.r-project.org/web/packages/ggsector/index.html): Draw Sectors
 * [ggseqlogo](https://cran.r-project.org/web/packages/ggseqlogo/index.html): A 'ggplot2' Extension for Drawing Publication-Ready Sequence Logos
@@ -418,6 +423,7 @@
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
 * [intansv](https://bioconductor.org/packages/release/bioc/html/intansv.html): Integrative analysis of structural variations
 * [introdataviz](https://github.com/PsyTeachR/introdataviz):  two functions (`geom_split_violin()` and `geom_flat_violin()`) used to make split-violin and raincloud plots
+* [IPEDS](https://cran.r-project.org/web/packages/IPEDS/index.html): Data from the Integrated Post-Secondary Education Data System
 * [ipred](https://cran.r-project.org/web/packages/ipred/index.html): Improved Predictors
 * [iterators](https://cran.r-project.org/web/packages/iterators/index.html): Provides Iterator Construct
 
@@ -535,6 +541,7 @@
 * [pals](https://cran.r-project.org/web/packages/pals/index.html): Color Palettes, Colormaps, and Tools to Evaluate Them
 * [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
 * [parameters](https://cran.r-project.org/web/packages/parameters/index.html): Processing of Model Parameters
+* [parttime](https://cran.r-project.org/web/packages/parttime/index.html): Partial Datetime Handling
 * [parttree](https://github.com/grantmcdermott/parttree): Simple package for plotting decision tree partitions in R
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
 * [pathview](https://www.bioconductor.org/packages/release/bioc/html/pathview.html): a tool set for pathway based data integration and visualization
@@ -623,6 +630,7 @@
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
 * [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
 * [riverplot](https://cran.r-project.org/web/packages/riverplot/index.html): Sankey or Ribbon Plots
+* [rjtools](https://cran.r-project.org/web/packages/rjtools/index.html): Preparing, Checking, and Submitting Articles to the 'R Journal'
 * [rlist](https://cran.r-project.org/web/packages/rlist/index.html): A Toolbox for Non-Tabular Data Manipulation
 * [rmdformats](https://cran.r-project.org/web/packages/rmdformats/index.html): HTML Output Formats and Templates for 'rmarkdown' Documents
 * [rms](https://cran.r-project.org/web/packages/rms/index.html): Regression Modeling Strategies
@@ -662,6 +670,7 @@
 * [scholar](https://cran.r-project.org/web/packages/scholar/index.html): Analyse Citation Data from Google Scholar
 * [scico](https://cran.r-project.org/web/packages/scico/index.html): Colour Palettes Based on the Scientific Colour-Maps
 * [Scillus](https://github.com/xmc811/Scillus): R Package for Single-Cell Dataset Processing and Visualization
+* [scistreer](https://cran.r-project.org/web/packages/scistreer/index.html): Maximum-Likelihood Perfect Phylogeny Inference at Scale
 * [SCORPIUS](https://cran.rstudio.com/web/packages/SCORPIUS/index.html): Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
 * [SCpubr](https://cran.r-project.org/web/packages/SCpubr/index.html): Generate Publication Ready Visualizations of Single Cell Transcriptomics Data
 * [scRNAstat](https://cran.r-project.org/web/packages/scRNAstat/index.html): A Pipeline to Process Single Cell RNAseq Data
@@ -748,6 +757,7 @@
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
 * [timeROC](https://cran.r-project.org/web/packages/timeROC/index.html): Time-Dependent ROC Curve and AUC for Censored Survival Data
 * [timetk](https://cran.r-project.org/web/packages/timetk/index.html): A Tool Kit for Working with Time Series in R
+* [tip](https://cran.r-project.org/web/packages/tip/index.html): ayesian Clustering Using the Table Invitation Prior (TIP)
 * [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
 * [toastui](https://cran.r-project.org/web/packages/toastui/index.html): Interactive Tables, Calendars and Charts for the Web
@@ -788,6 +798,7 @@
 * [vitae](https://cran.r-project.org/web/packages/vitae/index.html): Curriculum Vitae for R Markdown
 * [voronoiTreemap](https://cran.rstudio.com/web/packages/voronoiTreemap/index.html): Voronoi Treemaps with Added Interactivity by Shiny
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
+* [VSOLassoBag](https://cran.r-project.org/web/packages/VSOLassoBag/index.html): Variable Selection Oriented LASSO Bagging Algorithm
 * [VSURF](https://cran.r-project.org/web/packages/VSURF/index.html): Variable Selection Using Random Forests
 * [vtreat](https://cran.r-project.org/web/packages/vtreat/index.html): A Statistically Sound 'data.frame' Processor/Conditioner
 
