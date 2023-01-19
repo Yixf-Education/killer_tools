@@ -336,6 +336,7 @@
 * [ggpval](https://cran.r-project.org/web/packages/ggpval/index.html): Annotate Statistical Tests for 'ggplot2'
 * [ggradar](https://github.com/ricardo-bion/ggradar): radar charts with ggplot2
 * [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
+* [ggreverse](https://github.com/coolbutuseless/ggreverse): Reverse a ggplot object back into code
 * [ggrcs](https://github.com/liuqiang070488/ggrcs): A function to draw histograms and restricted cubic splines (RCS).
 * [ggrepel](https://cran.r-project.org/web/packages/ggrepel/index.html): Automatically Position Non-Overlapping Text Labels with 'ggplot2'
 * [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html): Ridgeline Plots in 'ggplot2'
