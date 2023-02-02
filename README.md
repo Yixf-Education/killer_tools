@@ -53,6 +53,7 @@
 * [bayestestR](https://cran.r-project.org/web/packages/bayestestR/index.html): Understand and Describe Bayesian Models and Posterior Distributions
 * [bbplot](https://github.com/bbc/bbplot): R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 * [beepr](https://cran.r-project.org/web/packages/beepr/index.html): Easily Play Notification Sounds on any Platform
+* [bestNormalize](https://cran.r-project.org/web/packages/bestNormalize/index.html): Normalizing Transformation Functions
 * [bestglm](https://cran.r-project.org/web/packages/bestglm/index.html): Best Subset GLM and Regression Utilities
 * [bibliometrix](https://cran.r-project.org/web/packages/bibliometrix/index.html): Comprehensive Science Mapping Analysis
 * [bigstatsr](https://cran.r-project.org/web/packages/bigstatsr/index.html): Statistical Tools for Filebacked Big Matrices
