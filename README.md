@@ -616,6 +616,7 @@
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
 * [refdb](https://cran.r-project.org/web/packages/refdb/index.html): A DNA Reference Library Manager
 * [regplot](https://cran.r-project.org/web/packages/regplot/index.html): Enhanced Regression Nomogram Plot
+* [remorse](https://github.com/matt-dray/remorse): R package: text to Morse Code to audio
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
 * [renderthis](https://cran.r-project.org/web/packages/renderthis/index.html): Render Slides to Different Formats
 * [report](https://cran.r-project.org/web/packages/report/index.html): Automated Reporting of Results and Statistical Models
