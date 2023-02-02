@@ -741,6 +741,7 @@
 * [tensorflow](https://cran.r-project.org/web/packages/tensorflow/index.html): R Interface to 'TensorFlow'
 * [terra](https://cran.r-project.org/web/packages/terra/index.html): Spatial Data Analysis
 * [tesseract](https://cran.r-project.org/web/packages/tesseract/index.html): Open Source OCR Engine
+* [tesseractgt](https://github.com/arcruz0/tesseractgt): An R package to generate ground truth data for Tesseract
 * [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis
 * [textplot](https://cran.r-project.org/web/packages/textplot/index.html): Text Plots
 * [thematic](https://cran.r-project.org/web/packages/thematic/index.html): Unified and Automatic 'Theming' of 'ggplot2', 'lattice', and 'base' R Graphics
