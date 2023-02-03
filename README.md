@@ -472,6 +472,7 @@
 * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): Support Functions and Datasets for Venables and Ripley's MASS
 * [mdthemes](https://cran.r-project.org/web/packages/mdthemes/index.html): Markdown Themes for 'ggplot2'
 * [metevalue](https://cran.r-project.org/web/packages/metevalue/index.html): E-Value in the Omics Data Association Studies
+* [metanetwork](https://cran.r-project.org/web/packages/metanetwork/index.html): Handling and Representing Trophic Networks in Space and Time
 * [metaviz](https://cran.r-project.org/web/packages/metaviz/index.html): Forest Plots, Funnel Plots, and Visual Funnel Plot Inference for Meta-Analysis
 * [MetBrewer](https://cran.r-project.org/web/packages/MetBrewer/index.html): Color Palettes Inspired by Works at the Metropolitan Museum of Art
 * [mcb](https://cran.r-project.org/web/packages/mcb/index.html): Model Confidence Bounds
