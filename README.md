@@ -433,6 +433,7 @@
 ### J
 
 * [janitor](https://cran.r-project.org/web/packages/janitor/index.html): Simple Tools for Examining and Cleaning Dirty Data
+* [janus](https://cran.r-project.org/web/packages/janus/index.html): Optimized Recommending System Based on 'tensorflow'
 * [jiebaR](https://cran.r-project.org/web/packages/jiebaR/index.html): Chinese Text Segmentation
 * [jiebaRD](https://cran.r-project.org/web/packages/jiebaRD/index.html): Chinese Text Segmentation Data for jiebaR Package
 * [jjAnno](https://github.com/junjunlab/jjAnno): An annotation package for ggplot plot
@@ -584,7 +585,8 @@
 * [qgraph](https://cran.r-project.org/web/packages/qgraph/index.html): Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
 * [qqboxplot](https://cran.rstudio.com/web/packages/qqboxplot/index.html): Implementation of the Q-Q Boxplot
 * [qqman](https://cran.r-project.org/web/packages/qqman/index.html): Q-Q and Manhattan Plots for GWAS Data
-* [qqplotr](https://cran.r-project.org/web/packages/qqplotr/index.html): Quantile-Quantile Plot Extensions for 'ggplot2'[CRAN - Package xkcd](https://cran.r-project.org/web/packages/xkcd/index.html)
+* [qqplotr](https://cran.r-project.org/web/packages/qqplotr/index.html): Quantile-Quantile Plot Extensions for 'ggplot2'
+* [qtwAcademic](https://cran.rstudio.com/web/packages/qtwAcademic/index.html): 'Quarto' Website Templates for Academics
 * [quanteda](https://cran.r-project.org/web/packages/quanteda/index.html): Quantitative Analysis of Textual Data
 * [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html): Quantitative Financial Modelling Framework
 * [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html): Quantile Regression
