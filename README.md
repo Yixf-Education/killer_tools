@@ -429,6 +429,7 @@
 * [IPEDS](https://cran.r-project.org/web/packages/IPEDS/index.html): Data from the Integrated Post-Secondary Education Data System
 * [ipred](https://cran.r-project.org/web/packages/ipred/index.html): Improved Predictors
 * [iterators](https://cran.r-project.org/web/packages/iterators/index.html): Provides Iterator Construct
+* [itol.toolkit](https://cran.r-project.org/web/packages/itol.toolkit/index.html): Helper Functions for 'Interactive Tree Of Life'
 
 ### J
 
