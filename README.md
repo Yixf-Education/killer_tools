@@ -1134,6 +1134,7 @@
 * [HemI 2.0 - Heatmap Illustrator](https://hemi.biocuckoo.org/)
 * [g:Profiler – a web server for functional enrichment analysis and conversions of gene lists](https://biit.cs.ut.ee/gprofiler/gost)
 * [0 代码、免费的可视化工具推荐～～～](https://mp.weixin.qq.com/s/7wBc_kM8G75ehRAv_XTtow)
+* [KOBAS](http://kobas.cbi.pku.edu.cn/): intelligent prioritization and exploratory visualization of biological functions for gene enrichment analysis
 
 ---
 
