@@ -1168,17 +1168,18 @@
 
 # Single-cell databases
 
-| 数据库名称                   | 网址                                           |
-| ---------------------------- | ---------------------------------------------- |
-| CellMarker                   | http://biocc.hrbmu.edu.cn/CellMarker/index.jsp |
-| Mouse Cell Atlas(MCA）       | http://bis.zju.edu.cn/MCA/index.html           |
-| PanglaoDB                    | https://panglaodb.se/index.html                |
-| Single Cell Expression Atlas | https://www.ebi.ac.uk/gxa/sc/home              |
-| Single Cell PORTAL           | https://portals.broadinstitute.org/single_cell |
-| SCPortalen                   | http://single-cell.clst.riken.jp/              |
-| CancerSEA                    | http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp   |
-| SpatialDB                    | https://www.spatialomics.org/SpatialDB         |
-| Human Cell Landscape（HCL）  | http://bis.zju.edu.cn/HCL/                     |
+| 数据库名称                         | 网址                                           |
+| ---------------------------------- | ---------------------------------------------- |
+| CellMarker                         | http://biocc.hrbmu.edu.cn/CellMarker/index.jsp |
+| Mouse Cell Atlas(MCA）             | http://bis.zju.edu.cn/MCA/index.html           |
+| PanglaoDB                          | https://panglaodb.se/index.html                |
+| Single Cell Expression Atlas       | https://www.ebi.ac.uk/gxa/sc/home              |
+| Single Cell PORTAL                 | https://portals.broadinstitute.org/single_cell |
+| SCPortalen                         | http://single-cell.clst.riken.jp/              |
+| CancerSEA                          | http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp   |
+| SpatialDB                          | https://www.spatialomics.org/SpatialDB         |
+| Human Cell Landscape（HCL）        | http://bis.zju.edu.cn/HCL/                     |
+| IMMUcan SingleCell RNAseq Database | https://immucanscdb.vital-it.ch/               |
 
 # Pipeline
 
