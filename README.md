@@ -351,6 +351,7 @@
 * [ggshadow](https://cran.rstudio.com/web/packages/ggshadow/index.html): Shadow and Glow Geoms for 'ggplot2'
 * [ggside](https://cran.r-project.org/web/packages/ggside/index.html): Side Grammar Graphics
 * [ggsignif](https://cran.r-project.org/web/packages/ggsignif/index.html): Significance Brackets for 'ggplot2'
+* [ggsimplex](https://github.com/marvinschmitt/ggsimplex): provide a set of visualization utilities revolving around the simplex as its underlying canvas
 * [ggsn](https://cran.r-project.org/web/packages/ggsn/index.html): North Symbols and Scale Bars for Maps Created with 'ggplot2' or 'ggmap'
 * [ggspatial](https://cran.r-project.org/web/packages/ggspatial/index.html): Spatial Data Framework for ggplot2
 * [ggstance](https://cran.r-project.org/web/packages/ggstance/index.html): Horizontal 'ggplot2' Components
