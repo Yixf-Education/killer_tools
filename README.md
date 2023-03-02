@@ -95,6 +95,7 @@
 * [ccgraph](https://github.com/gaospecial/ccgraph): 在 R 环境下绘制 “圆环套圆环” 的 “图”
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
 * [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type annotation
+* [cellxgenedp](https://bioconductor.org/packages/release/bioc/html/cellxgenedp.html): Discover and Access Single Cell Data Sets in the cellxgene Data Portal
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html): R-Based API for Accessing the MSKCC Cancer Genomics Data Server (CGDS)
 * [CGPfunctions](https://cran.r-project.org/web/packages/CGPfunctions/index.html): Powell Miscellaneous Functions for Teaching and Learning Statistics
 * [checkmate](https://cran.r-project.org/web/packages/checkmate/index.html): Fast and Versatile Argument Checks
@@ -153,6 +154,7 @@
 * [datasauRus](https://cran.r-project.org/web/packages/datasauRus/index.html): Datasets from the Datasaurus Dozen
 * [ddqc_R](https://github.com/ayshwaryas/ddqc_R): Biology-centered data-driven quality control for single cell/nucleus RNA sequencing
 * [deconstructSigs](https://cran.r-project.org/web/packages/deconstructSigs/index.html): Identifies Signatures Present in a Tumor Sample
+* [DEGAS](https://github.com/tsteelejohnson91/DEGAS): DEGAS is an R package that can be used to prioritize cells in relation to disease.
 * [DemographicTable](https://cran.r-project.org/web/packages/DemographicTable/index.html): Creating Demographic Table
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
 * [dendsort](https://cran.rstudio.com/web/packages/dendsort/index.html): Modular Leaf Ordering Methods for Dendrogram Nodes
@@ -674,6 +676,7 @@
 ### S
 
 * [sankeywheel](https://cran.r-project.org/web/packages/sankeywheel/index.html): Create Dependency Wheels and Sankey Diagrams
+* [scAB](https://github.com/jinworks/scAB): scAB detects multiresolution cell states with clinical significance
 * [scales](https://cran.r-project.org/web/packages/scales/index.html): Scale Functions for Visualization
 * [scatterpie](https://cran.r-project.org/web/packages/scatterpie/index.html): Scatter Pie Plot
 * [scatterplot3d](https://cran.r-project.org/web/packages/scatterplot3d/index.html): 3D Scatter Plot
@@ -683,8 +686,10 @@
 * [scholar](https://cran.r-project.org/web/packages/scholar/index.html): Analyse Citation Data from Google Scholar
 * [scico](https://cran.r-project.org/web/packages/scico/index.html): Colour Palettes Based on the Scientific Colour-Maps
 * [Scillus](https://github.com/xmc811/Scillus): R Package for Single-Cell Dataset Processing and Visualization
+* [Scissor](https://github.com/sunduanchen/Scissor): Single-Cell Identification of Subpopulations with bulk Sample phenOtype coRrelation
 * [scistreer](https://cran.r-project.org/web/packages/scistreer/index.html): Maximum-Likelihood Perfect Phylogeny Inference at Scale
 * [SCORPIUS](https://cran.rstudio.com/web/packages/SCORPIUS/index.html): Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
+* [scPrognosis](https://github.com/XiaomeiLi1/scPrognosis): Single cell transcriptomes improve cancer prognosis
 * [SCpubr](https://cran.r-project.org/web/packages/SCpubr/index.html): Generate Publication Ready Visualizations of Single Cell Transcriptomics Data
 * [scRNAstat](https://cran.r-project.org/web/packages/scRNAstat/index.html): A Pipeline to Process Single Cell RNAseq Data
 * [scRNAtoolVis](https://github.com/junjunlab/scRNAtoolVis): Useful functions to make your scRNA-seq plot more cool!
