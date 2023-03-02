@@ -428,6 +428,7 @@
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
 * [IMvigor210CoreBiologies](http://research-pub.gene.com/IMvigor210CoreBiologies/): TGF-b attenuates tumor response to PD-L1 blockade by contributing to exclusion of T cells
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
+* [inferregex](https://github.com/daranzolin/inferregex): Infer the regular expression (regex) of a string :1234:
 * [intansv](https://bioconductor.org/packages/release/bioc/html/intansv.html): Integrative analysis of structural variations
 * [introdataviz](https://github.com/PsyTeachR/introdataviz):  two functions (`geom_split_violin()` and `geom_flat_violin()`) used to make split-violin and raincloud plots
 * [IPEDS](https://cran.r-project.org/web/packages/IPEDS/index.html): Data from the Integrated Post-Secondary Education Data System
@@ -627,6 +628,7 @@
 * [reactable](https://cran.r-project.org/web/packages/reactable/index.html): Interactive Data Tables Based on 'React Table'
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
 * [refdb](https://cran.r-project.org/web/packages/refdb/index.html): A DNA Reference Library Manager
+* [regexplain](https://github.com/gadenbuie/regexplain): 🔍 An RStudio addin slash regex utility belt
 * [regplot](https://cran.r-project.org/web/packages/regplot/index.html): Enhanced Regression Nomogram Plot
 * [remorse](https://github.com/matt-dray/remorse): R package: text to Morse Code to audio
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
@@ -727,6 +729,7 @@
 * [STRINGdb](https://www.bioconductor.org/packages/release/bioc/html/STRINGdb.html): Search Tool for the Retrieval of Interacting proteins database
 * [sparklyr](https://spark.rstudio.com/): R interface for Apache Spark
 * [stringdist](https://cran.r-project.org/web/packages/stringdist/index.html): Approximate String Matching, Fuzzy Text Search, and String Distance Functions
+* [stringr.plus](https://github.com/johncassil/stringr.plus): provides some additional functions not found in stringr for working with strings
 * [styler](https://styler.r-lib.org/): Non-Invasive Pretty Printing of R Code
 * [summarytools](https://cran.r-project.org/web/packages/summarytools/index.html): Tools to Quickly and Neatly Summarize Data
 * [superb](https://cran.r-project.org/web/packages/superb/index.html): Summary Plots with Adjusted Error Bars
