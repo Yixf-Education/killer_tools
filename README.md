@@ -494,6 +494,7 @@
 * [mgcv](https://cran.r-project.org/web/packages/mgcv/index.html): Mixed GAM Computation Vehicle with Automatic Smoothness Estimation
 * [mi](https://cran.r-project.org/web/packages/mi/index.html): Missing Data Imputation and Model Checking
 * [mice](https://cran.r-project.org/web/packages/mice/index.html): Multivariate Imputation by Chained Equations
+* [microbenchmark](https://cran.r-project.org/web/packages/microbenchmark/index.html): Accurate Timing Functions
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
 * [mixOmics](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html): Omics Data Integration Project
 * [MixSim](https://cran.r-project.org/web/packages/MixSim/index.html): Simulating Data to Study Performance of Clustering Algorithms
@@ -613,6 +614,7 @@
 * [rasterVis](https://cran.r-project.org/web/packages/rasterVis/index.html): Visualization Methods for Raster Data
 * [rattle](https://cran.r-project.org/web/packages/rattle/index.html): Graphical User Interface for Data Science in R
 * [rayshader](https://cran.r-project.org/web/packages/rayshader/index.html): Create Maps and Visualize Data in 2D and 3D
+* [rbenchmark](https://cran.r-project.org/web/packages/rbenchmark/index.html): Benchmarking routine for R
 * [rcartocolor](https://cran.r-project.org/web/packages/rcartocolor/index.html): 'CARTOColors' Palettes
 * [rCharts](https://github.com/ramnathv/rCharts): Interactive JS Charts from R
 * [RCircos](https://cran.r-project.org/web/packages/RCircos/index.html): Circos 2D Track Plot
@@ -753,6 +755,7 @@
 * [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis
 * [textplot](https://cran.r-project.org/web/packages/textplot/index.html): Text Plots
 * [thematic](https://cran.r-project.org/web/packages/thematic/index.html): Unified and Automatic 'Theming' of 'ggplot2', 'lattice', and 'base' R Graphics
+* [tictoc](https://cran.r-project.org/web/packages/tictoc/index.html): Functions for Timing R Scripts, as Well as Implementations of "Stack" and "List" Structures
 * [tidybayes](https://cran.r-project.org/web/packages/tidybayes/index.html): Tidy Data and 'Geoms' for Bayesian Models
 * [tidybulk](https://www.bioconductor.org/packages/release/bioc/html/tidybulk.html): Brings transcriptomics to the tidyverse
 * [tidyCDISC](https://cran.r-project.org/web/packages/tidyCDISC/index.html): Quick Table Generation & Exploratory Analyses on ADaM-Ish Datasets
