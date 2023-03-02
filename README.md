@@ -1186,6 +1186,8 @@
 | SpatialDB                          | https://www.spatialomics.org/SpatialDB         |
 | Human Cell Landscape（HCL）        | http://bis.zju.edu.cn/HCL/                     |
 | IMMUcan SingleCell RNAseq Database | https://immucanscdb.vital-it.ch/               |
+| Human Cell Atlas                   | https://www.humancellatlas.org/                |
+| CZ CELLxGENE                       | https://cellxgene.cziscience.com/              |
 
 # Pipeline
 
