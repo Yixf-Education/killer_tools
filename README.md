@@ -31,6 +31,7 @@
 ### A
 
 * [A3](https://cran.r-project.org/web/packages/A3/index.html): Accurate, Adaptable, and Accessible Error Metrics for Predictive Models
+* [abbrevr](https://github.com/patrickbarks/abbrevr): Abbreviate journal titles using the ISO 4 standard
 * [ActivePathways](https://cran.r-project.org/web/packages/ActivePathways/index.html): Integrative Pathway Enrichment Analysis of Multivariate Omics Data
 * [adegenet](https://cran.r-project.org/web/packages/adegenet/index.html): Exploratory Analysis of Genetic and Genomic Data
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
@@ -77,6 +78,7 @@
 * [brranching](https://cran.r-project.org/web/packages/brranching/index.html): Fetch 'Phylogenies' from Many Sources
 * [bruceR](https://cran.r-project.org/web/packages/bruceR/index.html): Broadly Useful Convenient and Efficient R Functions
 * [bslib](https://cran.r-project.org/web/packages/bslib/index.html): Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'
+* [bubbleHeatmap](https://cran.r-project.org/web/packages/bubbleHeatmap/index.html): Produces 'bubbleHeatmap' Plots for Visualising Metabolomics Data
 * [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr): This package builds bullet charts suitable for tracking KPIs, and used by ACDI/VOCA to track progress against indicators
 * [bundle](https://cran.r-project.org/web/packages/bundle/index.html): Serialize Model Objects with a Consistent Interface
 
@@ -624,6 +626,7 @@
 * [RcisTarget](https://www.bioconductor.org/packages/release/bioc/html/RcisTarget.html): RcisTarget Identify transcription factor binding motifs enriched on a list of genes or genomic regions
 * [rco](https://github.com/jcrodriguez1989/rco): The R Code Optimizer
 * [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html): ColorBrewer Palettes
+* [rcrossref](https://cran.r-project.org/web/packages/rcrossref/index.html): Client for Various 'CrossRef' 'APIs'
 * [rcssci](https://cran.r-project.org/web/packages/rcssci/index.html): Visualization of Restricted Cubic Splines
 * [reactable](https://cran.r-project.org/web/packages/reactable/index.html): Interactive Data Tables Based on 'React Table'
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
