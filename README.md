@@ -246,6 +246,7 @@
 * [framecleaner](https://cran.r-project.org/web/packages/framecleaner/index.html): Clean Data Frames
 * [unkyheatmap](https://cran.r-project.org/web/packages/funkyheatmap/index.html): Generating Funky Heatmaps for Data Frames
 * [FunnelPlotR](https://cran.r-project.org/web/packages/FunnelPlotR/index.html): Funnel Plots for Comparing Institutional Performance
+* [furrr](https://cran.r-project.org/web/packages/furrr/index.html): Apply Mapping Functions in Parallel using Futures
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
 * [future.apply](https://cran.r-project.org/web/packages/future.apply/index.html): Apply Function to Elements in Parallel using Futures
 
@@ -648,6 +649,7 @@
 * [rio](https://cran.r-project.org/web/packages/rio/index.html): A Swiss-Army Knife for Data I/O
 * [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
+* [RImagePalette](https://github.com/joelcarlson/RImagePalette): Create a representative palette from an image.
 * [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
 * [riverplot](https://cran.r-project.org/web/packages/riverplot/index.html): Sankey or Ribbon Plots
 * [rjtools](https://cran.r-project.org/web/packages/rjtools/index.html): Preparing, Checking, and Submitting Articles to the 'R Journal'
@@ -831,6 +833,7 @@
 ### W
 
 * [waldo](https://cran.r-project.org/web/packages/waldo/index.html): Find Differences Between R Objects
+* [webpea](https://github.com/nucleic-acid/webpea): Tool to save R plots in WebP format
 * [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html): A Wes Anderson Palette Generator
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
 * [wiggleplotr](https://bioconductor.org/packages/release/bioc/html/wiggleplotr.html): Make read coverage plots from BigWig files
