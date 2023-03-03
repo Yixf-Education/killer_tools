@@ -138,6 +138,7 @@
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
 * [CRANsearcher](https://cran.r-project.org/web/packages/CRANsearcher/index.html): RStudio Addin for Searching Packages in CRAN Database Based on Keywords
 * [crayon](https://cran.r-project.org/web/packages/crayon/index.html): Colored Terminal Output
+* [cropcircles](https://github.com/doehm/cropcircles): Crops an image to a circle in R
 * [CrossICC](https://www.bioconductor.org/packages/release/bioc/html/CrossICC.html): An Interactive Consensus Clustering Framework for Multi-platform Data Analysis
 * [crosslink](https://github.com/zzwch/crosslink): Network Visualization Tailed for Grouped Nodes
 * [ctv](https://cran.r-project.org/web/packages/ctv/index.html): CRAN Task Views
@@ -658,6 +659,8 @@
 * [rms](https://cran.r-project.org/web/packages/rms/index.html): Regression Modeling Strategies
 * [RNASeqR](https://bioconductor.org/packages/release/bioc/html/RNASeqR.html): an R package for automated two-group RNA-Seq analysis workflow
 * [RNAseqStat](https://gitmemory.cn/index.php/repo/jisnoalia/RNAseqStat): 一行代码完成转录组下游分析
+* [rnaturalearth](https://cran.r-project.org/web/packages/rnaturalearth/index.html): World Map Data from Natural Earth
+* [rnaturalearthdata](https://cran.r-project.org/web/packages/rnaturalearthdata/index.html): World Vector Map Data from Natural Earth Used in 'rnaturalearth'
 * [ROCit](https://cran.r-project.org/web/packages/ROCit/index.html): Performance Assessment of Binary Classifier with Visualization
 * [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html): Visualizing the Performance of Scoring Classifiers
 * [rOpenSci](https://ropensci.org/): open tools for open science
