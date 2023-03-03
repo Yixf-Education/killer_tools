@@ -951,6 +951,7 @@
 * [易软著](https://erz.gaptools.cn/)
 * [医生进阶必看的十大科研网站](https://mp.weixin.qq.com/s/9a4kPrYxUF-zwfcaH2pAvA)
 * [SMART - Servier Medical ART](https://smart.servier.com/)
+* [circMine](http://www.biomedical-web.com/circmine/home)
 
 ## [GAPTOOLS](https://www.gaptools.cn/#/)scRNA
 * [**awesome-single-cell**](https://github.com/seandavi/awesome-single-cell)**: Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.**
