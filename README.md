@@ -44,6 +44,7 @@
 * [archive](https://cran.r-project.org/web/packages/archive/index.html): Multi-Format Archive and Compression Support
 * [arules](https://cran.r-project.org/web/packages/arules/index.html): Mining Association Rules and Frequent Itemsets
 * [arulesViz](https://cran.r-project.org/web/packages/arulesViz/index.html): Visualizing Association Rules and Frequent Itemsets
+* [autoGO](https://cran.r-project.org/web/packages/autoGO/index.html): Reproducible, Robust and High Quality Ontology Enrichment Visualizations
 * [autoplotly](https://cran.r-project.org/web/packages/autoplotly/index.html): Automatic Generation of Interactive Visualizations for Statistical Results
 * [autoReg](https://cran.r-project.org/web/packages/autoReg/index.html): Automatic Linear and Logistic Regression and Survival Analysis
 
@@ -334,6 +335,7 @@
 * [ggpattern](https://github.com/coolbutuseless/ggpattern): ggplot geoms with pattern fills
 * [ggpcp](https://cran.r-project.org/web/packages/ggpcp/index.html): Parallel Coordinate Plots in the 'ggplot2' Framework
 * [ggpie](https://cran.r-project.org/web/packages/ggpie/index.html): Pie, Donut and Rose Pie Plots
+* [ggplate](https://cran.r-project.org/web/packages/ggplate/index.html): Create Layout Plots of Biological Culture Plates and Microplates
 * [ggplot.multistats](https://cran.r-project.org/web/packages/ggplot.multistats/index.html): Multiple Summary Statistics for Binned Stats/Geometries
 * [ggplotgui](https://cran.r-project.org/web/packages/ggplotgui/index.html): Create Ggplots via a Graphical User Interface
 * [ggplotify](https://cran.r-project.org/web/packages/ggplotify/index.html): Convert Plot to 'grob' or 'ggplot' Object
@@ -481,6 +483,7 @@
 * [mapsf](https://cran.r-project.org/web/packages/mapsf/index.html): Thematic Cartography
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
 * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): Support Functions and Datasets for Venables and Ripley's MASS
+* [mathml](https://cran.r-project.org/web/packages/mathml/index.html): Translate R Expressions to 'MathML' and 'LaTeX'/'MathJax'
 * [mdthemes](https://cran.r-project.org/web/packages/mdthemes/index.html): Markdown Themes for 'ggplot2'
 * [metevalue](https://cran.r-project.org/web/packages/metevalue/index.html): E-Value in the Omics Data Association Studies
 * [metanetwork](https://cran.r-project.org/web/packages/metanetwork/index.html): Handling and Representing Trophic Networks in Space and Time
@@ -548,6 +551,7 @@
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
 * [openair](https://cran.r-project.org/web/packages/openair/index.html): Tools for the Analysis of Air Pollution Data
 * [openxlsx](https://cran.r-project.org/web/packages/openxlsx/index.html): Read, Write and Edit xlsx Files
+* [options](https://cran.r-project.org/web/packages/options/): Simple, Consistent Package Options
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
 * [overviewR](https://cran.r-project.org/web/packages/overviewR/index.html): Easily Extracting Information About Your Data
 
@@ -569,6 +573,7 @@
 * [pdftools](https://cran.r-project.org/web/packages/pdftools/index.html): Text Extraction, Rendering and Converting of PDF Documents
 * [performance](https://cran.r-project.org/web/packages/performance/index.html): Assessment of Regression Models Performance
 * [phyloseq](https://www.bioconductor.org/packages/release/bioc/html/phyloseq.html): Handling and analysis of high-throughput microbiome census data
+* [phylter](https://cran.r-project.org/web/packages/phylter/index.html): Detect and Remove Outliers in Phylogenomics Datasets
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
 * [Pi](https://www.bioconductor.org/packages/release/bioc/html/Pi.html): Leveraging Genetic Evidence to Prioritise Drug Targets at the Gene and Pathway Level
 * [pivottabler](https://cran.r-project.org/web/packages/pivottabler/index.html): Create Pivot Tables
@@ -581,6 +586,7 @@
 * [png](https://cran.r-project.org/web/packages/png/index.html): Read and write PNG images
 * [PNWColors](https://cran.r-project.org/web/packages/PNWColors/index.html): Color Palettes Inspired by Nature in the US Pacific Northwest
 * [polyclid](https://polyclid.r-euclid.com/index.html): Polygon and polyline for euclid • polyclid
+* [poolHelper](https://cran.r-project.org/web/packages/poolHelper/index.html): Simulates Pooled Sequencing Genetic Data
 * [poppr](https://cran.r-project.org/web/packages/poppr/index.html): Genetic Analysis of Populations with Mixed Reproduction
 * [popsicleR](https://github.com/bicciatolab/PoPsicleR): a flexible R package aimed at providing most of the necessary quality controls and preliminary information for complete and detailed analysis of single cell RNA-seq data.
 * [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
@@ -709,6 +715,7 @@
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
+* [shiny.fluent](https://cran.r-project.org/web/packages/shiny.fluent/index.html): Microsoft Fluent UI for Shiny Apps
 * [ShinyCell](https://github.com/SGDDNB/ShinyCell): Shiny Interactive Web Apps for Single-Cell Data
 * [shinyPredict](https://cran.r-project.org/web/packages/shinyPredict/index.html): Predictions using Shiny
 * [shinythemes](https://cran.r-project.org/web/packages/shinythemes/index.html): Themes for Shiny
@@ -822,6 +829,7 @@
 * [vioplot](https://cran.r-project.org/web/packages/vioplot/index.html): Violin Plot
 * [viper](https://bioconductor.org/packages/release/bioc/html/viper.html): Virtual Inference of Protein-activity by Enriched Regulon analysis
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
+* [viscomp](https://cran.r-project.org/web/packages/viscomp/index.html): Visualize Multi-Component Interventions in Network Meta-Analysis
 * [visdat](https://cran.r-project.org/web/packages/visdat/index.html): Preliminary Visualisation of Data
 * [visNetwork](https://cran.r-project.org/web/packages/visNetwork/index.html): Network Visualization using 'vis.js' Library
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
