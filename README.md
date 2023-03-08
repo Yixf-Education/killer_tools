@@ -400,6 +400,7 @@
 * [gprofiler2](https://cran.r-project.org/web/packages/gprofiler2/index.html): Interface to the 'g:Profiler' Toolset
 * [gptchatteR](https://github.com/isinaltinkaya/gptchatteR): An experimental and unofficial wrapper for interacting with ChatGPT in R.
 * [grafify](https://github.com/ashenoy-cmbi/grafify): Easy grafs, ANOVAs and posthoc comparisons.
+* [graphlayouts](https://cran.r-project.org/web/packages/graphlayouts/index.html): Additional Layout Algorithms for Network Visualizations
 * [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
 * [GSEABase](https://bioconductor.org/packages/release/bioc/html/GSEABase.html): Gene set enrichment data structures and methods
 * [GseaVis](https://github.com/junjunlab/GseaVis): An implement R package to visualize GSEA results
@@ -546,6 +547,7 @@
 
 ### O
 
+* [oaqc](https://cran.r-project.org/web/packages/oaqc/index.html): Computation of the Orbit-Aware Quad Census
 * [officedown](https://cran.r-project.org/web/packages/officedown/index.html): Enhanced 'R Markdown' Format for 'Word' and 'PowerPoint'
 * [officer](https://cran.r-project.org/web/packages/officer/index.html): Manipulation of Microsoft Word and PowerPoint Documents
 * [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html): High-quality circular visualization of omics data
@@ -685,6 +687,7 @@
 * [rticles](https://cran.r-project.org/web/packages/rticles/index.html): Article Formats for R Markdown
 * [rtracklayer](https://bioconductor.org/packages/release/bioc/html/rtracklayer.html): R interface to genome annotation files and the UCSC genome browser
 * [Rtsne](https://cran.r-project.org/web/packages/Rtsne/index.html): T-Distributed Stochastic Neighbor Embedding using a Barnes-Hut Implementation
+* [runway](https://github.com/ML4LHS/runway): Visualizing Prediction Model Performance
 * [RVA](https://cran.r-project.org/web/packages/RVA/index.html): RNAseq Visualization Automation
 * [rvcheck](https://cran.rstudio.com/web/packages/rvcheck/index.html): R/Package Version Check, Check latest release version of R and R package (both in 'CRAN', 'Bioconductor' or 'Github')
 * [rvest](https://cran.r-project.org/web/packages/rvest/index.html): Easily Harvest (Scrape) Web Pages
