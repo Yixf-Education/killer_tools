@@ -457,6 +457,7 @@
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
 * [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html): Client-side REST access to the Kyoto Encyclopedia of Genes and Genomes (KEGG)
 * [ keras](https://cran.r-project.org/web/packages/keras/index.html): R Interface to 'Keras'
+* [kingfisher-download](https://github.com/wwood/kingfisher-download): Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 * [KMunicate](https://cran.r-project.org/web/packages/KMunicate/index.html): KMunicate-Style Kaplan–Meier Plots
 
 ### L
