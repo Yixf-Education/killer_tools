@@ -640,6 +640,7 @@
 * [rcrossref](https://cran.r-project.org/web/packages/rcrossref/index.html): Client for Various 'CrossRef' 'APIs'
 * [rcssci](https://cran.r-project.org/web/packages/rcssci/index.html): Visualization of Restricted Cubic Splines
 * [reactable](https://cran.r-project.org/web/packages/reactable/index.html): Interactive Data Tables Based on 'React Table'
+* [reactablefmtr](https://kcuilla.github.io/reactablefmtr/index.html): The {reactablefmtr} package streamlines and enhances the styling and formatting of tables built with the {reactable} **R** package. The {reactablefmtr} package provides many conditional formatters that are highly customizable and easy to use.
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
 * [refdb](https://cran.r-project.org/web/packages/refdb/index.html): A DNA Reference Library Manager
 * [regexplain](https://github.com/gadenbuie/regexplain): 🔍 An RStudio addin slash regex utility belt
@@ -1255,3 +1256,7 @@
 * [Cell-omics Data Coordinate Platform - CDCP - 单细胞组学平台](https://db.cngb.org/cdcp/)
 * [TEDD](https://tedd.obg.cuhk.edu.hk/frontend/dist/index.html#/): The Temporal Expression during Development Database
 * [Home | TFSyntax](https://tfsyntax.zhaopage.com/): a database of transcription factors binding syntax in mammalian genomes.
+
+# Algorithm
+
+* [The Algorithms](https://the-algorithms.com/)
