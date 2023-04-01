@@ -34,6 +34,8 @@
 * [abbrevr](https://github.com/patrickbarks/abbrevr): Abbreviate journal titles using the ISO 4 standard
 * [ActivePathways](https://cran.r-project.org/web/packages/ActivePathways/index.html): Integrative Pathway Enrichment Analysis of Multivariate Omics Data
 * [adegenet](https://cran.r-project.org/web/packages/adegenet/index.html): Exploratory Analysis of Genetic and Genomic Data
+* [adjustedCurves](https://cran.r-project.org/web/packages/adjustedCurves/index.html): Confounder-Adjusted Survival Curves and Cumulative Incidence Functions
+* [animate](https://cran.rstudio.com/web/packages/animate/index.html): A Web-Based Graphics Device for Animated Visualisations
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
@@ -153,6 +155,7 @@
 * [data.table](https://cran.r-project.org/web/packages/data.table/index.html): Extension of 'data.frame'
 * [datadictionary](https://cran.r-project.org/web/packages/datadictionary/index.html): Create a Data Dictionary
 * [DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/index.html): Automate Data Exploration and Treatment
+* [dataMojo](https://cran.rstudio.com/web/packages/dataMojo/index.html): Reshape Data Table
 * [datapasta](https://github.com/MilesMcBain/datapasta): is about reducing resistance associated with copying and pasting data to and from R
 * [datarium](https://cran.r-project.org/web/packages/datarium/index.html): Data Bank for Statistical Analysis and Visualization
 * [datasauRus](https://cran.r-project.org/web/packages/datasauRus/index.html): Datasets from the Datasaurus Dozen
@@ -346,6 +349,7 @@
 * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html): 'ggplot2' Based Publication Ready Plots
 * [ggpval](https://cran.r-project.org/web/packages/ggpval/index.html): Annotate Statistical Tests for 'ggplot2'
 * [ggradar](https://github.com/ricardo-bion/ggradar): radar charts with ggplot2
+* [ggrain](https://cran.r-project.org/web/packages/ggrain/index.html): A Rainclouds Geom for 'ggplot2'
 * [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
 * [ggreverse](https://github.com/coolbutuseless/ggreverse): Reverse a ggplot object back into code
 * [ggrcs](https://github.com/liuqiang070488/ggrcs): A function to draw histograms and restricted cubic splines (RCS).
@@ -564,6 +568,7 @@
 * [pak](https://cran.r-project.org/web/packages/pak/index.html): Another Approach to Package Installation
 * [pals](https://cran.r-project.org/web/packages/pals/index.html): Color Palettes, Colormaps, and Tools to Evaluate Them
 * [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
+* [parabar](https://cran.r-project.org/web/packages/parabar/index.html): Progress Bar for Parallel Tasks
 * [parameters](https://cran.r-project.org/web/packages/parameters/index.html): Processing of Model Parameters
 * [parttime](https://cran.r-project.org/web/packages/parttime/index.html): Partial Datetime Handling
 * [parttree](https://github.com/grantmcdermott/parttree): Simple package for plotting decision tree partitions in R
@@ -579,6 +584,7 @@
 * [phylter](https://cran.r-project.org/web/packages/phylter/index.html): Detect and Remove Outliers in Phylogenomics Datasets
 * [phytools](https://cran.r-project.org/web/packages/phytools/index.html): Phylogenetic Tools for Comparative Biology (and Other Things)
 * [Pi](https://www.bioconductor.org/packages/release/bioc/html/Pi.html): Leveraging Genetic Evidence to Prioritise Drug Targets at the Gene and Pathway Level
+* [PieGlyph](https://cran.r-project.org/web/packages/PieGlyph/index.html): Axis Invariant Scatter Pie Plots
 * [pivottabler](https://cran.r-project.org/web/packages/pivottabler/index.html): Create Pivot Tables
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
 * [pkgndep](https://cran.r-project.org/web/packages/pkgndep/index.html): Analyze Dependency Heaviness of R Packages
@@ -770,6 +776,7 @@
 ### T
 
 * [tableone](https://cran.r-project.org/web/packages/tableone/index.html): Create 'Table 1' to Describe Baseline Characteristics with or without Propensity Score Weights
+* [tablexlsx](https://cran.r-project.org/web/packages/tablexlsx/index.html): Export Data Frames to Excel Workbook
 * [tackPlotR](https://github.com/junjunlab/tackPlotR): A R package to visualize bigwigs.
 * [tagger](https://github.com/eliocamp/tagger): Adds tags to 'ggpot2' facets
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
