@@ -249,7 +249,7 @@
 * [fpc](https://cran.r-project.org/web/packages/fpc/index.html): Flexible Procedures for Clustering
 * [fpp3](https://cran.r-project.org/web/packages/fpp3/index.html): Data for "Forecasting: Principles and Practice" (3rd Edition)
 * [framecleaner](https://cran.r-project.org/web/packages/framecleaner/index.html): Clean Data Frames
-* [unkyheatmap](https://cran.r-project.org/web/packages/funkyheatmap/index.html): Generating Funky Heatmaps for Data Frames
+* [funkyheatmap](https://cran.r-project.org/web/packages/funkyheatmap/index.html): Generating Funky Heatmaps for Data Frames
 * [FunnelPlotR](https://cran.r-project.org/web/packages/FunnelPlotR/index.html): Funnel Plots for Comparing Institutional Performance
 * [furrr](https://cran.r-project.org/web/packages/furrr/index.html): Apply Mapping Functions in Parallel using Futures
 * [future](https://cran.r-project.org/web/packages/future/index.html): Unified Parallel and Distributed Processing in R for Everyone
@@ -1111,6 +1111,8 @@
 * [iCoMut](http://firebrowse.org/iCoMut/): 癌症的somatic 突变信息全景图
 * [UALCAN](http://ualcan.path.uab.edu/index.html)
 * [CAMOIP](https://www.camoip.net/)
+* [TIMEDB](https://timedb.deepomics.org/): *Tumor Immune MicroEnvironment cell composition DataBase*
+* http://bio-bigdata.hrbmu.edu.cn/ImmCluster
 
 ## 知名的肿瘤研究机构都有着自己的 TCGA 数据库探索工具
 
