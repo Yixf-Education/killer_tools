@@ -144,6 +144,7 @@
 * [cropcircles](https://github.com/doehm/cropcircles): Crops an image to a circle in R
 * [CrossICC](https://www.bioconductor.org/packages/release/bioc/html/CrossICC.html): An Interactive Consensus Clustering Framework for Multi-platform Data Analysis
 * [crosslink](https://github.com/zzwch/crosslink): Network Visualization Tailed for Grouped Nodes
+* [crosstable](https://cran.r-project.org/web/packages/crosstable/index.html): Crosstables for Descriptive Analyses
 * [ctv](https://cran.r-project.org/web/packages/ctv/index.html): CRAN Task Views
 * [curatedTCGAData](https://bioconductor.org/packages/release/data/experiment/html/curatedTCGAData.html): Curated Data From The Cancer Genome Atlas (TCGA) as MultiAssayExperiment Objects
 * [customLayout](https://cran.r-project.org/web/packages/customLayout/index.html): Arrange Elements on the R's Drawing Area or Inside the PowerPoint's Slide
