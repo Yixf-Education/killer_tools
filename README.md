@@ -303,6 +303,7 @@
 * [ggDoubleHeat](https://cran.rstudio.com/web/packages/ggDoubleHeat/index.html): A Heatmap-Like Visualization Tool
 * [ggeasy](https://cran.r-project.org/web/packages/ggeasy/index.html): Easy Access to 'ggplot2' Commands
 * [ggeconodist](https://github.com/hrbrmstr/ggeconodist): Create Diminutive Distribution Charts
+* [ggeffects](https://cran.r-project.org/web/packages/ggeffects/index.html): Create Tidy Data Frames of Marginal Effects for 'ggplot' from Model Outputs
 * [ggExtra](https://cran.r-project.org/web/packages/ggExtra/index.html): Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
 * [ggfan](https://cran.r-project.org/web/packages/ggfan/index.html): Summarise a Distribution Through Coloured Intervals
 * [ggfittext](https://cran.r-project.org/web/packages/ggfittext/index.html): Fit Text Inside a Box in 'ggplot2'
