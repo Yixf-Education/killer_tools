@@ -765,6 +765,7 @@
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
 * [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
+* [survout](https://cran.r-project.org/web/packages/survout/index.html): Excel Conversion of R Surival Analysis Output
 * [survRM2](https://cran.r-project.org/web/packages/survRM2/index.html): Comparing Restricted Mean Survival Time
 * [Sushi](https://bioconductor.org/packages/release/bioc/html/Sushi.html): Tools for visualizing genomics data
 * [susieR](https://cran.r-project.org/web/packages/susieR/index.html): Sum of Single Effects Linear Regression
