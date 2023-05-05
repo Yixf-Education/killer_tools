@@ -453,6 +453,7 @@
 
 * [janitor](https://cran.r-project.org/web/packages/janitor/index.html): Simple Tools for Examining and Cleaning Dirty Data
 * [janus](https://cran.r-project.org/web/packages/janus/index.html): Optimized Recommending System Based on 'tensorflow'
+* [jcvi](https://github.com/tanghaibao/jcvi): Python library to facilitate genome assembly, annotation, and comparative genomics
 * [jiebaR](https://cran.r-project.org/web/packages/jiebaR/index.html): Chinese Text Segmentation
 * [jiebaRD](https://cran.r-project.org/web/packages/jiebaRD/index.html): Chinese Text Segmentation Data for jiebaR Package
 * [jjAnno](https://github.com/junjunlab/jjAnno): An annotation package for ggplot plot
