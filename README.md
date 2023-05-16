@@ -1133,6 +1133,16 @@
 ## Shiny-related
 
 * [nanxstats/awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions): 🐝 Awesome R packages that offer extended UI or server components for the R web framework Shiny
+* [基于 Seurat 的单细胞对象使用 ShinyCell 自动化生成网页](https://mp.weixin.qq.com/s/RQC7twfVynw49KVXulsxKg)
+* [Murine SC Atlas of the Lung Responses to Radiation Injury](https://lustra.shinyapps.io/Murine_RIPF_Atlas/)
+* [SGDDNB/ShinyCell: Shiny Interactive Web Apps for Single-Cell Data](https://github.com/SGDDNB/ShinyCell)
+* [C3BI-pasteur-fr/UTechSCB-SCHNAPPs: Shiny app for the analysis of single cell data](https://github.com/C3BI-pasteur-fr/UTechSCB-SCHNAPPs)
+* [romanhaa/cerebroApp: R package containing the Cerebro application.](https://github.com/romanhaa/cerebroApp)
+* [nlawlor/V-SVA: V-SVA: An R Shiny application for detecting and annotating hidden sources of variation in single cell RNA-seq data](https://github.com/nlawlor/V-SVA)
+* [atakanekiz/CIPR-Shiny: Repository for Shiny implementation of CIPR](https://github.com/atakanekiz/CIPR-Shiny)
+* [immcore/iS-CellR: iS-CellR: interactive graphical tool for analysis of single-cell RNAseq data](https://github.com/immcore/iS-CellR)
+* [vallotlab/ChromSCape: ChromSCape](https://github.com/vallotlab/ChromSCape)
+* [Kasper Lab: Mouse skin scRNA-seq atlas](http://kasperlab.org/mouseskin)
 
 可以让网页看起来更专业的 R 包：
 
