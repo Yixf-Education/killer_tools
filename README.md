@@ -985,7 +985,7 @@
 * [circMine](http://www.biomedical-web.com/circmine/home)
 * [JinmiaoChenLab/DISCOtoolkit](https://github.com/JinmiaoChenLab/DISCOtoolkit): DISCOtoolkit is an R package that allows users to access data and use the tools provided by the [DISCO database](https://www.immunesinglecell.org/).
 
-## [GAPTOOLS](https://www.gaptools.cn/#/)scRNA
+## scRNA
 * [**awesome-single-cell**](https://github.com/seandavi/awesome-single-cell)**: Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.**
 * [**awesome-multi-omics**](https://github.com/mikelove/awesome-multi-omics)**: List of software packages for multi-omics analysis**
 * [**scRNA-tools**](https://www.scrna-tools.org/table): The scRNA-tools database is a catalogue of tools for analysing single-cell RNA sequencing data.
@@ -1054,6 +1054,7 @@
 * [ShinyCell](https://github.com/SGDDNB/ShinyCell#installation): Shiny Interactive Web Apps for Single-Cell Data
 * [SCEVAN](https://github.com/AntonioDeFalco/SCEVAN): R package that automatically classifies the cells in the scRNA data by segregating non-malignant cells of tumor microenviroment from the malignant cells. It also infers the copy number profile of malignant cells, identifies subclonal structures and analyses the specific and shared alterations of each subpopulation.
 * [projectLSI](https://github.com/sajuukLyu/projectLSI): Project bulk/single-cell RNA-seq data to given LSI space
+* [Teichlab/celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type classification, harmonization and integration
 
 ### 数据整合
 
