@@ -989,6 +989,7 @@
 * [**awesome-single-cell**](https://github.com/seandavi/awesome-single-cell)**: Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.**
 * [**awesome-multi-omics**](https://github.com/mikelove/awesome-multi-omics)**: List of software packages for multi-omics analysis**
 * [**scRNA-tools**](https://www.scrna-tools.org/table): The scRNA-tools database is a catalogue of tools for analysing single-cell RNA sequencing data.
+* [scrnapip](https://github.com/OpenGene/scrnapip): A Systematic and Dynamic Pipeline for Single-Cell RNA Sequencing Analysis
 * [scater](https://bioconductor.org/packages/release/bioc/html/scater.html): Single-Cell Analysis Toolkit for Gene Expression Data in R
 * [Seurat](https://cran.r-project.org/web/packages/Seurat/index.html): Tools for Single Cell Genomics
 * [monocle](https://www.bioconductor.org/packages/release/bioc/html/monocle.html): Clustering, differential expression, and trajectory analysis for single- cell RNA-Seq
