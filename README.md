@@ -550,6 +550,7 @@
 * [ngsReports](https://bioconductor.org/packages/release/bioc/html/ngsReports.html): Load FastqQC reports and other NGS related files
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html): Linear and Nonlinear Mixed Effects Models
 * [NMF](https://cran.r-project.org/web/packages/NMF/index.html): Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
+* [normSeq](https://arn.ugr.es/normSeq): RNA-seq data normalization and data visualization
 * [nparcomp](https://cran.r-project.org/web/packages/nparcomp/index.html): Multiple Comparisons and Simultaneous Confidence Intervals
 * [nplyr](https://cran.r-project.org/web/packages/nplyr/index.html): A Grammar of Nested Data Manipulation
 
