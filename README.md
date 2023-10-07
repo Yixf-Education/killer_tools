@@ -1082,6 +1082,7 @@
 * [scAnnotate](https://cran.r-project.org/web/packages/scAnnotate/index.html): An Automated Cell Type Annotation Tool for Single-Cell RNA-Sequencing Data
 * [ToppCell](https://toppcell.cchmc.org/biosystems/go/index3/): A Hierarchical Modular Single Cell Gene Expression Analysis System
 * [CellKb Immune - Immune cell type markers](https://www.cellkb.com/immune): Database of mouse hematopoietic cell types
+* [sc-type](https://sctype.app/): **ScType** is a computational platform, which enables data-driven, fully-automated and ultra-fast cell-type identification based solely on given scRNA-seq data, combined with our comprehensive cell marker database as background information.
 
 ### 细胞通讯
 
