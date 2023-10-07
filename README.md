@@ -530,6 +530,7 @@
 * [modeltime](https://cran.r-project.org/web/packages/modeltime/index.html): The Tidymodels Extension for Time Series Modeling
 * [moderndive](https://cran.r-project.org/web/packages/moderndive/index.html): Tidyverse-Friendly Introductory Linear Regression
 * [MOFA2](https://www.bioconductor.org/packages/release/bioc/html/MOFA2.html): Multi-Omics Factor Analysis v2
+* [MoMAColors](https://github.com/BlakeRMills/MoMAColors): Color Schemes based around artwork and the Museum of Modern Art.
 * [motifStack](https://bioconductor.org/packages/release/bioc/html/motifStack.html): Plot stacked logos for single or multiple DNA, RNA and amino acid sequence
 * [msa](https://bioconductor.org/packages/release/bioc/html/msa.html): Multiple Sequence Alignment
 * [msigdbr](https://cran.r-project.org/web/packages/msigdbr/index.html): MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format
