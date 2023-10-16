@@ -1062,6 +1062,7 @@
 * [SCEVAN](https://github.com/AntonioDeFalco/SCEVAN): R package that automatically classifies the cells in the scRNA data by segregating non-malignant cells of tumor microenviroment from the malignant cells. It also infers the copy number profile of malignant cells, identifies subclonal structures and analyses the specific and shared alterations of each subpopulation.
 * [projectLSI](https://github.com/sajuukLyu/projectLSI): Project bulk/single-cell RNA-seq data to given LSI space
 * [Teichlab/celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type classification, harmonization and integration
+* [CuratedAtlasQueryR](https://stemangiola.github.io/CuratedAtlasQueryR/): Queries the Human Cell Atlas
 
 ### 数据整合
 
