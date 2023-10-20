@@ -93,6 +93,7 @@
 * [canvasXpress](https://cran.r-project.org/web/packages/canvasXpress/index.html): Visualization Package for CanvasXpress in R
 * [car](https://cran.r-project.org/web/packages/car/index.html): Companion to Applied Regression
 * [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
+* [Cartogram](https://r-graph-gallery.com/cartogram.html): build cartograms in R
 * [cartography](https://cran.r-project.org/web/packages/cartography/index.html): Thematic Cartography
 * [caTools](https://cran.r-project.org/web/packages/caTools/index.html): Tools: Moving Window Statistics, GIF, Base64, ROC AUC, etc
 * [CBCgrps](https://cran.r-project.org/web/packages/CBCgrps/index.html): Compare Baseline Characteristics Between Groups
@@ -348,6 +349,7 @@
 * [ggpmisc](https://cran.r-project.org/web/packages/ggpmisc/index.html): Miscellaneous Extensions to 'ggplot2'
 * [ggpointdensity](https://cran.r-project.org/web/packages/ggpointdensity/index.html): A Cross Between a 2D Density Plot and a Scatter Plot
 * [ggpol](https://cran.r-project.org/web/packages/ggpol/index.html): Visualizing Social Science Data with 'ggplot2'
+* [ggpp](https://cran.r-project.org/web/packages/ggpp/index.html): Grammar Extensions to 'ggplot2'
 * [ggprism](https://github.com/csdaw/ggprism): The `ggprism` package provides various themes, palettes, and other useful functions to customise ggplots and give them the *‘GraphPad Prism’* look.
 * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html): 'ggplot2' Based Publication Ready Plots
 * [ggpval](https://cran.r-project.org/web/packages/ggpval/index.html): Annotate Statistical Tests for 'ggplot2'
