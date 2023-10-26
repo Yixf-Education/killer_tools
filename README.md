@@ -362,6 +362,7 @@
 * [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html): Ridgeline Plots in 'ggplot2'
 * [ggrisk](https://cran.r-project.org/web/packages/ggrisk/index.html): Risk Score Plot for Cox Regression
 * [ggsankey](https://github.com/davidsjoberg/ggsankey): The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
+* [ggsc](https://github.com/YuLab-SMU/ggsc): 
 * [ggsector](https://cran.r-project.org/web/packages/ggsector/index.html): Draw Sectors
 * [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
 * [ggsector](https://cran.r-project.org/web/packages/ggsector/index.html): Draw Sectors
