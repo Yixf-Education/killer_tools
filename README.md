@@ -534,6 +534,7 @@
 * [moderndive](https://cran.r-project.org/web/packages/moderndive/index.html): Tidyverse-Friendly Introductory Linear Regression
 * [MOFA2](https://www.bioconductor.org/packages/release/bioc/html/MOFA2.html): Multi-Omics Factor Analysis v2
 * [MoMAColors](https://github.com/BlakeRMills/MoMAColors): Color Schemes based around artwork and the Museum of Modern Art.
+* [moonBook](https://cran.r-project.org/web/packages/moonBook/index.html): Functions and Datasets for the Book by Keon-Woong Moon
 * [motifStack](https://bioconductor.org/packages/release/bioc/html/motifStack.html): Plot stacked logos for single or multiple DNA, RNA and amino acid sequence
 * [msa](https://bioconductor.org/packages/release/bioc/html/msa.html): Multiple Sequence Alignment
 * [msigdbr](https://cran.r-project.org/web/packages/msigdbr/index.html): MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format
@@ -574,6 +575,7 @@
 
 ### P
 
+* [packcircles](https://cran.r-project.org/web/packages/packcircles/index.html): Circle Packing
 * [pacman](https://cran.r-project.org/web/packages/pacman/index.html): Package Management Tool
 * [pak](https://cran.r-project.org/web/packages/pak/index.html): Another Approach to Package Installation
 * [pals](https://cran.r-project.org/web/packages/pals/index.html): Color Palettes, Colormaps, and Tools to Evaluate Them
@@ -788,6 +790,7 @@
 
 ### T
 
+* [table1](https://cran.r-project.org/web/packages/table1/index.html): Tables of Descriptive Statistics in HTML
 * [tableone](https://cran.r-project.org/web/packages/tableone/index.html): Create 'Table 1' to Describe Baseline Characteristics with or without Propensity Score Weights
 * [tablexlsx](https://cran.r-project.org/web/packages/tablexlsx/index.html): Export Data Frames to Excel Workbook
 * [tackPlotR](https://github.com/junjunlab/tackPlotR): A R package to visualize bigwigs.
