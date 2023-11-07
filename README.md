@@ -1300,6 +1300,9 @@
 * [Cell-omics Data Coordinate Platform - CDCP - 单细胞组学平台](https://db.cngb.org/cdcp/)
 * [TEDD](https://tedd.obg.cuhk.edu.hk/frontend/dist/index.html#/): The Temporal Expression during Development Database
 * [Home | TFSyntax](https://tfsyntax.zhaopage.com/): a database of transcription factors binding syntax in mammalian genomes.
+* [Cell-omics Data Coordinate Platform - CDCP - 单细胞组学平台](https://db.cngb.org/cdcp/)
+* [Scalable Brain Atlas - NeuroMaps Atlas](https://scalablebrainatlas.incf.org/macaque/DB09)
+* [HCL - Human Cell Landscape](https://db.cngb.org/HCL/index.html)
 
 # Algorithm
 
