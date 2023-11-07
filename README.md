@@ -54,6 +54,7 @@
 
 * [babelgene](https://cran.rstudio.com/web/packages/babelgene/index.html): Gene Orthologs for Model Organisms in a Tidy Data Format
 * [barplot3d](https://cran.r-project.org/web/packages/barplot3d/index.html): Create 3D Barplots
+* [bayesplot](https://cran.r-project.org/web/packages/bayesplot/index.html): Plotting for Bayesian Models
 * [bayestestR](https://cran.r-project.org/web/packages/bayestestR/index.html): Understand and Describe Bayesian Models and Posterior Distributions
 * [bbplot](https://github.com/bbc/bbplot): R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 * [beepr](https://cran.r-project.org/web/packages/beepr/index.html): Easily Play Notification Sounds on any Platform
