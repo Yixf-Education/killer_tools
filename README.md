@@ -356,6 +356,7 @@
 * [ggradar](https://github.com/ricardo-bion/ggradar): radar charts with ggplot2
 * [ggrain](https://cran.r-project.org/web/packages/ggrain/index.html): A Rainclouds Geom for 'ggplot2'
 * [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
+* [ggrastr](https://cran.rstudio.com/web/packages/ggrastr/index.html): Rasterize Layers for 'ggplot2'
 * [ggreverse](https://github.com/coolbutuseless/ggreverse): Reverse a ggplot object back into code
 * [ggrcs](https://github.com/liuqiang070488/ggrcs): A function to draw histograms and restricted cubic splines (RCS).
 * [ggrepel](https://cran.r-project.org/web/packages/ggrepel/index.html): Automatically Position Non-Overlapping Text Labels with 'ggplot2'
