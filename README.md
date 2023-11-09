@@ -1268,6 +1268,7 @@
 # Pipeline
 
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html): The Snakemake workflow management system is a tool to create **reproducible and scalable** data analyses.
+* [Galaxy | Europe](https://singlecell.usegalaxy.eu/): Single Cell Omics Galaxy Instance
 
 # Genome visualization
 
