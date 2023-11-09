@@ -593,6 +593,7 @@
 * [PCAtools](https://bioconductor.org/packages/release/bioc/html/PCAtools.html): Everything Principal Components Analysis
 * [pdftables](https://cran.r-project.org/web/packages/pdftables/index.html): Programmatic Conversion of PDF Tables
 * [pdftools](https://cran.r-project.org/web/packages/pdftools/index.html): Text Extraction, Rendering and Converting of PDF Documents
+* [Peptides](https://cran.r-project.org/web/packages/Peptides/index.html): Calculate Indices and Theoretical Physicochemical Properties of Protein Sequences
 * [performance](https://cran.r-project.org/web/packages/performance/index.html): Assessment of Regression Models Performance
 * [phyloseq](https://www.bioconductor.org/packages/release/bioc/html/phyloseq.html): Handling and analysis of high-throughput microbiome census data
 * [phylter](https://cran.r-project.org/web/packages/phylter/index.html): Detect and Remove Outliers in Phylogenomics Datasets
