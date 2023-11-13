@@ -396,6 +396,7 @@
 * [ggvenn](https://cran.r-project.org/web/packages/ggvenn/index.html): Draw Venn Diagram by 'ggplot2'
 * [ggVennDiagram](https://cran.r-project.org/web/packages/ggVennDiagram/index.html): A 'ggplot2' Implement of Venn Diagram
 * [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html): Interactive Grammar of Graphics
+* [ggwordcloud](https://cran.r-project.org/web/packages/ggwordcloud/index.html): A Word Cloud Geom for 'ggplot2'
 * [BioSenior/ggVolcano](https://github.com/BioSenior/ggVolcano): The goal of `ggVolcano` is to help users make a beautiful volcano map more easily, including general volcano plot(`ggvolcano`), gradient color volcano plot(`gradual_volcano`) and GO term volcano plot(`term_volcano`).
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
@@ -449,6 +450,7 @@
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
 * [inferregex](https://github.com/daranzolin/inferregex): Infer the regular expression (regex) of a string :1234:
 * [intansv](https://bioconductor.org/packages/release/bioc/html/intansv.html): Integrative analysis of structural variations
+* [interactions](https://cran.r-project.org/web/packages/interactions/index.html): Comprehensive, User-Friendly Toolkit for Probing Interactions
 * [introdataviz](https://github.com/PsyTeachR/introdataviz):  two functions (`geom_split_violin()` and `geom_flat_violin()`) used to make split-violin and raincloud plots
 * [IPEDS](https://cran.r-project.org/web/packages/IPEDS/index.html): Data from the Integrated Post-Secondary Education Data System
 * [ipred](https://cran.r-project.org/web/packages/ipred/index.html): Improved Predictors
@@ -881,6 +883,7 @@
 * [wiggleplotr](https://bioconductor.org/packages/release/bioc/html/wiggleplotr.html): Make read coverage plots from BigWig files
 * [wikiprofiler](https://cran.r-project.org/web/packages/wikiprofiler/index.html): 'WikiPathway' Based Data Integration and Visualization
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html): Word Clouds
+* [wordcloud2](https://cran.r-project.org/web/packages/wordcloud2/index.html): Create Word Cloud by 'htmlwidget'
 * [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
 * [wzRfun](https://github.com/walmes/wzRfun): Auxiliary functions for courses, analysis and data visualization.]
 
