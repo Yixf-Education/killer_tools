@@ -734,6 +734,7 @@
 * [Scillus](https://github.com/xmc811/Scillus): R Package for Single-Cell Dataset Processing and Visualization
 * [Scissor](https://github.com/sunduanchen/Scissor): Single-Cell Identification of Subpopulations with bulk Sample phenOtype coRrelation
 * [scistreer](https://cran.r-project.org/web/packages/scistreer/index.html): Maximum-Likelihood Perfect Phylogeny Inference at Scale
+* [scitb](https://cran.r-project.org/web/packages/scitb/index.html): Provides Some Useful Functions for Making Statistical Tables
 * [SCORPIUS](https://cran.rstudio.com/web/packages/SCORPIUS/index.html): Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
 * [scPrognosis](https://github.com/XiaomeiLi1/scPrognosis): Single cell transcriptomes improve cancer prognosis
 * [SCpubr](https://cran.r-project.org/web/packages/SCpubr/index.html): Generate Publication Ready Visualizations of Single Cell Transcriptomics Data
