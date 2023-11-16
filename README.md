@@ -1286,6 +1286,7 @@
 # Bioinformatics
 
 * [Bioinformatics](https://replikation.github.io/bioinformatics_side/): Bioinformatics Collection, a collection of lectures, programs, tools, tutorials etc.
+* [wwood/kingfisher-download](https://github.com/wwood/kingfisher-download): Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 
 # Databases
 
