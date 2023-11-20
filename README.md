@@ -40,6 +40,7 @@
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
 * [AnnotationHub](https://bioconductor.org/packages/release/bioc/html/AnnotationHub.html): Client to access AnnotationHub resources
+* [aPEAR](https://cran.r-project.org/web/packages/aPEAR/index.html): Advanced Pathway Enrichment Analysis Representation
 * [apcluster](https://cran.r-project.org/web/packages/apcluster/index.html): Affinity Propagation Clusterin
 * [aPCoA](https://cran.r-project.org/web/packages/aPCoA/index.html): Covariate Adjusted PCoA Plot
 * [aplot](https://cran.r-project.org/web/packages/aplot/index.html): Decorate a 'ggplot' with Associated Information
@@ -174,6 +175,7 @@
 * [DescTools](https://cran.r-project.org/web/packages/DescTools/index.html): Tools for Descriptive Statistics
 * [dlookr](https://cran.r-project.org/web/packages/dlookr/index.html): Tools for Data Diagnosis, Exploration, Transformation
 * [DNAshapeR](https://www.bioconductor.org/packages/release/bioc/html/DNAshapeR.html): High-throughput prediction of DNA shape features
+* [DiagrammeR](https://cran.r-project.org/web/packages/DiagrammeR/index.html): Graph/Network Visualization
 * [diffdf](https://cran.r-project.org/web/packages/diffdf/index.html): Dataframe Difference Tool
 * [distill](https://cran.r-project.org/web/packages/distill/index.html): 'R Markdown' Format for Scientific and Technical Writing
 * [doMC](https://cran.r-project.org/web/packages/doMC/index.html): Foreach Parallel Adaptor for 'parallel'
@@ -1085,6 +1087,7 @@
 * [rliger](https://cran.r-project.org/web/packages/rliger/index.html): Linked Inference of Genomic Experimental Relationships
 * [simspec](https://github.com/quadbiolab/simspec): Calculation of Reference/Cluster Similarity Spectrum (RSS/CSS)
 * [tanaylab/metacells: Metacells - Single-cell RNA Sequencing Analysis](https://github.com/tanaylab/metacells)
+* [navinlabcode/CellTrek](https://github.com/navinlabcode/CellTrek): a computational framework that can directly map single cells back to their spatial coordinates in tissue sections based on scRNA-seq and ST data
 
 ### Doublets 鉴定
 
