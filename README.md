@@ -1101,6 +1101,7 @@
 * [ToppCell](https://toppcell.cchmc.org/biosystems/go/index3/): A Hierarchical Modular Single Cell Gene Expression Analysis System
 * [CellKb Immune - Immune cell type markers](https://www.cellkb.com/immune): Database of mouse hematopoietic cell types
 * [sc-type](https://sctype.app/): **ScType** is a computational platform, which enables data-driven, fully-automated and ultra-fast cell-type identification based solely on given scRNA-seq data, combined with our comprehensive cell marker database as background information.
+* [ACT](http://xteam.xbio.top/ACT/)： Annotation of Cell Types，[ACT](http://biocc.hrbmu.edu.cn/ACT/)
 
 ### 细胞通讯
 
