@@ -1147,6 +1147,7 @@
 * [CAMOIP](https://www.camoip.net/)
 * [TIMEDB](https://timedb.deepomics.org/): *Tumor Immune MicroEnvironment cell composition DataBase*
 * http://bio-bigdata.hrbmu.edu.cn/ImmCluster
+* [THER](https://smuonco.shinyapps.io/THER/)：一款探究泛肿瘤缺氧的交互式网页工具
 
 ## 知名的肿瘤研究机构都有着自己的 TCGA 数据库探索工具
 
