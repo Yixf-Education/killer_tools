@@ -872,6 +872,7 @@
 * [visreg](https://pbreheny.github.io/visreg/): An R package for the visualization of regression models
 * [vissE](https://bioconductor.org/packages/release/bioc/html/vissE.html): Visualising Set Enrichment Analysis Results
 * [vitae](https://cran.r-project.org/web/packages/vitae/index.html): Curriculum Vitae for R Markdown
+* [VoronoiPlus](https://github.com/AllanCameron/VoronoiPlus): Create weighted Voronoi maps and treemaps
 * [voronoiTreemap](https://cran.rstudio.com/web/packages/voronoiTreemap/index.html): Voronoi Treemaps with Added Interactivity by Shiny
 * [vroom](https://cran.r-project.org/web/packages/vroom/index.html): Read and Write Rectangular Text Data Quickly
 * [VSOLassoBag](https://cran.r-project.org/web/packages/VSOLassoBag/index.html): Variable Selection Oriented LASSO Bagging Algorithm
