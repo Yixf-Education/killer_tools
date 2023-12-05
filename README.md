@@ -625,6 +625,7 @@
 * [prettyunits](https://cran.r-project.org/web/packages/prettyunits/index.html): Pretty, Human Readable Formatting of Quantities
 * [prismatic](https://cran.r-project.org/web/packages/prismatic/index.html): Color Manipulation Tools
 * [pROC](https://cran.r-project.org/web/packages/pROC/index.html): Display and Analyze ROC Curves
+* [progeny](https://bioconductor.org/packages/release/bioc/html/progeny.html): Pathway RespOnsive GENes for activity inference from gene expression
 * [ProjecTILs](https://github.com/carmonalab/ProjecTILs): Interpretation of T cell states using reference single-cell atlases
 * [promor](https://cran.r-project.org/web/packages/promor/index.html): Proteomics Data Analysis and Modeling Tools
 * [psych](https://cran.r-project.org/web/packages/psych/index.html): Procedures for Psychological, Psychometric, and Personality Research
