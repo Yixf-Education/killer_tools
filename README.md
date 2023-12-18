@@ -808,6 +808,7 @@
 * [tagger](https://github.com/eliocamp/tagger): Adds tags to 'ggpot2' facets
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
 * [TCGAmutations](https://github.com/PoisonAlien/TCGAmutations): R data package for pre-compiled somatic mutations from TCGA cohorts (from Broad Firehose and TCGA MC3 Project)
+* [TCGAplot](https://github.com/tjhwangxiong/TCGAplot): A number of functions were generated to perform pan-cancer DEG analysis, correlation analysis between gene expression and TMB, MSI, TIME, and promoter methylation. Methods for visualization were provided in order to easily perform integrative pan-cancer multi-omics analysis.
 * [TCGAutils](https://bioconductor.org/packages/release/bioc/html/TCGAutils.html): A suite of helper functions for checking and manipulating TCGA data including data obtained from the curatedTCGAData experiment package. These functions aim to simplify and make working with TCGA data more manageable.
 * [TCseq](https://bioconductor.org/packages/release/bioc/html/TCseq.html): Time course sequencing data analysis
 * [tensorflow](https://cran.r-project.org/web/packages/tensorflow/index.html): R Interface to 'TensorFlow'
