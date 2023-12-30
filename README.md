@@ -111,6 +111,7 @@
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
 * [chromoMap](https://cran.r-project.org/web/packages/chromoMap/index.html): Interactive Visualization and Mapping of Chromosomes
 * [circlize](https://github.com/jokergoo/circlize): circular visualization in R
+* [cisDynet](https://github.com/tzhu-bio/cisDynet): An integrated platform for modeling gene-regulatory dynamics and networks
 * [cli](https://cran.r-project.org/web/packages/cli/index.html): Helpers for Developing Command Line Interfaces
 * [clipr](https://cran.r-project.org/web/packages/clipr/index.html): Read and Write from the System Clipboard
 * [clock](https://cran.r-project.org/web/packages/clock/index.html): Date-Time Types and Tools
@@ -332,6 +333,7 @@
 * [ggimage](https://cran.r-project.org/web/packages/ggimage/index.html): Use Image in 'ggplot2'
 * [ggimg](https://cran.r-project.org/web/packages/ggimg/index.html): Graphics Layers for Plotting Image Data with 'ggplot2'
 * [gglmannotate](https://github.com/wilkox/gglmannotate): 📈Annotate a ggplot with a description of a linear model
+* [ggmagnify](https://github.com/hughjonesd/ggmagnify): Create a magnified inset of part of a ggplot object
 * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html): Spatial Visualization with ggplot2
 * [ggmcmc](https://cran.r-project.org/web/packages/ggmcmc/index.html): Tools for Analyzing MCMC Simulations from Bayesian Inference
 * [ggmosaic](https://cran.r-project.org/web/packages/ggmosaic/index.html): Mosaic Plots in the 'ggplot2' Framework
