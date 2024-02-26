@@ -1110,6 +1110,7 @@
 * [CellKb Immune - Immune cell type markers](https://www.cellkb.com/immune): Database of mouse hematopoietic cell types
 * [sc-type](https://sctype.app/): **ScType** is a computational platform, which enables data-driven, fully-automated and ultra-fast cell-type identification based solely on given scRNA-seq data, combined with our comprehensive cell marker database as background information.
 * [ACT](http://xteam.xbio.top/ACT/)： Annotation of Cell Types，[ACT](http://biocc.hrbmu.edu.cn/ACT/)
+* [Azimuth](https://azimuth.hubmapconsortium.org/): a web application that uses an annotated reference dataset to **automate the processing, analysis, and interpretation of a new single-cell RNA-seq or ATAC-seq experiment**.
 
 ### 细胞通讯
 
