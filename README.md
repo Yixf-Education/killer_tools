@@ -1126,6 +1126,10 @@
 * [netbiolab/scHumanNet](https://github.com/netbiolab/scHumanNet): Analysis cell-type-specific functional gene network, with SCINET and HumanNetv3
 * [dpeerlab/SEACells](https://github.com/dpeerlab/SEACells): SEACells algorithm for Inference of transcriptional and epigenomic cellular states from single-cell genomics data
 
+### GPT
+
+* [GitHub - bowang-lab/scGPT](https://github.com/bowang-lab/scGPT?tab=readme-ov-file): Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI
+
 ## [Cancer/Survival-related, 生存分析在线工具 2020 年 4 月吐血整理！](https://mp.weixin.qq.com/s?__biz=Mzg4NjA5Mzg2Mw==&mid=2247488689&idx=2&sn=92818d38ffba4f97fd295dcf51f05857&chksm=cf9fb5f9f8e83cefc35b6a980c125fe8be1b5860f66211594cb27d7419be02f5adcb95588c56&mpshare=1&scene=1&srcid=&sharer_sharetime=1587258755943&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=7024fc3958d21a49f38d5962a504384cb7aa02cfec7d99b587fbbaad39d6f014de6891e0d0d0a1c51311259cc5116c5fda4311d0c4a8bf171a88b52cae8649f6495594a0becdfce753717e6f209ed145&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=Af7QoGlOZcxdXwTntJ6mQfA%3D&pass_ticket=egSQZf3ZmjmNSBYxFfxeMhxks6Fcdfesee2EK45qb6wqbW1FRDSL1ND6vhbrpF2H)
 
 * [Kaplan Meier-plotter](http://kmplot.com/analysis/index.php)
