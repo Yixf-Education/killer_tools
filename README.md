@@ -1291,6 +1291,14 @@
 | CZ CELLxGENE                       | https://cellxgene.cziscience.com/              |
 | DISCO                              | https://www.immunesinglecell.org/              |
 
+# ST databases
+
+* [Spatial Transcript Omics DataBase - STOMICS DataBase - 空间转录组学数据库](https://db.cngb.org/stomics/)
+* [SpatialDB](http://spatialomics.org/SpatialDB/index.php)
+* [Home|SPASCER: spatial transcriptomics annotation at single cell resolution](https://ccsm.uth.edu/SPASCER/)
+* [SpatialOmics](https://gene.ai.tencent.com/SpatialOmics/)
+* [pysodb — pysodb 1.0 documentation](https://pysodb.readthedocs.io/en/latest/)
+
 # Pipeline
 
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html): The Snakemake workflow management system is a tool to create **reproducible and scalable** data analyses.
