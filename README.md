@@ -138,6 +138,7 @@
 * [concaveman](https://cran.r-project.org/web/packages/concaveman/index.html): A Very Fast 2D Concave Hull Algorithm
 * [conflicted](https://cran.r-project.org/web/packages/conflicted/index.html): An Alternative Conflict Resolution Strategy
 * [ConsensusClusterPlus](https://bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html): algorithm for determining cluster count and membership by stability evidence in unsupervised analysis
+* [contsurvplot](https://cran.r-project.org/web/packages/contsurvplot/index.html): Visualize the Effect of a Continuous Variable on a Time-to-Event Outcome
 * [correlation](https://cran.r-project.org/web/packages/correlation/index.html): Methods for Correlation Analysis
 * [corrgram](https://cran.r-project.org/web/packages/corrgram/index.html): Plot a Correlogram
 * [corrmorant](https://github.com/r-link/corrmorant): R package for flexible correlation matrices based on ggplot2
@@ -295,6 +296,7 @@
 * [ggblur](https://github.com/coolbutuseless/ggblur): Blurry Point Geom for ggplot2
 * [ggborderline](https://cran.r-project.org/web/packages/ggborderline/index.html): Line Plots that Pop
 * [ggbreak](https://cran.r-project.org/web/packages/ggbreak/index.html): Set Axis Break for 'ggplot2'
+* [ggbrick](https://github.com/doehm/ggbrick): A brick like geom for ggplot2
 * [ggBubbles](https://cran.r-project.org/web/packages/ggBubbles/index.html): Mini Bubble Plots for Comparison of Discrete Data with 'ggplot2'
 * [ggbump](https://cran.r-project.org/web/packages/ggbump/index.html): Bump Chart and Sigmoid Curves
 * [ggchicklet](https://github.com/hrbrmstr/ggchicklet): Create Chicklet (Rounded Segmented Column) Charts
@@ -691,7 +693,6 @@
 * [rhub](https://github.com/r-hub/rhub): a multi-platform build and check service for R packages
 * [RImagePalette](https://cran.r-project.org/web/packages/RImagePalette/index.html): Extract the Colors from Images
 * [rio](https://cran.r-project.org/web/packages/rio/index.html): A Swiss-Army Knife for Data I/O
-* [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
 * [RIdeogram](https://cran.r-project.org/web/packages/RIdeogram/index.html): Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
 * [RImagePalette](https://github.com/joelcarlson/RImagePalette): Create a representative palette from an image.
 * [riskRegression](https://cran.r-project.org/web/packages/riskRegression/index.html): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
