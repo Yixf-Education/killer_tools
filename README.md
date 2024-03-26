@@ -420,6 +420,7 @@
 * [GOSemSim](https://bioconductor.org/packages/release/bioc/html/GOSemSim.html): GO-terms Semantic Similarity Measures
 * [gplots](https://cran.r-project.org/web/packages/gplots/index.html): Various R Programming Tools for Plotting Data
 * [gprofiler2](https://cran.r-project.org/web/packages/gprofiler2/index.html): Interface to the 'g:Profiler' Toolset
+* [GPTCelltype](https://github.com/Winnie09/GPTCelltype?tab=readme-ov-file): Automatic cell type annotation with GPT-4
 * [gptchatteR](https://github.com/isinaltinkaya/gptchatteR): An experimental and unofficial wrapper for interacting with ChatGPT in R.
 * [grafify](https://github.com/ashenoy-cmbi/grafify): Easy grafs, ANOVAs and posthoc comparisons.
 * [graphlayouts](https://cran.r-project.org/web/packages/graphlayouts/index.html): Additional Layout Algorithms for Network Visualizations
@@ -581,6 +582,7 @@
 * [officer](https://cran.r-project.org/web/packages/officer/index.html): Manipulation of Microsoft Word and PowerPoint Documents
 * [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html): High-quality circular visualization of omics data
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
+* [openai](https://cran.r-project.org/web/packages/openai/index.html): R Wrapper for OpenAI API
 * [openair](https://cran.r-project.org/web/packages/openair/index.html): Tools for the Analysis of Air Pollution Data
 * [openxlsx](https://cran.r-project.org/web/packages/openxlsx/index.html): Read, Write and Edit xlsx Files
 * [options](https://cran.r-project.org/web/packages/options/): Simple, Consistent Package Options
@@ -1114,6 +1116,7 @@
 * [sc-type](https://sctype.app/): **ScType** is a computational platform, which enables data-driven, fully-automated and ultra-fast cell-type identification based solely on given scRNA-seq data, combined with our comprehensive cell marker database as background information.
 * [ACT](http://xteam.xbio.top/ACT/)： Annotation of Cell Types，[ACT](http://biocc.hrbmu.edu.cn/ACT/)
 * [Azimuth](https://azimuth.hubmapconsortium.org/): a web application that uses an annotated reference dataset to **automate the processing, analysis, and interpretation of a new single-cell RNA-seq or ATAC-seq experiment**.
+* [GPTCelltype](https://github.com/Winnie09/GPTCelltype?tab=readme-ov-file): Automatic cell type annotation with GPT-4
 
 ### 细胞通讯
 
