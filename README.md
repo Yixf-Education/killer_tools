@@ -1348,6 +1348,7 @@
 * [Scalable Brain Atlas - NeuroMaps Atlas](https://scalablebrainatlas.incf.org/macaque/DB09)
 * [HCL - Human Cell Landscape](https://db.cngb.org/HCL/index.html)
 * [NCI Human Tumor Atlas Network](https://data.humantumoratlas.org/)
+* [24 年做生信，这十个数据库一定要知道](https://mp.weixin.qq.com/s/bGBEEo_bifzm20We01LUWQ)
 
 # Algorithm
 
