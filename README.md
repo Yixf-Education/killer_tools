@@ -1019,6 +1019,7 @@
 * [circMine](http://www.biomedical-web.com/circmine/home)
 * [JinmiaoChenLab/DISCOtoolkit](https://github.com/JinmiaoChenLab/DISCOtoolkit): DISCOtoolkit is an R package that allows users to access data and use the tools provided by the [DISCO database](https://www.immunesinglecell.org/).
 * [多组学整合分析的一些 R 包](https://mp.weixin.qq.com/s/RQwUJavkUlfQFiTwpvzd0g)
+* [scDVA](https://github.com/liziyie/scDVA?tab=readme-ov-file): An R shiny based tool used for single cell RNA-seq data visualization and analysis.
 
 ## scRNA
 * [**awesome-single-cell**](https://github.com/seandavi/awesome-single-cell)**: Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.**
