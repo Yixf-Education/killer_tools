@@ -842,6 +842,7 @@
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
 * [timeROC](https://cran.r-project.org/web/packages/timeROC/index.html): Time-Dependent ROC Curve and AUC for Censored Survival Data
 * [timetk](https://cran.r-project.org/web/packages/timetk/index.html): A Tool Kit for Working with Time Series in R
+* [tinyarray](https://cran.r-project.org/web/packages/tinyarray/index.html): Expression Data Analysis and Visualization
 * [tip](https://cran.r-project.org/web/packages/tip/index.html): ayesian Clustering Using the Table Invitation Prior (TIP)
 * [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
