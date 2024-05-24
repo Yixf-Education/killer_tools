@@ -1236,6 +1236,7 @@
 * [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k): A Zsh theme
 * [Zsh](https://www.zsh.org/)
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [theryangeary/choose](https://github.com/theryangeary/choose): A human-friendly and fast alternative to cut and (sometimes) awk
 
 
 
