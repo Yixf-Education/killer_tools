@@ -77,6 +77,7 @@
 * [boot](https://cran.r-project.org/web/packages/boot/index.html): Bootstrap Functions (Originally by Angelo Canty for S)
 * [Boov](https://cran.r-project.org/web/packages/Boov/index.html): Boolean Operations on Volumes
 * [Boruta](https://cran.r-project.org/web/packages/Boruta/index.html): Wrapper Algorithm for All Relevant Feature Selection
+* [BoutrosLab.plotting.general](https://cran.r-project.org/web/packages/BoutrosLab.plotting.general/index.html): Functions to Create Publication-Quality Plots
 * [brickr](https://cran.r-project.org/web/packages/brickr/index.html): Emulate LEGO Bricks in 2D and 3D
 * [broom](https://cran.r-project.org/web/packages/broom/index.html): Convert Statistical Objects into Tidy Tibbles
 * [broom.mixed](https://cran.r-project.org/web/packages/broom.mixed/index.html): Tidying Methods for Mixed Models
