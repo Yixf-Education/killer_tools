@@ -1302,6 +1302,7 @@
 | Human Cell Atlas                   | https://www.humancellatlas.org/                |
 | CZ CELLxGENE                       | https://cellxgene.cziscience.com/              |
 | DISCO                              | https://www.immunesinglecell.org/              |
+| Cell X Gene                        | https://cellxgene.cziscience.com/              |
 
 # ST databases
 
