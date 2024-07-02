@@ -537,6 +537,7 @@
 * [mi](https://cran.r-project.org/web/packages/mi/index.html): Missing Data Imputation and Model Checking
 * [mice](https://cran.r-project.org/web/packages/mice/index.html): Multivariate Imputation by Chained Equations
 * [microbenchmark](https://cran.r-project.org/web/packages/microbenchmark/index.html): Accurate Timing Functions
+* [Mime](https://github.com/l-magnificence/Mime): Machine learning-based integration model with elegant performance
 * [mindr](https://cran.r-project.org/web/packages/mindr/index.html): Convert Files Between Markdown or R Markdown Files and Mind Maps
 * [mixOmics](http://www.bioconductor.org/packages/release/bioc/html/mixOmics.html): Omics Data Integration Project
 * [MixSim](https://cran.r-project.org/web/packages/MixSim/index.html): Simulating Data to Study Performance of Clustering Algorithms
