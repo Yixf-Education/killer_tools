@@ -622,6 +622,7 @@
 * [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html): Make Static HTML Documentation for a Package
 * [pkgndep](https://cran.r-project.org/web/packages/pkgndep/index.html): Analyze Dependency Heaviness of R Packages
 * [pkgverse](https://cran.r-project.org/web/packages/pkgverse/index.html): Build a Meta-Package Universe
+* [plot1cell](https://github.com/TheHumphreysLab/plot1cell): a package for advanced single cell data visualization
 * [plot2](https://github.com/grantmcdermott/plot2): Lightweight extension of base R's plot system
 * [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
 * [plotrix](https://cran.r-project.org/web/packages/plotrix/index.html): Various Plotting Functions
