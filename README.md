@@ -229,6 +229,8 @@
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/index.html): Tools for using fonts
 * [ExPosition](https://cran.r-project.org/web/packages/ExPosition/index.html): Exploratory Analysis with the Singular Value Decomposition
 * [ezcox](https://cran.r-project.org/web/packages/ezcox/index.html): Easily Process a Batch of Cox Models
+* [ezSingleCell2](https://github.com/JinmiaoChenLab/ezSingleCell2)
+* [ezsc/](https://immunesinglecell.org/ezsc/)
 
 ### F
 
