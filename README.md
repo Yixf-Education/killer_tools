@@ -765,6 +765,7 @@
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
 * [seriation](https://cran.r-project.org/web/packages/seriation/index.html): Infrastructure for Ordering Objects Using Seriation
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
+* [SGS](https://sgs.bioinfotoolkits.net/home)：Single-Cell and Spatial Genomics System
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
 * [shiny.fluent](https://cran.r-project.org/web/packages/shiny.fluent/index.html): Microsoft Fluent UI for Shiny Apps
