@@ -224,6 +224,7 @@
 * [exomePeak2](https://bioconductor.org/packages/release/bioc/html/exomePeak2.html): Bias-aware Peak Calling and Quantification for MeRIP-Seq
 * [explore](https://cran.r-project.org/web/packages/explore/index.html): Simplifies Exploratory Data Analysis
 * [exploreR](https://cran.r-project.org/web/packages/exploreR/index.html): Tools for Quickly Exploring Data
+* [ExpOmics](http://www.biomedical-web.com/expomics/home)
 * [export](https://github.com/tomwenseleers/export): easily export active R graphs and statistical output in publication quality to Microsoft Office (Word, PowerPoint and Excel), HTML and Latex
 * [expss](https://cran.r-project.org/web/packages/expss/index.html): Tables, Labels and Some Useful Functions from Spreadsheets and 'SPSS' Statistics
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/index.html): Tools for using fonts
@@ -435,6 +436,7 @@
 * [gson](https://cran.r-project.org/web/packages/gson/index.html): Base Class and Methods for 'gson' Format
 * [GSVA](https://www.bioconductor.org/packages/release/bioc/html/GSVA.html): Gene Set Variation Analysis for microarray and RNA-seq data
 * [gt](https://cran.r-project.org/web/packages/gt/index.html): Easily Create Presentation-Ready Display Tables
+* [gtguides](https://github.com/teunbrand/gtguides): provide additional guides for the ‘ggplot2’ package representing tables constructed with the ‘gt’ package
 * [gtreg](https://cran.r-project.org/web/packages/gtreg/index.html): Regulatory Tables for Clinical Research
 * [gtsummary](https://cran.r-project.org/web/packages/gtsummary/index.html): Presentation-Ready Data Summary and Analytic Result Tables
 * [gtools](https://cran.r-project.org/web/packages/gtools/index.html): Various R Programming Tools
