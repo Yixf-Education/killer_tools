@@ -75,6 +75,7 @@
 * [bookdown](https://cran.rstudio.com/web/packages/bookdown/index.html): Authoring Books and Technical Documents with R Markdown
 * [bookdownplus](https://github.com/pzhaonet/bookdownplus): The easiest way to use R package bookdown for writing varied types of books and documents
 * [boot](https://cran.r-project.org/web/packages/boot/index.html): Bootstrap Functions (Originally by Angelo Canty for S)
+* [bootnet](https://cran.r-project.org/web/packages/bootnet/index.html): Bootstrap Methods for Various Network Estimation Routines
 * [Boov](https://cran.r-project.org/web/packages/Boov/index.html): Boolean Operations on Volumes
 * [Boruta](https://cran.r-project.org/web/packages/Boruta/index.html): Wrapper Algorithm for All Relevant Feature Selection
 * [BoutrosLab.plotting.general](https://cran.r-project.org/web/packages/BoutrosLab.plotting.general/index.html): Functions to Create Publication-Quality Plots
@@ -211,6 +212,7 @@
 * [embed](https://cran.r-project.org/web/packages/embed/index.html): Extra Recipes for Encoding Categorical Predictors
 * [emmeans](https://cran.r-project.org/web/packages/emmeans/index.html): Estimated Marginal Means, aka Least-Squares Means
 * [emojifont](https://cran.r-project.org/web/packages/emojifont/index.html): Emoji and Font Awesome in Graphics
+* [emphatic](https://cran.r-project.org/web/packages/emphatic/index.html): Exploratory Analysis of Tabular Data using Colour Highlighting
 * [englishfootball](https://github.com/jfjelstul/englishfootball): A Comprehensive Database on the Premier League and the English Football League (1888-2022)
 * [enrichplot](https://bioconductor.org/packages/release/bioc/html/enrichplot.html): Visualization of Functional Enrichment Result
 * [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html): Publication-ready volcano plots with enhanced colouring and labeling
