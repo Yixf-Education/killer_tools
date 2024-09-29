@@ -289,6 +289,7 @@
 * [geoviz](https://cran.r-project.org/web/packages/geoviz/index.html): Elevation and GPS Data Visualisation
 * [GetoptLong](https://cran.r-project.org/web/packages/GetoptLong/index.html): Parsing Command-Line Arguments and Variable Interpolation
 * [gg.gap](https://cran.r-project.org/web/packages/gg.gap/index.html): Define Segments in y-Axis for 'ggplot2'
+* [ggalign](https://cran.r-project.org/web/packages/ggalign/index.html): Align Multiple 'ggplot' Objects
 * [ggalluvial](https://cran.r-project.org/web/packages/ggalluvial/index.html): Alluvial Plots in 'ggplot2'
 * [GGally](https://cran.r-project.org/web/packages/GGally/index.html): Extension to 'ggplot2'
 * [ggalt](https://cran.r-project.org/web/packages/ggalt/index.html): Extra Coordinate Systems, 'Geoms', Statistical Transformations, Scales and Fonts for 'ggplot2'
