@@ -812,6 +812,7 @@
 * [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Drawing Survival Curves using 'ggplot2'
 * [survout](https://cran.r-project.org/web/packages/survout/index.html): Excel Conversion of R Surival Analysis Output
 * [survRM2](https://cran.r-project.org/web/packages/survRM2/index.html): Comparing Restricted Mean Survival Time
+* [survSAKK](https://cran.r-project.org/web/packages/survSAKK/index.html): Create Publication Ready Kaplan-Meier Plots
 * [Sushi](https://bioconductor.org/packages/release/bioc/html/Sushi.html): Tools for visualizing genomics data
 * [susieR](https://cran.r-project.org/web/packages/susieR/index.html): Sum of Single Effects Linear Regression
 * [sva](https://bioconductor.org/packages/release/bioc/html/sva.html): Surrogate Variable Analysis
