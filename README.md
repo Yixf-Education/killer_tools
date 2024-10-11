@@ -443,6 +443,7 @@
 * [gtreg](https://cran.r-project.org/web/packages/gtreg/index.html): Regulatory Tables for Clinical Research
 * [gtsummary](https://cran.r-project.org/web/packages/gtsummary/index.html): Presentation-Ready Data Summary and Analytic Result Tables
 * [gtools](https://cran.r-project.org/web/packages/gtools/index.html): Various R Programming Tools
+* [gtUtils](https://gtutils.aweatherman.com/): a collection of themes, coloring functions, and other utilities to enhance and extend the functionality of the [gt](https://gt.rstudio.com/) package for creating beautiful tables in R
 * [Guitar](https://www.bioconductor.org/packages/release/bioc/html/Guitar.html): The package is designed for visualization of RNA-related genomic features with respect to the landmarks of RNA transcripts, i.e., transcription starting site, start codon, stop codon and transcription ending site.
 * [Gviz](https://bioconductor.org/packages/release/bioc/html/Gviz.html): Plotting data and annotation information along genomic coordinates
 
