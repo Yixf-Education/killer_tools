@@ -635,6 +635,7 @@
 * [plot2](https://github.com/grantmcdermott/plot2): Lightweight extension of base R's plot system
 * [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
 * [plotrix](https://cran.r-project.org/web/packages/plotrix/index.html): Various Plotting Functions
+* [plotthis](https://github.com/pwwang/plotthis): plotthis is an R package that is built upon ggplot2 and other plotting packages.
 * [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
 * [png](https://cran.r-project.org/web/packages/png/index.html): Read and write PNG images
 * [PNWColors](https://cran.r-project.org/web/packages/PNWColors/index.html): Color Palettes Inspired by Nature in the US Pacific Northwest
@@ -763,6 +764,7 @@
 * [scistreer](https://cran.r-project.org/web/packages/scistreer/index.html): Maximum-Likelihood Perfect Phylogeny Inference at Scale
 * [scitb](https://cran.r-project.org/web/packages/scitb/index.html): Provides Some Useful Functions for Making Statistical Tables
 * [SCORPIUS](https://cran.rstudio.com/web/packages/SCORPIUS/index.html): Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
+* [scplotter](https://github.com/pwwang/scplotter): scplotter is an R package that is built upon plotthis. It provides a set of functions to visualize single-cell sequencing data in an easy and efficient way.
 * [scPrognosis](https://github.com/XiaomeiLi1/scPrognosis): Single cell transcriptomes improve cancer prognosis
 * [SCpubr](https://cran.r-project.org/web/packages/SCpubr/index.html): Generate Publication Ready Visualizations of Single Cell Transcriptomics Data
 * [scRNAstat](https://cran.r-project.org/web/packages/scRNAstat/index.html): A Pipeline to Process Single Cell RNAseq Data
@@ -1130,6 +1132,7 @@
 ### 注释细胞类型
 
 * [SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html): Reference-Based Single-Cell RNA-Seq Annotation
+* [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type classification
 * [scAnnotate](https://cran.r-project.org/web/packages/scAnnotate/index.html): An Automated Cell Type Annotation Tool for Single-Cell RNA-Sequencing Data
 * [ToppCell](https://toppcell.cchmc.org/biosystems/go/index3/): A Hierarchical Modular Single Cell Gene Expression Analysis System
 * [CellKb Immune - Immune cell type markers](https://www.cellkb.com/immune): Database of mouse hematopoietic cell types
