@@ -614,6 +614,7 @@
 * [parttime](https://cran.r-project.org/web/packages/parttime/index.html): Partial Datetime Handling
 * [parttree](https://github.com/grantmcdermott/parttree): Simple package for plotting decision tree partitions in R
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
+* [pathlinkR](https://www.bioconductor.org/packages/release/bioc/html/pathlinkR.html): Analyze and interpret RNA-Seq results
 * [pathview](https://www.bioconductor.org/packages/release/bioc/html/pathview.html): a tool set for pathway based data integration and visualization
 * [patternplot](https://cran.r-project.org/web/packages/patternplot/index.html): Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * [pbapply](https://cran.rstudio.com/web/packages/pbapply/index.html): Adding Progress Bar to '*apply' Functions
