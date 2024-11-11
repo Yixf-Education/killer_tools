@@ -347,6 +347,7 @@
 * [gglmannotate](https://github.com/wilkox/gglmannotate): 📈Annotate a ggplot with a description of a linear model
 * [ggmagnify](https://github.com/hughjonesd/ggmagnify): Create a magnified inset of part of a ggplot object
 * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html): Spatial Visualization with ggplot2
+* [ggmapcn](https://github.com/Rimagination/ggmapcn): a `ggplot2` extension package for visualizing China’s map with customizable projections and styling
 * [ggmcmc](https://cran.r-project.org/web/packages/ggmcmc/index.html): Tools for Analyzing MCMC Simulations from Bayesian Inference
 * [ggmosaic](https://cran.r-project.org/web/packages/ggmosaic/index.html): Mosaic Plots in the 'ggplot2' Framework
 * [ggmsa](https://cran.r-project.org/web/packages/ggmsa/index.html): Plot Multiple Sequence Alignment using 'ggplot2'
