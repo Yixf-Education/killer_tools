@@ -4,6 +4,7 @@
 
 * [**R Color Palettes** [497 continuous and discrete palettes] | R CHARTS](https://r-charts.com/color-palettes/)
 * [**R 语言 ggplot2 作图好看的配色备选**](https://mp.weixin.qq.com/s/vVRFxvjJZubO5VykxYSxPA)
+* [AI Color is a Palette Generator - Browse, Edit, Visualize and Generate Unique Color Palettes](https://aicolors.co/)
 * [cartography](https://cran.r-project.org/web/packages/cartography/index.html): Thematic Cartography
 * [colorBlindness](https://cran.r-project.org/web/packages/colorBlindness/index.html): Safe Color Set for Color Blindness
 * [dichromat](https://cran.r-project.org/web/packages/dichromat/index.html): Color Schemes for Dichromats
