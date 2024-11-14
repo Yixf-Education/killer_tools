@@ -733,6 +733,7 @@
 * [RobustRankAggreg](https://cran.r-project.org/web/packages/RobustRankAggreg/index.html): Methods for robust rank aggregation
 * [roughsf](https://cran.r-project.org/web/packages/roughsf/index.html): Visualize Spatial Data using 'roughjs'
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): Recursive Partitioning and Regression Trees
+* [rphylopic](https://cran.r-project.org/web/packages/rphylopic/index.html): Get Silhouettes of Organisms from PhyloPic
 * [rpivotTable](https://cran.r-project.org/web/packages/rpivotTable/index.html): Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
 * [Rsamtools](https://bioconductor.org/packages/release/bioc/html/Rsamtools.html): Binary alignment (BAM), FASTA, variant call (BCF), and tabix file import
 * [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html): R Bindings for 'Selenium WebDriver'
