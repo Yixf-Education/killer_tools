@@ -720,6 +720,7 @@
 * [riverplot](https://cran.r-project.org/web/packages/riverplot/index.html): Sankey or Ribbon Plots
 * [rjtools](https://cran.r-project.org/web/packages/rjtools/index.html): Preparing, Checking, and Submitting Articles to the 'R Journal'
 * [rlist](https://cran.r-project.org/web/packages/rlist/index.html): A Toolbox for Non-Tabular Data Manipulation
+* [rmats2sashimiplot](https://github.com/Xinglab/rmats2sashimiplot?tab=readme-ov-file#sam-files-with-rmats-event): produces a sashimiplot visualization of [rMATS](https://github.com/Xinglab/rmats-turbo) output
 * [rmdformats](https://cran.r-project.org/web/packages/rmdformats/index.html): HTML Output Formats and Templates for 'rmarkdown' Documents
 * [rms](https://cran.r-project.org/web/packages/rms/index.html): Regression Modeling Strategies
 * [RNASeqR](https://bioconductor.org/packages/release/bioc/html/RNASeqR.html): an R package for automated two-group RNA-Seq analysis workflow
