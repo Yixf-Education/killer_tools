@@ -762,6 +762,7 @@
 * [scatterPlotMatrix](https://cran.r-project.org/web/packages/scatterPlotMatrix/index.html): 'Htmlwidget' for a Scatter Plot Matrix & Multiple Scatter Plot
 * [scCancer](https://github.com/wguo-research/scCancer): A package for automated processing of single cell RNA-seq data in cancer
 * [scCustomize](https://cran.r-project.org/web/packages/scCustomize/index.html): Custom Visualizations & Functions for Streamlined Analyses of Single Cell Sequencing
+* [scDiffCom](https://cran.rstudio.com/web/packages/scDiffCom/index.html): Differential Analysis of Intercellular Communication from scRNA-Seq Data
 * [scDotPlot](https://www.bioconductor.org/packages/release/bioc/html/scDotPlot.html): Cluster a Single-cell RNA-seq Dot Plot
 * [scGSVA](https://github.com/guokai8/scGSVA): scGSVA: Perform GSVA for single cell RNA seq
 * [schex](https://www.bioconductor.org/packages/release/bioc/html/schex.html): Hexbin plots for single cell omics data
