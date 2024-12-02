@@ -341,6 +341,7 @@
 * [ggheatmap](https://github.com/XiaoLuo-boy/ggheatmap): ggplot2 version of heatmap
 * [gghighlight](https://cran.r-project.org/web/packages/gghighlight/index.html): Highlight Lines and Points in 'ggplot2'
 * [ggHoriPlot](https://cran.r-project.org/web/packages/ggHoriPlot/index.html): Horizon Plots for 'ggplot2'
+* [ggideogram: ggideogram is a ggplot2 extension package for drawing chromosome diagrams](https://github.com/dxsbiocc/ggideogram)
 * [ggiraph](https://cran.r-project.org/web/packages/ggiraph/index.html): Make 'ggplot2' Graphics Interactive
 * [ggimage](https://cran.r-project.org/web/packages/ggimage/index.html): Use Image in 'ggplot2'
 * [ggimg](https://cran.r-project.org/web/packages/ggimg/index.html): Graphics Layers for Plotting Image Data with 'ggplot2'
