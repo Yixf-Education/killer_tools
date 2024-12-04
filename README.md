@@ -905,6 +905,7 @@
 * [vidger](https://www.bioconductor.org/packages/release/bioc/html/vidger.html): Create rapid visualizations of RNAseq data in R
 * [VIM](https://cran.r-project.org/web/packages/VIM/index.html): Visualization and Imputation of Missing Values
 * [vioplot](https://cran.r-project.org/web/packages/vioplot/index.html): Violin Plot
+* [vip](https://cran.r-project.org/web/packages/vip/index.html): Variable Importance Plots
 * [viper](https://bioconductor.org/packages/release/bioc/html/viper.html): Virtual Inference of Protein-activity by Enriched Regulon analysis
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
 * [viscomp](https://cran.r-project.org/web/packages/viscomp/index.html): Visualize Multi-Component Interventions in Network Meta-Analysis
