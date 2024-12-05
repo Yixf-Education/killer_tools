@@ -171,6 +171,7 @@
 * [datasauRus](https://cran.r-project.org/web/packages/datasauRus/index.html): Datasets from the Datasaurus Dozen
 * [ddqc_R](https://github.com/ayshwaryas/ddqc_R): Biology-centered data-driven quality control for single cell/nucleus RNA sequencing
 * [deconstructSigs](https://cran.r-project.org/web/packages/deconstructSigs/index.html): Identifies Signatures Present in a Tumor Sample
+* [decoupleR](https://www.bioconductor.org/packages/release/bioc/html/decoupleR.html): Ensemble of computational methods to infer biological activities from omics data
 * [DEGAS](https://github.com/tsteelejohnson91/DEGAS): DEGAS is an R package that can be used to prioritize cells in relation to disease.
 * [DemographicTable](https://cran.r-project.org/web/packages/DemographicTable/index.html): Creating Demographic Table
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
