@@ -1347,6 +1347,7 @@
 
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html): The Snakemake workflow management system is a tool to create **reproducible and scalable** data analyses.
 * [Galaxy | Europe](https://singlecell.usegalaxy.eu/): Single Cell Omics Galaxy Instance
+* [Glittr.org | Educational materials for the computational life sciences](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc)
 
 # Genome visualization
 
