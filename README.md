@@ -244,6 +244,7 @@
 * [FactoMineR](https://cran.r-project.org/web/packages/FactoMineR/index.html): Multivariate Exploratory Data Analysis and Data Mining
 * [familiar](https://cran.r-project.org/web/packages/familiar/index.html): End-to-End Automated Machine Learning and Model Evaluation
 * [fanyi](https://cran.r-project.org/web/packages/fanyi/index.html): Translate Words or Sentences via Online Translators
+* [fastml](https://cran.r-project.org/web/packages/fastml/index.html): Fast Machine Learning Model Training and Evaluation
 * [fbroc](https://cran.r-project.org/web/packages/fbroc/index.html): Fast Algorithms to Bootstrap Receiver Operating Characteristics Curves
 * [fgsea](https://bioconductor.org/packages/release/bioc/html/fgsea.html): Fast Gene Set Enrichment Analysis
 * [fields](https://mran.microsoft.com/snapshot/2017-02-04/web/packages/fields/index.html): Tools for Spatial Data
