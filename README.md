@@ -820,6 +820,7 @@
 * [stringr.plus](https://github.com/johncassil/stringr.plus): provides some additional functions not found in stringr for working with strings
 * [styler](https://styler.r-lib.org/): Non-Invasive Pretty Printing of R Code
 * [summarytools](https://cran.r-project.org/web/packages/summarytools/index.html): Tools to Quickly and Neatly Summarize Data
+* [sunburstR](https://cran.r-project.org/web/packages/sunburstR/index.html): Sunburst 'Htmlwidget'
 * [superb](https://cran.r-project.org/web/packages/superb/index.html): Summary Plots with Adjusted Error Bars
 * [Surrogate](https://cran.r-project.org/web/packages/Surrogate/index.html): Evaluation of Surrogate Endpoints in Clinical Trials
 * [survival](https://cran.r-project.org/web/packages/survival/index.html): Survival Analysis
@@ -928,6 +929,7 @@
 
 * [waldo](https://cran.r-project.org/web/packages/waldo/index.html): Find Differences Between R Objects
 * [webpea](https://github.com/nucleic-acid/webpea): Tool to save R plots in WebP format
+* [webr](https://cran.r-project.org/web/packages/webr/index.html): Data and Functions for Web-Based Analysis
 * [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html): A Wes Anderson Palette Generator
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
 * [wiggleplotr](https://bioconductor.org/packages/release/bioc/html/wiggleplotr.html): Make read coverage plots from BigWig files
