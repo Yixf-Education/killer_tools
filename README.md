@@ -276,6 +276,7 @@
 
 ### G
 
+* [gameR](https://cran.r-project.org/web/packages/gameR/index.html): Color Palettes Inspired by Video Games
 * [ganttrify](https://github.com/giocomai/ganttrify): Create beautiful Gantt charts with ggplot2
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
 * [gdata](https://cran.r-project.org/web/packages/gdata/index.html): Various R Programming Tools for Data Manipulation
