@@ -481,6 +481,7 @@
 * [intansv](https://bioconductor.org/packages/release/bioc/html/intansv.html): Integrative analysis of structural variations
 * [interactions](https://cran.r-project.org/web/packages/interactions/index.html): Comprehensive, User-Friendly Toolkit for Probing Interactions
 * [introdataviz](https://github.com/PsyTeachR/introdataviz):  two functions (`geom_split_violin()` and `geom_flat_violin()`) used to make split-violin and raincloud plots
+* [IOBR](https://github.com/IOBR/IOBR): IOBR is an R package to perform comprehensive analysis of tumor microenvironment and signatures for immuno-oncology.
 * [IPEDS](https://cran.r-project.org/web/packages/IPEDS/index.html): Data from the Integrated Post-Secondary Education Data System
 * [ipred](https://cran.r-project.org/web/packages/ipred/index.html): Improved Predictors
 * [iterators](https://cran.r-project.org/web/packages/iterators/index.html): Provides Iterator Construct
