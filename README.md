@@ -36,6 +36,7 @@
 * [ActivePathways](https://cran.r-project.org/web/packages/ActivePathways/index.html): Integrative Pathway Enrichment Analysis of Multivariate Omics Data
 * [adegenet](https://cran.r-project.org/web/packages/adegenet/index.html): Exploratory Analysis of Genetic and Genomic Data
 * [adjustedCurves](https://cran.r-project.org/web/packages/adjustedCurves/index.html): Confounder-Adjusted Survival Curves and Cumulative Incidence Functions
+* [AGAT](https://github.com/NBISweden/AGAT): Another Gtf/Gff Analysis Toolkit https://nbisweden.github.io/AGAT/
 * [animate](https://cran.rstudio.com/web/packages/animate/index.html): A Web-Based Graphics Device for Animated Visualisations
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
