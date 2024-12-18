@@ -389,7 +389,8 @@
 * [ggrisk](https://cran.r-project.org/web/packages/ggrisk/index.html): Risk Score Plot for Cox Regression
 * [gground](https://github.com/dxsbiocc/gground): an extension package for `ggplot2` that is used to generate rounded-shaped graphics, such as rounded bar charts and box plots, to help users create more aesthetically pleasing and unique data visualization effects
 * [ggsankey](https://github.com/davidsjoberg/ggsankey): The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
-* [ggsc](https://github.com/YuLab-SMU/ggsc): 
+* [ggsankeyfier](https://cran.r-project.org/web/packages/ggsankeyfier/index.html): Create Sankey and Alluvial Diagrams Using 'ggplot2'
+* [ggsc](https://github.com/YuLab-SMU/ggsc): Visualizing Single Cell and Spatial Transcriptomics
 * [ggsector](https://cran.r-project.org/web/packages/ggsector/index.html): Draw Sectors
 * [ggsci](https://cran.r-project.org/web/packages/ggsci/index.html): Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
 * [ggsector](https://cran.r-project.org/web/packages/ggsector/index.html): Draw Sectors
