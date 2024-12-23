@@ -886,6 +886,7 @@
 * [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
 * [toastui](https://cran.r-project.org/web/packages/toastui/index.html): Interactive Tables, Calendars and Charts for the Web
+* [TOmicsVis](https://github.com/cran/TOmicsVis): TranscriptOmics Visualization
 * [transPlotR](https://github.com/junjunlab/transPlotR): An elegant package to visualize gene structures
 * [TreeAndLeaf](https://bioconductor.org/packages/release/bioc/html/TreeAndLeaf.html): Displaying binary trees with focus on dendrogram leaves
 * [treemap](https://cran.r-project.org/web/packages/treemap/index.html): Treemap Visualization
