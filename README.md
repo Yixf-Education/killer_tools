@@ -876,6 +876,7 @@
 * [tidymodels](https://cran.r-project.org/web/packages/tidymodels/index.html): Easily Install and Load the 'Tidymodels' Packages
 * [tidyplots](https://cran.r-project.org/web/packages/tidyplots/index.html): Tidy Plots for Scientific Papers
 * [tidyquant](https://cran.r-project.org/web/packages/tidyquant/index.html): Tidy Quantitative Financial Analysis
+* [tidyterra](https://cran.r-project.org/web/packages/tidyterra/index.html): 'tidyverse' Methods and 'ggplot2' Helpers for 'terra' Objects
 * [tidytext](https://cran.r-project.org/web/packages/tidytext/index.html): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
 * [tidytidbits](https://cran.r-project.org/web/packages/tidytidbits/index.html): A Collection of Tools and Helpers Extending the Tidyverse
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
