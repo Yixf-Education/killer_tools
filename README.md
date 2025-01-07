@@ -89,6 +89,7 @@
 * [bslib](https://cran.r-project.org/web/packages/bslib/index.html): Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'
 * [bubbleHeatmap](https://cran.r-project.org/web/packages/bubbleHeatmap/index.html): Produces 'bubbleHeatmap' Plots for Visualising Metabolomics Data
 * [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr): This package builds bullet charts suitable for tracking KPIs, and used by ACDI/VOCA to track progress against indicators
+* [bullseye](https://cran.r-project.org/web/packages/bullseye/index.html): Visualising Multiple Pairwise Variable Correlations and Other Scores
 * [bundle](https://cran.r-project.org/web/packages/bundle/index.html): Serialize Model Objects with a Consistent Interface
 
 ### C
