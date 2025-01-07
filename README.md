@@ -630,6 +630,7 @@
 * [patternplot](https://cran.r-project.org/web/packages/patternplot/index.html): Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * [pbapply](https://cran.rstudio.com/web/packages/pbapply/index.html): Adding Progress Bar to '*apply' Functions
 * [PCAtools](https://bioconductor.org/packages/release/bioc/html/PCAtools.html): Everything Principal Components Analysis
+* [pcutils](https://cran.r-project.org/web/packages/pcutils/index.html): Some Useful Functions for Statistics and Visualization
 * [pdftables](https://cran.r-project.org/web/packages/pdftables/index.html): Programmatic Conversion of PDF Tables
 * [pdftools](https://cran.r-project.org/web/packages/pdftools/index.html): Text Extraction, Rendering and Converting of PDF Documents
 * [Peptides](https://cran.r-project.org/web/packages/Peptides/index.html): Calculate Indices and Theoretical Physicochemical Properties of Protein Sequences
@@ -715,6 +716,7 @@
 * [remotes](https://cran.r-project.org/web/packages/remotes/index.html): R Package Installation from Remote Repositories, Including 'GitHub'
 * [renderthis](https://cran.r-project.org/web/packages/renderthis/index.html): Render Slides to Different Formats
 * [report](https://cran.r-project.org/web/packages/report/index.html): Automated Reporting of Results and Statistical Models
+* [ReporterScore](https://cran.r-project.org/web/packages/ReporterScore/index.html): Generalized Reporter Score-Based Enrichment Analysis for Omics Data
 * [reportROC](https://cran.r-project.org/web/packages/reportROC/index.html): An Easy Way to Report ROC Analysis
 * [reprex](https://cran.r-project.org/web/packages/reprex/index.html): Prepare Reproducible Example Code via the Clipboard
 * [Rfast](https://cran.r-project.org/web/packages/Rfast/index.html): A Collection of Efficient and Extremely Fast R Functions
