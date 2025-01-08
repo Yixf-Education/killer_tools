@@ -820,6 +820,7 @@
 * [spatstat](https://cran.r-project.org/web/packages/spatstat/index.html): Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
 * [spiralize](https://github.com/jokergoo/spiralize): Visualize data on spirals
 * [splines2](https://cran.r-project.org/web/packages/splines2/index.html): Regression Spline Functions and Classes
+* [SRplot](https://www.bioinformatics.com.cn/srplot): Science and Research online plot
 * [stargazer](https://cran.r-project.org/web/packages/stargazer/index.html): Well-Formatted Regression and Summary Statistics Tables
 * [statmod](https://cran.r-project.org/web/packages/statmod/index.html): Statistical Modeling
 * [stm](https://cran.r-project.org/web/packages/stm/index.html): Estimation of the Structural Topic Model
