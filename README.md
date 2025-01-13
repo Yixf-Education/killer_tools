@@ -590,6 +590,7 @@
 * [namedropR](https://cran.rstudio.com/web/packages/namedropR/index.html): Create Visual Citations for Presentation Slides
 * [naniar](https://cran.r-project.org/web/packages/naniar/index.html): Data Structures, Summaries, and Visualisations for Missing Data
 * [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
+* [Nebulosa](https://www.bioconductor.org/packages/release/bioc/html/Nebulosa.html): Single-Cell Data Visualisation Using Kernel Gene-Weighted Density Estimation
 * [network](https://cran.r-project.org/web/packages/network/index.html): Classes for Relational Data
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
 * [nextGenShinyApps](https://cran.r-project.org/web/packages/nextGenShinyApps/index.html): Advanced Tools for Building the Next Generation of 'Shiny' Applications and Dashboards
@@ -1195,6 +1196,7 @@
 * [Custom Visualizations & Functions for Streamlined Analyses of Single Cell Sequencing • scCustomize](https://samuel-marsh.github.io/scCustomize/)
 * [Chapter 1 About Lao Junjun | The documentation of scRNAtoolVis package](https://junjunlab.github.io/scRNAtoolVis-manual/)
 * [Plotting](https://scillus.netlify.app/vignettes/plotting)
+* [Single Cell Pipeline • SCP](https://zhanghao-njmu.github.io/SCP/)
 
 
 
@@ -1309,6 +1311,7 @@
 * [g:Profiler – a web server for functional enrichment analysis and conversions of gene lists](https://biit.cs.ut.ee/gprofiler/gost)
 * [0 代码、免费的可视化工具推荐～～～](https://mp.weixin.qq.com/s/7wBc_kM8G75ehRAv_XTtow)
 * [KOBAS](http://kobas.cbi.pku.edu.cn/): intelligent prioritization and exploratory visualization of biological functions for gene enrichment analysis
+* [GDP](https://biogdp.com/) : Generic Diagramming Platform
 
 ---
 
