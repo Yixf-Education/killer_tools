@@ -423,6 +423,7 @@
 * [ggupset](https://github.com/const-ae/ggupset): Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * [ggvenn](https://cran.r-project.org/web/packages/ggvenn/index.html): Draw Venn Diagram by 'ggplot2'
 * [ggVennDiagram](https://cran.r-project.org/web/packages/ggVennDiagram/index.html): A 'ggplot2' Implement of Venn Diagram
+* [ggview](https://cran.r-project.org/web/packages/ggview/index.html): 'ggplot2' Picture Previewer
 * [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html): Interactive Grammar of Graphics
 * [ggwordcloud](https://cran.r-project.org/web/packages/ggwordcloud/index.html): A Word Cloud Geom for 'ggplot2'
 * [BioSenior/ggVolcano](https://github.com/BioSenior/ggVolcano): The goal of `ggVolcano` is to help users make a beautiful volcano map more easily, including general volcano plot(`ggvolcano`), gradient color volcano plot(`gradual_volcano`) and GO term volcano plot(`term_volcano`).
