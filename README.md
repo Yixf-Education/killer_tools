@@ -533,6 +533,7 @@
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [mapsf](https://cran.r-project.org/web/packages/mapsf/index.html): Thematic Cartography
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html): Tools for Handling Spatial Objects
+* [mascarade](https://github.com/alserglab/mascarade): implements a procedure to automatically generate 2D masks for clusters on single-cell dimensional reduction plots like t-SNE or UMAP.
 * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): Support Functions and Datasets for Venables and Ripley's MASS
 * [mathml](https://cran.r-project.org/web/packages/mathml/index.html): Translate R Expressions to 'MathML' and 'LaTeX'/'MathJax'
 * [mdthemes](https://cran.r-project.org/web/packages/mdthemes/index.html): Markdown Themes for 'ggplot2'
