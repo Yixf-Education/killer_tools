@@ -257,6 +257,7 @@
 * [fishplot](https://github.com/chrisamiller/fishplot): Create timecourse "fish plots" that show changes in the clonal architecture of tumors
 * [Fletcher2013a](https://bioconductor.org/packages/release/data/experiment/html/Fletcher2013a.html): Gene expression data from breast cancer cells under FGFR2 signalling perturbation
 * [flextable](https://cran.r-project.org/web/packages/flextable/index.html): Functions for Tabular Reporting
+* [flipbookr](https://github.com/EvaMaeRey/flipbookr): Presenting code step-by-step and side-by-side with its output
 * [fmsb](https://cran.r-project.org/web/packages/fmsb/index.html): Functions for Medical Statistics Book with some Demographic Data
 * [forcats](https://cran.r-project.org/web/packages/forcats/index.html): Tools for Working with Categorical Variables (Factors)
 * [foreach](https://cran.r-project.org/web/packages/foreach/index.html): Provides Foreach Looping Construct
