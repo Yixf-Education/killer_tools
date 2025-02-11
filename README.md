@@ -213,6 +213,7 @@
 * [echarts4r](https://cran.r-project.org/web/packages/echarts4r/index.html): Create Interactive Graphs with 'Echarts JavaScript' Version 5
 * [effectsize](https://cran.r-project.org/web/packages/effectsize/index.html): Indices of Effect Size and Standardized Parameters
 * [egg](https://cran.r-project.org/web/packages/egg/index.html): Extensions for 'ggplot2': Custom Geom, Custom Themes, Plot Alignment, Labelled Panels, Symmetric Scales, and Fixed Panel Size
+* [ellmer](https://cran.r-project.org/web/packages/ellmer/index.html): Chat with Large Language Models
 * [embed](https://cran.r-project.org/web/packages/embed/index.html): Extra Recipes for Encoding Categorical Predictors
 * [emmeans](https://cran.r-project.org/web/packages/emmeans/index.html): Estimated Marginal Means, aka Least-Squares Means
 * [emojifont](https://cran.r-project.org/web/packages/emojifont/index.html): Emoji and Font Awesome in Graphics
