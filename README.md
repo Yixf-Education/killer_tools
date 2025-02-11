@@ -280,6 +280,7 @@
 
 ### G
 
+* [g3viz](https://cran.r-project.org/web/packages/g3viz/index.html): Interactively Visualize Genetic Mutation Data using a Lollipop-Diagram
 * [gameR](https://cran.r-project.org/web/packages/gameR/index.html): Color Palettes Inspired by Video Games
 * [ganttrify](https://github.com/giocomai/ganttrify): Create beautiful Gantt charts with ggplot2
 * [gapminder](https://cran.r-project.org/web/packages/gapminder/index.html): Data from Gapminder
@@ -290,6 +291,7 @@
 * [genieBPC](https://cran.r-project.org/web/packages/genieBPC/index.html): Project GENIE BioPharma Collaborative Data Processing Pipeline
 * [genomicInstability](https://www.bioconductor.org/packages/release/bioc/html/genomicInstability.html): Genomic Instability estimation for scRNA-Seq
 * [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Representation and manipulation of genomic intervals
+* [GenVisR](https://bioconductor.org/packages/release/bioc/html/GenVisR.html): Genomic Visualizations in R
 * [geojsonsf](https://cran.r-project.org/web/packages/geojsonsf/index.html): GeoJSON to Simple Feature Converter
 * [geomnet](http://cran.nexr.com/web/packages/geomnet/index.html): Network Visualization in the 'ggplot2' Framework
 * [geomtextpath](https://cran.r-project.org/web/packages/geomtextpath/index.html): Curved Text in 'ggplot2'
