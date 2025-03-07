@@ -449,6 +449,7 @@
 * [grafify](https://github.com/ashenoy-cmbi/grafify): Easy grafs, ANOVAs and posthoc comparisons.
 * [graphlayouts](https://cran.r-project.org/web/packages/graphlayouts/index.html): Additional Layout Algorithms for Network Visualizations
 * [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
+* [GCAS](https://github.com/WangJin93/GCAS): The GEO Cancer Analysis Suite (GCAS) is a versatile R package designed for analyzing and visualizing gene expression data in cancer research.
 * [GSEABase](https://bioconductor.org/packages/release/bioc/html/GSEABase.html): Gene set enrichment data structures and methods
 * [GseaVis](https://github.com/junjunlab/GseaVis): An implement R package to visualize GSEA results
 * [gson](https://cran.r-project.org/web/packages/gson/index.html): Base Class and Methods for 'gson' Format
