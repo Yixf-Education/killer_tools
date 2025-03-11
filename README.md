@@ -288,6 +288,7 @@
 * [GDCRNATools](https://bioconductor.org/packages/release/bioc/html/GDCRNATools.html): an R/Bioconductor package for integrative analysis of lncRNA, mRNA, and miRNA data in GDC
 * [geneHapR](https://cran.r-project.org/web/packages/geneHapR/index.html): Gene Haplotype Statistics, Phenotype Association and Visualization
 * [genekitr](https://cran.r-project.org/web/packages/genekitr/index.html): Gene Analysis Toolkit
+* [geneviewer](https://nvelden.github.io/geneviewer/index.html): Gene Cluster Visualizations in R
 * [genieBPC](https://cran.r-project.org/web/packages/genieBPC/index.html): Project GENIE BioPharma Collaborative Data Processing Pipeline
 * [genomicInstability](https://www.bioconductor.org/packages/release/bioc/html/genomicInstability.html): Genomic Instability estimation for scRNA-Seq
 * [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Representation and manipulation of genomic intervals
