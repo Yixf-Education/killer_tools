@@ -431,7 +431,7 @@
 * [ggview](https://cran.r-project.org/web/packages/ggview/index.html): 'ggplot2' Picture Previewer
 * [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html): Interactive Grammar of Graphics
 * [ggwordcloud](https://cran.r-project.org/web/packages/ggwordcloud/index.html): A Word Cloud Geom for 'ggplot2'
-* [BioSenior/ggVolcano](https://github.com/BioSenior/ggVolcano): The goal of `ggVolcano` is to help users make a beautiful volcano map more easily, including general volcano plot(`ggvolcano`), gradient color volcano plot(`gradual_volcano`) and GO term volcano plot(`term_volcano`).
+* [ggVolcano](https://github.com/BioSenior/ggVolcano): The goal of `ggVolcano` is to help users make a beautiful volcano map more easily, including general volcano plot(`ggvolcano`), gradient color volcano plot(`gradual_volcano`) and GO term volcano plot(`term_volcano`).
 * [ggvwline](https://github.com/houyunhuang/ggvwline): Extension to ggplot2 for drawing variable-width lines
 * [ggwaffle](https://github.com/liamgilbey/ggwaffle): Creating waffle charts in a ggplot friendly way
 * [ggx](https://github.com/brandmaier/ggx): A Natural Language Interface to ‘ggplot2’
@@ -885,6 +885,7 @@
 * [tidyfit](https://cran.r-project.org/web/packages/tidyfit/index.html): Regularized Linear Modeling with Tidy Data
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
 * [tidygraph](https://cran.r-project.org/web/packages/tidygraph/index.html): A Tidy API for Graph Manipulation
+* [tidyheatmaps](https://jbengler.github.io/tidyheatmaps/index.html)：Heatmaps from Tidy Data
 * [TidyMass](https://www.tidymass.org/): a comprehensive computational framework that can process the whole workflow of data processing and analysis for LC-MS-based untargeted metabolomics using [tidyverse](https://www.tidyverse.org/) principles
 * [tidymodels](https://cran.r-project.org/web/packages/tidymodels/index.html): Easily Install and Load the 'Tidymodels' Packages
 * [tidyplots](https://cran.r-project.org/web/packages/tidyplots/index.html): Tidy Plots for Scientific Papers
