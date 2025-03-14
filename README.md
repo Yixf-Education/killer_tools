@@ -888,6 +888,7 @@
 * [tidyheatmaps](https://jbengler.github.io/tidyheatmaps/index.html)：Heatmaps from Tidy Data
 * [TidyMass](https://www.tidymass.org/): a comprehensive computational framework that can process the whole workflow of data processing and analysis for LC-MS-based untargeted metabolomics using [tidyverse](https://www.tidyverse.org/) principles
 * [tidymodels](https://cran.r-project.org/web/packages/tidymodels/index.html): Easily Install and Load the 'Tidymodels' Packages
+* [tidyomics](https://github.com/tidyomics): an open project to develop and integrate software and documentation to enable a [tidy data](https://vita.had.co.nz/papers/tidy-data.pdf) analysis framework for omics data objects
 * [tidyplots](https://cran.r-project.org/web/packages/tidyplots/index.html): Tidy Plots for Scientific Papers
 * [tidyquant](https://cran.r-project.org/web/packages/tidyquant/index.html): Tidy Quantitative Financial Analysis
 * [tidyterra](https://cran.r-project.org/web/packages/tidyterra/index.html): 'tidyverse' Methods and 'ggplot2' Helpers for 'terra' Objects
