@@ -599,6 +599,7 @@
 * [naniar](https://cran.r-project.org/web/packages/naniar/index.html): Data Structures, Summaries, and Visualisations for Missing Data
 * [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html): Determining the Best Number of Clusters in a Data Set
 * [Nebulosa](https://www.bioconductor.org/packages/release/bioc/html/Nebulosa.html): Single-Cell Data Visualisation Using Kernel Gene-Weighted Density Estimation
+* [NetCoMi](https://github.com/stefpeschel/NetCoMi): Network construction, analysis, and comparison for microbial compositional data
 * [network](https://cran.r-project.org/web/packages/network/index.html): Classes for Relational Data
 * [networkD3](https://cran.r-project.org/web/packages/networkD3/index.html): D3 JavaScript Network Graphs from R
 * [nextGenShinyApps](https://cran.r-project.org/web/packages/nextGenShinyApps/index.html): Advanced Tools for Building the Next Generation of 'Shiny' Applications and Dashboards
