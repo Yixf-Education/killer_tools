@@ -633,6 +633,7 @@
 * [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
 * [parabar](https://cran.r-project.org/web/packages/parabar/index.html): Progress Bar for Parallel Tasks
 * [parameters](https://cran.r-project.org/web/packages/parameters/index.html): Processing of Model Parameters
+* [parsnip](https://cran.r-project.org/web/packages/parsnip/index.html): A Common API to Modeling and Analysis Functions
 * [parttime](https://cran.r-project.org/web/packages/parttime/index.html): Partial Datetime Handling
 * [parttree](https://github.com/grantmcdermott/parttree): Simple package for plotting decision tree partitions in R
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
