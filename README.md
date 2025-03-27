@@ -535,6 +535,7 @@
 * [manhattanly](https://cran.r-project.org/web/packages/manhattanly/index.html): Interactive Q-Q and Manhattan Plots Using 'plotly.js'
 * [Map2NCBI](https://cran.r-project.org/web/packages/Map2NCBI/index.html): Mapping Markers to the Nearest Genomic Feature
 * [mapdeck](https://cran.r-project.org/web/packages/mapdeck/index.html): Interactive Maps Using 'Mapbox GL JS' and 'Deck.gl'
+* [maposm](https://github.com/riatelab/maposm): R package to download, simplify and merge multiple geographic layers from OpenStreetMap for mapping purposes.
 * [mapproj](https://cran.r-project.org/web/packages/mapproj/index.html): Map Projections
 * [maps](https://cran.r-project.org/web/packages/maps/index.html): Draw Geographical Maps
 * [mapsf](https://cran.r-project.org/web/packages/mapsf/index.html): Thematic Cartography
