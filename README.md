@@ -925,6 +925,7 @@
 ### V
 
 * [VariantAnnotation](https://bioconductor.org/packages/release/bioc/html/VariantAnnotation.html): Annotation of Genetic Variants
+* [vcfexpress](https://github.com/brentp/vcfexpress): expressions on VCFs
 * [vcfR](https://cran.r-project.org/web/packages/vcfR/index.html): Manipulate and Visualize VCF Data
 * [vegan](https://cran.r-project.org/web/packages/vegan/index.html): Community Ecology Package
 * [venn](https://cran.r-project.org/web/packages/venn/index.html): Draw Venn Diagrams
@@ -957,6 +958,7 @@
 * [webpea](https://github.com/nucleic-acid/webpea): Tool to save R plots in WebP format
 * [webr](https://cran.r-project.org/web/packages/webr/index.html): Data and Functions for Web-Based Analysis
 * [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html): A Wes Anderson Palette Generator
+* [wgatools](https://github.com/wjwei-handsome/wgatools?tab=readme-ov-file#format-conversion): Whole Genome Alignment Tools
 * [wget](https://github.com/YuLab-SMU/wget): Setting Download Method to "wget -c"
 * [wiggleplotr](https://bioconductor.org/packages/release/bioc/html/wiggleplotr.html): Make read coverage plots from BigWig files
 * [wikiprofiler](https://cran.r-project.org/web/packages/wikiprofiler/index.html): 'WikiPathway' Based Data Integration and Visualization
