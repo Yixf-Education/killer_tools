@@ -208,6 +208,7 @@
 * [easyalluvial](https://cran.r-project.org/web/packages/easyalluvial/index.html): Generate Alluvial Plots with a Single Line of Code
 * [easylabel](https://cran.r-project.org/web/packages/easylabel/index.html): Interactive Scatter Plot and Volcano Plot Labels
 * [easyPubMed](https://cran.r-project.org/web/packages/easyPubMed/index.html): Search and Retrieve Scientific Publication Records from PubMed
+* [EasyPubROC](https://github.com/tiandongli/EasyPubROC): Simplify ROC analysis and visualization
 * [EasyStat](https://github.com/taowenmicro/EasyStat): 差异分析完整解决方案
 * [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html): Image processing and analysis toolbox for R
 * [echarts4r](https://cran.r-project.org/web/packages/echarts4r/index.html): Create Interactive Graphs with 'Echarts JavaScript' Version 5
@@ -574,6 +575,8 @@
 * [mlim](https://cran.r-project.org/web/packages/mlim/index.html): Multiple Imputation with Automated Machine Learning
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
 * [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html): Machine Learning in R - Next Generation
+* [mlr3learners](https://cran.r-project.org/web/packages/mlr3learners/index.html): Recommended Learners for 'mlr3'
+* [mlr3tuning](https://cran.r-project.org/web/packages/mlr3tuning/index.html): Hyperparameter Optimization for 'mlr3'
 * [mlr3verse](https://cran.rstudio.com/web/packages/mlr3verse/index.html): Easily Install and Load the 'mlr3' Package Family
 * [modelbased](https://cran.r-project.org/web/packages/modelbased/index.html): Estimation of Model-Based Predictions, Contrasts and Means
 * [modelROC](https://cran.r-project.org/web/packages/modelROC/index.html): Model Based ROC Analysis
@@ -965,6 +968,7 @@
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html): Word Clouds
 * [wordcloud2](https://cran.r-project.org/web/packages/wordcloud2/index.html): Create Word Cloud by 'htmlwidget'
 * [workflowr](https://cran.r-project.org/web/packages/workflowr/index.html): A Framework for Reproducible and Collaborative Data Science
+* [workflows](https://cran.r-project.org/web/packages/workflows/index.html): Modeling Workflows
 * [wzRfun](https://github.com/walmes/wzRfun): Auxiliary functions for courses, analysis and data visualization.]
 
 ### X
@@ -980,6 +984,7 @@
 ### Y
 
 * [YAPSA](https://www.bioconductor.org/packages/release/bioc/html/YAPSA.html): Yet Another Package for Signature Analysis
+* [yardstick](https://cran.r-project.org/web/packages/yardstick/index.html): Tidy Characterizations of Model Performance
 * [ymlthis](https://cran.r-project.org/web/packages/ymlthis/index.html): Write 'YAML' for 'R Markdown', 'bookdown', 'blogdown', and More
 
 ---
