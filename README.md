@@ -683,6 +683,7 @@
 * [ProjecTILs](https://github.com/carmonalab/ProjecTILs): Interpretation of T cell states using reference single-cell atlases
 * [promor](https://cran.r-project.org/web/packages/promor/index.html): Proteomics Data Analysis and Modeling Tools
 * [psych](https://cran.r-project.org/web/packages/psych/index.html): Procedures for Psychological, Psychometric, and Personality Research
+* [Publish](https://cran.r-project.org/web/packages/Publish/index.html): Format Output of Various Routines in a Suitable Way for Reports and Publication
 
 ### Q
 
