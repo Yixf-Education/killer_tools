@@ -576,6 +576,7 @@
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
 * [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html): Machine Learning in R - Next Generation
 * [mlr3learners](https://cran.r-project.org/web/packages/mlr3learners/index.html): Recommended Learners for 'mlr3'
+* [mlr3pipelines](https://cran.r-project.org/web/packages/mlr3pipelines/index.html): Preprocessing Operators and Pipelines for 'mlr3'
 * [mlr3tuning](https://cran.r-project.org/web/packages/mlr3tuning/index.html): Hyperparameter Optimization for 'mlr3'
 * [mlr3verse](https://cran.rstudio.com/web/packages/mlr3verse/index.html): Easily Install and Load the 'mlr3' Package Family
 * [modelbased](https://cran.r-project.org/web/packages/modelbased/index.html): Estimation of Model-Based Predictions, Contrasts and Means
