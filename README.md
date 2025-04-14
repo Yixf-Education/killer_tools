@@ -149,6 +149,7 @@
 * [corrmorant](https://github.com/r-link/corrmorant): R package for flexible correlation matrices based on ggplot2
 * [corrplot](https://cran.r-project.org/web/packages/corrplot/index.html): Visualization of a Correlation Matrix
 * [countdown: ](https://github.com/gadenbuie/countdown)⏲ countdown timer for R Markdown slides and HTML docs
+* [counterfactuals](https://cran.r-project.org/web/packages/counterfactuals/index.html): Counterfactual Explanations
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html): Streamlined Plot Theme and Plot Annotations for 'ggplot2'
 * [CRANsearcher](https://cran.r-project.org/web/packages/CRANsearcher/index.html): RStudio Addin for Searching Packages in CRAN Database Based on Keywords
 * [crayon](https://cran.r-project.org/web/packages/crayon/index.html): Colored Terminal Output
@@ -485,6 +486,7 @@
 
 * [igraph](https://cran.r-project.org/web/packages/igraph/index.html): Network Analysis and Visualization
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
+* [iml](https://cran.r-project.org/web/packages/iml/index.html): Interpretable Machine Learning
 * [IMvigor210CoreBiologies](http://research-pub.gene.com/IMvigor210CoreBiologies/): TGF-b attenuates tumor response to PD-L1 blockade by contributing to exclusion of T cells
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
 * [inferregex](https://github.com/daranzolin/inferregex): Infer the regular expression (regex) of a string :1234:
