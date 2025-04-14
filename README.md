@@ -137,6 +137,7 @@
 * [colourpicker](https://cran.r-project.org/web/packages/colourpicker/index.html): A Colour Picker Tool for Shiny and for Selecting Colours in Plots
 * [cols4all](https://github.com/mtennekes/cols4all): Colors for all (R package)
 * [combinat](https://cran.r-project.org/web/packages/combinat/index.html): combinatorics utilities
+* [cOmicsART](https://icb-dcm.github.io/cOmicsArt/): a customizable Omics Analysis and reporting tool
 * [compareGroups](https://cran.r-project.org/web/packages/compareGroups/index.html): Descriptive Analysis by Groups
 * [ComplexHeatmap](http://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): Make Complex Heatmaps
 * [ComplexUpset](https://cran.r-project.org/web/packages/ComplexUpset/index.html): Create Complex UpSet Plots Using 'ggplot2' Components
