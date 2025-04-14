@@ -771,6 +771,7 @@
 * [Rsamtools](https://bioconductor.org/packages/release/bioc/html/Rsamtools.html): Binary alignment (BAM), FASTA, variant call (BCF), and tabix file import
 * [RSelenium](https://cran.r-project.org/web/packages/RSelenium/index.html): R Bindings for 'Selenium WebDriver'
 * [rstan](https://cran.r-project.org/web/packages/rstan/index.html): R Interface to Stan
+* [rstanarm](https://cran.r-project.org/web/packages/rstanarm/index.html): Bayesian Applied Regression Modeling via Stan
 * [rstatix](https://cran.r-project.org/web/packages/rstatix/index.html): Pipe-Friendly Framework for Basic Statistical Tests
 * [rsvg](https://cran.r-project.org/web/packages/rsvg/index.html): Render SVG Images into PDF, PNG, (Encapsulated) PostScript, or Bitmap Arrays
 * [RTCGA](https://www.bioconductor.org/packages/release/bioc/html/RTCGA.html): The Cancer Genome Atlas Data Integration
