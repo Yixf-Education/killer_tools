@@ -475,6 +475,7 @@
 * [heatmaply](https://cran.r-project.org/web/packages/heatmaply/index.html): Interactive Cluster Heat Maps Using 'plotly' and 'ggplot2'
 * [here](https://cran.r-project.org/web/packages/here/index.html): A Simpler Way to Find Your Files
 * [HGNChelper](https://cran.r-project.org/web/packages/HGNChelper/index.html): Identify and Correct Invalid HGNC Human Gene Symbols and MGI Mouse Gene Symbols
+* [hhmR](https://cran.r-project.org/web/packages/hhmR/index.html): Hierarchical Heatmaps
 * [highcharter](https://cran.r-project.org/web/packages/highcharter/index.html): A Wrapper for the 'Highcharts' Library
 * [HilbertCurve](https://www.bioconductor.org/packages/release/bioc/html/HilbertCurve.html): Making 2D Hilbert Curve
 * [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html): Harrell Miscellaneous
@@ -819,8 +820,10 @@
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
 * [shiny.fluent](https://cran.r-project.org/web/packages/shiny.fluent/index.html): Microsoft Fluent UI for Shiny Apps
+* [shinybody](https://cran.r-project.org/web/packages/shinybody/index.html): An Interactive Anatomography Widget for 'shiny'
 * [ShinyCell](https://github.com/SGDDNB/ShinyCell): Shiny Interactive Web Apps for Single-Cell Data
 * [shinyPredict](https://cran.r-project.org/web/packages/shinyPredict/index.html): Predictions using Shiny
+* [shinyscholar](https://cran.r-project.org/web/packages/shinyscholar/index.html): A Template for Creating Reproducible 'shiny' Applications
 * [shinythemes](https://cran.r-project.org/web/packages/shinythemes/index.html): Themes for Shiny
 * [ShortRead](https://www.bioconductor.org/packages/release/bioc/html/ShortRead.html): FASTQ input and manipulation
 * [showtext](https://cran.r-project.org/web/packages/showtext/index.html): Using Fonts More Easily in R Graphs
