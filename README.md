@@ -776,6 +776,7 @@
 * [rstanarm](https://cran.r-project.org/web/packages/rstanarm/index.html): Bayesian Applied Regression Modeling via Stan
 * [rstatix](https://cran.r-project.org/web/packages/rstatix/index.html): Pipe-Friendly Framework for Basic Statistical Tests
 * [rsvg](https://cran.r-project.org/web/packages/rsvg/index.html): Render SVG Images into PDF, PNG, (Encapsulated) PostScript, or Bitmap Arrays
+* [rtables](https://cran.r-project.org/web/packages/rtables/index.html): Reporting Tables
 * [RTCGA](https://www.bioconductor.org/packages/release/bioc/html/RTCGA.html): The Cancer Genome Atlas Data Integration
 * [rticles](https://cran.r-project.org/web/packages/rticles/index.html): Article Formats for R Markdown
 * [rtracklayer](https://bioconductor.org/packages/release/bioc/html/rtracklayer.html): R interface to genome annotation files and the UCSC genome browser
