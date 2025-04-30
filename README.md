@@ -577,6 +577,7 @@
 * [MixSim](https://cran.r-project.org/web/packages/MixSim/index.html): Simulating Data to Study Performance of Clustering Algorithms
 * [mixtools](https://cran.r-project.org/web/packages/mixtools/index.html): Tools for Analyzing Finite Mixture Models
 * [mlim](https://cran.r-project.org/web/packages/mlim/index.html): Multiple Imputation with Automated Machine Learning
+* [mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype): An iterative multi-LLM consensus framework for accurate cell type annotation in single-cell RNA-seq data
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html): Machine Learning in R
 * [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html): Machine Learning in R - Next Generation
 * [mlr3learners](https://cran.r-project.org/web/packages/mlr3learners/index.html): Recommended Learners for 'mlr3'
@@ -799,6 +800,7 @@
 * [scCustomize](https://cran.r-project.org/web/packages/scCustomize/index.html): Custom Visualizations & Functions for Streamlined Analyses of Single Cell Sequencing
 * [scDiffCom](https://cran.rstudio.com/web/packages/scDiffCom/index.html): Differential Analysis of Intercellular Communication from scRNA-Seq Data
 * [scDotPlot](https://www.bioconductor.org/packages/release/bioc/html/scDotPlot.html): Cluster a Single-cell RNA-seq Dot Plot
+* [scDRS](https://github.com/martinjzhang/scDRS): Single-cell disease relevance score (scDRS)
 * [scGSVA](https://github.com/guokai8/scGSVA): scGSVA: Perform GSVA for single cell RNA seq
 * [schex](https://www.bioconductor.org/packages/release/bioc/html/schex.html): Hexbin plots for single cell omics data
 * [scholar](https://cran.r-project.org/web/packages/scholar/index.html): Analyse Citation Data from Google Scholar
