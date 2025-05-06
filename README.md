@@ -764,6 +764,7 @@
 * [rnaturalearthdata](https://cran.r-project.org/web/packages/rnaturalearthdata/index.html): World Vector Map Data from Natural Earth Used in 'rnaturalearth'
 * [ROCit](https://cran.r-project.org/web/packages/ROCit/index.html): Performance Assessment of Binary Classifier with Visualization
 * [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html): Visualizing the Performance of Scoring Classifiers
+* [rollama](https://cran.r-project.org/web/packages/rollama/index.html): Communicate with 'Ollama' to Run Large Language Models Locally
 * [rOpenSci](https://ropensci.org/): open tools for open science
 * [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html): PCA, PLS(-DA) and OPLS(-DA) for multivariate analysis and feature selection of omics data
 * [RobustRankAggreg](https://cran.r-project.org/web/packages/RobustRankAggreg/index.html): Methods for robust rank aggregation
@@ -904,6 +905,7 @@
 * [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html): Tidy Verbs for Fast Data Manipulation
 * [tidygraph](https://cran.r-project.org/web/packages/tidygraph/index.html): A Tidy API for Graph Manipulation
 * [tidyheatmaps](https://jbengler.github.io/tidyheatmaps/index.html)：Heatmaps from Tidy Data
+* [tidyllm](https://edubruell.github.io/tidyllm/): Tidy Integration of Large Language Models
 * [TidyMass](https://www.tidymass.org/): a comprehensive computational framework that can process the whole workflow of data processing and analysis for LC-MS-based untargeted metabolomics using [tidyverse](https://www.tidyverse.org/) principles
 * [tidymodels](https://cran.r-project.org/web/packages/tidymodels/index.html): Easily Install and Load the 'Tidymodels' Packages
 * [tidyomics](https://github.com/tidyomics): an open project to develop and integrate software and documentation to enable a [tidy data](https://vita.had.co.nz/papers/tidy-data.pdf) analysis framework for omics data objects
