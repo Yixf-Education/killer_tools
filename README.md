@@ -212,6 +212,7 @@
 * [easyPubMed](https://cran.r-project.org/web/packages/easyPubMed/index.html): Search and Retrieve Scientific Publication Records from PubMed
 * [EasyPubROC](https://github.com/tiandongli/EasyPubROC): Simplify ROC analysis and visualization
 * [EasyStat](https://github.com/taowenmicro/EasyStat): 差异分析完整解决方案
+* [easystats](https://cran.r-project.org/web/packages/easystats/index.html): Framework for Easy Statistical Modeling, Visualization, and Reporting
 * [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html): Image processing and analysis toolbox for R
 * [echarts4r](https://cran.r-project.org/web/packages/echarts4r/index.html): Create Interactive Graphs with 'Echarts JavaScript' Version 5
 * [effectsize](https://cran.r-project.org/web/packages/effectsize/index.html): Indices of Effect Size and Standardized Parameters
