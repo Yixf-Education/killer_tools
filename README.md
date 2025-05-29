@@ -418,6 +418,7 @@
 * [ggstream](https://github.com/davidsjoberg/ggstream): create a simple but powerful implementation of streamplot/streamgraph in `ggplot2`
 * [ggsurvfit](https://cran.r-project.org/web/packages/ggsurvfit/index.html): Flexible Time-to-Event Figures
 * [ggsymbol](https://github.com/xiangpin/ggsymbol): symbols layer based on ggplot2 and ggstar
+* [ggtangle](https://cran.r-project.org/web/packages/ggtangle/index.html): Draw Network with Data
 * [ggtern](https://cran.r-project.org/web/packages/ggtern/index.html): An Extension to 'ggplot2', for the Creation of Ternary Diagrams
 * [ggtext](https://cran.r-project.org/web/packages/ggtext/index.html): Improved Text Rendering Support for 'ggplot2'
 * [ggThemeAssist](https://cran.r-project.org/web/packages/ggThemeAssist/index.html): Add-in to Customize 'ggplot2' Themes
