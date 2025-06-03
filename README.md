@@ -629,6 +629,7 @@
 * [officedown](https://cran.r-project.org/web/packages/officedown/index.html): Enhanced 'R Markdown' Format for 'Word' and 'PowerPoint'
 * [officer](https://cran.r-project.org/web/packages/officer/index.html): Manipulation of Microsoft Word and PowerPoint Documents
 * [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html): High-quality circular visualization of omics data
+* [omicverse](https://github.com/Starlitnightly/omicverse): A python library for multi omics included bulk, single cell and spatial RNA-seq analysis.
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
 * [openai](https://cran.r-project.org/web/packages/openai/index.html): R Wrapper for OpenAI API
 * [openair](https://cran.r-project.org/web/packages/openair/index.html): Tools for the Analysis of Air Pollution Data
@@ -804,6 +805,7 @@
 * [scCustomize](https://cran.r-project.org/web/packages/scCustomize/index.html): Custom Visualizations & Functions for Streamlined Analyses of Single Cell Sequencing
 * [scDiffCom](https://cran.rstudio.com/web/packages/scDiffCom/index.html): Differential Analysis of Intercellular Communication from scRNA-Seq Data
 * [scDotPlot](https://www.bioconductor.org/packages/release/bioc/html/scDotPlot.html): Cluster a Single-cell RNA-seq Dot Plot
+* [scDown](https://github.com/BCH-RC/scDown): a pipeline for scRNASeq downstream analysis
 * [scDRS](https://github.com/martinjzhang/scDRS): Single-cell disease relevance score (scDRS)
 * [scGSVA](https://github.com/guokai8/scGSVA): scGSVA: Perform GSVA for single cell RNA seq
 * [schex](https://www.bioconductor.org/packages/release/bioc/html/schex.html): Hexbin plots for single cell omics data
