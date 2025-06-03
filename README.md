@@ -106,6 +106,7 @@
 * [CBCgrps](https://cran.r-project.org/web/packages/CBCgrps/index.html): Compare Baseline Characteristics Between Groups
 * [CBNplot](https://github.com/noriakis/CBNplot): Bayesian network plot for the enrichment analysis results
 * [ccgraph](https://github.com/gaospecial/ccgraph): 在 R 环境下绘制 “圆环套圆环” 的 “图”
+* [cell2location](https://github.com/BayraktarLab/cell2location): Comprehensive mapping of tissue cell architecture via integrated single cell and spatial transcriptomics (cell2location model)
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
 * [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type annotation
 * [cellxgenedp](https://bioconductor.org/packages/release/bioc/html/cellxgenedp.html): Discover and Access Single Cell Data Sets in the cellxgene Data Portal
@@ -853,6 +854,7 @@
 * [SRplot](https://www.bioinformatics.com.cn/srplot): Science and Research online plot
 * [stargazer](https://cran.r-project.org/web/packages/stargazer/index.html): Well-Formatted Regression and Summary Statistics Tables
 * [statmod](https://cran.r-project.org/web/packages/statmod/index.html): Statistical Modeling
+* [STdeconvolve](https://github.com/JEFworks-Lab/STdeconvolve): Reference-free cell-type deconvolution of multi-cellular spatially resolved transcriptomics data
 * [stm](https://cran.r-project.org/web/packages/stm/index.html): Estimation of the Structural Topic Model
 * [STRINGdb](https://www.bioconductor.org/packages/release/bioc/html/STRINGdb.html): Search Tool for the Retrieval of Interacting proteins database
 * [sparklyr](https://spark.rstudio.com/): R interface for Apache Spark
