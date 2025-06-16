@@ -518,6 +518,7 @@
 
 * [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html): Construct Complex Table with 'kable' and Pipe Syntax
 * [karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html): Plot customizable linear genomes displaying arbitrary data
+* [KEGGMetaboliteEnrichment](https://github.com/zhuangshaobio/KEGGMetaboliteEnrichment?tab=readme-ov-file): A convenient kegg enrichment tool for metabolomic data
 * [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html): Client-side REST access to the Kyoto Encyclopedia of Genes and Genomes (KEGG)
 * [ keras](https://cran.r-project.org/web/packages/keras/index.html): R Interface to 'Keras'
 * [kingfisher-download](https://github.com/wwood/kingfisher-download): Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
@@ -1460,6 +1461,7 @@
 * [24 年做生信，这十个数据库一定要知道](https://mp.weixin.qq.com/s/bGBEEo_bifzm20We01LUWQ)
 * [数据库介绍 | 人类衰老基因资源：老龄化研究中的关键数据库更新](https://mp.weixin.qq.com/s/3b2J2v-8GVbj_9sPCXQ6CA)
 * [scCancerExplorer](https://bianlab.cn/scCancerExplorer/home)
+* [TTD](https://db.idrblab.net/ttd/): Therapeutic Target Database
 
 # Algorithm
 
