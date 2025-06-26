@@ -396,6 +396,7 @@
 * [ggreverse](https://github.com/coolbutuseless/ggreverse): Reverse a ggplot object back into code
 * [ggrcs](https://github.com/liuqiang070488/ggrcs): A function to draw histograms and restricted cubic splines (RCS).
 * [ggrepel](https://cran.r-project.org/web/packages/ggrepel/index.html): Automatically Position Non-Overlapping Text Labels with 'ggplot2'
+* [ggret](https://github.com/grdspcht/ggret): Visualisation of tree-based phylogenetic networks
 * [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html): Ridgeline Plots in 'ggplot2'
 * [ggrisk](https://cran.r-project.org/web/packages/ggrisk/index.html): Risk Score Plot for Cox Regression
 * [gground](https://github.com/dxsbiocc/gground): an extension package for `ggplot2` that is used to generate rounded-shaped graphics, such as rounded bar charts and box plots, to help users create more aesthetically pleasing and unique data visualization effects
@@ -458,6 +459,7 @@
 * [grDevices](https://www.rdocumentation.org/packages/grDevices/versions/3.6.2): The R Graphics Devices and Support for Colours and Fonts
 * [GCAS](https://github.com/WangJin93/GCAS): The GEO Cancer Analysis Suite (GCAS) is a versatile R package designed for analyzing and visualizing gene expression data in cancer research.
 * [GSEABase](https://bioconductor.org/packages/release/bioc/html/GSEABase.html): Gene set enrichment data structures and methods
+* [GSEAtopics](https://jokergoo.github.io/GSEAtopics/index.html): Various Topics on Gene Set Enrichment Analysis
 * [GseaVis](https://github.com/junjunlab/GseaVis): An implement R package to visualize GSEA results
 * [gson](https://cran.r-project.org/web/packages/gson/index.html): Base Class and Methods for 'gson' Format
 * [GSVA](https://www.bioconductor.org/packages/release/bioc/html/GSVA.html): Gene Set Variation Analysis for microarray and RNA-seq data
@@ -891,6 +893,7 @@
 * [tablexlsx](https://cran.r-project.org/web/packages/tablexlsx/index.html): Export Data Frames to Excel Workbook
 * [tackPlotR](https://github.com/junjunlab/tackPlotR): A R package to visualize bigwigs.
 * [tagger](https://github.com/eliocamp/tagger): Adds tags to 'ggpot2' facets
+* [tanggle](https://bioconductor.org/packages/release/bioc/html/tanggle.html): Visualization of Phylogenetic Networks
 * [TCGAbiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html): An R/Bioconductor package for integrative analysis with GDC data
 * [TCGAmutations](https://github.com/PoisonAlien/TCGAmutations): R data package for pre-compiled somatic mutations from TCGA cohorts (from Broad Firehose and TCGA MC3 Project)
 * [TCGAplot](https://github.com/tjhwangxiong/TCGAplot): A number of functions were generated to perform pan-cancer DEG analysis, correlation analysis between gene expression and TMB, MSI, TIME, and promoter methylation. Methods for visualization were provided in order to easily perform integrative pan-cancer multi-omics analysis.
