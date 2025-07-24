@@ -295,6 +295,7 @@
 * [genekitr](https://cran.r-project.org/web/packages/genekitr/index.html): Gene Analysis Toolkit
 * [geneviewer](https://nvelden.github.io/geneviewer/index.html): Gene Cluster Visualizations in R
 * [genieBPC](https://cran.r-project.org/web/packages/genieBPC/index.html): Project GENIE BioPharma Collaborative Data Processing Pipeline
+* [genomepy](https://github.com/vanheeringen-lab/genomepy?tab=readme-ov-file): genes and genomes at your fingertips
 * [genomicInstability](https://www.bioconductor.org/packages/release/bioc/html/genomicInstability.html): Genomic Instability estimation for scRNA-Seq
 * [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Representation and manipulation of genomic intervals
 * [GenVisR](https://bioconductor.org/packages/release/bioc/html/GenVisR.html): Genomic Visualizations in R
