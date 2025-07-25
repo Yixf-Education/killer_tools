@@ -700,6 +700,7 @@
 * [promor](https://cran.r-project.org/web/packages/promor/index.html): Proteomics Data Analysis and Modeling Tools
 * [psych](https://cran.r-project.org/web/packages/psych/index.html): Procedures for Psychological, Psychometric, and Personality Research
 * [Publish](https://cran.r-project.org/web/packages/Publish/index.html): Format Output of Various Routines in a Suitable Way for Reports and Publication
+* [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks): python module to plot beautiful and highly customizable genome browser tracks
 
 ### Q
 
