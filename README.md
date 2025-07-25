@@ -119,6 +119,7 @@
 * [circlize](https://github.com/jokergoo/circlize): circular visualization in R
 * [cisDynet](https://github.com/tzhu-bio/cisDynet): An integrated platform for modeling gene-regulatory dynamics and networks
 * [cli](https://cran.r-project.org/web/packages/cli/index.html): Helpers for Developing Command Line Interfaces
+* [clinpubr](https://cran.r-project.org/web/packages/clinpubr/index.html): Clinical Publication
 * [clipr](https://cran.r-project.org/web/packages/clipr/index.html): Read and Write from the System Clipboard
 * [clock](https://cran.r-project.org/web/packages/clock/index.html): Date-Time Types and Tools
 * [cluster](https://cran.r-project.org/web/packages/cluster/index.html): "Finding Groups in Data": Cluster Analysis Extended Rousseeuw et al.
