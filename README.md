@@ -235,6 +235,7 @@
 * [europepmc](https://cran.r-project.org/web/packages/europepmc/index.html): R Interface to the Europe PubMed Central RESTful Web Service
 * [exams](https://cran.r-project.org/web/packages/exams/index.html): Automatic Generation of Exams in R
 * [exomePeak2](https://bioconductor.org/packages/release/bioc/html/exomePeak2.html): Bias-aware Peak Calling and Quantification for MeRIP-Seq
+* [explainer](https://cran.r-project.org/web/packages/explainer/index.html): Machine Learning Model Explainer
 * [explore](https://cran.r-project.org/web/packages/explore/index.html): Simplifies Exploratory Data Analysis
 * [exploreR](https://cran.r-project.org/web/packages/exploreR/index.html): Tools for Quickly Exploring Data
 * [ExpOmics](http://www.biomedical-web.com/expomics/home)
