@@ -558,6 +558,7 @@
 * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): Support Functions and Datasets for Venables and Ripley's MASS
 * [mathml](https://cran.r-project.org/web/packages/mathml/index.html): Translate R Expressions to 'MathML' and 'LaTeX'/'MathJax'
 * [mdthemes](https://cran.r-project.org/web/packages/mdthemes/index.html): Markdown Themes for 'ggplot2'
+* [medicaldata](https://cran.r-project.org/web/packages/medicaldata/index.html): Data Package for Medical Datasets
 * [MetBrewer](https://github.com/BlakeRMills/MetBrewer): Color palette package in R inspired by works at the Metropolitan Museum of Art in New York
 * [metevalue](https://cran.r-project.org/web/packages/metevalue/index.html): E-Value in the Omics Data Association Studies
 * [metanetwork](https://cran.r-project.org/web/packages/metanetwork/index.html): Handling and Representing Trophic Networks in Space and Time
