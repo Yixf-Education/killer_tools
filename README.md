@@ -692,6 +692,7 @@
 * [poppr](https://cran.r-project.org/web/packages/poppr/index.html): Genetic Analysis of Populations with Mixed Reproduction
 * [popsicleR](https://github.com/bicciatolab/PoPsicleR): a flexible R package aimed at providing most of the necessary quality controls and preliminary information for complete and detailed analysis of single cell RNA-seq data.
 * [popV](https://github.com/YosefLab/popV?tab=readme-ov-file): PopV uses popular vote of a variety of cell-type transfer tools to classify cell-types in a query dataset based on a test dataset.
+* [precmed](https://cran.r-project.org/web/packages/precmed/index.html): Precision Medicine
 * [precrec](https://cran.r-project.org/web/packages/precrec/index.html): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
 * [presenter](https://cran.r-project.org/web/packages/presenter/index.html): Present Data with Style
 * [prettydoc](https://cran.r-project.org/web/packages/prettydoc/index.html): Creating Pretty Documents from R Markdown
