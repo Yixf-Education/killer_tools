@@ -835,6 +835,7 @@
 * [see](https://cran.r-project.org/web/packages/see/index.html): Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
 * [seriation](https://cran.r-project.org/web/packages/seriation/index.html): Infrastructure for Ordering Objects Using Seriation
+* [SeuratExtend](https://github.com/huayc09/SeuratExtend): An Enhanced Toolkit for scRNA-seq Analysis
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
 * [SGS](https://sgs.bioinfotoolkits.net/home)：Single-Cell and Spatial Genomics System
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
