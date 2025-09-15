@@ -943,6 +943,7 @@
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
 * [toastui](https://cran.r-project.org/web/packages/toastui/index.html): Interactive Tables, Calendars and Charts for the Web
 * [TOmicsVis](https://github.com/cran/TOmicsVis): TranscriptOmics Visualization
+* [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html): A R/Bioconductor package with web interface for drawing elegant interactive tracks or lollipop plot to facilitate integrated analysis of multi-omics data
 * [transPlotR](https://github.com/junjunlab/transPlotR): An elegant package to visualize gene structures
 * [TreeAndLeaf](https://bioconductor.org/packages/release/bioc/html/TreeAndLeaf.html): Displaying binary trees with focus on dendrogram leaves
 * [treemap](https://cran.r-project.org/web/packages/treemap/index.html): Treemap Visualization
