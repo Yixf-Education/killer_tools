@@ -942,6 +942,7 @@
 * [tip](https://cran.r-project.org/web/packages/tip/index.html): ayesian Clustering Using the Table Invitation Prior (TIP)
 * [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining Package
 * [tmap](https://cran.r-project.org/web/packages/tmap/index.html): Thematic Maps
+* [TMEclassifier](https://github.com/LiaoWJLab/TMEclassifier): A classifier for tumor microenvironment subtype based on ensemble machine learning models
 * [toastui](https://cran.r-project.org/web/packages/toastui/index.html): Interactive Tables, Calendars and Charts for the Web
 * [TOmicsVis](https://github.com/cran/TOmicsVis): TranscriptOmics Visualization
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html): A R/Bioconductor package with web interface for drawing elegant interactive tracks or lollipop plot to facilitate integrated analysis of multi-omics data
