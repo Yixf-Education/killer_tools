@@ -258,6 +258,7 @@
 * [fbroc](https://cran.r-project.org/web/packages/fbroc/index.html): Fast Algorithms to Bootstrap Receiver Operating Characteristics Curves
 * [fgsea](https://bioconductor.org/packages/release/bioc/html/fgsea.html): Fast Gene Set Enrichment Analysis
 * [fields](https://mran.microsoft.com/snapshot/2017-02-04/web/packages/fields/index.html): Tools for Spatial Data
+* [figeno](https://github.com/CompEpigen/figeno): Tool for plotting sequencing data along genomic coordinates.
 * [figuRes2](https://cran.r-project.org/web/packages/figuRes2/index.html): Support for a Variety of Figure Production Tasks
 * [FindIT2](https://bioconductor.org/packages/devel/bioc/html/FindIT2.html): find influential TF and Target based on multi-omics data
 * [filehash](https://cran.r-project.org/web/packages/filehash/index.html): Simple Key-Value Database
