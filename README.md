@@ -841,6 +841,7 @@
 * [sf](https://cran.r-project.org/web/packages/sf/index.html): Simple Features for R
 * [SGS](https://sgs.bioinfotoolkits.net/home)：Single-Cell and Spatial Genomics System
 * [shadowtext](https://cran.r-project.org/web/packages/shadowtext/index.html): Shadow Text Grob and Layer
+* [shapviz](https://cran.r-project.org/web/packages/shapviz/index.html): SHAP Visualizations
 * [shiny](https://cran.r-project.org/web/packages/shiny/index.html): Web Application Framework for R
 * [shiny.fluent](https://cran.r-project.org/web/packages/shiny.fluent/index.html): Microsoft Fluent UI for Shiny Apps
 * [shinybody](https://cran.r-project.org/web/packages/shinybody/index.html): An Interactive Anatomography Widget for 'shiny'
