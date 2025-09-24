@@ -909,6 +909,7 @@
 * [TCGAmutations](https://github.com/PoisonAlien/TCGAmutations): R data package for pre-compiled somatic mutations from TCGA cohorts (from Broad Firehose and TCGA MC3 Project)
 * [TCGAplot](https://github.com/tjhwangxiong/TCGAplot): A number of functions were generated to perform pan-cancer DEG analysis, correlation analysis between gene expression and TMB, MSI, TIME, and promoter methylation. Methods for visualization were provided in order to easily perform integrative pan-cancer multi-omics analysis.
 * [TCGAutils](https://bioconductor.org/packages/release/bioc/html/TCGAutils.html): A suite of helper functions for checking and manipulating TCGA data including data obtained from the curatedTCGAData experiment package. These functions aim to simplify and make working with TCGA data more manageable.
+* [TCMNP](https://github.com/tcmlab/TCMNP): Traditional Chinese Medicine Network Pharmacology
 * [TCseq](https://bioconductor.org/packages/release/bioc/html/TCseq.html): Time course sequencing data analysis
 * [tensorflow](https://cran.r-project.org/web/packages/tensorflow/index.html): R Interface to 'TensorFlow'
 * [terra](https://cran.r-project.org/web/packages/terra/index.html): Spatial Data Analysis
