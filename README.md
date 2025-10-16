@@ -147,6 +147,7 @@
 * [conflicted](https://cran.r-project.org/web/packages/conflicted/index.html): An Alternative Conflict Resolution Strategy
 * [ConsensusClusterPlus](https://bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html): algorithm for determining cluster count and membership by stability evidence in unsupervised analysis
 * [contsurvplot](https://cran.r-project.org/web/packages/contsurvplot/index.html): Visualize the Effect of a Continuous Variable on a Time-to-Event Outcome
+* [corplot](https://github.com/cparsania/corplot): An R package to generate heatbox and scatter plots from a feature matrix.
 * [correlation](https://cran.r-project.org/web/packages/correlation/index.html): Methods for Correlation Analysis
 * [corrgram](https://cran.r-project.org/web/packages/corrgram/index.html): Plot a Correlogram
 * [corrmorant](https://github.com/r-link/corrmorant): R package for flexible correlation matrices based on ggplot2
