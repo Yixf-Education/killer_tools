@@ -714,6 +714,7 @@
 * [qqboxplot](https://cran.rstudio.com/web/packages/qqboxplot/index.html): Implementation of the Q-Q Boxplot
 * [qqman](https://cran.r-project.org/web/packages/qqman/index.html): Q-Q and Manhattan Plots for GWAS Data
 * [qqplotr](https://cran.r-project.org/web/packages/qqplotr/index.html): Quantile-Quantile Plot Extensions for 'ggplot2'
+* [QTLMR](https://mp.weixin.qq.com/s/uJzpOMfvUekpsEqmbPwlhA): 为研究人员提供了一套完整且强大的工具，用于揭示基因与疾病之间的因果关系。通过整合 MR、gsMap、coloc、PWcoco、SMR、MTAG、Hess、METAL、LDSC、HDL、SUPERGNOVA、GNOVA、CPASSOC、PLACO、MiXeR、cond/conjFDR、FM_summary、 GCTA_fastBAT、MAGMA、MR-JTI、SMulTiXcan、S-PrediXcan、PoPs、FOCUS、FUSION及UTMOST分析等多种算法，QTLMR包帮助研究人员快速识别疾病的潜在治疗靶点。
 * [qtwAcademic](https://cran.rstudio.com/web/packages/qtwAcademic/index.html): 'Quarto' Website Templates for Academics
 * [quanteda](https://cran.r-project.org/web/packages/quanteda/index.html): Quantitative Analysis of Textual Data
 * [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html): Quantitative Financial Modelling Framework
