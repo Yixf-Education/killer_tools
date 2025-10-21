@@ -607,6 +607,7 @@
 * [MoMAColors](https://github.com/BlakeRMills/MoMAColors): Color Schemes based around artwork and the Museum of Modern Art.
 * [moonBook](https://cran.r-project.org/web/packages/moonBook/index.html): Functions and Datasets for the Book by Keon-Woong Moon
 * [motifStack](https://bioconductor.org/packages/release/bioc/html/motifStack.html): Plot stacked logos for single or multiple DNA, RNA and amino acid sequence
+* [MPAC](https://www.bioconductor.org/packages/release/bioc/html/MPAC.html): Multi-omic Pathway Analysis of Cells
 * [msa](https://bioconductor.org/packages/release/bioc/html/msa.html): Multiple Sequence Alignment
 * [msigdbr](https://cran.r-project.org/web/packages/msigdbr/index.html): MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format
 * [mstate](https://cran.r-project.org/web/packages/mstate/index.html): Data Preparation, Estimation and Prediction in Multi-State Models
