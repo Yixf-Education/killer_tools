@@ -116,6 +116,7 @@
 * [ChIPseeker](https://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html): ChIPseeker for ChIP peak Annotation, Comparison, and Visualization
 * [ChromHeatMap](http://bioconductor.org/packages/release/bioc/html/ChromHeatMap.html): Heat map plotting by genome coordinate
 * [chromoMap](https://cran.r-project.org/web/packages/chromoMap/index.html): Interactive Visualization and Mapping of Chromosomes
+* [CIDE](https://cide.ccr.cancer.gov/): Cancer Immunology Data Engine, aims to help researchers and immune oncologists identifying new regulators of tumor immune evasions and cancer immunotherapy resistance.
 * [circlize](https://github.com/jokergoo/circlize): circular visualization in R
 * [cisDynet](https://github.com/tzhu-bio/cisDynet): An integrated platform for modeling gene-regulatory dynamics and networks
 * [cli](https://cran.r-project.org/web/packages/cli/index.html): Helpers for Developing Command Line Interfaces
