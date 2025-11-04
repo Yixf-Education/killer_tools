@@ -832,7 +832,9 @@
 * [Scissor](https://github.com/sunduanchen/Scissor): Single-Cell Identification of Subpopulations with bulk Sample phenOtype coRrelation
 * [scistreer](https://cran.r-project.org/web/packages/scistreer/index.html): Maximum-Likelihood Perfect Phylogeny Inference at Scale
 * [scitb](https://cran.r-project.org/web/packages/scitb/index.html): Provides Some Useful Functions for Making Statistical Tables
+* [scop](https://github.com/mengxu98/scop): An end-to-end Single-Cell Omics analysis Pipeline designed to facilitate comprehensive analysis and exploration of single-cell omics data.
 * [SCORPIUS](https://cran.rstudio.com/web/packages/SCORPIUS/index.html): Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
+* [SCP](https://zhanghao-njmu.github.io/SCP/): Single Cell Pipeline
 * [scplotter](https://github.com/pwwang/scplotter): scplotter is an R package that is built upon plotthis. It provides a set of functions to visualize single-cell sequencing data in an easy and efficient way.
 * [scPrognosis](https://github.com/XiaomeiLi1/scPrognosis): Single cell transcriptomes improve cancer prognosis
 * [SCpubr](https://cran.r-project.org/web/packages/SCpubr/index.html): Generate Publication Ready Visualizations of Single Cell Transcriptomics Data
