@@ -642,6 +642,7 @@
 * [officedown](https://cran.r-project.org/web/packages/officedown/index.html): Enhanced 'R Markdown' Format for 'Word' and 'PowerPoint'
 * [officer](https://cran.r-project.org/web/packages/officer/index.html): Manipulation of Microsoft Word and PowerPoint Documents
 * [OmicCircos](https://bioconductor.org/packages/release/bioc/html/OmicCircos.html): High-quality circular visualization of omics data
+* [omicScope](https://github.com/junjunlab/omicScope): A Comprehensive and Integrated Framework for Transcriptomic Data Analysis
 * [omicverse](https://github.com/Starlitnightly/omicverse): A python library for multi omics included bulk, single cell and spatial RNA-seq analysis.
 * [ontologyIndex](https://cran.r-project.org/web/packages/ontologyIndex/index.html): Functions for Reading Ontologies into R
 * [openai](https://cran.r-project.org/web/packages/openai/index.html): R Wrapper for OpenAI API
