@@ -502,6 +502,7 @@
 
 * [igraph](https://cran.r-project.org/web/packages/igraph/index.html): Network Analysis and Visualization
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
+* [immunedeconv](https://github.com/omnideconv/immunedeconv): A unified interface to immune deconvolution methods (CIBERSORT, EPIC, quanTIseq, TIMER, xCell, MCPcounter) and mouse deconvolution methods
 * [iml](https://cran.r-project.org/web/packages/iml/index.html): Interpretable Machine Learning
 * [IMvigor210CoreBiologies](http://research-pub.gene.com/IMvigor210CoreBiologies/): TGF-b attenuates tumor response to PD-L1 blockade by contributing to exclusion of T cells
 * [infer](https://cran.r-project.org/web/packages/infer/index.html): Tidy Statistical Inference
