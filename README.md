@@ -398,6 +398,7 @@
 * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html): 'ggplot2' Based Publication Ready Plots
 * [ggpval](https://cran.r-project.org/web/packages/ggpval/index.html): Annotate Statistical Tests for 'ggplot2'
 * [ggradar](https://github.com/ricardo-bion/ggradar): radar charts with ggplot2
+* [ggradar2](https://github.com/xl0418/ggradar2): ggradar2 is a gg-function to draw a radar plot for data analysis. It is stem from ggradar but has been extended with new features.
 * [ggrain](https://cran.r-project.org/web/packages/ggrain/index.html): A Rainclouds Geom for 'ggplot2'
 * [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html): An Implementation of Grammar of Graphics for Graphs and Networks
 * [ggrastr](https://cran.rstudio.com/web/packages/ggrastr/index.html): Rasterize Layers for 'ggplot2'
