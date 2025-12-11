@@ -757,6 +757,7 @@
 * [rcssci](https://cran.r-project.org/web/packages/rcssci/index.html): Visualization of Restricted Cubic Splines
 * [reactable](https://cran.r-project.org/web/packages/reactable/index.html): Interactive Data Tables Based on 'React Table'
 * [reactablefmtr](https://kcuilla.github.io/reactablefmtr/index.html): The {reactablefmtr} package streamlines and enhances the styling and formatting of tables built with the {reactable} **R** package. The {reactablefmtr} package provides many conditional formatters that are highly customizable and easy to use.
+* [recall](https://github.com/lcrawlab/recall): Calibrated clustering with artificial variables to avoid over-clustering in single-cell RNA-sequencing
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
 * [refdb](https://cran.r-project.org/web/packages/refdb/index.html): A DNA Reference Library Manager
 * [regexplain](https://github.com/gadenbuie/regexplain): 🔍 An RStudio addin slash regex utility belt
