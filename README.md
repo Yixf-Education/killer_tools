@@ -64,6 +64,7 @@
 * [bestNormalize](https://cran.r-project.org/web/packages/bestNormalize/index.html): Normalizing Transformation Functions
 * [bestglm](https://cran.r-project.org/web/packages/bestglm/index.html): Best Subset GLM and Regression Utilities
 * [bibliometrix](https://cran.r-project.org/web/packages/bibliometrix/index.html): Comprehensive Science Mapping Analysis
+* [BiblioVista](https://smuonco.shinyapps.io/BiblioVista/): BiblioVista is developed to make bibliometric analysis accessible to researchers without programming expertise.
 * [bigstatsr](https://cran.r-project.org/web/packages/bigstatsr/index.html): Statistical Tools for Filebacked Big Matrices
 * [BiocFileCache](https://bioconductor.org/packages/release/bioc/html/BiocFileCache.html): Manage Files Across Sessions
 * [BioInstaller](https://cran.r-project.org/web/packages/BioInstaller/index.html): Integrator of Bioinformatics Resources
