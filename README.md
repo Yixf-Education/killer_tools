@@ -1496,6 +1496,7 @@
 * [数据库介绍 | 人类衰老基因资源：老龄化研究中的关键数据库更新](https://mp.weixin.qq.com/s/3b2J2v-8GVbj_9sPCXQ6CA)
 * [scCancerExplorer](https://bianlab.cn/scCancerExplorer/home)
 * [TTD](https://db.idrblab.net/ttd/): Therapeutic Target Database
+* [namiRa](https://namira-db.com/): A manually curated database for microRNAs in cancer
 
 # Algorithm
 
