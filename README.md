@@ -1498,6 +1498,7 @@
 * [scCancerExplorer](https://bianlab.cn/scCancerExplorer/home)
 * [TTD](https://db.idrblab.net/ttd/): Therapeutic Target Database
 * [namiRa](https://namira-db.com/): A manually curated database for microRNAs in cancer
+* [CIMA: TrueBlood DataBase - TrueBlood - 大人群外周血/骨髓数据库](https://db.cngb.org/trueblood/cima/)
 
 # Algorithm
 
