@@ -1468,6 +1468,7 @@
 * [Bioinformatics](https://replikation.github.io/bioinformatics_side/): Bioinformatics Collection, a collection of lectures, programs, tools, tutorials etc.
 * [wwood/kingfisher-download](https://github.com/wwood/kingfisher-download): Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 * [Bioart](https://bioart.niaid.nih.gov/): Build figures, presentations, and illustrations with 2,000+ science and medical art visuals. This collection of high-quality, scientifically accurate vectors, icons, and brushes is freely available within the public domain.
+* [alignoth](https://github.com/alignoth/alignoth): Creating alignment plots from bam files
 
 # Databases
 
