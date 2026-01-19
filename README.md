@@ -623,6 +623,7 @@
 * [multcomp](https://cran.r-project.org/web/packages/multcomp/index.html): Simultaneous Inference in General Parametric Models
 * [multcompView](https://cran.r-project.org/web/packages/multcompView/index.html): Visualizations of Paired Comparisons
 * [multiMiR](https://bioconductor.org/packages/release/bioc/html/multiMiR.html): Integration of multiple microRNA-target databases with their disease and drug associations
+* [MultiModalGraphics](https://github.com/famanalytics0/MultiModalGraphics): A unified R/Bioconductor package for creating publication-quality volcano plots and custom heatmaps from diverse biological data sources.****
 * [multiROC](https://cran.r-project.org/web/packages/multiROC/index.html): Calculating and Visualizing ROC and PR Curves Across Multi-Class Classifications
 * [musicatk](https://bioconductor.org/packages/release/bioc/html/musicatk.html): Mutational Signature Comprehensive Analysis Toolkit
 
