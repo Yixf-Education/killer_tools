@@ -954,6 +954,7 @@
 * [tidytext](https://cran.r-project.org/web/packages/tidytext/index.html): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
 * [tidytidbits](https://cran.r-project.org/web/packages/tidytidbits/index.html): A Collection of Tools and Helpers Extending the Tidyverse
 * [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): Easily Install and Load the 'Tidyverse'
+* [tigeR: 🐯 ](https://github.com/YuLab-SMU/tigeR)Tumor Immunotherapy Gene Expression Data Analysis R package
 * [timeROC](https://cran.r-project.org/web/packages/timeROC/index.html): Time-Dependent ROC Curve and AUC for Censored Survival Data
 * [timetk](https://cran.r-project.org/web/packages/timetk/index.html): A Tool Kit for Working with Time Series in R
 * [tinyarray](https://cran.r-project.org/web/packages/tinyarray/index.html): Expression Data Analysis and Visualization
