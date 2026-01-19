@@ -306,6 +306,7 @@
 * [GenomicRanges](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html): Representation and manipulation of genomic intervals
 * [GenVisR](https://bioconductor.org/packages/release/bioc/html/GenVisR.html): Genomic Visualizations in R
 * [geojsonsf](https://cran.r-project.org/web/packages/geojsonsf/index.html): GeoJSON to Simple Feature Converter
+* [geoLLM](https://github.com/BioinfoXP/geoLLM): Utilizes Large Language Models (LLMs) to screen Gene Expression Omnibus (GEO) metadata based on semantic understanding. Features automatic batch processing, context-aware filtering (Disease, Data Type, Species), and built-in classified datasets.
 * [geomnet](http://cran.nexr.com/web/packages/geomnet/index.html): Network Visualization in the 'ggplot2' Framework
 * [geomtextpath](https://cran.r-project.org/web/packages/geomtextpath/index.html): Curved Text in 'ggplot2'
 * [geoR](https://cran.r-project.org/web/packages/geoR/index.html): Analysis of Geostatistical Data
