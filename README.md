@@ -1524,3 +1524,4 @@
 # AI
 
 * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file): Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+* [LXLTX-nsfc_writer](https://github.com/lxltx2025/LXLTX-nsfc_writer): Build Your Own Local AI-Powered NSFC Proposal Writing Assistant
