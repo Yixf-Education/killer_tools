@@ -1507,7 +1507,7 @@
 
 * [The Algorithms](https://the-algorithms.com/)
 
-  # Protocols
+# Protocols
 
 * [Protocol Exchange on Research Square](https://protocolexchange.researchsquare.com/)
 
@@ -1521,3 +1521,6 @@
 
 * 
 
+# AI
+
+* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file): Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
