@@ -1503,6 +1503,7 @@
 * [TTD](https://db.idrblab.net/ttd/): Therapeutic Target Database
 * [namiRa](https://namira-db.com/): A manually curated database for microRNAs in cancer
 * [CIMA: TrueBlood DataBase - TrueBlood - 大人群外周血/骨髓数据库](https://db.cngb.org/trueblood/cima/)
+* [OneK1K](https://onek1k.org/): The OneK1K cohort consists of single-cell RNA sequencing (scRNA-seq) data from 1.27 million peripheral blood mononuclear cells (PMBCs) collected from 982 donors. We developed a framework for the classification of individual cells, and by combining the scRNA-seq data with genotype data, we mapped the genetic effects on gene expression in each of 14 immune cell types and identified 26,597 independent cis–expression quantitative trait loci (eQTLs).
 
 # Algorithm
 
