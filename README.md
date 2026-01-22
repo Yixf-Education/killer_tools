@@ -830,6 +830,7 @@
 * [scatterplot3d](https://cran.r-project.org/web/packages/scatterplot3d/index.html): 3D Scatter Plot
 * [scatterPlotMatrix](https://cran.r-project.org/web/packages/scatterPlotMatrix/index.html): 'Htmlwidget' for a Scatter Plot Matrix & Multiple Scatter Plot
 * [scCancer](https://github.com/wguo-research/scCancer): A package for automated processing of single cell RNA-seq data in cancer
+* [scct-db](http://scctdb.ncpsb.org.cn/home): scCT-DB is a unique, interactive, user-friendly, and comprehensive data resource for basic and clinical researchers to access, integrate, and reuse cancer patient-derived paired pre- and post-treatment single-cell transcriptomic data, mainly facilitating drug perturbation and drug resistance mechanism elucidation at the single-cell resolution.
 * [scCustomize](https://cran.r-project.org/web/packages/scCustomize/index.html): Custom Visualizations & Functions for Streamlined Analyses of Single Cell Sequencing
 * [scDiffCom](https://cran.rstudio.com/web/packages/scDiffCom/index.html): Differential Analysis of Intercellular Communication from scRNA-Seq Data
 * [scDotPlot](https://www.bioconductor.org/packages/release/bioc/html/scDotPlot.html): Cluster a Single-cell RNA-seq Dot Plot
