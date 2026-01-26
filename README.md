@@ -659,6 +659,7 @@
 * [options](https://cran.r-project.org/web/packages/options/): Simple, Consistent Package Options
 * [optparse](https://cran.r-project.org/web/packages/optparse/index.html): Command Line Option Parser
 * [OrgHeatmap](https://cran.r-project.org/web/packages/OrgHeatmap/index.html): Visualization Tool for Numerical Data on Human/Mouse Organs and Organelles
+* [orthogene](https://neurogenomics.github.io/orthogene/): gene mapping made easy
 * [overviewR](https://cran.r-project.org/web/packages/overviewR/index.html): Easily Extracting Information About Your Data
 
 ### P
