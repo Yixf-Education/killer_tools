@@ -40,6 +40,7 @@
 * [animate](https://cran.rstudio.com/web/packages/animate/index.html): A Web-Based Graphics Device for Animated Visualisations
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
+* [annotaR](https://cran.r-project.org/web/packages/annotaR/): Tidy, Integrated Gene Annotation
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
 * [AnnotationHub](https://bioconductor.org/packages/release/bioc/html/AnnotationHub.html): Client to access AnnotationHub resources
 * [aPEAR](https://cran.r-project.org/web/packages/aPEAR/index.html): Advanced Pathway Enrichment Analysis Representation
