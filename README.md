@@ -339,6 +339,7 @@
 * [ggcor](https://github.com/houyunhuang/ggcor): Extended tools for correlation analysis and visualization
 * [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/index.html): Visualization of a Correlation Matrix using 'ggplot2'
 * [ggcorrplot2](https://github.com/caijun/ggcorrplot2): Implementation of corrplot using ggplot2
+* [ggcoverage](https://github.com/showteeth/ggcoverage): Visualize and annotate genomic coverage with ggplot2
 * [ggCyberPunk](https://github.com/delabj/ggCyberPunk): A "Geom" for creating charts with a cyberpunk aesthetic
 * [ggcyto](https://www.bioconductor.org/packages/release/bioc/html/ggcyto.html): Visualize Cytometry data with ggplot
 * [ggDCA](https://cran.r-project.org/web/packages/ggDCA/index.html): Calculate and Plot Decision Curve
