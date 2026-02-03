@@ -1507,6 +1507,9 @@
 * [namiRa](https://namira-db.com/): A manually curated database for microRNAs in cancer
 * [CIMA: TrueBlood DataBase - TrueBlood - 大人群外周血/骨髓数据库](https://db.cngb.org/trueblood/cima/)
 * [OneK1K](https://onek1k.org/): The OneK1K cohort consists of single-cell RNA sequencing (scRNA-seq) data from 1.27 million peripheral blood mononuclear cells (PMBCs) collected from 982 donors. We developed a framework for the classification of individual cells, and by combining the scRNA-seq data with genotype data, we mapped the genetic effects on gene expression in each of 14 immune cell types and identified 26,597 independent cis–expression quantitative trait loci (eQTLs).
+* [小编收集了27个癌种，共347个数据集以及19个免疫治疗（ICI）数据集，并整理了详细的临床资料，预后信息。可以供大家下载使用！](https://mp.weixin.qq.com/s/blQJ8peJJXfuv3jROHsLBQ)
+* [Zaoqu-Liu/SurvivalML: Identification and Validation Robust Prognostic Biomarkers and Signatures in Solid Tumors](https://github.com/Zaoqu-Liu/SurvivalML?tab=readme-ov-file)
+* [肿瘤免疫研究者不能不知道的在线数据库](https://mp.weixin.qq.com/s/45_oWWUbKFbc7ReSi7w0pg)
 
 # Algorithm
 
