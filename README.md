@@ -701,6 +701,7 @@
 * [plot1cell](https://github.com/TheHumphreysLab/plot1cell): a package for advanced single cell data visualization
 * [plot2](https://github.com/grantmcdermott/plot2): Lightweight extension of base R's plot system
 * [plot3D](https://cran.r-project.org/web/packages/plot3D/index.html): Plotting Multi-Dimensional Data
+* [PlotGDP](https://plotgdp.biogdp.com/): AI Agent for Bioinformatics Plotting
 * [plotrix](https://cran.r-project.org/web/packages/plotrix/index.html): Various Plotting Functions
 * [plotthis](https://github.com/pwwang/plotthis): plotthis is an R package that is built upon ggplot2 and other plotting packages.
 * [PMCMRplus](https://cran.r-project.org/web/packages/PMCMRplus/index.html): Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
