@@ -53,6 +53,7 @@
 * [autoGO](https://cran.r-project.org/web/packages/autoGO/index.html): Reproducible, Robust and High Quality Ontology Enrichment Visualizations
 * [autoplotly](https://cran.r-project.org/web/packages/autoplotly/index.html): Automatic Generation of Interactive Visualizations for Statistical Results
 * [autoReg](https://cran.r-project.org/web/packages/autoReg/index.html): Automatic Linear and Logistic Regression and Survival Analysis
+* [autoSeurat](https://github.com/xiaoqqjun/autoSeurat): Automated Seurat Object Creation from 10X Genomics Data
 
 ### B
 
