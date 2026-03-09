@@ -859,6 +859,7 @@
 * [SCpubr](https://cran.r-project.org/web/packages/SCpubr/index.html): Generate Publication Ready Visualizations of Single Cell Transcriptomics Data
 * [scRNAstat](https://cran.r-project.org/web/packages/scRNAstat/index.html): A Pipeline to Process Single Cell RNAseq Data
 * [scRNAtoolVis](https://github.com/junjunlab/scRNAtoolVis): Useful functions to make your scRNA-seq plot more cool!
+* [ScType](https://github.com/IanevskiAleksandr/sc-type?tab=readme-ov-file): Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data
 * [see](https://cran.r-project.org/web/packages/see/index.html): Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
 * [seriation](https://cran.r-project.org/web/packages/seriation/index.html): Infrastructure for Ordering Objects Using Seriation
