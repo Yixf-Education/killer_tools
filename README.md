@@ -558,6 +558,7 @@
 * [lindia](https://cran.r-project.org/web/packages/lindia/index.html): Automated Linear Regression Diagnostic
 * [LinkageMapView](https://cran.r-project.org/web/packages/LinkageMapView/index.html): Plot Linkage Group Maps with Quantitative Trait Loci
 * [linkET](https://github.com/Hy4m/linkET): visualize simply and directly a matrix heatmap based on ‘ggplot2’
+* [lubridate](https://cran.r-project.org/web/packages/lubridate/index.html): Make Dealing with Dates a Little Easier
 
 ### M
 
