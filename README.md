@@ -1028,6 +1028,7 @@
 ### W
 
 * [waldo](https://cran.r-project.org/web/packages/waldo/index.html): Find Differences Between R Objects
+* [Webminal](https://www.webminal.org/): Free GNU/Linux Online Terminal
 * [webpea](https://github.com/nucleic-acid/webpea): Tool to save R plots in WebP format
 * [webr](https://cran.r-project.org/web/packages/webr/index.html): Data and Functions for Web-Based Analysis
 * [wesanderson](https://cran.r-project.org/web/packages/wesanderson/index.html): A Wes Anderson Palette Generator
