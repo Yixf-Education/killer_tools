@@ -510,6 +510,7 @@
 ### I
 
 * [igraph](https://cran.r-project.org/web/packages/igraph/index.html): Network Analysis and Visualization
+* [irGSEA](https://github.com/chuiqin/irGSEA): The integration of single cell rank-based gene set enrichment analysis
 * [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html): Interactive, Complex Heatmaps
 * [immunedeconv](https://github.com/omnideconv/immunedeconv): A unified interface to immune deconvolution methods (CIBERSORT, EPIC, quanTIseq, TIMER, xCell, MCPcounter) and mouse deconvolution methods
 * [iml](https://cran.r-project.org/web/packages/iml/index.html): Interpretable Machine Learning
