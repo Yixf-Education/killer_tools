@@ -112,6 +112,7 @@
 * [cell2location](https://github.com/BayraktarLab/cell2location): Comprehensive mapping of tissue cell architecture via integrated single cell and spatial transcriptomics (cell2location model)
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
 * [cellGeometry](https://cran.r-project.org/web/packages/cellGeometry/index.html): Geometric Single Cell Deconvolution
+* [CellHit](https://cellhit.bioinfolab.sns.it/): 一键预测癌症患者药物反应，覆盖686+种细胞系、286+种化疗与靶向药物
 * [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type annotation
 * [cellxgenedp](https://bioconductor.org/packages/release/bioc/html/cellxgenedp.html): Discover and Access Single Cell Data Sets in the cellxgene Data Portal
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html): R-Based API for Accessing the MSKCC Cancer Genomics Data Server (CGDS)
