@@ -218,6 +218,7 @@
 * [easierData](https://bioconductor.org/packages/release/data/experiment/html/easierData.html): easier internal data and exemplary dataset from IMvigor210CoreBiologies package
 * [easyalluvial](https://cran.r-project.org/web/packages/easyalluvial/index.html): Generate Alluvial Plots with a Single Line of Code
 * [easylabel](https://cran.r-project.org/web/packages/easylabel/index.html): Interactive Scatter Plot and Volcano Plot Labels
+* [EasyMultiProfiler](https://github.com/liubingdong/EasyMultiProfiler): The EasyMultiProfiler package aims to offer a user-friendly and efficient multi-omics data analysis tool on the R platform. It facilitates various essential tasks related to microbiome, genome, and metabolite downstream analysis, providing a seamless workflow from start to finish.
 * [easyPubMed](https://cran.r-project.org/web/packages/easyPubMed/index.html): Search and Retrieve Scientific Publication Records from PubMed
 * [EasyPubROC](https://github.com/tiandongli/EasyPubROC): Simplify ROC analysis and visualization
 * [EasyStat](https://github.com/taowenmicro/EasyStat): 差异分析完整解决方案
@@ -304,6 +305,7 @@
 * [GDCRNATools](https://bioconductor.org/packages/release/bioc/html/GDCRNATools.html): an R/Bioconductor package for integrative analysis of lncRNA, mRNA, and miRNA data in GDC
 * [geneHapR](https://cran.r-project.org/web/packages/geneHapR/index.html): Gene Haplotype Statistics, Phenotype Association and Visualization
 * [genekitr](https://cran.r-project.org/web/packages/genekitr/index.html): Gene Analysis Toolkit
+* [geneSync](https://github.com/xiaoqqjun/geneSync): Gene Symbol and ID Conversion with Synonym Support
 * [geneviewer](https://nvelden.github.io/geneviewer/index.html): Gene Cluster Visualizations in R
 * [genieBPC](https://cran.r-project.org/web/packages/genieBPC/index.html): Project GENIE BioPharma Collaborative Data Processing Pipeline
 * [genomepy](https://github.com/vanheeringen-lab/genomepy?tab=readme-ov-file): genes and genomes at your fingertips
