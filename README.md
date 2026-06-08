@@ -100,6 +100,7 @@
 * [Cairo](https://cran.r-project.org/web/packages/Cairo/index.html): R Graphics Device using Cairo Graphics Library for Creating High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display (X11 and Win32) Output
 * [calendR](https://cran.r-project.org/web/packages/calendR/index.html): Ready to Print Monthly and Yearly Calendars Made with 'ggplot2'
 * [camcorder](https://github.com/thebioengineer/camcorder): Record plots generated during an R session and replay as a gif!
+* [CancerOmicsStudio - Home](https://cos.wanglab.bio/): Integrative multi-omics cancer analysis with drug, CRISPR, and single-cell modules
 * [canvasXpress](https://cran.r-project.org/web/packages/canvasXpress/index.html): Visualization Package for CanvasXpress in R
 * [car](https://cran.r-project.org/web/packages/car/index.html): Companion to Applied Regression
 * [caret](https://cran.r-project.org/web/packages/caret/index.html): Classification and Regression Training; Misc functions for training and plotting classification and regression models.
@@ -865,6 +866,7 @@
 * [SCpubr](https://cran.r-project.org/web/packages/SCpubr/index.html): Generate Publication Ready Visualizations of Single Cell Transcriptomics Data
 * [scRNAstat](https://cran.r-project.org/web/packages/scRNAstat/index.html): A Pipeline to Process Single Cell RNAseq Data
 * [scRNAtoolVis](https://github.com/junjunlab/scRNAtoolVis): Useful functions to make your scRNA-seq plot more cool!
+* [scTenifoldKnk](https://cran.r-project.org/web/packages/scTenifoldKnk/index.html): In-Silico Knockout Experiments from Single-Cell Gene Regulatory Networks
 * [ScType](https://github.com/IanevskiAleksandr/sc-type?tab=readme-ov-file): Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data
 * [see](https://cran.r-project.org/web/packages/see/index.html): Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
