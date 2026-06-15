@@ -39,6 +39,7 @@
 * [AGAT](https://github.com/NBISweden/AGAT): Another Gtf/Gff Analysis Toolkit https://nbisweden.github.io/AGAT/
 * [animate](https://cran.rstudio.com/web/packages/animate/index.html): A Web-Based Graphics Device for Animated Visualisations
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
+* [anndataR](https://anndatar.scverse.org/): An R package for working with AnnData objects
 * [AnnoProbe](https://github.com/jmzeng1314/AnnoProbe): 表达芯片数据分析伴侣
 * [annotaR](https://cran.r-project.org/web/packages/annotaR/): Tidy, Integrated Gene Annotation
 * [annotater](https://github.com/luisDVA/annotater): The goal of annotater is to annotate package load calls in character strings and R/Rmd files, so we can have an idea of the overall purpose of the libraries we’re loading.
@@ -867,6 +868,7 @@
 * [scRNAstat](https://cran.r-project.org/web/packages/scRNAstat/index.html): A Pipeline to Process Single Cell RNAseq Data
 * [scRNAtoolVis](https://github.com/junjunlab/scRNAtoolVis): Useful functions to make your scRNA-seq plot more cool!
 * [scTenifoldKnk](https://cran.r-project.org/web/packages/scTenifoldKnk/index.html): In-Silico Knockout Experiments from Single-Cell Gene Regulatory Networks
+* [scTour](https://sctour.readthedocs.io/en/latest/): a deep learning architecture for robust inference and accurate prediction of cellular dynamics
 * [ScType](https://github.com/IanevskiAleksandr/sc-type?tab=readme-ov-file): Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data
 * [see](https://cran.r-project.org/web/packages/see/index.html): Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
