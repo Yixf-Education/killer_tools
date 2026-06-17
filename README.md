@@ -560,6 +560,7 @@
 * [leafletCN](https://cran.r-project.org/web/packages/leafletCN/index.html): An R Gallery for China and Other Geojson Choropleth Map in Leaflet
 * [learnr](https://cran.r-project.org/web/packages/learnr/index.html): Interactive Tutorials for R
 * [legendMap](https://github.com/3wen/legendMap): Provides functions to add a North arrow and/or a scale bar to maps done using ggplot2
+* [legendry](https://cran.r-project.org/web/packages/legendry/index.html): Extended Legends and Axes for 'ggplot2'
 * [lfmm](https://cran.r-project.org/web/packages/lfmm/index.html): Latent Factor Mixed Models
 * [lime](https://cran.r-project.org/web/packages/lime/index.html): Local Interpretable Model-Agnostic Explanations
 * [lindia](https://cran.r-project.org/web/packages/lindia/index.html): Automated Linear Regression Diagnostic
@@ -690,6 +691,7 @@
 * [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html): The Composer of ggplots
 * [pathlinkR](https://www.bioconductor.org/packages/release/bioc/html/pathlinkR.html): Analyze and interpret RNA-Seq results
 * [pathview](https://www.bioconductor.org/packages/release/bioc/html/pathview.html): a tool set for pathway based data integration and visualization
+* [PathwayDenester](https://pathwaydenester.pythonanywhere.com/): Determining the likelihood that a pathway is enriched on its own and not due to intersection with more significant pathways
 * [patternplot](https://cran.r-project.org/web/packages/patternplot/index.html): Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * [pbapply](https://cran.rstudio.com/web/packages/pbapply/index.html): Adding Progress Bar to '*apply' Functions
 * [PCAtools](https://bioconductor.org/packages/release/bioc/html/PCAtools.html): Everything Principal Components Analysis
