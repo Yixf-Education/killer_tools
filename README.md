@@ -863,6 +863,7 @@
 * [Scissor](https://github.com/sunduanchen/Scissor): Single-Cell Identification of Subpopulations with bulk Sample phenOtype coRrelation
 * [scistreer](https://cran.r-project.org/web/packages/scistreer/index.html): Maximum-Likelihood Perfect Phylogeny Inference at Scale
 * [scitb](https://cran.r-project.org/web/packages/scitb/index.html): Provides Some Useful Functions for Making Statistical Tables
+* [sclet](https://github.com/YuLab-SMU/sclet): A State-Aware Single-Cell and Spatial Transcriptomics Toolkit for SingleCellExperiment
 * [scop](https://github.com/mengxu98/scop): An end-to-end Single-Cell Omics analysis Pipeline designed to facilitate comprehensive analysis and exploration of single-cell omics data.
 * [SCORPIUS](https://cran.rstudio.com/web/packages/SCORPIUS/index.html): Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
 * [SCP](https://zhanghao-njmu.github.io/SCP/): Single Cell Pipeline
