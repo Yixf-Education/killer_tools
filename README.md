@@ -500,6 +500,7 @@
 
 * [h2o](https://cran.r-project.org/web/packages/h2o/index.html): R Interface for the 'H2O' Scalable Machine Learning Platform
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
+* [HCMI Explorer Suite](https://appshare.cancer.gov/HCMI_Explorer_Suite/):  This Shiny app provides comprehensive tools for exploring HCMI models with three main modules: Clinical, Genomic, and Celligner.
 * [hdrcde](https://cran.r-project.org/web/packages/hdrcde/index.html): Highest Density Regions and Conditional Density Estimation
 * [heatmaply](https://cran.r-project.org/web/packages/heatmaply/index.html): Interactive Cluster Heat Maps Using 'plotly' and 'ggplot2'
 * [here](https://cran.r-project.org/web/packages/here/index.html): A Simpler Way to Find Your Files
