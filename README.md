@@ -879,6 +879,7 @@
 * [ScType](https://github.com/IanevskiAleksandr/sc-type?tab=readme-ov-file): Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data
 * [see](https://cran.r-project.org/web/packages/see/index.html): Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
 * [seqinr](https://cran.r-project.org/web/packages/seqinr/index.html): Biological Sequences Retrieval and Analysis
+* [seqout](https://seqout.org/):  Search GEO, SRA, ENA, DRA, GEA, GSA & ArrayExpress
 * [seriation](https://cran.r-project.org/web/packages/seriation/index.html): Infrastructure for Ordering Objects Using Seriation
 * [SeuratExtend](https://github.com/huayc09/SeuratExtend): An Enhanced Toolkit for scRNA-seq Analysis
 * [SeuratIntegrate](https://github.com/cbib/Seurat-Integrate): R package expanding integrative analysis capabilities of Seurat by providing seamless access to popular integration methods and to an integration benchmarking toolkit.
