@@ -860,6 +860,7 @@
 * [scGSVA](https://github.com/guokai8/scGSVA): scGSVA: Perform GSVA for single cell RNA seq
 * [schex](https://www.bioconductor.org/packages/release/bioc/html/schex.html): Hexbin plots for single cell omics data
 * [scholar](https://cran.r-project.org/web/packages/scholar/index.html): Analyse Citation Data from Google Scholar
+* [YuLab-SMU/scholar](https://github.com/YuLab-SMU/scholar): Analyse citation data from Google Scholar
 * [scico](https://cran.r-project.org/web/packages/scico/index.html): Colour Palettes Based on the Scientific Colour-Maps
 * [Scillus](https://github.com/xmc811/Scillus): R Package for Single-Cell Dataset Processing and Visualization
 * [Scissor](https://github.com/sunduanchen/Scissor): Single-Cell Identification of Subpopulations with bulk Sample phenOtype coRrelation
