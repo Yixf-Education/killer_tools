@@ -1026,6 +1026,7 @@
 * [vip](https://cran.r-project.org/web/packages/vip/index.html): Variable Importance Plots
 * [viper](https://bioconductor.org/packages/release/bioc/html/viper.html): Virtual Inference of Protein-activity by Enriched Regulon analysis
 * [viridis](https://cran.r-project.org/web/packages/viridis/index.html): Default Color Maps from 'matplotlib'
+* [Virtual Aging Cell — Insilico Medicine](https://virtualcell.insilico.com/): The Virtual Aging Cell is Insilico's next step beyond the Precious series of Large Language of Life Models — a generative model of the cell you can perturb *in silico*, with one axis most virtual cells leave out: *age*. Set a species, a tissue, an age, a compound, and read the response across transcriptome, proteome, and methylome.
 * [viscomp](https://cran.r-project.org/web/packages/viscomp/index.html): Visualize Multi-Component Interventions in Network Meta-Analysis
 * [visdat](https://cran.r-project.org/web/packages/visdat/index.html): Preliminary Visualisation of Data
 * [visNetwork](https://cran.r-project.org/web/packages/visNetwork/index.html): Network Visualization using 'vis.js' Library
