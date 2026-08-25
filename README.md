@@ -193,6 +193,7 @@
 * [DemographicTable](https://cran.r-project.org/web/packages/DemographicTable/index.html): Creating Demographic Table
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
 * [dendsort](https://cran.rstudio.com/web/packages/dendsort/index.html): Modular Leaf Ordering Methods for Dendrogram Nodes
+* [dentomedical](https://cran.r-project.org/web/packages/dentomedical/index.html): Publication-Ready Descriptive, Bivariate, Regression, Correlation and Diagnostic Accuracy Tools for Medical and Dental Data
 * [descriptr](https://cran.r-project.org/web/packages/descriptr/index.html): Generate Descriptive Statistics
 * [DescrTab2](https://cran.r-project.org/web/packages/DescrTab2/index.html): Publication Quality Descriptive Statistics Tables
 * [DescTools](https://cran.r-project.org/web/packages/DescTools/index.html): Tools for Descriptive Statistics
@@ -689,6 +690,7 @@
 * [paletteer](https://cran.r-project.org/web/packages/paletteer/index.html): Comprehensive Collection of Color Palettes
 * [parabar](https://cran.r-project.org/web/packages/parabar/index.html): Progress Bar for Parallel Tasks
 * [parameters](https://cran.r-project.org/web/packages/parameters/index.html): Processing of Model Parameters
+* [parcats](https://erblast.github.io/parcats/): Interactive Parallel Categories Diagrams for easyalluvial
 * [parsnip](https://cran.r-project.org/web/packages/parsnip/index.html): A Common API to Modeling and Analysis Functions
 * [parttime](https://cran.r-project.org/web/packages/parttime/index.html): Partial Datetime Handling
 * [parttree](https://github.com/grantmcdermott/parttree): Simple package for plotting decision tree partitions in R
