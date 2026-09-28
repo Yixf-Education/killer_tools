@@ -117,6 +117,7 @@
 * [cellbaseR](https://www.bioconductor.org/packages/release/bioc/html/cellbaseR.html): Querying annotation data from the high performance Cellbase web
 * [cellGeometry](https://cran.r-project.org/web/packages/cellGeometry/index.html): Geometric Single Cell Deconvolution
 * [CellHit](https://cellhit.bioinfolab.sns.it/): 一键预测癌症患者药物反应，覆盖686+种细胞系、286+种化疗与靶向药物
+* [CellOracle](https://github.com/morris-lab/CellOracle): This is the alpha version of the CellOracle package
 * [celltypist](https://github.com/Teichlab/celltypist): A tool for semi-automatic cell type annotation
 * [cellxgenedp](https://bioconductor.org/packages/release/bioc/html/cellxgenedp.html): Discover and Access Single Cell Data Sets in the cellxgene Data Portal
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html): R-Based API for Accessing the MSKCC Cancer Genomics Data Server (CGDS)
@@ -555,6 +556,7 @@
 * [ keras](https://cran.r-project.org/web/packages/keras/index.html): R Interface to 'Keras'
 * [kingfisher-download](https://github.com/wwood/kingfisher-download): Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 * [KMunicate](https://cran.r-project.org/web/packages/KMunicate/index.html): KMunicate-Style Kaplan–Meier Plots
+* [KnockTFv2](http://www.licpathway.net/KnockTF/index.php): a comprehensive gene expression profile database with knockdown/knockout of transcription (co-)factors in multiple species
 
 ### L
 
