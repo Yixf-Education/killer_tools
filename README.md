@@ -840,6 +840,9 @@
 * [rticles](https://cran.r-project.org/web/packages/rticles/index.html): Article Formats for R Markdown
 * [rtracklayer](https://bioconductor.org/packages/release/bioc/html/rtracklayer.html): R interface to genome annotation files and the UCSC genome browser
 * [Rtsne](https://cran.r-project.org/web/packages/Rtsne/index.html): T-Distributed Stochastic Neighbor Embedding using a Barnes-Hut Implementation
+* [Rummagene](https://rummagene.com/): Rummage through **1,037,853** gene sets, extracted from supporting tables of **206,214** articles
+
+  to find the most similar gene sets that match your query.
 * [runway](https://github.com/ML4LHS/runway): Visualizing Prediction Model Performance
 * [RVA](https://cran.r-project.org/web/packages/RVA/index.html): RNAseq Visualization Automation
 * [rvcheck](https://cran.rstudio.com/web/packages/rvcheck/index.html): R/Package Version Check, Check latest release version of R and R package (both in 'CRAN', 'Bioconductor' or 'Github')
