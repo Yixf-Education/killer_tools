@@ -39,6 +39,7 @@
 * [AGAT](https://github.com/NBISweden/AGAT): Another Gtf/Gff Analysis Toolkit https://nbisweden.github.io/AGAT/
 * [Aging Biobank](https://cbb.cncb.ac.cn/abb/): [首页 - Aging Biobank](https://cbb.cncb.ac.cn/abb/)
 * [aisdk:](https://github.com/YuLab-SMU/aisdk) 🤖 A production-grade framework for building AI-powered applications in R.
+* [AlphaGenome Atlas](https://deepmind.google.com/science/alphagenome/atlas): Using AI to understand the human genome
 * [animate](https://cran.rstudio.com/web/packages/animate/index.html): A Web-Based Graphics Device for Animated Visualisations
 * [animation](https://cran.r-project.org/web/packages/animation/index.html): A Gallery of Animations in Statistics and Utilities to Create Animations
 * [anndataR](https://anndatar.scverse.org/): An R package for working with AnnData objects
