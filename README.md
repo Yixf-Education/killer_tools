@@ -196,6 +196,7 @@
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/index.html): Extending 'dendrogram' Functionality in R
 * [dendsort](https://cran.rstudio.com/web/packages/dendsort/index.html): Modular Leaf Ordering Methods for Dendrogram Nodes
 * [dentomedical](https://cran.r-project.org/web/packages/dentomedical/index.html): Publication-Ready Descriptive, Bivariate, Regression, Correlation and Diagnostic Accuracy Tools for Medical and Dental Data
+* [DEPTH](https://github.com/WangX-Lab/DEPTH): DEPTH evaluates the intratumor heterogeneity (ITH) level of each tumor sample based on gene expression profiles
 * [descriptr](https://cran.r-project.org/web/packages/descriptr/index.html): Generate Descriptive Statistics
 * [DescrTab2](https://cran.r-project.org/web/packages/DescrTab2/index.html): Publication Quality Descriptive Statistics Tables
 * [DescTools](https://cran.r-project.org/web/packages/DescTools/index.html): Tools for Descriptive Statistics
@@ -458,7 +459,7 @@
 * [ggtree](https://www.bioconductor.org/packages/release/bioc/html/ggtree.html): an R package for visualization of tree and annotation data
 * [ggtreeExtra](https://bioconductor.org/packages/release/bioc/html/ggtreeExtra.html): An R Package To Add Geometric Layers On Circular Or Other Layout Tree Of "ggtree"
 * [ggtrendline](https://cran.r-project.org/web/packages/ggtrendline/index.html): Add Trendline and Confidence Interval to 'ggplot'
-* [sajuukLyu/ggunchull](https://github.com/sajuukLyu/ggunchull): A ggplot extension for drawing smooth non-convex circles around a set of points.
+* [ggunchull](https://github.com/sajuukLyu/ggunchull): A ggplot extension for drawing smooth non-convex circles around a set of points.
 * [ggupset](https://github.com/const-ae/ggupset): Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * [ggvenn](https://cran.r-project.org/web/packages/ggvenn/index.html): Draw Venn Diagram by 'ggplot2'
 * [ggVennDiagram](https://cran.r-project.org/web/packages/ggVennDiagram/index.html): A 'ggplot2' Implement of Venn Diagram
@@ -479,6 +480,7 @@
 * [GOSemSim](https://bioconductor.org/packages/release/bioc/html/GOSemSim.html): GO-terms Semantic Similarity Measures
 * [gplots](https://cran.r-project.org/web/packages/gplots/index.html): Various R Programming Tools for Plotting Data
 * [gprofiler2](https://cran.r-project.org/web/packages/gprofiler2/index.html): Interface to the 'g:Profiler' Toolset
+* [GPSAdb](https://gpsadb.gzdlab.com/): 基因扰动转录组图谱
 * [GPTCelltype](https://github.com/Winnie09/GPTCelltype?tab=readme-ov-file): Automatic cell type annotation with GPT-4
 * [gptchatteR](https://github.com/isinaltinkaya/gptchatteR): An experimental and unofficial wrapper for interacting with ChatGPT in R.
 * [grafify](https://github.com/ashenoy-cmbi/grafify): Easy grafs, ANOVAs and posthoc comparisons.
@@ -1571,3 +1573,7 @@
 * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file): Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [LXLTX-nsfc_writer](https://github.com/lxltx2025/LXLTX-nsfc_writer): Build Your Own Local AI-Powered NSFC Proposal Writing Assistant
 * [HumanBase: data-driven predictions of gene function and interactions](https://hb.flatironinstitute.org/)
+
+# 队列研究
+
+* [国内有哪些队列研究项目？这份清单值得收藏](https://mp.weixin.qq.com/s/3o0jzqJ-zdQsJMyicWt2fw)
