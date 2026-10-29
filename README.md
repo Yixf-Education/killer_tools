@@ -52,6 +52,7 @@
 * [aPCoA](https://cran.r-project.org/web/packages/aPCoA/index.html): Covariate Adjusted PCoA Plot
 * [aplot](https://cran.r-project.org/web/packages/aplot/index.html): Decorate a 'ggplot' with Associated Information
 * [archive](https://cran.r-project.org/web/packages/archive/index.html): Multi-Format Archive and Compression Support
+* [Artifacts · arc-virtual-cell-atlas](https://lamin.ai/laminlabs/arc-virtual-cell-atlas/artifacts)
 * [arules](https://cran.r-project.org/web/packages/arules/index.html): Mining Association Rules and Frequent Itemsets
 * [arulesViz](https://cran.r-project.org/web/packages/arulesViz/index.html): Visualizing Association Rules and Frequent Itemsets
 * [autoGO](https://cran.r-project.org/web/packages/autoGO/index.html): Reproducible, Robust and High Quality Ontology Enrichment Visualizations
