@@ -494,6 +494,7 @@
 * [gson](https://cran.r-project.org/web/packages/gson/index.html): Base Class and Methods for 'gson' Format
 * [GSVA](https://www.bioconductor.org/packages/release/bioc/html/GSVA.html): Gene Set Variation Analysis for microarray and RNA-seq data
 * [gt](https://cran.r-project.org/web/packages/gt/index.html): Easily Create Presentation-Ready Display Tables
+* [GTBAdb](http://guotosky.vip:13838/GTBA/): Guilt By Association Analysis
 * [gtguides](https://github.com/teunbrand/gtguides): provide additional guides for the ‘ggplot2’ package representing tables constructed with the ‘gt’ package
 * [gtreg](https://cran.r-project.org/web/packages/gtreg/index.html): Regulatory Tables for Clinical Research
 * [gtsummary](https://cran.r-project.org/web/packages/gtsummary/index.html): Presentation-Ready Data Summary and Analytic Result Tables
@@ -506,6 +507,7 @@
 ### H
 
 * [h2o](https://cran.r-project.org/web/packages/h2o/index.html): R Interface for the 'H2O' Scalable Machine Learning Platform
+* [HCA Data Portal](https://data.humancellatlas.org/)
 * [hchinamap](https://cran.r-project.org/web/packages/hchinamap/index.html): Mapping China and Its Provinces
 * [HCMI Explorer Suite](https://appshare.cancer.gov/HCMI_Explorer_Suite/):  This Shiny app provides comprehensive tools for exploring HCMI models with three main modules: Clinical, Genomic, and Celligner.
 * [hdrcde](https://cran.r-project.org/web/packages/hdrcde/index.html): Highest Density Regions and Conditional Density Estimation
@@ -865,6 +867,7 @@
 * [scCancer](https://github.com/wguo-research/scCancer): A package for automated processing of single cell RNA-seq data in cancer
 * [scct-db](http://scctdb.ncpsb.org.cn/home): scCT-DB is a unique, interactive, user-friendly, and comprehensive data resource for basic and clinical researchers to access, integrate, and reuse cancer patient-derived paired pre- and post-treatment single-cell transcriptomic data, mainly facilitating drug perturbation and drug resistance mechanism elucidation at the single-cell resolution.
 * [scCustomize](https://cran.r-project.org/web/packages/scCustomize/index.html): Custom Visualizations & Functions for Streamlined Analyses of Single Cell Sequencing
+* [scDblFinder](https://bioconductor.org/packages/release/bioc/html/scDblFinder.html): The scDblFinder package gathers various methods for the detection and handling of doublets/multiplets in single-cell sequencing data (i.e. multiple cells captured within the same droplet or reaction volume). It includes methods formerly found in the scran package, the new fast and comprehensive scDblFinder method, and a reimplementation of the Amulet detection method for single-cell ATAC-seq.
 * [scDiffCom](https://cran.rstudio.com/web/packages/scDiffCom/index.html): Differential Analysis of Intercellular Communication from scRNA-Seq Data
 * [scDotPlot](https://www.bioconductor.org/packages/release/bioc/html/scDotPlot.html): Cluster a Single-cell RNA-seq Dot Plot
 * [scDown](https://github.com/BCH-RC/scDown): a pipeline for scRNASeq downstream analysis
