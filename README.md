@@ -654,6 +654,7 @@
 * [MultiModalGraphics](https://github.com/famanalytics0/MultiModalGraphics): A unified R/Bioconductor package for creating publication-quality volcano plots and custom heatmaps from diverse biological data sources.****
 * [multiROC](https://cran.r-project.org/web/packages/multiROC/index.html): Calculating and Visualizing ROC and PR Curves Across Multi-Class Classifications
 * [musicatk](https://bioconductor.org/packages/release/bioc/html/musicatk.html): Mutational Signature Comprehensive Analysis Toolkit
+* [myownrobs](https://cran.r-project.org/web/packages/myownrobs/index.html): AI Coding Agent for 'RStudio'
 
 ### N
 
