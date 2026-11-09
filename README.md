@@ -522,6 +522,7 @@
 * [HPAanalyze](https://www.bioconductor.org/packages/release/bioc/html/HPAanalyze.html): Retrieve and analyze data from the Human Protein Atlas
 * [hrbrthemes](https://cran.r-project.org/web/packages/hrbrthemes/index.html): Additional Themes, Theme Components and Utilities for 'ggplot2'
 * [httr](https://cran.r-project.org/web/packages/httr/index.html): Tools for Working with URLs and HTTP
+* [HuBMAP](https://portal.hubmapconsortium.org/): Human BioMolecular Atlas Program Data Portal, Explore Healthy Human Single-Cell and Spatial Data, An open-source platform to discover standardized organ, cell type, gene, and tissue data across the human body.
 * [huxtable](https://cran.r-project.org/web/packages/huxtable/index.html): Easily Create and Style Tables for LaTeX, HTML and Other Formats
 
 ### I
