@@ -797,6 +797,7 @@
 * [reactablefmtr](https://kcuilla.github.io/reactablefmtr/index.html): The {reactablefmtr} package streamlines and enhances the styling and formatting of tables built with the {reactable} **R** package. The {reactablefmtr} package provides many conditional formatters that are highly customizable and easy to use.
 * [recall](https://github.com/lcrawlab/recall): Calibrated clustering with artificial variables to avoid over-clustering in single-cell RNA-sequencing
 * [recipes](https://cran.r-project.org/web/packages/recipes/index.html): Preprocessing Tools to Create Design Matrices
+* [RedeR](https://www.bioconductor.org/packages/3.23/bioc/html/RedeR.html): Interactive visualization and manipulation of nested networks
 * [refdb](https://cran.r-project.org/web/packages/refdb/index.html): A DNA Reference Library Manager
 * [regexplain](https://github.com/gadenbuie/regexplain): 🔍 An RStudio addin slash regex utility belt
 * [regplot](https://cran.r-project.org/web/packages/regplot/index.html): Enhanced Regression Nomogram Plot
